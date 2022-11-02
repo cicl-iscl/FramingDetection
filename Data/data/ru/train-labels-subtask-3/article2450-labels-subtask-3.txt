@@ -1,0 +1,16 @@
+2450	1	Questioning_the_Reputation
+2450	3	Consequential_Oversimplification,Doubt,Loaded_Language,Name_Calling-Labeling
+2450	5	Name_Calling-Labeling
+2450	7	Appeal_to_Hypocrisy,Causal_Oversimplification,Exaggeration-Minimisation,Flag_Waving,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+2450	9	Name_Calling-Labeling,Questioning_the_Reputation
+2450	11	Name_Calling-Labeling
+2450	13	
+2450	15	Loaded_Language
+2450	17	Exaggeration-Minimisation,Guilt_by_Association,Loaded_Language,Questioning_the_Reputation
+2450	19	Doubt,Loaded_Language,Questioning_the_Reputation
+2450	21	Questioning_the_Reputation
+2450	23	
+2450	25	Doubt,Loaded_Language,Questioning_the_Reputation
+2450	27	
+2450	29	Doubt
+2450	31	Doubt,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation,Repetition

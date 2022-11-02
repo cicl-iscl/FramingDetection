@@ -1,0 +1,29 @@
+707451080	1	
+707451080	3	
+707451080	4	Loaded_Language
+707451080	5	Appeal_to_Fear-Prejudice,Flag_Waving,Loaded_Language,Name_Calling-Labeling
+707451080	6	
+707451080	7	Loaded_Language,Slogans
+707451080	8	Flag_Waving
+707451080	9	Appeal_to_Fear-Prejudice
+707451080	10	
+707451080	11	Loaded_Language
+707451080	12	
+707451080	13	
+707451080	14	
+707451080	15	
+707451080	16	Loaded_Language
+707451080	17	
+707451080	18	
+707451080	19	Flag_Waving
+707451080	20	
+707451080	21	Repetition
+707451080	22	Name_Calling-Labeling
+707451080	23	Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling
+707451080	24	
+707451080	25	
+707451080	26	
+707451080	27	Flag_Waving,Loaded_Language
+707451080	28	Appeal_to_Fear-Prejudice
+707451080	29	
+707451080	30	

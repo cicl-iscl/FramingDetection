@@ -1,0 +1,7 @@
+26162	1	
+26162	3	Appeal_to_Authority,Appeal_to_Fear-Prejudice,Appeal_to_Popularity
+26162	5	
+26162	7	Appeal_to_Authority
+26162	9	Loaded_Language
+26162	11	
+26162	13	

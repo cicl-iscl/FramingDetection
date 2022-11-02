@@ -1,0 +1,20 @@
+2323	1	Doubt
+2323	3	Appeal_to_Fear-Prejudice,Obfuscation-Vagueness-Confusion
+2323	5	Obfuscation-Vagueness-Confusion
+2323	7	Exaggeration-Minimisation
+2323	9	False_Dilemma-No_Choice,Loaded_Language
+2323	11	Exaggeration-Minimisation
+2323	12	Guilt_by_Association
+2323	14	Appeal_to_Authority,Obfuscation-Vagueness-Confusion
+2323	16	Obfuscation-Vagueness-Confusion
+2323	18	Loaded_Language,Name_Calling-Labeling,Obfuscation-Vagueness-Confusion
+2323	20	Conversation_Killer
+2323	22	Loaded_Language,Whataboutism
+2323	24	False_Dilemma-No_Choice
+2323	26	Causal_Oversimplification,Loaded_Language,Obfuscation-Vagueness-Confusion,Questioning_the_Reputation
+2323	28	
+2323	30	Loaded_Language,Name_Calling-Labeling,Obfuscation-Vagueness-Confusion,Whataboutism
+2323	32	Name_Calling-Labeling,Obfuscation-Vagueness-Confusion
+2323	34	Exaggeration-Minimisation,Loaded_Language
+2323	36	Conversation_Killer,Loaded_Language
+2323	38	Conversation_Killer,Exaggeration-Minimisation,Straw_Man

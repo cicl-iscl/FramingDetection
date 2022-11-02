@@ -1,0 +1,12 @@
+24151	1	
+24151	3	
+24151	5	Loaded_Language
+24151	7	
+24151	9	
+24151	11	Appeal_to_Hypocrisy
+24151	13	
+24151	15	
+24151	17	Appeal_to_Hypocrisy
+24151	19	Appeal_to_Values
+24151	21	Appeal_to_Hypocrisy
+24151	23	Appeal_to_Hypocrisy,Loaded_Language

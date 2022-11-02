@@ -1,0 +1,10 @@
+25184	1	Loaded_Language,Questioning_the_Reputation
+25184	3	Appeal_to_Hypocrisy
+25184	5	
+25184	7	Doubt
+25184	9	
+25184	11	Loaded_Language,Questioning_the_Reputation
+25184	13	Appeal_to_Hypocrisy,Conversation_Killer
+25184	15	Appeal_to_Hypocrisy,Exaggeration-Minimisation,Loaded_Language,Questioning_the_Reputation,Repetition
+25184	17	Appeal_to_Fear-Prejudice,Consequential_Oversimplification
+25184	19	Appeal_to_Fear-Prejudice,Consequential_Oversimplification,Exaggeration-Minimisation,Guilt_by_Association,Repetition

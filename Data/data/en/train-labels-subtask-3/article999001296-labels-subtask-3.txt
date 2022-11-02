@@ -1,0 +1,19 @@
+999001296	1	
+999001296	3	Exaggeration-Minimisation,Flag_Waving,Loaded_Language,Name_Calling-Labeling
+999001296	4	
+999001296	5	
+999001296	6	
+999001296	7	
+999001296	8	
+999001296	9	
+999001296	10	
+999001296	11	
+999001296	12	
+999001296	13	Doubt,Loaded_Language,Name_Calling-Labeling
+999001296	14	
+999001296	15	Appeal_to_Authority
+999001296	16	Appeal_to_Authority
+999001296	17	Loaded_Language
+999001296	18	
+999001296	19	
+999001296	20	Whataboutism

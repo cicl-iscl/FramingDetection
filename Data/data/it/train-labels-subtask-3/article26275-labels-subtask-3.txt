@@ -1,0 +1,7 @@
+26275	1	Loaded_Language,Name_Calling-Labeling
+26275	3	Conversation_Killer,Doubt,Loaded_Language,Name_Calling-Labeling
+26275	5	Loaded_Language,Name_Calling-Labeling
+26275	7	Appeal_to_Fear-Prejudice,Doubt,Loaded_Language,Name_Calling-Labeling
+26275	9	
+26275	11	Doubt,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+26275	13	Appeal_to_Hypocrisy,Doubt,Loaded_Language

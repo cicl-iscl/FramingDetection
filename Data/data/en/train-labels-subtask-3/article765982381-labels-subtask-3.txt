@@ -1,0 +1,19 @@
+765982381	1	
+765982381	3	Exaggeration-Minimisation,Name_Calling-Labeling
+765982381	4	Doubt,Loaded_Language,Repetition
+765982381	5	
+765982381	6	Loaded_Language
+765982381	7	Doubt
+765982381	8	Causal_Oversimplification,Exaggeration-Minimisation,Loaded_Language
+765982381	9	
+765982381	10	Doubt,Guilt_by_Association,Loaded_Language,Name_Calling-Labeling
+765982381	11	
+765982381	12	Appeal_to_Hypocrisy,Exaggeration-Minimisation,Loaded_Language
+765982381	13	
+765982381	14	Name_Calling-Labeling
+765982381	15	Doubt,Loaded_Language
+765982381	16	Name_Calling-Labeling
+765982381	17	
+765982381	18	Conversation_Killer,Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling,Repetition,Slogans
+765982381	19	
+765982381	20	

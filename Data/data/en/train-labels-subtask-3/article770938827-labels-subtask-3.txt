@@ -1,0 +1,9 @@
+770938827	1	Name_Calling-Labeling
+770938827	3	Causal_Oversimplification,Exaggeration-Minimisation,Loaded_Language
+770938827	4	
+770938827	5	Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling
+770938827	6	
+770938827	7	False_Dilemma-No_Choice
+770938827	8	Loaded_Language,Repetition
+770938827	9	Name_Calling-Labeling
+770938827	10	Flag_Waving,Loaded_Language

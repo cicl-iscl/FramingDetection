@@ -1,0 +1,13 @@
+765029945	1	
+765029945	3	
+765029945	4	False_Dilemma-No_Choice,Name_Calling-Labeling
+765029945	5	Guilt_by_Association
+765029945	6	Appeal_to_Fear-Prejudice,Guilt_by_Association
+765029945	7	
+765029945	8	Loaded_Language,Repetition
+765029945	9	
+765029945	10	Repetition
+765029945	11	Appeal_to_Fear-Prejudice,Repetition
+765029945	12	
+765029945	13	Appeal_to_Fear-Prejudice,Repetition
+765029945	14	Appeal_to_Fear-Prejudice,Causal_Oversimplification,Exaggeration-Minimisation,Loaded_Language

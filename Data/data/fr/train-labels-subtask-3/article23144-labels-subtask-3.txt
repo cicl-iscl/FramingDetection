@@ -1,0 +1,19 @@
+23144	1	
+23144	3	Loaded_Language
+23144	5	Appeal_to_Fear-Prejudice,Appeal_to_Hypocrisy,Appeal_to_Values,Exaggeration-Minimisation,Flag_Waving,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation,Straw_Man
+23144	7	
+23144	9	Conversation_Killer,Slogans
+23144	11	Guilt_by_Association
+23144	13	Doubt,Exaggeration-Minimisation,Loaded_Language,Repetition,Whataboutism
+23144	15	Conversation_Killer,Questioning_the_Reputation
+23144	17	
+23144	19	Straw_Man
+23144	21	Conversation_Killer
+23144	23	Loaded_Language
+23144	25	Repetition
+23144	27	Appeal_to_Hypocrisy,Loaded_Language,Repetition
+23144	29	Appeal_to_Hypocrisy,Loaded_Language,Questioning_the_Reputation
+23144	31	Appeal_to_Hypocrisy,Repetition
+23144	33	Appeal_to_Hypocrisy,Consequential_Oversimplification,Loaded_Language
+23144	35	Guilt_by_Association,Loaded_Language,Questioning_the_Reputation
+23144	37	Appeal_to_Time

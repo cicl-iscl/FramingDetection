@@ -1,0 +1,9 @@
+741655444	1	
+741655444	3	
+741655444	4	
+741655444	5	Appeal_to_Fear-Prejudice,Repetition
+741655444	6	Doubt,Exaggeration-Minimisation
+741655444	7	
+741655444	8	Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling
+741655444	9	
+741655444	10	Loaded_Language

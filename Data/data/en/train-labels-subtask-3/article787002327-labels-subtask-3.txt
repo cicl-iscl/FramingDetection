@@ -1,0 +1,18 @@
+787002327	1	
+787002327	3	Loaded_Language,Name_Calling-Labeling
+787002327	4	Loaded_Language
+787002327	5	Causal_Oversimplification
+787002327	6	Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling
+787002327	7	Causal_Oversimplification,Name_Calling-Labeling
+787002327	8	Name_Calling-Labeling
+787002327	9	Causal_Oversimplification,Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling
+787002327	10	Doubt,Exaggeration-Minimisation,Guilt_by_Association,Loaded_Language
+787002327	11	Name_Calling-Labeling
+787002327	12	Loaded_Language,Name_Calling-Labeling,Repetition
+787002327	13	Loaded_Language,Name_Calling-Labeling
+787002327	14	Exaggeration-Minimisation,Flag_Waving,Loaded_Language,Name_Calling-Labeling
+787002327	15	Loaded_Language,Name_Calling-Labeling
+787002327	16	Flag_Waving,Guilt_by_Association,Loaded_Language
+787002327	17	Appeal_to_Fear-Prejudice,Guilt_by_Association,Loaded_Language,Name_Calling-Labeling
+787002327	18	Flag_Waving
+787002327	19	

@@ -1,0 +1,7 @@
+253	1	Loaded_Language
+253	3	Loaded_Language
+253	5	Appeal_to_Values,False_Dilemma-No_Choice,Loaded_Language,Name_Calling-Labeling
+253	7	Appeal_to_Values
+253	9	Causal_Oversimplification,Loaded_Language
+253	11	Conversation_Killer,Loaded_Language
+253	13	Loaded_Language

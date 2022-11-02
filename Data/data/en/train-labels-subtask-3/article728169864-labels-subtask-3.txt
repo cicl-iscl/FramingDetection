@@ -1,0 +1,19 @@
+728169864	1	Name_Calling-Labeling
+728169864	3	Loaded_Language
+728169864	4	
+728169864	5	
+728169864	6	Name_Calling-Labeling
+728169864	7	
+728169864	8	Loaded_Language,Name_Calling-Labeling
+728169864	9	Doubt
+728169864	10	Name_Calling-Labeling
+728169864	11	
+728169864	12	
+728169864	13	Loaded_Language
+728169864	14	
+728169864	15	
+728169864	16	Name_Calling-Labeling
+728169864	17	Loaded_Language,Slogans
+728169864	18	
+728169864	19	False_Dilemma-No_Choice
+728169864	20	

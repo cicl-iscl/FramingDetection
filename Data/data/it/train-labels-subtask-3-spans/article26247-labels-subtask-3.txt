@@ -1,0 +1,5 @@
+26247	Appeal_to_Authority	40	62
+26247	Doubt	2036	2105
+26247	Questioning_the_Reputation	111	180
+26247	Doubt	3027	3062
+26247	Questioning_the_Reputation	0	38

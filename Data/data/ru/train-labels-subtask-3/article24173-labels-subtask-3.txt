@@ -1,0 +1,5 @@
+24173	1	Loaded_Language
+24173	2	
+24173	4	Loaded_Language,Questioning_the_Reputation
+24173	6	Name_Calling-Labeling,Slogans
+24173	8	

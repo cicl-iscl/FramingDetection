@@ -1,0 +1,47 @@
+2487	1	
+2487	3	Exaggeration-Minimisation
+2487	4	
+2487	7	
+2487	9	
+2487	11	Doubt
+2487	13	Exaggeration-Minimisation
+2487	15	
+2487	17	
+2487	19	
+2487	21	
+2487	23	
+2487	25	
+2487	27	
+2487	30	
+2487	32	
+2487	34	Loaded_Language
+2487	36	
+2487	38	
+2487	40	
+2487	42	
+2487	44	
+2487	46	
+2487	48	
+2487	50	
+2487	52	
+2487	54	
+2487	56	
+2487	58	
+2487	60	
+2487	62	
+2487	64	Doubt
+2487	66	
+2487	68	
+2487	70	
+2487	72	
+2487	74	
+2487	76	
+2487	78	
+2487	80	Appeal_to_Hypocrisy,Loaded_Language
+2487	82	Loaded_Language
+2487	84	
+2487	86	Doubt
+2487	88	Questioning_the_Reputation
+2487	90	
+2487	92	Questioning_the_Reputation
+2487	94	

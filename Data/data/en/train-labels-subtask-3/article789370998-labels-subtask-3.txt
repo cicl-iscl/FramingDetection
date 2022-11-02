@@ -1,0 +1,18 @@
+789370998	1	Name_Calling-Labeling
+789370998	3	Loaded_Language
+789370998	4	Doubt
+789370998	5	Loaded_Language
+789370998	6	
+789370998	7	Exaggeration-Minimisation,Name_Calling-Labeling
+789370998	8	
+789370998	9	
+789370998	10	Loaded_Language
+789370998	11	
+789370998	12	
+789370998	13	Name_Calling-Labeling
+789370998	14	
+789370998	15	
+789370998	16	
+789370998	17	Exaggeration-Minimisation,Loaded_Language
+789370998	18	
+789370998	19	

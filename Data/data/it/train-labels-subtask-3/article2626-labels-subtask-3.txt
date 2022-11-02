@@ -1,0 +1,3 @@
+2626	1	Appeal_to_Popularity,Doubt,Loaded_Language
+2626	3	Appeal_to_Popularity,Doubt,Loaded_Language,Straw_Man
+2626	5	Doubt

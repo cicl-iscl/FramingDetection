@@ -1,0 +1,12 @@
+26155	1	Loaded_Language,Name_Calling-Labeling
+26155	3	Appeal_to_Time,Loaded_Language,Questioning_the_Reputation
+26155	5	
+26155	7	Loaded_Language
+26155	9	Slogans
+26155	11	Exaggeration-Minimisation,Loaded_Language
+26155	13	
+26155	15	
+26155	17	
+26155	19	Appeal_to_Authority,Appeal_to_Values
+26155	21	Appeal_to_Values,Loaded_Language,Name_Calling-Labeling
+26155	23	

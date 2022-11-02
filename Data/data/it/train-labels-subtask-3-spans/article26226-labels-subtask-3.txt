@@ -1,0 +1,4 @@
+26226	Appeal_to_Values	19	63
+26226	Appeal_to_Values	69	175
+26226	Appeal_to_Values	178	244
+26226	Appeal_to_Values	358	457

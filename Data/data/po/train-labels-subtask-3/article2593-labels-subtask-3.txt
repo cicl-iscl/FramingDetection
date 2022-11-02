@@ -1,0 +1,22 @@
+2593	1	
+2593	3	
+2593	5	
+2593	7	Conversation_Killer
+2593	9	Appeal_to_Popularity,Conversation_Killer,Doubt,Guilt_by_Association,Loaded_Language,Name_Calling-Labeling
+2593	12	
+2593	14	Appeal_to_Popularity
+2593	16	Appeal_to_Fear-Prejudice
+2593	19	Appeal_to_Values,Loaded_Language,Name_Calling-Labeling
+2593	22	Appeal_to_Fear-Prejudice,Flag_Waving,Name_Calling-Labeling
+2593	24	Name_Calling-Labeling
+2593	26	Appeal_to_Popularity
+2593	28	Appeal_to_Hypocrisy
+2593	30	Exaggeration-Minimisation
+2593	32	Flag_Waving
+2593	34	Conversation_Killer,Flag_Waving
+2593	36	
+2593	38	Flag_Waving
+2593	40	Flag_Waving
+2593	42	Doubt,Loaded_Language,Name_Calling-Labeling
+2593	45	Flag_Waving
+2593	47	Appeal_to_Values,Loaded_Language

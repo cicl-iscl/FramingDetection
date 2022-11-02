@@ -1,0 +1,6 @@
+234	1	Appeal_to_Hypocrisy
+234	3	Doubt
+234	5	Appeal_to_Authority,Exaggeration-Minimisation,Straw_Man
+234	7	Loaded_Language
+234	8	Appeal_to_Hypocrisy
+234	10	

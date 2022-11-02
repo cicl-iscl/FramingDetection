@@ -1,0 +1,21 @@
+770156173	1	Slogans
+770156173	3	Loaded_Language
+770156173	4	
+770156173	5	
+770156173	6	Appeal_to_Fear-Prejudice,Repetition
+770156173	7	
+770156173	8	Appeal_to_Fear-Prejudice,Loaded_Language
+770156173	9	
+770156173	10	Exaggeration-Minimisation,Loaded_Language,Repetition
+770156173	11	Loaded_Language,Name_Calling-Labeling
+770156173	12	Appeal_to_Fear-Prejudice,Flag_Waving,Loaded_Language,Repetition
+770156173	13	Loaded_Language
+770156173	14	Appeal_to_Hypocrisy,Loaded_Language,Name_Calling-Labeling
+770156173	15	
+770156173	16	Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling,Repetition
+770156173	17	Loaded_Language,Repetition
+770156173	18	Repetition
+770156173	19	
+770156173	20	Loaded_Language
+770156173	21	Name_Calling-Labeling
+770156173	22	

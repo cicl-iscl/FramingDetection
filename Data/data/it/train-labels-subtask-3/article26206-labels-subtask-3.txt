@@ -1,0 +1,35 @@
+26206	1	
+26206	3	Doubt,Loaded_Language
+26206	5	Conversation_Killer,Doubt,Loaded_Language,Questioning_the_Reputation
+26206	7	Doubt,Loaded_Language
+26206	9	Doubt,Obfuscation-Vagueness-Confusion,Questioning_the_Reputation
+26206	11	Doubt,Loaded_Language
+26206	13	Doubt,Loaded_Language
+26206	15	
+26206	17	Doubt,Loaded_Language
+26206	19	
+26206	21	
+26206	23	Name_Calling-Labeling
+26206	25	
+26206	27	Appeal_to_Popularity,Conversation_Killer,Doubt,Loaded_Language
+26206	29	Doubt
+26206	31	Doubt,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+26206	33	Doubt,Guilt_by_Association,Loaded_Language,Name_Calling-Labeling
+26206	35	
+26206	37	Loaded_Language
+26206	39	
+26206	41	
+26206	43	
+26206	45	
+26206	47	
+26206	49	
+26206	51	
+26206	53	
+26206	55	
+26206	57	
+26206	59	
+26206	61	Doubt
+26206	63	
+26206	65	Doubt
+26206	67	Appeal_to_Time,Loaded_Language
+26206	69	Doubt,Loaded_Language

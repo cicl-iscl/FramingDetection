@@ -1,0 +1,5 @@
+26180	1	Appeal_to_Time
+26180	3	Appeal_to_Fear-Prejudice,Appeal_to_Time,Conversation_Killer,Doubt,Loaded_Language
+26180	5	Conversation_Killer,Doubt
+26180	7	Appeal_to_Fear-Prejudice,Doubt,Loaded_Language,Questioning_the_Reputation
+26180	9	Appeal_to_Fear-Prejudice,Consequential_Oversimplification,Doubt,Loaded_Language

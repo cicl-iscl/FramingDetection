@@ -1,0 +1,7 @@
+2582	1	
+2582	3	
+2582	5	Appeal_to_Popularity,Name_Calling-Labeling
+2582	7	Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+2582	9	
+2582	11	Guilt_by_Association,Loaded_Language,Name_Calling-Labeling
+2582	13	Guilt_by_Association,Name_Calling-Labeling

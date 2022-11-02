@@ -1,0 +1,9 @@
+771406408	1	Name_Calling-Labeling
+771406408	3	Exaggeration-Minimisation
+771406408	4	Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling,Repetition
+771406408	5	Loaded_Language,Obfuscation-Vagueness-Confusion
+771406408	6	Name_Calling-Labeling,Repetition
+771406408	7	Loaded_Language
+771406408	8	Straw_Man
+771406408	9	Loaded_Language,Repetition
+771406408	10	Loaded_Language

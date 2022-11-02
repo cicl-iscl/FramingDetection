@@ -1,0 +1,10 @@
+26171	1	Doubt,Name_Calling-Labeling
+26171	3	Doubt
+26171	5	Appeal_to_Values,Doubt,Loaded_Language,Questioning_the_Reputation
+26171	7	Loaded_Language
+26171	9	Appeal_to_Authority,Appeal_to_Values,Doubt,Loaded_Language
+26171	11	
+26171	13	Doubt,Loaded_Language,Name_Calling-Labeling
+26171	15	
+26171	17	Conversation_Killer,False_Dilemma-No_Choice,Loaded_Language
+26171	19	Appeal_to_Values,Doubt,Loaded_Language,Name_Calling-Labeling

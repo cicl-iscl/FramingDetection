@@ -1,0 +1,6 @@
+268	Slogans	1255	1317
+268	Appeal_to_Fear-Prejudice	1320	1360
+268	Name_Calling-Labeling	1582	1600
+268	Doubt	1255	1317
+268	Appeal_to_Fear-Prejudice	653	711
+268	Appeal_to_Fear-Prejudice	43	104

@@ -1,0 +1,6 @@
+23133	1	Loaded_Language
+23133	3	
+23133	5	
+23133	7	Loaded_Language
+23133	9	Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling,Slogans
+23133	11	

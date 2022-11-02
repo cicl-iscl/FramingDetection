@@ -1,0 +1,7 @@
+24177	1	
+24177	2	
+24177	4	
+24177	6	Exaggeration-Minimisation,Name_Calling-Labeling
+24177	8	Conversation_Killer,Exaggeration-Minimisation,Flag_Waving,Loaded_Language,Name_Calling-Labeling,Slogans
+24177	10	
+24177	12	Name_Calling-Labeling

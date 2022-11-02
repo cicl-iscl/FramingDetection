@@ -1,0 +1,5 @@
+25169	Questioning_the_Reputation	1182	1265
+25169	Doubt	469	506
+25169	Appeal_to_Hypocrisy	677	779
+25169	Questioning_the_Reputation	1271	1288
+25169	Appeal_to_Hypocrisy	244	411

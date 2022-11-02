@@ -1,0 +1,24 @@
+2695	1	Doubt
+2695	3	Appeal_to_Fear-Prejudice,Appeal_to_Time,Conversation_Killer,Loaded_Language
+2695	5	Appeal_to_Fear-Prejudice,Loaded_Language
+2695	7	Conversation_Killer,Doubt
+2695	9	Loaded_Language
+2695	11	Appeal_to_Hypocrisy,Loaded_Language,Name_Calling-Labeling
+2695	13	Conversation_Killer
+2695	15	Doubt,Exaggeration-Minimisation
+2695	17	Doubt
+2695	19	Guilt_by_Association,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+2695	21	Name_Calling-Labeling
+2695	23	Name_Calling-Labeling
+2695	25	Appeal_to_Hypocrisy,Exaggeration-Minimisation,Loaded_Language,Straw_Man
+2695	27	Name_Calling-Labeling
+2695	29	Loaded_Language,Name_Calling-Labeling
+2695	31	Appeal_to_Hypocrisy
+2695	33	Doubt,Loaded_Language,Name_Calling-Labeling
+2695	35	Loaded_Language
+2695	37	Appeal_to_Hypocrisy
+2695	39	Appeal_to_Hypocrisy
+2695	41	
+2695	43	Appeal_to_Hypocrisy,Name_Calling-Labeling
+2695	45	Doubt,Name_Calling-Labeling
+2695	47	Loaded_Language,Name_Calling-Labeling

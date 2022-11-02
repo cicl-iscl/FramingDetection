@@ -1,0 +1,22 @@
+789512681	1	Name_Calling-Labeling
+789512681	3	Name_Calling-Labeling
+789512681	4	Name_Calling-Labeling
+789512681	5	
+789512681	6	
+789512681	7	
+789512681	8	
+789512681	9	
+789512681	10	
+789512681	11	
+789512681	12	
+789512681	13	
+789512681	14	
+789512681	15	
+789512681	16	
+789512681	17	Name_Calling-Labeling
+789512681	18	
+789512681	19	
+789512681	20	Loaded_Language
+789512681	21	Appeal_to_Fear-Prejudice,Loaded_Language,Name_Calling-Labeling,Repetition,Slogans
+789512681	22	Loaded_Language
+789512681	23	

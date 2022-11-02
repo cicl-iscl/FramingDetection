@@ -1,0 +1,20 @@
+2596	1	Doubt
+2596	3	
+2596	5	Conversation_Killer
+2596	7	
+2596	9	Appeal_to_Popularity
+2596	11	
+2596	13	
+2596	15	
+2596	17	
+2596	19	
+2596	21	
+2596	23	Loaded_Language,Name_Calling-Labeling
+2596	25	
+2596	27	
+2596	29	
+2596	31	Appeal_to_Fear-Prejudice
+2596	33	
+2596	35	Doubt
+2596	37	
+2596	39	Appeal_to_Popularity

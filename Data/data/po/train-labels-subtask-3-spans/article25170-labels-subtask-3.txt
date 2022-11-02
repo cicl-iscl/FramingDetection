@@ -1,0 +1,5 @@
+25170	Appeal_to_Hypocrisy	577	649
+25170	Appeal_to_Hypocrisy	768	973
+25170	Questioning_the_Reputation	53	155
+25170	Name_Calling-Labeling	13	31
+25170	Exaggeration-Minimisation	405	462

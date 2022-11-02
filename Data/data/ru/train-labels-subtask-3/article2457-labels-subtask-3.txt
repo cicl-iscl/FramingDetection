@@ -1,0 +1,11 @@
+2457	1	
+2457	3	
+2457	5	
+2457	6	
+2457	8	
+2457	10	Appeal_to_Hypocrisy,Causal_Oversimplification,Doubt
+2457	12	Causal_Oversimplification,Doubt,Questioning_the_Reputation
+2457	14	
+2457	16	Appeal_to_Hypocrisy,Flag_Waving,Loaded_Language
+2457	18	Appeal_to_Time,Appeal_to_Values,Causal_Oversimplification,Doubt,Questioning_the_Reputation
+2457	20	Consequential_Oversimplification,Repetition

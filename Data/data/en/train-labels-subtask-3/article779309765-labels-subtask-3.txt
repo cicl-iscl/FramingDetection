@@ -1,0 +1,14 @@
+779309765	1	Loaded_Language,Name_Calling-Labeling
+779309765	3	Appeal_to_Hypocrisy,Doubt,Loaded_Language,Repetition
+779309765	4	
+779309765	5	Exaggeration-Minimisation
+779309765	6	Causal_Oversimplification,Name_Calling-Labeling
+779309765	7	
+779309765	8	
+779309765	9	
+779309765	10	
+779309765	11	
+779309765	12	Loaded_Language,Name_Calling-Labeling
+779309765	13	Exaggeration-Minimisation,Name_Calling-Labeling
+779309765	14	Appeal_to_Fear-Prejudice,Appeal_to_Hypocrisy,Causal_Oversimplification,Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling
+779309765	15	

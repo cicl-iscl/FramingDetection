@@ -1,0 +1,22 @@
+758756657	1	
+758756657	3	Causal_Oversimplification,Flag_Waving,Loaded_Language,Slogans
+758756657	4	
+758756657	5	Flag_Waving
+758756657	6	
+758756657	7	
+758756657	8	
+758756657	9	
+758756657	10	
+758756657	11	
+758756657	12	
+758756657	13	Exaggeration-Minimisation,Loaded_Language
+758756657	14	Loaded_Language
+758756657	15	Repetition
+758756657	16	Loaded_Language,Repetition
+758756657	17	
+758756657	18	Appeal_to_Fear-Prejudice
+758756657	19	
+758756657	20	Appeal_to_Fear-Prejudice,Loaded_Language,Repetition
+758756657	21	Doubt
+758756657	22	
+758756657	23	

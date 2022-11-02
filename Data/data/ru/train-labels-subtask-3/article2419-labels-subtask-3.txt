@@ -1,0 +1,9 @@
+2419	1	Conversation_Killer,Loaded_Language,Questioning_the_Reputation
+2419	3	Conversation_Killer,Doubt,False_Dilemma-No_Choice,Loaded_Language,Name_Calling-Labeling
+2419	5	
+2419	7	Doubt
+2419	9	Appeal_to_Fear-Prejudice,Conversation_Killer,Loaded_Language,Repetition
+2419	11	Doubt,Loaded_Language
+2419	13	Appeal_to_Fear-Prejudice,Loaded_Language
+2419	15	Consequential_Oversimplification,Loaded_Language,Straw_Man
+2419	17	Conversation_Killer,Flag_Waving

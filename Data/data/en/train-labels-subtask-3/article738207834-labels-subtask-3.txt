@@ -1,0 +1,69 @@
+738207834	1	
+738207834	3	Loaded_Language
+738207834	4	Loaded_Language
+738207834	5	Loaded_Language
+738207834	6	Doubt,Loaded_Language
+738207834	7	Conversation_Killer,Loaded_Language
+738207834	8	Loaded_Language,Name_Calling-Labeling
+738207834	9	Loaded_Language
+738207834	10	
+738207834	11	Name_Calling-Labeling
+738207834	12	Loaded_Language
+738207834	13	
+738207834	14	
+738207834	15	
+738207834	16	
+738207834	17	
+738207834	18	
+738207834	19	
+738207834	20	
+738207834	21	Loaded_Language
+738207834	22	
+738207834	23	Appeal_to_Fear-Prejudice
+738207834	24	Loaded_Language
+738207834	25	Loaded_Language,Name_Calling-Labeling
+738207834	26	
+738207834	27	Name_Calling-Labeling
+738207834	28	Name_Calling-Labeling
+738207834	29	Loaded_Language,Name_Calling-Labeling
+738207834	30	Name_Calling-Labeling
+738207834	31	
+738207834	32	
+738207834	34	
+738207834	36	Name_Calling-Labeling
+738207834	37	Name_Calling-Labeling
+738207834	38	
+738207834	40	Loaded_Language
+738207834	41	
+738207834	42	Loaded_Language,Name_Calling-Labeling
+738207834	43	Name_Calling-Labeling
+738207834	44	Loaded_Language,Name_Calling-Labeling
+738207834	45	Name_Calling-Labeling
+738207834	46	Name_Calling-Labeling,Repetition
+738207834	47	Name_Calling-Labeling
+738207834	48	
+738207834	49	Name_Calling-Labeling
+738207834	50	
+738207834	51	Loaded_Language,Name_Calling-Labeling
+738207834	52	Name_Calling-Labeling
+738207834	53	
+738207834	54	Name_Calling-Labeling
+738207834	55	Loaded_Language,Name_Calling-Labeling
+738207834	56	Loaded_Language
+738207834	57	Loaded_Language
+738207834	58	
+738207834	59	
+738207834	60	Doubt
+738207834	61	Doubt,Loaded_Language,Name_Calling-Labeling
+738207834	62	Name_Calling-Labeling
+738207834	63	Doubt,Loaded_Language,Name_Calling-Labeling
+738207834	64	
+738207834	65	Name_Calling-Labeling
+738207834	66	Name_Calling-Labeling
+738207834	67	Loaded_Language
+738207834	68	Loaded_Language
+738207834	69	Loaded_Language,Name_Calling-Labeling
+738207834	70	
+738207834	71	Loaded_Language
+738207834	72	Loaded_Language
+738207834	73	Loaded_Language

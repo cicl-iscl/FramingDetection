@@ -1,0 +1,26 @@
+24147	1	Loaded_Language
+24147	3	Loaded_Language
+24147	5	Exaggeration-Minimisation,Loaded_Language
+24147	7	
+24147	9	
+24147	11	
+24147	13	
+24147	15	
+24147	17	Loaded_Language
+24147	19	
+24147	21	Exaggeration-Minimisation
+24147	23	Exaggeration-Minimisation
+24147	25	Exaggeration-Minimisation
+24147	27	
+24147	29	Slogans
+24147	31	Loaded_Language,Obfuscation-Vagueness-Confusion
+24147	33	
+24147	35	
+24147	37	
+24147	39	Questioning_the_Reputation
+24147	41	Appeal_to_Hypocrisy,Conversation_Killer,Doubt,Loaded_Language
+24147	43	Straw_Man
+24147	45	Doubt,Loaded_Language
+24147	47	Loaded_Language,Questioning_the_Reputation
+24147	49	
+24147	51	Appeal_to_Popularity,Doubt

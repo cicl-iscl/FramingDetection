@@ -1,0 +1,18 @@
+2656	1	
+2656	3	Doubt
+2656	5	Appeal_to_Authority
+2656	7	Appeal_to_Fear-Prejudice,Appeal_to_Popularity,Conversation_Killer,Doubt,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+2656	9	Doubt
+2656	11	Appeal_to_Fear-Prejudice,Appeal_to_Popularity,Doubt,Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+2656	13	Doubt,Name_Calling-Labeling
+2656	15	Conversation_Killer,False_Dilemma-No_Choice
+2656	17	Doubt,Name_Calling-Labeling
+2656	19	Appeal_to_Values,Doubt,Loaded_Language,Name_Calling-Labeling
+2656	21	Appeal_to_Fear-Prejudice,Doubt,Loaded_Language
+2656	23	Doubt,Name_Calling-Labeling
+2656	25	Appeal_to_Fear-Prejudice,Conversation_Killer,Doubt,Exaggeration-Minimisation,Loaded_Language
+2656	27	Appeal_to_Fear-Prejudice,Appeal_to_Popularity,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+2656	29	Appeal_to_Fear-Prejudice,Appeal_to_Time,Doubt
+2656	31	Doubt,Loaded_Language,Name_Calling-Labeling
+2656	33	Doubt,Loaded_Language,Questioning_the_Reputation
+2656	35	

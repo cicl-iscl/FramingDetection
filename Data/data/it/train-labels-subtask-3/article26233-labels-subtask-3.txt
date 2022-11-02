@@ -1,0 +1,7 @@
+26233	1	Appeal_to_Values,Loaded_Language,Name_Calling-Labeling
+26233	3	Loaded_Language,Name_Calling-Labeling
+26233	5	Doubt
+26233	7	Loaded_Language,Name_Calling-Labeling
+26233	9	Appeal_to_Values,Doubt,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+26233	11	
+26233	13	Name_Calling-Labeling

@@ -1,0 +1,8 @@
+26209	1	Appeal_to_Fear-Prejudice,Questioning_the_Reputation
+26209	3	
+26209	5	Appeal_to_Fear-Prejudice,Doubt
+26209	7	Doubt
+26209	9	Appeal_to_Fear-Prejudice,Doubt,Exaggeration-Minimisation,Loaded_Language
+26209	11	Appeal_to_Values,Doubt,Loaded_Language,Repetition
+26209	13	Appeal_to_Fear-Prejudice,Doubt
+26209	15	Appeal_to_Fear-Prejudice,Doubt,Loaded_Language

@@ -1,0 +1,36 @@
+26215	1	Appeal_to_Fear-Prejudice
+26215	3	Appeal_to_Fear-Prejudice,Exaggeration-Minimisation,Loaded_Language
+26215	5	
+26215	7	Exaggeration-Minimisation,Loaded_Language
+26215	9	Appeal_to_Fear-Prejudice,Appeal_to_Values,Exaggeration-Minimisation,Loaded_Language
+26215	11	
+26215	13	Appeal_to_Authority,Loaded_Language
+26215	15	Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+26215	17	
+26215	19	Doubt,Loaded_Language
+26215	21	Loaded_Language,Name_Calling-Labeling
+26215	23	Doubt,Loaded_Language
+26215	25	
+26215	27	Appeal_to_Fear-Prejudice,Appeal_to_Time,Exaggeration-Minimisation,Loaded_Language,Questioning_the_Reputation
+26215	29	Doubt,Questioning_the_Reputation
+26215	31	
+26215	33	Doubt,Loaded_Language
+26215	35	Appeal_to_Fear-Prejudice
+26215	37	
+26215	39	Appeal_to_Authority,Appeal_to_Values
+26215	41	
+26215	43	Appeal_to_Fear-Prejudice
+26215	45	
+26215	47	
+26215	49	Appeal_to_Fear-Prejudice,Appeal_to_Time,Appeal_to_Values,Exaggeration-Minimisation,Flag_Waving,Loaded_Language,Name_Calling-Labeling
+26215	51	Appeal_to_Fear-Prejudice,Name_Calling-Labeling,Questioning_the_Reputation
+26215	53	
+26215	55	
+26215	57	
+26215	59	Appeal_to_Fear-Prejudice,Doubt,Loaded_Language
+26215	61	
+26215	63	Appeal_to_Fear-Prejudice,False_Dilemma-No_Choice,Loaded_Language
+26215	65	Appeal_to_Values,Doubt
+26215	67	
+26215	69	Doubt,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+26215	71	

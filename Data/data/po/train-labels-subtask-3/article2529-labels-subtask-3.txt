@@ -1,0 +1,34 @@
+2529	1	
+2529	3	Exaggeration-Minimisation
+2529	5	Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+2529	7	Conversation_Killer,Name_Calling-Labeling
+2529	9	
+2529	11	Guilt_by_Association
+2529	13	Name_Calling-Labeling
+2529	15	
+2529	17	Guilt_by_Association,Loaded_Language,Name_Calling-Labeling
+2529	19	Loaded_Language
+2529	21	Questioning_the_Reputation
+2529	23	Questioning_the_Reputation
+2529	25	Appeal_to_Hypocrisy,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+2529	27	Doubt
+2529	29	Loaded_Language,Name_Calling-Labeling
+2529	31	
+2529	33	
+2529	35	Appeal_to_Authority,Appeal_to_Fear-Prejudice
+2529	37	Guilt_by_Association,Name_Calling-Labeling,Questioning_the_Reputation
+2529	39	Name_Calling-Labeling
+2529	41	
+2529	43	Guilt_by_Association
+2529	45	
+2529	47	
+2529	49	
+2529	51	
+2529	53	Name_Calling-Labeling
+2529	55	Guilt_by_Association,Name_Calling-Labeling
+2529	57	
+2529	59	Name_Calling-Labeling
+2529	61	Appeal_to_Fear-Prejudice,Consequential_Oversimplification,Guilt_by_Association,Name_Calling-Labeling
+2529	63	Appeal_to_Fear-Prejudice,Appeal_to_Hypocrisy,Consequential_Oversimplification
+2529	65	Causal_Oversimplification,Exaggeration-Minimisation,Loaded_Language
+2529	67	Exaggeration-Minimisation

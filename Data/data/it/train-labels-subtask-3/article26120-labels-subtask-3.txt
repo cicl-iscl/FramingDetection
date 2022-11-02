@@ -1,0 +1,18 @@
+26120	1	Slogans
+26120	3	Doubt,Loaded_Language
+26120	5	Appeal_to_Fear-Prejudice,Doubt,Loaded_Language
+26120	7	Doubt,Loaded_Language,Red_Herring
+26120	9	
+26120	11	Doubt
+26120	13	Appeal_to_Fear-Prejudice,Doubt
+26120	15	Consequential_Oversimplification
+26120	17	Doubt
+26120	19	Doubt,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+26120	21	
+26120	23	Slogans
+26120	25	Appeal_to_Values
+26120	27	
+26120	29	Appeal_to_Fear-Prejudice,Doubt,Loaded_Language
+26120	31	Doubt,Loaded_Language
+26120	33	Appeal_to_Fear-Prejudice,Doubt
+26120	35	Conversation_Killer,Doubt,False_Dilemma-No_Choice,Slogans

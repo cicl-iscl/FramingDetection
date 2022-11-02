@@ -1,0 +1,8 @@
+2388	1	
+2388	3	Appeal_to_Hypocrisy,Appeal_to_Values,Conversation_Killer,False_Dilemma-No_Choice,Guilt_by_Association
+2388	5	Exaggeration-Minimisation,Guilt_by_Association,Loaded_Language,Name_Calling-Labeling
+2388	7	
+2388	9	Loaded_Language,Questioning_the_Reputation
+2388	11	Appeal_to_Hypocrisy,Loaded_Language,Obfuscation-Vagueness-Confusion
+2388	13	Conversation_Killer,Loaded_Language,Name_Calling-Labeling
+2388	15	Loaded_Language,Name_Calling-Labeling,Straw_Man

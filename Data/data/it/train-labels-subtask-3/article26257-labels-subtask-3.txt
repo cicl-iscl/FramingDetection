@@ -1,0 +1,6 @@
+26257	1	Name_Calling-Labeling
+26257	3	Name_Calling-Labeling
+26257	5	
+26257	7	Name_Calling-Labeling
+26257	9	Name_Calling-Labeling
+26257	11	Doubt,Loaded_Language,Questioning_the_Reputation

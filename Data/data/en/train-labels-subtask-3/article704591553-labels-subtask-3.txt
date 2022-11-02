@@ -1,0 +1,12 @@
+704591553	1	
+704591553	3	Loaded_Language
+704591553	4	Appeal_to_Fear-Prejudice,Loaded_Language,Name_Calling-Labeling
+704591553	5	Loaded_Language,Name_Calling-Labeling
+704591553	6	Loaded_Language,Name_Calling-Labeling
+704591553	7	Appeal_to_Fear-Prejudice,Doubt
+704591553	8	Loaded_Language,Slogans
+704591553	9	Guilt_by_Association,Loaded_Language
+704591553	10	Exaggeration-Minimisation,Name_Calling-Labeling,Repetition
+704591553	11	Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling
+704591553	12	Loaded_Language,Name_Calling-Labeling
+704591553	13	Doubt

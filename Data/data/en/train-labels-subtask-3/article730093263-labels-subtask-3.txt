@@ -1,0 +1,4 @@
+730093263	1	
+730093263	3	Red_Herring
+730093263	4	Flag_Waving
+730093263	5	Appeal_to_Hypocrisy,Loaded_Language,Red_Herring

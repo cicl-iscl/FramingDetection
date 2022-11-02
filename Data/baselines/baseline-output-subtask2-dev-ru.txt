@@ -1,0 +1,48 @@
+24157	
+24156	
+24140	
+24154	Security_and_defense
+24183	
+24141	
+24169	
+24186	
+2414	Security_and_defense
+24185	
+24135	
+2498	Security_and_defense
+2473	
+2459	Economic,Political
+24126	
+24127	External_regulation_and_reputation,Fairness_and_equality,Political,Public_opinion
+247	
+2475	
+2461	
+24118	Political
+24124	Security_and_defense
+24130	
+24100	Economic,Security_and_defense
+24102	Political
+24116	Health_and_safety
+24117	
+2492	Economic,Political
+2479	Economic
+2469	
+2455	
+2482	Capacity_and_resources,Economic,Quality_of_life
+2496	
+24112	Political
+24106	
+2456	Economic,Quality_of_life
+2495	
+24138	Security_and_defense
+2494	
+24176	
+24162	Security_and_defense
+24189	
+2433	Security_and_defense
+24160	
+24158	
+24171	
+2437	Political
+2423	Security_and_defense
+24166	Economic

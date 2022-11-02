@@ -1,0 +1,14 @@
+2566	1	Doubt,Name_Calling-Labeling
+2566	3	Doubt,Name_Calling-Labeling
+2566	5	Doubt,Name_Calling-Labeling
+2566	7	Doubt
+2566	9	Appeal_to_Hypocrisy,Exaggeration-Minimisation,Flag_Waving,Loaded_Language,Name_Calling-Labeling
+2566	11	
+2566	12	
+2566	14	Appeal_to_Hypocrisy,Guilt_by_Association,Name_Calling-Labeling
+2566	16	Loaded_Language,Name_Calling-Labeling
+2566	18	Appeal_to_Hypocrisy,Name_Calling-Labeling
+2566	19	Doubt
+2566	21	Appeal_to_Hypocrisy,Doubt,Exaggeration-Minimisation
+2566	23	Appeal_to_Hypocrisy,Doubt,Name_Calling-Labeling
+2566	25	Doubt,Name_Calling-Labeling

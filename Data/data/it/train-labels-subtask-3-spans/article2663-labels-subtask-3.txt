@@ -1,0 +1,7 @@
+2663	Name_Calling-Labeling	246	252
+2663	Conversation_Killer	479	535
+2663	Loaded_Language	230	252
+2663	Loaded_Language	421	453
+2663	False_Dilemma-No_Choice	478	537
+2663	Appeal_to_Popularity	351	477
+2663	Name_Calling-Labeling	24	29

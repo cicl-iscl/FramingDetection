@@ -1,0 +1,7 @@
+24180	1	
+24180	2	
+24180	4	Loaded_Language
+24180	6	
+24180	8	Name_Calling-Labeling
+24180	10	Appeal_to_Fear-Prejudice
+24180	12	

@@ -1,0 +1,12 @@
+26127	2	
+26127	4	Loaded_Language,Name_Calling-Labeling
+26127	6	
+26127	8	
+26127	10	Conversation_Killer
+26127	12	
+26127	14	Doubt,Exaggeration-Minimisation
+26127	16	Straw_Man
+26127	18	Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation,Red_Herring
+26127	20	Appeal_to_Fear-Prejudice,Causal_Oversimplification
+26127	22	Exaggeration-Minimisation,Name_Calling-Labeling
+26127	24	

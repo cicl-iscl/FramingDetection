@@ -1,0 +1,7 @@
+26288	Appeal_to_Fear-Prejudice	0	62
+26288	Appeal_to_Values	2861	2913
+26288	Loaded_Language	65	95
+26288	Doubt	2140	2358
+26288	Appeal_to_Fear-Prejudice	1677	1753
+26288	Doubt	2037	2137
+26288	Doubt	2915	2966

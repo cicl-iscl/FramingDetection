@@ -1,0 +1,16 @@
+738060046	1	Appeal_to_Hypocrisy
+738060046	3	Appeal_to_Hypocrisy
+738060046	4	
+738060046	5	Appeal_to_Authority
+738060046	6	Appeal_to_Authority
+738060046	7	
+738060046	8	
+738060046	9	Causal_Oversimplification
+738060046	10	Appeal_to_Hypocrisy
+738060046	11	Loaded_Language
+738060046	12	Appeal_to_Fear-Prejudice,False_Dilemma-No_Choice
+738060046	13	Loaded_Language,Name_Calling-Labeling
+738060046	14	
+738060046	15	
+738060046	16	Appeal_to_Hypocrisy
+738060046	17	

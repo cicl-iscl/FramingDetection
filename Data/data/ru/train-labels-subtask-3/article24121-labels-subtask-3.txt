@@ -1,0 +1,6 @@
+24121	1	
+24121	3	
+24121	5	
+24121	7	Loaded_Language,Questioning_the_Reputation
+24121	9	Questioning_the_Reputation
+24121	11	Doubt,Questioning_the_Reputation

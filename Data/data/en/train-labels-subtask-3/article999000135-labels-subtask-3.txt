@@ -1,0 +1,16 @@
+999000135	1	Appeal_to_Fear-Prejudice,Loaded_Language
+999000135	3	Doubt,Loaded_Language
+999000135	4	Exaggeration-Minimisation,Loaded_Language
+999000135	5	Appeal_to_Fear-Prejudice,Exaggeration-Minimisation,Loaded_Language
+999000135	6	
+999000135	7	
+999000135	8	
+999000135	9	
+999000135	10	
+999000135	11	
+999000135	12	Exaggeration-Minimisation,Loaded_Language,Repetition
+999000135	13	Loaded_Language,Repetition
+999000135	14	Loaded_Language
+999000135	15	Loaded_Language
+999000135	16	Causal_Oversimplification,Loaded_Language
+999000135	17	

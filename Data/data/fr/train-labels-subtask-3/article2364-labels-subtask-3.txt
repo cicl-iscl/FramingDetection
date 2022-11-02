@@ -1,0 +1,10 @@
+2364	1	Conversation_Killer,Name_Calling-Labeling
+2364	3	Appeal_to_Hypocrisy,Doubt,Loaded_Language,Name_Calling-Labeling,Repetition,Straw_Man
+2364	5	Conversation_Killer,Doubt,Loaded_Language,Name_Calling-Labeling,Repetition
+2364	7	Doubt,Loaded_Language,Name_Calling-Labeling,Obfuscation-Vagueness-Confusion
+2364	9	Causal_Oversimplification,False_Dilemma-No_Choice,Loaded_Language,Red_Herring
+2364	11	Appeal_to_Hypocrisy,Causal_Oversimplification,Flag_Waving,Guilt_by_Association,Loaded_Language,Questioning_the_Reputation
+2364	13	Appeal_to_Hypocrisy,Doubt,Loaded_Language
+2364	15	Appeal_to_Hypocrisy,Conversation_Killer,Doubt,Loaded_Language,Questioning_the_Reputation,Repetition
+2364	17	Appeal_to_Hypocrisy,Doubt,Exaggeration-Minimisation,Straw_Man
+2364	19	Appeal_to_Authority,Conversation_Killer,Loaded_Language

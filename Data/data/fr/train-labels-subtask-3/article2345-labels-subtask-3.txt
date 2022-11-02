@@ -1,0 +1,17 @@
+2345	1	Exaggeration-Minimisation,Questioning_the_Reputation
+2345	3	
+2345	5	Appeal_to_Hypocrisy
+2345	7	Appeal_to_Hypocrisy
+2345	9	Appeal_to_Hypocrisy
+2345	10	Appeal_to_Hypocrisy
+2345	12	Appeal_to_Fear-Prejudice,Exaggeration-Minimisation,Loaded_Language
+2345	14	Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation,Straw_Man
+2345	16	Appeal_to_Time,Name_Calling-Labeling,Slogans
+2345	18	Name_Calling-Labeling,Repetition
+2345	20	Loaded_Language,Questioning_the_Reputation,Slogans
+2345	22	Appeal_to_Values,Slogans
+2345	24	Conversation_Killer
+2345	26	
+2345	28	Loaded_Language
+2345	30	Appeal_to_Authority,Flag_Waving,Loaded_Language,Questioning_the_Reputation
+2345	32	Flag_Waving,Repetition

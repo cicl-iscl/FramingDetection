@@ -1,0 +1,16 @@
+24109	1	Loaded_Language
+24109	2	
+24109	4	Flag_Waving,Loaded_Language,Slogans
+24109	6	Doubt,Loaded_Language,Questioning_the_Reputation
+24109	8	Doubt,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+24109	10	Appeal_to_Time,Doubt,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+24109	12	Causal_Oversimplification,Questioning_the_Reputation
+24109	14	Appeal_to_Hypocrisy,Doubt,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+24109	16	Doubt,Name_Calling-Labeling,Questioning_the_Reputation
+24109	18	Doubt,Loaded_Language,Name_Calling-Labeling
+24109	20	Appeal_to_Values,Doubt,Loaded_Language,Name_Calling-Labeling
+24109	22	Doubt
+24109	24	Doubt,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+24109	26	Consequential_Oversimplification,Doubt,Loaded_Language
+24109	28	Doubt,Name_Calling-Labeling
+24109	30	Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation

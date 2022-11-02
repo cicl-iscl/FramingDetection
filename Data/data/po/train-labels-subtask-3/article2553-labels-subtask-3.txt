@@ -1,0 +1,11 @@
+2553	1	
+2553	3	Doubt,Loaded_Language,Name_Calling-Labeling
+2553	5	Name_Calling-Labeling
+2553	7	Appeal_to_Fear-Prejudice,Appeal_to_Values,Loaded_Language,Name_Calling-Labeling
+2553	9	Appeal_to_Fear-Prejudice,Loaded_Language,Questioning_the_Reputation
+2553	11	Appeal_to_Hypocrisy,Flag_Waving
+2553	13	Flag_Waving,Name_Calling-Labeling,Questioning_the_Reputation
+2553	15	Flag_Waving
+2553	17	Flag_Waving
+2553	19	Loaded_Language
+2553	21	Appeal_to_Fear-Prejudice,Flag_Waving,Loaded_Language

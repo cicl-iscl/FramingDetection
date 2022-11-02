@@ -1,0 +1,13 @@
+2381	1	
+2381	3	Appeal_to_Popularity,Conversation_Killer,Loaded_Language
+2381	5	Appeal_to_Authority,Conversation_Killer,False_Dilemma-No_Choice
+2381	7	Whataboutism
+2381	9	
+2381	11	
+2381	13	Appeal_to_Hypocrisy,Doubt,Questioning_the_Reputation
+2381	15	Doubt
+2381	17	Straw_Man
+2381	19	Doubt,Obfuscation-Vagueness-Confusion
+2381	21	Doubt,Questioning_the_Reputation
+2381	23	
+2381	25	Guilt_by_Association

@@ -1,0 +1,17 @@
+23102	1	Exaggeration-Minimisation
+23102	3	Appeal_to_Fear-Prejudice,Exaggeration-Minimisation
+23102	5	
+23102	6	
+23102	8	Consequential_Oversimplification
+23102	10	
+23102	12	Exaggeration-Minimisation
+23102	14	Appeal_to_Authority
+23102	15	
+23102	17	
+23102	19	
+23102	21	Appeal_to_Fear-Prejudice
+23102	23	Appeal_to_Fear-Prejudice,Causal_Oversimplification,Exaggeration-Minimisation
+23102	25	
+23102	27	
+23102	29	
+23102	31	

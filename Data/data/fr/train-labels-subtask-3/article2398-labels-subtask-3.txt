@@ -1,0 +1,22 @@
+2398	1	Loaded_Language
+2398	3	Red_Herring
+2398	5	
+2398	7	Appeal_to_Time
+2398	9	Appeal_to_Authority,Doubt,Loaded_Language
+2398	11	Causal_Oversimplification,Doubt
+2398	13	Appeal_to_Fear-Prejudice,Loaded_Language,Name_Calling-Labeling,Straw_Man
+2398	15	Conversation_Killer,Doubt,Slogans
+2398	17	Doubt,Loaded_Language,Questioning_the_Reputation
+2398	19	Doubt,Loaded_Language
+2398	21	Appeal_to_Hypocrisy,Loaded_Language
+2398	23	Doubt,Loaded_Language,Name_Calling-Labeling
+2398	25	Appeal_to_Hypocrisy,Causal_Oversimplification,Doubt,Loaded_Language
+2398	27	Causal_Oversimplification,Loaded_Language,Straw_Man
+2398	29	Appeal_to_Fear-Prejudice,Appeal_to_Popularity,Causal_Oversimplification,Exaggeration-Minimisation,Name_Calling-Labeling,Slogans,Straw_Man
+2398	31	Appeal_to_Fear-Prejudice,Appeal_to_Popularity,Consequential_Oversimplification,Loaded_Language,Name_Calling-Labeling
+2398	33	Appeal_to_Fear-Prejudice,Consequential_Oversimplification,Guilt_by_Association,Loaded_Language,Name_Calling-Labeling
+2398	35	Conversation_Killer,Exaggeration-Minimisation,Loaded_Language
+2398	37	Appeal_to_Popularity,Guilt_by_Association,Loaded_Language,Whataboutism
+2398	39	Appeal_to_Hypocrisy,Consequential_Oversimplification,Guilt_by_Association,Name_Calling-Labeling
+2398	41	Conversation_Killer,Doubt
+2398	43	Appeal_to_Authority,Appeal_to_Values,Conversation_Killer,Whataboutism

@@ -1,0 +1,10 @@
+735815173	1	
+735815173	3	
+735815173	4	
+735815173	5	
+735815173	6	Loaded_Language
+735815173	7	Guilt_by_Association,Repetition
+735815173	8	False_Dilemma-No_Choice
+735815173	9	Conversation_Killer,Guilt_by_Association
+735815173	10	Causal_Oversimplification
+735815173	11	False_Dilemma-No_Choice,Repetition

@@ -1,0 +1,12 @@
+2359	1	
+2359	3	False_Dilemma-No_Choice,Loaded_Language
+2359	5	Appeal_to_Fear-Prejudice,Appeal_to_Hypocrisy,Loaded_Language
+2359	7	Appeal_to_Hypocrisy,Appeal_to_Values,Doubt,Loaded_Language,Questioning_the_Reputation
+2359	9	Appeal_to_Fear-Prejudice,Doubt
+2359	11	Appeal_to_Values,Doubt,Loaded_Language,Name_Calling-Labeling
+2359	13	Exaggeration-Minimisation,Loaded_Language
+2359	15	Loaded_Language
+2359	17	Appeal_to_Fear-Prejudice,Loaded_Language
+2359	19	False_Dilemma-No_Choice,Loaded_Language,Name_Calling-Labeling,Slogans
+2359	21	Appeal_to_Fear-Prejudice,Causal_Oversimplification,False_Dilemma-No_Choice,Loaded_Language,Questioning_the_Reputation
+2359	23	Doubt

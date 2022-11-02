@@ -1,0 +1,21 @@
+111111113	1	
+111111113	3	Causal_Oversimplification,Loaded_Language
+111111113	5	
+111111113	7	
+111111113	9	
+111111113	10	Loaded_Language
+111111113	12	
+111111113	14	
+111111113	15	
+111111113	17	
+111111113	19	Name_Calling-Labeling
+111111113	21	
+111111113	23	Appeal_to_Hypocrisy,Causal_Oversimplification,Loaded_Language
+111111113	25	
+111111113	27	
+111111113	29	Causal_Oversimplification
+111111113	30	
+111111113	32	
+111111113	34	Loaded_Language,Name_Calling-Labeling,Slogans
+111111113	36	
+111111113	38	

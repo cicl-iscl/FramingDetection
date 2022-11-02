@@ -1,0 +1,53 @@
+776049384	1	
+776049384	3	Loaded_Language,Name_Calling-Labeling
+776049384	4	Name_Calling-Labeling
+776049384	5	
+776049384	6	
+776049384	7	Repetition
+776049384	8	Repetition
+776049384	9	Repetition
+776049384	10	Repetition
+776049384	11	Repetition
+776049384	12	Repetition
+776049384	13	Repetition
+776049384	14	Repetition
+776049384	15	Repetition
+776049384	16	Repetition
+776049384	17	Repetition
+776049384	18	Repetition
+776049384	19	Repetition
+776049384	20	Repetition
+776049384	21	Repetition
+776049384	22	Exaggeration-Minimisation,Slogans
+776049384	23	Loaded_Language
+776049384	24	Loaded_Language
+776049384	25	
+776049384	26	
+776049384	27	Loaded_Language,Name_Calling-Labeling
+776049384	28	Loaded_Language
+776049384	29	Name_Calling-Labeling,Repetition
+776049384	30	
+776049384	31	Loaded_Language
+776049384	32	Loaded_Language
+776049384	33	
+776049384	34	Repetition
+776049384	35	Loaded_Language
+776049384	36	
+776049384	37	
+776049384	38	
+776049384	39	Slogans
+776049384	40	
+776049384	41	
+776049384	42	
+776049384	43	
+776049384	44	Loaded_Language,Repetition
+776049384	45	
+776049384	46	
+776049384	47	Appeal_to_Fear-Prejudice,Loaded_Language
+776049384	48	
+776049384	49	
+776049384	50	Slogans
+776049384	51	Slogans
+776049384	52	
+776049384	53	
+776049384	54	

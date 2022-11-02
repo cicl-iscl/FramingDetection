@@ -1,0 +1,15 @@
+23142	1	Appeal_to_Fear-Prejudice
+23142	3	Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling
+23142	5	Appeal_to_Hypocrisy,False_Dilemma-No_Choice,Loaded_Language
+23142	7	Doubt,Loaded_Language,Name_Calling-Labeling,Whataboutism
+23142	9	Loaded_Language,Questioning_the_Reputation
+23142	11	Loaded_Language,Name_Calling-Labeling
+23142	13	Exaggeration-Minimisation,Loaded_Language,Questioning_the_Reputation
+23142	15	Conversation_Killer,Loaded_Language
+23142	17	Obfuscation-Vagueness-Confusion
+23142	19	Loaded_Language
+23142	21	Loaded_Language,Questioning_the_Reputation
+23142	23	Appeal_to_Hypocrisy,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+23142	25	Guilt_by_Association,Loaded_Language,Questioning_the_Reputation
+23142	27	Doubt,Loaded_Language,Name_Calling-Labeling,Straw_Man
+23142	29	

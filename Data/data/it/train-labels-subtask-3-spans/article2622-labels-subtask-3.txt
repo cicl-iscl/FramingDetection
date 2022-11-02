@@ -1,0 +1,7 @@
+2622	Appeal_to_Fear-Prejudice	1712	1778
+2622	Appeal_to_Fear-Prejudice	73	155
+2622	Doubt	1150	1192
+2622	Loaded_Language	11	37
+2622	Appeal_to_Fear-Prejudice	41	70
+2622	Obfuscation-Vagueness-Confusion	1289	1306
+2622	Appeal_to_Authority	158	204

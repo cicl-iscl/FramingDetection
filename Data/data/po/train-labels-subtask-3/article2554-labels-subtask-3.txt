@@ -1,0 +1,33 @@
+2554	1	Slogans
+2554	3	
+2554	7	Appeal_to_Authority
+2554	11	Appeal_to_Authority,Appeal_to_Values
+2554	15	
+2554	19	
+2554	23	
+2554	27	
+2554	31	Name_Calling-Labeling
+2554	35	Doubt,Name_Calling-Labeling
+2554	39	
+2554	43	Name_Calling-Labeling
+2554	47	
+2554	51	False_Dilemma-No_Choice
+2554	55	Name_Calling-Labeling
+2554	57	Appeal_to_Authority
+2554	61	
+2554	65	Appeal_to_Values,Doubt,Name_Calling-Labeling
+2554	69	
+2554	73	
+2554	77	
+2554	81	Name_Calling-Labeling
+2554	85	Appeal_to_Values,Guilt_by_Association,Loaded_Language
+2554	89	
+2554	93	Name_Calling-Labeling
+2554	97	
+2554	101	
+2554	105	
+2554	109	
+2554	113	
+2554	117	Doubt
+2554	121	Appeal_to_Authority,Appeal_to_Values,Loaded_Language
+2554	125	

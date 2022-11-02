@@ -1,0 +1,13 @@
+2383	1	Doubt
+2383	3	Doubt
+2383	5	Appeal_to_Authority,Appeal_to_Fear-Prejudice,Appeal_to_Popularity,Consequential_Oversimplification,Exaggeration-Minimisation,Loaded_Language
+2383	7	Appeal_to_Authority,Appeal_to_Fear-Prejudice,Doubt
+2383	9	Doubt
+2383	11	Appeal_to_Authority
+2383	13	
+2383	15	Appeal_to_Fear-Prejudice,Consequential_Oversimplification
+2383	16	
+2383	18	Appeal_to_Fear-Prejudice
+2383	20	Conversation_Killer
+2383	22	
+2383	24	Appeal_to_Fear-Prejudice,Consequential_Oversimplification

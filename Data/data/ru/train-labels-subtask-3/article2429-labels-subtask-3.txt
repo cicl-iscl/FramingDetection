@@ -1,0 +1,6 @@
+2429	1	Guilt_by_Association
+2429	3	Appeal_to_Time,Guilt_by_Association
+2429	5	Appeal_to_Values
+2429	7	
+2429	9	Conversation_Killer
+2429	11	Flag_Waving

@@ -1,0 +1,62 @@
+728972961	1	
+728972961	3	Loaded_Language
+728972961	4	
+728972961	5	Name_Calling-Labeling
+728972961	6	Slogans
+728972961	7	Loaded_Language
+728972961	8	
+728972961	9	
+728972961	10	
+728972961	11	
+728972961	12	Loaded_Language
+728972961	13	
+728972961	14	Loaded_Language,Repetition
+728972961	15	Appeal_to_Fear-Prejudice,Loaded_Language
+728972961	16	
+728972961	17	
+728972961	18	Repetition
+728972961	19	
+728972961	20	Appeal_to_Authority,False_Dilemma-No_Choice
+728972961	21	Loaded_Language
+728972961	22	
+728972961	23	Repetition
+728972961	24	Causal_Oversimplification,Repetition
+728972961	25	
+728972961	26	Flag_Waving,Loaded_Language
+728972961	27	Appeal_to_Fear-Prejudice
+728972961	28	Loaded_Language
+728972961	29	
+728972961	30	Repetition
+728972961	31	Appeal_to_Fear-Prejudice
+728972961	32	
+728972961	33	False_Dilemma-No_Choice,Repetition
+728972961	34	Repetition
+728972961	35	
+728972961	36	Repetition
+728972961	37	
+728972961	38	Repetition
+728972961	39	Repetition
+728972961	40	Repetition
+728972961	41	Repetition
+728972961	42	Doubt,Name_Calling-Labeling,Repetition
+728972961	43	Loaded_Language,Repetition
+728972961	44	
+728972961	45	
+728972961	46	Loaded_Language,Repetition
+728972961	47	Appeal_to_Fear-Prejudice
+728972961	48	Loaded_Language,Repetition
+728972961	49	Repetition
+728972961	50	Appeal_to_Fear-Prejudice,Repetition
+728972961	51	
+728972961	52	
+728972961	53	Doubt
+728972961	54	Appeal_to_Fear-Prejudice,Repetition
+728972961	55	
+728972961	56	
+728972961	57	Appeal_to_Fear-Prejudice
+728972961	58	Conversation_Killer,Repetition
+728972961	59	
+728972961	60	
+728972961	61	
+728972961	62	
+728972961	63	

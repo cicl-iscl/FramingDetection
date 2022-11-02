@@ -1,0 +1,9 @@
+2693	1	
+2693	3	
+2693	5	Loaded_Language,Name_Calling-Labeling
+2693	7	Doubt
+2693	9	
+2693	11	Appeal_to_Values,Doubt
+2693	13	Appeal_to_Authority,Doubt
+2693	15	
+2693	17	Doubt

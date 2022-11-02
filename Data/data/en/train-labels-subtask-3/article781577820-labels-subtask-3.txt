@@ -1,0 +1,15 @@
+781577820	1	Loaded_Language
+781577820	3	
+781577820	4	Doubt
+781577820	5	Doubt,Loaded_Language,Name_Calling-Labeling
+781577820	6	Doubt,Loaded_Language
+781577820	7	Loaded_Language
+781577820	8	Exaggeration-Minimisation,Flag_Waving
+781577820	9	Exaggeration-Minimisation,Flag_Waving
+781577820	10	Exaggeration-Minimisation
+781577820	11	
+781577820	12	
+781577820	13	
+781577820	14	
+781577820	15	
+781577820	16	

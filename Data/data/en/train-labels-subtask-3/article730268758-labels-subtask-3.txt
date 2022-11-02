@@ -1,0 +1,36 @@
+730268758	1	Name_Calling-Labeling
+730268758	3	
+730268758	4	Loaded_Language,Name_Calling-Labeling
+730268758	5	Name_Calling-Labeling
+730268758	6	Loaded_Language,Name_Calling-Labeling
+730268758	7	
+730268758	8	Name_Calling-Labeling
+730268758	9	
+730268758	10	
+730268758	11	
+730268758	12	Loaded_Language,Name_Calling-Labeling
+730268758	13	
+730268758	14	
+730268758	15	Appeal_to_Popularity,Repetition
+730268758	16	
+730268758	17	
+730268758	18	Name_Calling-Labeling
+730268758	19	Loaded_Language
+730268758	20	
+730268758	21	
+730268758	22	
+730268758	23	
+730268758	24	
+730268758	25	Loaded_Language
+730268758	26	
+730268758	27	
+730268758	28	
+730268758	29	
+730268758	30	Loaded_Language
+730268758	31	Exaggeration-Minimisation
+730268758	32	Repetition
+730268758	33	
+730268758	34	Loaded_Language,Name_Calling-Labeling
+730268758	35	
+730268758	36	
+730268758	37	Loaded_Language

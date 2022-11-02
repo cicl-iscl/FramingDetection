@@ -1,0 +1,8 @@
+2349	1	Appeal_to_Fear-Prejudice
+2349	3	
+2349	5	Loaded_Language
+2349	7	Exaggeration-Minimisation,Name_Calling-Labeling
+2349	9	Loaded_Language
+2349	11	Exaggeration-Minimisation,Loaded_Language
+2349	13	Appeal_to_Fear-Prejudice,Consequential_Oversimplification,Exaggeration-Minimisation,Loaded_Language
+2349	15	Appeal_to_Time,Exaggeration-Minimisation,Red_Herring

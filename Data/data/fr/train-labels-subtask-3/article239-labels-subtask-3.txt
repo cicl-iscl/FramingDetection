@@ -1,0 +1,10 @@
+239	1	Doubt
+239	3	Doubt,Straw_Man
+239	5	Loaded_Language
+239	7	Exaggeration-Minimisation
+239	9	Consequential_Oversimplification
+239	11	Causal_Oversimplification,Doubt
+239	13	Doubt
+239	15	Doubt
+239	17	
+239	19	Appeal_to_Fear-Prejudice,Loaded_Language

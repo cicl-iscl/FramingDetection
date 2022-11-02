@@ -1,0 +1,23 @@
+26188	1	
+26188	3	Doubt
+26188	5	Loaded_Language,Name_Calling-Labeling
+26188	7	Loaded_Language,Name_Calling-Labeling
+26188	9	Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling
+26188	11	Loaded_Language,Name_Calling-Labeling
+26188	13	Name_Calling-Labeling
+26188	15	Name_Calling-Labeling
+26188	17	Loaded_Language
+26188	19	Loaded_Language,Questioning_the_Reputation
+26188	21	
+26188	23	Appeal_to_Fear-Prejudice
+26188	25	Appeal_to_Fear-Prejudice
+26188	27	
+26188	29	
+26188	31	Name_Calling-Labeling
+26188	33	Name_Calling-Labeling
+26188	35	Questioning_the_Reputation
+26188	37	
+26188	39	
+26188	41	Appeal_to_Hypocrisy,Loaded_Language,Name_Calling-Labeling
+26188	43	
+26188	45	

@@ -1,0 +1,5 @@
+26183	Flag_Waving	5846	5966
+26183	Appeal_to_Fear-Prejudice	6058	6173
+26183	Loaded_Language	45	57
+26183	Name_Calling-Labeling	4339	4353
+26183	Doubt	2179	2297

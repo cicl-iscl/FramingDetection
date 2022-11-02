@@ -1,0 +1,19 @@
+787668628	1	False_Dilemma-No_Choice
+787668628	3	Causal_Oversimplification,Flag_Waving,Loaded_Language,Name_Calling-Labeling
+787668628	4	
+787668628	5	
+787668628	6	
+787668628	7	
+787668628	8	
+787668628	9	
+787668628	10	Slogans
+787668628	11	
+787668628	12	
+787668628	13	Exaggeration-Minimisation
+787668628	14	
+787668628	15	
+787668628	16	
+787668628	17	Doubt
+787668628	18	Appeal_to_Authority,Loaded_Language
+787668628	19	
+787668628	20	Loaded_Language

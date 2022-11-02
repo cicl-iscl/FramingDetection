@@ -1,0 +1,15 @@
+23187	1	
+23187	3	Doubt,Exaggeration-Minimisation,Loaded_Language
+23187	5	Loaded_Language
+23187	7	Loaded_Language
+23187	9	
+23187	11	Loaded_Language,Obfuscation-Vagueness-Confusion
+23187	13	Appeal_to_Values,Loaded_Language
+23187	15	Loaded_Language
+23187	17	
+23187	19	
+23187	21	Causal_Oversimplification
+23187	23	Consequential_Oversimplification,Doubt,Loaded_Language
+23187	25	
+23187	27	
+23187	29	Questioning_the_Reputation

@@ -1,0 +1,15 @@
+770376380	1	Loaded_Language
+770376380	3	Loaded_Language
+770376380	4	Loaded_Language,Repetition
+770376380	5	Doubt,Name_Calling-Labeling,Repetition
+770376380	6	
+770376380	7	
+770376380	8	
+770376380	9	
+770376380	10	
+770376380	11	Doubt
+770376380	12	Doubt,Loaded_Language
+770376380	13	Appeal_to_Fear-Prejudice,Causal_Oversimplification,Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling
+770376380	14	
+770376380	15	Name_Calling-Labeling
+770376380	16	

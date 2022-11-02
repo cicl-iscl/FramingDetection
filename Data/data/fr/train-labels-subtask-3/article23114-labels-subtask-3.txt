@@ -1,0 +1,15 @@
+23114	1	
+23114	3	Name_Calling-Labeling
+23114	5	Appeal_to_Popularity,Obfuscation-Vagueness-Confusion,Slogans
+23114	7	
+23114	9	
+23114	11	
+23114	13	
+23114	15	
+23114	17	Loaded_Language
+23114	19	
+23114	21	
+23114	23	Loaded_Language
+23114	25	
+23114	27	
+23114	29	

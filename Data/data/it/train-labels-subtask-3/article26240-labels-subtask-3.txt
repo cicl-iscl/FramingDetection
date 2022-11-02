@@ -1,0 +1,9 @@
+26240	1	Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+26240	3	
+26240	5	
+26240	7	Name_Calling-Labeling
+26240	9	Conversation_Killer,Doubt,Name_Calling-Labeling,Red_Herring
+26240	11	False_Dilemma-No_Choice,Questioning_the_Reputation
+26240	13	Doubt
+26240	15	
+26240	17	Conversation_Killer

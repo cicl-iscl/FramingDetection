@@ -1,0 +1,4 @@
+24190	Appeal_to_Popularity	907	984
+24190	Slogans	1089	1105
+24190	Flag_Waving	329	502
+24190	Loaded_Language	988	1033

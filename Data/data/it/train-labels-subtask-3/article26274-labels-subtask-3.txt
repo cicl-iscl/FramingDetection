@@ -1,0 +1,6 @@
+26274	1	Appeal_to_Fear-Prejudice,Loaded_Language
+26274	3	Appeal_to_Fear-Prejudice,Doubt,Loaded_Language
+26274	5	Loaded_Language
+26274	7	Doubt,Loaded_Language,Name_Calling-Labeling
+26274	9	Loaded_Language
+26274	11	Appeal_to_Fear-Prejudice,Appeal_to_Values,Conversation_Killer,Doubt,Loaded_Language,Repetition

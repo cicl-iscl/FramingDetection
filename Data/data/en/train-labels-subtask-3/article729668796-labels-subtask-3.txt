@@ -1,0 +1,22 @@
+729668796	1	Flag_Waving
+729668796	3	Flag_Waving,Repetition,Slogans
+729668796	4	Flag_Waving,Repetition,Slogans
+729668796	5	
+729668796	6	Flag_Waving,Slogans
+729668796	7	
+729668796	8	Repetition
+729668796	9	Repetition
+729668796	10	
+729668796	11	
+729668796	12	Flag_Waving,Loaded_Language
+729668796	13	Loaded_Language
+729668796	14	Loaded_Language,Repetition
+729668796	15	
+729668796	16	Appeal_to_Fear-Prejudice
+729668796	17	
+729668796	18	Loaded_Language,Name_Calling-Labeling,Repetition
+729668796	19	
+729668796	20	
+729668796	21	False_Dilemma-No_Choice,Flag_Waving,Loaded_Language
+729668796	22	False_Dilemma-No_Choice
+729668796	23	Conversation_Killer

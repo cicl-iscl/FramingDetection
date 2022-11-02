@@ -1,0 +1,19 @@
+2320	1	
+2320	3	Exaggeration-Minimisation,False_Dilemma-No_Choice
+2320	5	Appeal_to_Authority,Loaded_Language,Questioning_the_Reputation
+2320	7	
+2320	9	Conversation_Killer
+2320	11	Questioning_the_Reputation
+2320	13	Loaded_Language,Whataboutism
+2320	15	
+2320	16	
+2320	18	Exaggeration-Minimisation
+2320	20	Causal_Oversimplification
+2320	22	Exaggeration-Minimisation
+2320	24	Loaded_Language
+2320	26	Appeal_to_Authority,Doubt,Name_Calling-Labeling
+2320	27	
+2320	29	
+2320	31	Questioning_the_Reputation
+2320	33	
+2320	35	

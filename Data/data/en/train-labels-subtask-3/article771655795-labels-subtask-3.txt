@@ -1,0 +1,11 @@
+771655795	1	Exaggeration-Minimisation
+771655795	3	Causal_Oversimplification,Loaded_Language,Name_Calling-Labeling
+771655795	4	Exaggeration-Minimisation
+771655795	5	
+771655795	6	Appeal_to_Fear-Prejudice,Name_Calling-Labeling
+771655795	7	Appeal_to_Fear-Prejudice,Exaggeration-Minimisation,Name_Calling-Labeling,Straw_Man
+771655795	8	
+771655795	9	
+771655795	10	Conversation_Killer
+771655795	11	
+771655795	12	Exaggeration-Minimisation

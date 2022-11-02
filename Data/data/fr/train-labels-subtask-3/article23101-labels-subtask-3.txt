@@ -1,0 +1,11 @@
+23101	1	Slogans
+23101	3	Appeal_to_Values,Slogans
+23101	5	Exaggeration-Minimisation,Loaded_Language
+23101	7	Guilt_by_Association,Loaded_Language,Repetition
+23101	9	Causal_Oversimplification,Doubt,Loaded_Language
+23101	11	Doubt
+23101	13	Doubt,Loaded_Language
+23101	15	Exaggeration-Minimisation,Loaded_Language
+23101	17	Loaded_Language,Obfuscation-Vagueness-Confusion
+23101	19	Appeal_to_Time,Doubt
+23101	21	Slogans

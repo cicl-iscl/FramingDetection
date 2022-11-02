@@ -1,0 +1,14 @@
+763280007	1	
+763280007	3	
+763280007	4	Flag_Waving,Name_Calling-Labeling,Repetition,Slogans
+763280007	5	Repetition
+763280007	6	Appeal_to_Fear-Prejudice,Exaggeration-Minimisation,False_Dilemma-No_Choice,Name_Calling-Labeling
+763280007	7	
+763280007	8	Loaded_Language
+763280007	9	False_Dilemma-No_Choice
+763280007	10	Flag_Waving,Loaded_Language,Repetition,Straw_Man
+763280007	11	False_Dilemma-No_Choice,Flag_Waving,Loaded_Language
+763280007	12	Flag_Waving,Slogans
+763280007	13	Flag_Waving,Repetition,Slogans
+763280007	14	False_Dilemma-No_Choice
+763280007	15	

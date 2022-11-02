@@ -1,0 +1,14 @@
+774637726	1	
+774637726	3	
+774637726	4	Name_Calling-Labeling
+774637726	5	Loaded_Language,Repetition
+774637726	6	
+774637726	7	
+774637726	8	
+774637726	9	
+774637726	10	
+774637726	11	
+774637726	12	Loaded_Language,Name_Calling-Labeling,Repetition
+774637726	13	Loaded_Language,Name_Calling-Labeling,Repetition
+774637726	14	
+774637726	15	

@@ -1,0 +1,12 @@
+23115	1	
+23115	3	
+23115	5	Exaggeration-Minimisation
+23115	7	
+23115	9	
+23115	11	
+23115	13	
+23115	15	Loaded_Language
+23115	17	
+23115	18	
+23115	20	Exaggeration-Minimisation
+23115	22	Loaded_Language

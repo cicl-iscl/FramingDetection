@@ -1,0 +1,5 @@
+2659	1	Name_Calling-Labeling
+2659	3	
+2659	5	Appeal_to_Values,Doubt,Loaded_Language,Slogans
+2659	7	Appeal_to_Fear-Prejudice,Doubt,Loaded_Language,Name_Calling-Labeling
+2659	9	Appeal_to_Fear-Prejudice,Doubt

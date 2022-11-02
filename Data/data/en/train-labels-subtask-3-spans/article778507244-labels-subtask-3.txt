@@ -1,0 +1,6 @@
+778507244	Name_Calling-Labeling	118	132
+778507244	Loaded_Language	134	153
+778507244	Exaggeration-Minimisation	154	181
+778507244	Name_Calling-Labeling	255	283
+778507244	Name_Calling-Labeling	1736	1766
+778507244	Guilt_by_Association	1913	1987

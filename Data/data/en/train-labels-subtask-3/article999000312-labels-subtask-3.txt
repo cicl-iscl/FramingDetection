@@ -1,0 +1,14 @@
+999000312	1	Loaded_Language
+999000312	3	Doubt,Loaded_Language,Name_Calling-Labeling
+999000312	4	Loaded_Language,Name_Calling-Labeling
+999000312	5	Name_Calling-Labeling
+999000312	6	
+999000312	7	Name_Calling-Labeling,Repetition
+999000312	8	Doubt,Loaded_Language
+999000312	9	Doubt,Exaggeration-Minimisation,Name_Calling-Labeling
+999000312	10	Appeal_to_Fear-Prejudice,Exaggeration-Minimisation
+999000312	11	Causal_Oversimplification
+999000312	12	Causal_Oversimplification,Doubt
+999000312	13	Doubt,Exaggeration-Minimisation,Name_Calling-Labeling
+999000312	14	Causal_Oversimplification,Loaded_Language
+999000312	15	Doubt,Exaggeration-Minimisation,Name_Calling-Labeling

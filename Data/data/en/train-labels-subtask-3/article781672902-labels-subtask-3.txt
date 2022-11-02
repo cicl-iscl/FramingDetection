@@ -1,0 +1,53 @@
+781672902	1	
+781672902	3	
+781672902	4	Appeal_to_Fear-Prejudice,Loaded_Language,Name_Calling-Labeling
+781672902	5	Doubt,Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling
+781672902	6	Appeal_to_Fear-Prejudice
+781672902	7	Exaggeration-Minimisation
+781672902	8	Loaded_Language
+781672902	9	
+781672902	10	Flag_Waving
+781672902	11	
+781672902	12	
+781672902	13	Name_Calling-Labeling
+781672902	14	
+781672902	15	
+781672902	16	Appeal_to_Authority
+781672902	17	
+781672902	18	Loaded_Language
+781672902	19	Name_Calling-Labeling
+781672902	20	Loaded_Language
+781672902	21	
+781672902	22	Loaded_Language
+781672902	23	
+781672902	24	
+781672902	25	
+781672902	26	
+781672902	27	
+781672902	28	Doubt
+781672902	29	Doubt
+781672902	30	
+781672902	31	
+781672902	32	
+781672902	33	Loaded_Language,Name_Calling-Labeling
+781672902	34	Loaded_Language,Repetition
+781672902	35	Name_Calling-Labeling
+781672902	36	
+781672902	37	Exaggeration-Minimisation,Loaded_Language
+781672902	38	Exaggeration-Minimisation
+781672902	39	
+781672902	40	Doubt
+781672902	41	
+781672902	42	Loaded_Language,Name_Calling-Labeling
+781672902	43	Exaggeration-Minimisation
+781672902	44	
+781672902	45	Exaggeration-Minimisation
+781672902	46	Conversation_Killer,Loaded_Language
+781672902	47	Repetition
+781672902	48	Loaded_Language
+781672902	49	Doubt
+781672902	50	Exaggeration-Minimisation
+781672902	51	
+781672902	52	Exaggeration-Minimisation
+781672902	53	
+781672902	54	

@@ -1,0 +1,9 @@
+2384	1	
+2384	3	Appeal_to_Authority,Obfuscation-Vagueness-Confusion
+2384	5	Appeal_to_Popularity,Loaded_Language
+2384	7	Doubt
+2384	9	Appeal_to_Authority,Causal_Oversimplification,Red_Herring
+2384	11	Appeal_to_Popularity,Loaded_Language
+2384	13	Appeal_to_Values
+2384	15	Doubt
+2384	17	Doubt

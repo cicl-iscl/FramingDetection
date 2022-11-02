@@ -1,0 +1,10 @@
+770221823	1	
+770221823	3	Name_Calling-Labeling
+770221823	4	
+770221823	5	Loaded_Language
+770221823	6	
+770221823	7	
+770221823	8	Loaded_Language
+770221823	9	Name_Calling-Labeling
+770221823	10	Appeal_to_Fear-Prejudice
+770221823	11	

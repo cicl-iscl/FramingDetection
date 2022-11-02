@@ -1,0 +1,11 @@
+24110	1	
+24110	3	Doubt,Loaded_Language,Name_Calling-Labeling
+24110	5	Doubt,Loaded_Language
+24110	7	Doubt,Loaded_Language
+24110	9	Doubt,Loaded_Language,Questioning_the_Reputation,Straw_Man
+24110	11	Loaded_Language,Name_Calling-Labeling
+24110	13	Causal_Oversimplification,Doubt,Questioning_the_Reputation
+24110	15	Appeal_to_Time,False_Dilemma-No_Choice,Loaded_Language,Name_Calling-Labeling
+24110	17	Consequential_Oversimplification
+24110	19	
+24110	21	

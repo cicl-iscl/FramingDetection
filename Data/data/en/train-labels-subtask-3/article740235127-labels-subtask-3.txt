@@ -1,0 +1,16 @@
+740235127	1	
+740235127	3	
+740235127	4	
+740235127	5	Appeal_to_Authority
+740235127	6	Doubt
+740235127	7	
+740235127	8	Flag_Waving
+740235127	9	
+740235127	10	Conversation_Killer,Slogans
+740235127	11	Appeal_to_Authority,Appeal_to_Fear-Prejudice,Flag_Waving
+740235127	12	Exaggeration-Minimisation,Flag_Waving
+740235127	13	
+740235127	14	Causal_Oversimplification,Red_Herring
+740235127	15	Appeal_to_Hypocrisy
+740235127	16	Appeal_to_Authority,Exaggeration-Minimisation
+740235127	17	

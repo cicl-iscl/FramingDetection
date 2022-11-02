@@ -1,0 +1,12 @@
+26170	1	Questioning_the_Reputation
+26170	3	Doubt
+26170	5	Doubt,Loaded_Language,Name_Calling-Labeling
+26170	7	Doubt
+26170	9	Appeal_to_Authority,Doubt
+26170	11	
+26170	13	Appeal_to_Authority,Doubt,Loaded_Language,Name_Calling-Labeling
+26170	15	Doubt,Loaded_Language,Name_Calling-Labeling
+26170	17	Doubt,Loaded_Language
+26170	19	Doubt,Loaded_Language,Name_Calling-Labeling
+26170	21	Conversation_Killer,Doubt,Loaded_Language,Name_Calling-Labeling
+26170	23	Doubt

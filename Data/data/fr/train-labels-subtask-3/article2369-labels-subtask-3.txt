@@ -1,0 +1,12 @@
+2369	1	
+2369	3	Straw_Man
+2369	5	Exaggeration-Minimisation,Loaded_Language
+2369	7	Loaded_Language
+2369	9	Causal_Oversimplification,Loaded_Language
+2369	11	Loaded_Language,Straw_Man
+2369	13	
+2369	15	
+2369	17	
+2369	19	Loaded_Language,Questioning_the_Reputation
+2369	21	Appeal_to_Time
+2369	23	Loaded_Language,Name_Calling-Labeling

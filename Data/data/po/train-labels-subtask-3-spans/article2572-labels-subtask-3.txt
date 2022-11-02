@@ -1,0 +1,5 @@
+2572	Loaded_Language	41	76
+2572	Causal_Oversimplification	277	346
+2572	Appeal_to_Values	921	1008
+2572	Doubt	1430	1507
+2572	Conversation_Killer	1317	1399

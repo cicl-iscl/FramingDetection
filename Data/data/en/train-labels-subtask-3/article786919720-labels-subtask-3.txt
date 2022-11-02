@@ -1,0 +1,15 @@
+786919720	1	
+786919720	3	Appeal_to_Hypocrisy,Flag_Waving,Loaded_Language
+786919720	4	
+786919720	5	Loaded_Language,Red_Herring
+786919720	6	
+786919720	7	
+786919720	8	
+786919720	9	
+786919720	10	
+786919720	11	
+786919720	12	
+786919720	13	Loaded_Language
+786919720	14	
+786919720	15	
+786919720	16	Appeal_to_Fear-Prejudice,Doubt,Loaded_Language,Name_Calling-Labeling

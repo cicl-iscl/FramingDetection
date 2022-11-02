@@ -1,0 +1,24 @@
+999000158	1	
+999000158	3	Loaded_Language
+999000158	4	
+999000158	5	
+999000158	6	
+999000158	7	
+999000158	8	
+999000158	9	
+999000158	10	
+999000158	11	Exaggeration-Minimisation,Loaded_Language
+999000158	12	
+999000158	13	Exaggeration-Minimisation
+999000158	14	
+999000158	15	
+999000158	16	
+999000158	17	Guilt_by_Association
+999000158	18	
+999000158	19	Loaded_Language
+999000158	20	Appeal_to_Popularity
+999000158	21	
+999000158	22	Exaggeration-Minimisation,False_Dilemma-No_Choice,Loaded_Language
+999000158	23	Loaded_Language,Repetition
+999000158	24	Appeal_to_Fear-Prejudice
+999000158	25	

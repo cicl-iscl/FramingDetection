@@ -1,0 +1,7 @@
+2417	1	Appeal_to_Hypocrisy
+2417	3	Appeal_to_Hypocrisy,Doubt,Flag_Waving,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+2417	5	Appeal_to_Hypocrisy,Doubt,Loaded_Language,Questioning_the_Reputation,Repetition,Whataboutism
+2417	7	Loaded_Language,Name_Calling-Labeling,Repetition
+2417	9	Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+2417	11	
+2417	13	Loaded_Language,Name_Calling-Labeling

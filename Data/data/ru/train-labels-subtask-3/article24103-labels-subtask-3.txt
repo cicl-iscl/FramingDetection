@@ -1,0 +1,29 @@
+24103	1	
+24103	2	
+24103	4	Name_Calling-Labeling
+24103	6	
+24103	8	
+24103	10	
+24103	12	
+24103	14	Doubt,Loaded_Language,Straw_Man
+24103	16	Loaded_Language
+24103	18	Doubt,Loaded_Language
+24103	20	
+24103	22	
+24103	24	Doubt
+24103	26	Appeal_to_Hypocrisy,Loaded_Language
+24103	28	
+24103	30	
+24103	32	
+24103	34	
+24103	36	Doubt
+24103	38	
+24103	40	
+24103	42	
+24103	44	Causal_Oversimplification
+24103	46	
+24103	48	
+24103	50	Exaggeration-Minimisation
+24103	52	
+24103	54	Loaded_Language,Name_Calling-Labeling
+24103	56	

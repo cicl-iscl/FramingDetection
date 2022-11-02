@@ -1,0 +1,16 @@
+2513	1	Appeal_to_Fear-Prejudice
+2513	3	Appeal_to_Authority,Appeal_to_Fear-Prejudice,Appeal_to_Popularity,Loaded_Language
+2513	5	Slogans
+2513	7	Appeal_to_Authority,Loaded_Language,Repetition,Slogans
+2513	9	Appeal_to_Values,Doubt,Exaggeration-Minimisation
+2513	11	Appeal_to_Popularity
+2513	13	Exaggeration-Minimisation
+2513	15	Appeal_to_Fear-Prejudice
+2513	17	Repetition
+2513	19	Appeal_to_Fear-Prejudice
+2513	21	Appeal_to_Fear-Prejudice
+2513	23	Appeal_to_Fear-Prejudice
+2513	25	Red_Herring
+2513	27	Appeal_to_Fear-Prejudice,Consequential_Oversimplification,Loaded_Language
+2513	29	
+2513	31	Appeal_to_Fear-Prejudice

@@ -1,0 +1,9 @@
+23200	1	Name_Calling-Labeling
+23200	3	
+23200	5	Appeal_to_Hypocrisy,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+23200	7	Questioning_the_Reputation
+23200	9	
+23200	11	Appeal_to_Hypocrisy,Loaded_Language
+23200	13	Loaded_Language
+23200	15	Loaded_Language
+23200	17	Loaded_Language

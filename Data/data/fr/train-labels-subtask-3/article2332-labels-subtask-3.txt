@@ -1,0 +1,37 @@
+2332	1	
+2332	3	Loaded_Language,Red_Herring
+2332	5	
+2332	7	
+2332	9	Red_Herring
+2332	11	
+2332	13	Appeal_to_Authority
+2332	15	
+2332	17	
+2332	19	Appeal_to_Values
+2332	21	
+2332	23	Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+2332	25	
+2332	27	Loaded_Language
+2332	29	
+2332	31	Loaded_Language
+2332	33	Exaggeration-Minimisation
+2332	35	
+2332	37	Exaggeration-Minimisation
+2332	39	
+2332	41	
+2332	43	
+2332	45	
+2332	47	
+2332	49	Doubt,Exaggeration-Minimisation,Loaded_Language
+2332	51	
+2332	53	Loaded_Language
+2332	55	Loaded_Language
+2332	57	Loaded_Language
+2332	59	
+2332	61	Appeal_to_Values
+2332	63	Loaded_Language,Whataboutism
+2332	65	
+2332	67	Loaded_Language
+2332	69	
+2332	71	
+2332	73	Appeal_to_Authority

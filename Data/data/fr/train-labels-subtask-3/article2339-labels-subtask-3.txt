@@ -1,0 +1,5 @@
+2339	1	Name_Calling-Labeling
+2339	3	Appeal_to_Values,Conversation_Killer,Loaded_Language,Name_Calling-Labeling,Whataboutism
+2339	5	False_Dilemma-No_Choice,Loaded_Language,Name_Calling-Labeling
+2339	7	Name_Calling-Labeling
+2339	9	Loaded_Language

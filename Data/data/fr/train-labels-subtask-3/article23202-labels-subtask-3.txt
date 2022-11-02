@@ -1,0 +1,5 @@
+23202	1	Consequential_Oversimplification
+23202	2	Loaded_Language,Straw_Man
+23202	4	Questioning_the_Reputation,Repetition
+23202	6	Appeal_to_Values,Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling
+23202	8	Doubt,Loaded_Language

@@ -1,0 +1,27 @@
+772947654	1	
+772947654	3	Exaggeration-Minimisation,Name_Calling-Labeling
+772947654	4	Exaggeration-Minimisation,Loaded_Language
+772947654	5	Flag_Waving
+772947654	6	
+772947654	7	Flag_Waving,Loaded_Language,Obfuscation-Vagueness-Confusion,Repetition
+772947654	8	
+772947654	9	Causal_Oversimplification,Whataboutism
+772947654	10	Causal_Oversimplification
+772947654	11	Repetition
+772947654	12	
+772947654	13	Exaggeration-Minimisation,Flag_Waving,Loaded_Language
+772947654	14	Loaded_Language,Repetition
+772947654	15	Repetition
+772947654	16	False_Dilemma-No_Choice
+772947654	17	Flag_Waving
+772947654	18	Exaggeration-Minimisation
+772947654	19	Flag_Waving
+772947654	20	Repetition
+772947654	21	
+772947654	22	Repetition
+772947654	23	Loaded_Language
+772947654	24	Flag_Waving,Slogans
+772947654	25	
+772947654	26	Causal_Oversimplification,Exaggeration-Minimisation,Loaded_Language
+772947654	27	Loaded_Language
+772947654	28	

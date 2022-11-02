@@ -1,0 +1,3 @@
+25191	1	
+25191	3	Obfuscation-Vagueness-Confusion,Questioning_the_Reputation
+25191	5	Appeal_to_Hypocrisy,Loaded_Language

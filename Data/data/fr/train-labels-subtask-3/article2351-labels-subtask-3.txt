@@ -1,0 +1,18 @@
+2351	1	Name_Calling-Labeling,Questioning_the_Reputation
+2351	3	Loaded_Language,Questioning_the_Reputation
+2351	5	Appeal_to_Fear-Prejudice,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+2351	7	Loaded_Language,Questioning_the_Reputation
+2351	9	Guilt_by_Association,Loaded_Language,Name_Calling-Labeling
+2351	10	False_Dilemma-No_Choice
+2351	12	Loaded_Language,Name_Calling-Labeling,Obfuscation-Vagueness-Confusion,Questioning_the_Reputation,Red_Herring
+2351	14	Guilt_by_Association,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+2351	16	Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+2351	18	Name_Calling-Labeling,Questioning_the_Reputation
+2351	20	Name_Calling-Labeling
+2351	22	
+2351	24	Loaded_Language,Name_Calling-Labeling
+2351	26	Loaded_Language,Name_Calling-Labeling
+2351	28	Name_Calling-Labeling
+2351	30	Loaded_Language,Name_Calling-Labeling
+2351	32	Loaded_Language
+2351	34	Guilt_by_Association,Questioning_the_Reputation

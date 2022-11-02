@@ -1,0 +1,17 @@
+26235	1	
+26235	3	Slogans
+26235	5	Loaded_Language,Repetition
+26235	7	
+26235	9	
+26235	11	
+26235	13	Doubt,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+26235	15	Conversation_Killer
+26235	17	
+26235	19	Appeal_to_Time,Doubt,Loaded_Language,Name_Calling-Labeling
+26235	21	Doubt,Loaded_Language,Name_Calling-Labeling
+26235	23	
+26235	25	Conversation_Killer,Doubt,Questioning_the_Reputation
+26235	27	
+26235	29	Loaded_Language,Name_Calling-Labeling
+26235	31	Guilt_by_Association,Name_Calling-Labeling
+26235	33	

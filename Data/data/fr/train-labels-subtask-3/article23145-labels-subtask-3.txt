@@ -1,0 +1,12 @@
+23145	1	
+23145	3	
+23145	5	Doubt,Loaded_Language,Obfuscation-Vagueness-Confusion
+23145	7	Appeal_to_Popularity,Loaded_Language,Questioning_the_Reputation
+23145	9	Appeal_to_Hypocrisy,Loaded_Language,Name_Calling-Labeling
+23145	11	Red_Herring
+23145	13	
+23145	15	Doubt,Guilt_by_Association
+23145	17	
+23145	19	
+23145	21	Doubt,Loaded_Language
+23145	23	Consequential_Oversimplification,Conversation_Killer,Name_Calling-Labeling

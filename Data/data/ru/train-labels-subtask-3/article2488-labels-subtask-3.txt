@@ -1,0 +1,32 @@
+2488	1	Loaded_Language,Slogans
+2488	3	Loaded_Language
+2488	5	
+2488	7	Doubt,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+2488	9	
+2488	11	
+2488	13	
+2488	15	Doubt
+2488	17	False_Dilemma-No_Choice
+2488	18	Loaded_Language
+2488	20	
+2488	22	
+2488	24	
+2488	26	Causal_Oversimplification,Consequential_Oversimplification,Doubt,Loaded_Language
+2488	28	Slogans
+2488	29	Appeal_to_Time,Causal_Oversimplification,Loaded_Language
+2488	31	
+2488	33	Doubt,Loaded_Language,Questioning_the_Reputation
+2488	35	
+2488	36	Appeal_to_Hypocrisy
+2488	38	
+2488	40	Doubt
+2488	42	Loaded_Language
+2488	43	
+2488	45	
+2488	47	
+2488	49	Doubt,Questioning_the_Reputation
+2488	51	Loaded_Language
+2488	53	
+2488	55	Doubt,Loaded_Language,Name_Calling-Labeling
+2488	56	
+2488	58	Loaded_Language,Name_Calling-Labeling,Slogans,Straw_Man

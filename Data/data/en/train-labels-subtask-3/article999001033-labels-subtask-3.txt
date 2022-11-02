@@ -1,0 +1,19 @@
+999001033	1	
+999001033	3	
+999001033	4	
+999001033	5	Appeal_to_Fear-Prejudice,Doubt
+999001033	6	
+999001033	7	Doubt,Loaded_Language
+999001033	8	Exaggeration-Minimisation,Loaded_Language,Repetition
+999001033	9	Loaded_Language,Repetition
+999001033	10	
+999001033	11	
+999001033	12	
+999001033	13	Repetition
+999001033	14	
+999001033	15	
+999001033	16	
+999001033	17	Doubt,Name_Calling-Labeling
+999001033	18	
+999001033	19	Loaded_Language,Name_Calling-Labeling
+999001033	20	

@@ -1,0 +1,19 @@
+782149225	1	
+782149225	3	Flag_Waving,Loaded_Language
+782149225	4	Flag_Waving
+782149225	5	
+782149225	6	
+782149225	7	
+782149225	8	
+782149225	9	
+782149225	10	
+782149225	11	Loaded_Language,Name_Calling-Labeling
+782149225	12	
+782149225	13	
+782149225	14	
+782149225	15	Loaded_Language,Name_Calling-Labeling
+782149225	16	
+782149225	17	Guilt_by_Association
+782149225	18	Name_Calling-Labeling
+782149225	19	Appeal_to_Fear-Prejudice
+782149225	20	

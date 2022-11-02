@@ -1,0 +1,7 @@
+26165	1	
+26165	3	Doubt,Questioning_the_Reputation,Straw_Man
+26165	5	Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+26165	7	Appeal_to_Values,Flag_Waving,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+26165	9	Questioning_the_Reputation
+26165	11	Causal_Oversimplification,Doubt,Loaded_Language,Straw_Man
+26165	13	

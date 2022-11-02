@@ -1,0 +1,21 @@
+722512241	1	Appeal_to_Fear-Prejudice
+722512241	3	Loaded_Language
+722512241	4	Appeal_to_Fear-Prejudice,Exaggeration-Minimisation
+722512241	5	
+722512241	6	
+722512241	7	
+722512241	8	
+722512241	9	
+722512241	10	
+722512241	11	
+722512241	12	Doubt,False_Dilemma-No_Choice
+722512241	13	
+722512241	14	False_Dilemma-No_Choice,Loaded_Language,Name_Calling-Labeling
+722512241	15	False_Dilemma-No_Choice,Guilt_by_Association
+722512241	16	
+722512241	17	
+722512241	18	Loaded_Language
+722512241	19	Loaded_Language
+722512241	20	Appeal_to_Fear-Prejudice
+722512241	21	Appeal_to_Fear-Prejudice,False_Dilemma-No_Choice,Loaded_Language
+722512241	22	

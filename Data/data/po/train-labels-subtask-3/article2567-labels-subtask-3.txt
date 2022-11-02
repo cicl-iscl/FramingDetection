@@ -1,0 +1,10 @@
+2567	1	Guilt_by_Association
+2567	3	Appeal_to_Fear-Prejudice,Appeal_to_Values
+2567	5	Guilt_by_Association
+2567	7	
+2567	9	Appeal_to_Time
+2567	11	Appeal_to_Fear-Prejudice,Name_Calling-Labeling
+2567	13	Appeal_to_Fear-Prejudice
+2567	15	Appeal_to_Fear-Prejudice,Appeal_to_Values,Loaded_Language
+2567	17	
+2567	19	

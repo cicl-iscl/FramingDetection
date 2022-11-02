@@ -1,0 +1,7 @@
+2474	Slogans	1503	1525
+2474	Exaggeration-Minimisation	1647	1727
+2474	Repetition	3278	3292
+2474	Doubt	541	592
+2474	Loaded_Language	4188	4234
+2474	Slogans	314	337
+2474	Conversation_Killer	3224	3255

@@ -1,0 +1,60 @@
+999001621	1	Doubt
+999001621	3	
+999001621	4	Doubt
+999001621	5	Doubt,Loaded_Language,Name_Calling-Labeling
+999001621	6	Doubt,Name_Calling-Labeling
+999001621	7	
+999001621	8	
+999001621	9	Doubt,Name_Calling-Labeling
+999001621	10	
+999001621	11	
+999001621	12	
+999001621	13	Exaggeration-Minimisation
+999001621	14	
+999001621	15	
+999001621	16	Loaded_Language
+999001621	17	Doubt,Name_Calling-Labeling
+999001621	18	Doubt
+999001621	19	Doubt,Loaded_Language
+999001621	20	Doubt,Name_Calling-Labeling
+999001621	21	Doubt,Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling
+999001621	22	Doubt,Name_Calling-Labeling
+999001621	23	
+999001621	24	Repetition
+999001621	25	
+999001621	26	
+999001621	27	
+999001621	28	
+999001621	29	
+999001621	30	
+999001621	31	
+999001621	32	Exaggeration-Minimisation
+999001621	33	
+999001621	34	Name_Calling-Labeling
+999001621	35	
+999001621	36	
+999001621	37	Doubt,Name_Calling-Labeling
+999001621	38	
+999001621	39	
+999001621	40	Name_Calling-Labeling
+999001621	41	Doubt
+999001621	43	Doubt,Loaded_Language,Name_Calling-Labeling
+999001621	44	
+999001621	45	Causal_Oversimplification,Doubt,Exaggeration-Minimisation,Loaded_Language
+999001621	46	
+999001621	47	Causal_Oversimplification,Doubt,Loaded_Language,Name_Calling-Labeling
+999001621	48	Appeal_to_Hypocrisy,Doubt,Guilt_by_Association,Loaded_Language,Name_Calling-Labeling
+999001621	49	Doubt,Loaded_Language,Name_Calling-Labeling
+999001621	50	Doubt,Name_Calling-Labeling
+999001621	51	
+999001621	52	
+999001621	53	
+999001621	54	
+999001621	55	Doubt,Exaggeration-Minimisation,Repetition
+999001621	56	
+999001621	57	Appeal_to_Fear-Prejudice,Doubt,Loaded_Language,Name_Calling-Labeling
+999001621	58	
+999001621	59	
+999001621	60	
+999001621	61	
+999001621	62	

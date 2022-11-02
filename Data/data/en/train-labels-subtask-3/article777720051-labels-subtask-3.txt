@@ -1,0 +1,7 @@
+777720051	1	Name_Calling-Labeling
+777720051	3	Loaded_Language,Name_Calling-Labeling
+777720051	4	Exaggeration-Minimisation
+777720051	5	
+777720051	6	Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling
+777720051	7	Name_Calling-Labeling
+777720051	8	

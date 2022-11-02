@@ -1,0 +1,8 @@
+26115	1	Doubt,Loaded_Language
+26115	3	Appeal_to_Values,Doubt,Loaded_Language
+26115	5	Doubt,Exaggeration-Minimisation,Loaded_Language,Questioning_the_Reputation
+26115	7	Appeal_to_Fear-Prejudice,Appeal_to_Hypocrisy,Doubt,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation,Slogans
+26115	9	Appeal_to_Authority,Appeal_to_Hypocrisy,Conversation_Killer,Doubt,Loaded_Language,Name_Calling-Labeling,Obfuscation-Vagueness-Confusion
+26115	11	Appeal_to_Fear-Prejudice,Conversation_Killer,Doubt,Loaded_Language,Name_Calling-Labeling
+26115	13	Appeal_to_Fear-Prejudice,Doubt,Loaded_Language,Name_Calling-Labeling
+26115	14	Appeal_to_Fear-Prejudice,Appeal_to_Values,Conversation_Killer,Doubt,Loaded_Language,Whataboutism

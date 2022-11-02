@@ -1,0 +1,29 @@
+776373795	1	
+776373795	3	Name_Calling-Labeling
+776373795	4	Exaggeration-Minimisation
+776373795	5	Loaded_Language
+776373795	6	Doubt,Flag_Waving,Loaded_Language,Name_Calling-Labeling
+776373795	7	Exaggeration-Minimisation
+776373795	8	
+776373795	9	Loaded_Language
+776373795	10	Flag_Waving,Loaded_Language
+776373795	11	
+776373795	12	
+776373795	13	
+776373795	14	
+776373795	15	Appeal_to_Authority
+776373795	16	
+776373795	17	
+776373795	18	Loaded_Language
+776373795	19	Name_Calling-Labeling
+776373795	20	Doubt
+776373795	21	Appeal_to_Authority
+776373795	22	Appeal_to_Authority
+776373795	23	
+776373795	24	
+776373795	25	Loaded_Language
+776373795	26	
+776373795	27	
+776373795	28	
+776373795	29	
+776373795	30	

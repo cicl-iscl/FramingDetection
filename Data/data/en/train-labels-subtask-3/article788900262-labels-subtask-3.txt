@@ -1,0 +1,36 @@
+788900262	1	Appeal_to_Fear-Prejudice
+788900262	3	Doubt,Loaded_Language
+788900262	4	
+788900262	5	
+788900262	6	
+788900262	7	
+788900262	8	
+788900262	9	
+788900262	10	
+788900262	11	
+788900262	12	
+788900262	13	
+788900262	14	
+788900262	15	
+788900262	16	
+788900262	17	
+788900262	18	
+788900262	19	Doubt
+788900262	20	Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling
+788900262	21	False_Dilemma-No_Choice,Flag_Waving
+788900262	22	Flag_Waving
+788900262	23	
+788900262	24	Loaded_Language
+788900262	25	
+788900262	26	
+788900262	27	
+788900262	28	
+788900262	29	
+788900262	30	
+788900262	31	Name_Calling-Labeling
+788900262	32	Doubt
+788900262	33	Causal_Oversimplification
+788900262	34	Flag_Waving,Loaded_Language
+788900262	35	
+788900262	36	Causal_Oversimplification,Flag_Waving
+788900262	37	Doubt,Loaded_Language,Name_Calling-Labeling

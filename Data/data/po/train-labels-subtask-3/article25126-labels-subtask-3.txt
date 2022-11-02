@@ -1,0 +1,10 @@
+25126	1	Doubt
+25126	3	Loaded_Language,Questioning_the_Reputation
+25126	5	
+25126	7	Loaded_Language
+25126	9	Name_Calling-Labeling
+25126	11	Appeal_to_Values,Name_Calling-Labeling
+25126	13	Appeal_to_Hypocrisy,Name_Calling-Labeling
+25126	15	Appeal_to_Hypocrisy,Loaded_Language
+25126	17	Loaded_Language,Name_Calling-Labeling
+25126	19	Loaded_Language,Name_Calling-Labeling

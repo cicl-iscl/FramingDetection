@@ -1,0 +1,4 @@
+26109	1	Doubt,Loaded_Language
+26109	3	Appeal_to_Popularity,Doubt,Loaded_Language
+26109	5	Doubt
+26109	7	Conversation_Killer,Doubt,Exaggeration-Minimisation,Loaded_Language,Questioning_the_Reputation

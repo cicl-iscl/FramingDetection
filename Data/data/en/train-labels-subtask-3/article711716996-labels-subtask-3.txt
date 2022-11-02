@@ -1,0 +1,13 @@
+711716996	1	
+711716996	3	Causal_Oversimplification,Loaded_Language
+711716996	4	Causal_Oversimplification,Name_Calling-Labeling
+711716996	5	Loaded_Language,Name_Calling-Labeling
+711716996	6	Loaded_Language,Name_Calling-Labeling
+711716996	7	Exaggeration-Minimisation,Loaded_Language,Red_Herring
+711716996	8	Causal_Oversimplification,Loaded_Language,Name_Calling-Labeling,Repetition
+711716996	9	
+711716996	10	Loaded_Language,Repetition
+711716996	11	
+711716996	12	Repetition
+711716996	13	Repetition
+711716996	14	

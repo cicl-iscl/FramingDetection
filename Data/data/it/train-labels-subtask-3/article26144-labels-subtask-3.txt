@@ -1,0 +1,8 @@
+26144	1	
+26144	3	Consequential_Oversimplification,Doubt,Loaded_Language,Name_Calling-Labeling,Obfuscation-Vagueness-Confusion
+26144	5	
+26144	7	Causal_Oversimplification,Name_Calling-Labeling,Obfuscation-Vagueness-Confusion
+26144	9	
+26144	11	Appeal_to_Authority,Consequential_Oversimplification,Obfuscation-Vagueness-Confusion
+26144	13	Name_Calling-Labeling
+26144	15	Conversation_Killer,False_Dilemma-No_Choice,Slogans

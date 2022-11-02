@@ -1,0 +1,23 @@
+727736557	1	
+727736557	3	Name_Calling-Labeling
+727736557	4	Name_Calling-Labeling
+727736557	5	Loaded_Language
+727736557	6	Loaded_Language
+727736557	7	Causal_Oversimplification
+727736557	8	Loaded_Language,Name_Calling-Labeling
+727736557	9	
+727736557	10	Name_Calling-Labeling
+727736557	11	Loaded_Language,Name_Calling-Labeling
+727736557	12	
+727736557	14	
+727736557	16	Repetition
+727736557	17	
+727736557	18	
+727736557	19	
+727736557	20	Conversation_Killer
+727736557	21	
+727736557	22	
+727736557	23	Conversation_Killer,Exaggeration-Minimisation
+727736557	24	
+727736557	25	Name_Calling-Labeling
+727736557	26	Doubt

@@ -1,0 +1,12 @@
+2562	1	Appeal_to_Fear-Prejudice,Loaded_Language
+2562	3	Appeal_to_Values,Loaded_Language,Name_Calling-Labeling,Repetition
+2562	5	Appeal_to_Authority,Appeal_to_Fear-Prejudice
+2562	7	Appeal_to_Values,Doubt,Name_Calling-Labeling,Repetition
+2562	9	Doubt,Loaded_Language,Name_Calling-Labeling
+2562	11	Loaded_Language,Name_Calling-Labeling
+2562	13	Appeal_to_Fear-Prejudice,Causal_Oversimplification,Consequential_Oversimplification,Flag_Waving,Name_Calling-Labeling,Repetition
+2562	15	Appeal_to_Fear-Prejudice,Loaded_Language
+2562	17	Appeal_to_Values,Doubt,Loaded_Language
+2562	19	Appeal_to_Fear-Prejudice,Doubt,Loaded_Language,Questioning_the_Reputation,Slogans
+2562	21	Appeal_to_Fear-Prejudice,Loaded_Language,Repetition
+2562	23	Appeal_to_Fear-Prejudice,Doubt,Flag_Waving,Loaded_Language,Repetition

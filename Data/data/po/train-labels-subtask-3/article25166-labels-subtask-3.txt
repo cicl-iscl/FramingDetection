@@ -1,0 +1,8 @@
+25166	1	Guilt_by_Association
+25166	3	Exaggeration-Minimisation,Guilt_by_Association,Name_Calling-Labeling,Questioning_the_Reputation
+25166	5	Exaggeration-Minimisation,Guilt_by_Association,Loaded_Language,Questioning_the_Reputation
+25166	7	Name_Calling-Labeling,Questioning_the_Reputation
+25166	9	Appeal_to_Fear-Prejudice,Loaded_Language
+25166	11	Obfuscation-Vagueness-Confusion
+25166	13	
+25166	15	Doubt,Flag_Waving

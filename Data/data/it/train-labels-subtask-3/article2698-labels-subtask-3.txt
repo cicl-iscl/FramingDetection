@@ -1,0 +1,32 @@
+2698	1	Loaded_Language
+2698	3	
+2698	5	
+2698	7	Name_Calling-Labeling
+2698	9	
+2698	11	Doubt
+2698	13	
+2698	15	
+2698	17	
+2698	19	Conversation_Killer,Doubt
+2698	21	
+2698	23	
+2698	25	
+2698	27	
+2698	29	
+2698	31	
+2698	33	
+2698	35	Causal_Oversimplification
+2698	37	
+2698	39	Conversation_Killer
+2698	41	Conversation_Killer
+2698	43	Name_Calling-Labeling
+2698	45	
+2698	47	
+2698	49	
+2698	50	
+2698	52	
+2698	54	Doubt
+2698	56	
+2698	58	Doubt
+2698	60	Appeal_to_Fear-Prejudice,Causal_Oversimplification,Conversation_Killer,Questioning_the_Reputation
+2698	62	Appeal_to_Fear-Prejudice,Conversation_Killer

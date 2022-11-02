@@ -1,0 +1,10 @@
+762546428	1	Loaded_Language
+762546428	3	Loaded_Language,Name_Calling-Labeling,Repetition
+762546428	4	
+762546428	5	Exaggeration-Minimisation,Loaded_Language,Repetition
+762546428	6	Loaded_Language,Repetition
+762546428	7	Repetition
+762546428	8	Repetition
+762546428	9	Causal_Oversimplification,Exaggeration-Minimisation,Loaded_Language,Repetition
+762546428	10	
+762546428	11	Flag_Waving,Loaded_Language

@@ -1,0 +1,18 @@
+730559808	1	
+730559808	3	
+730559808	4	
+730559808	5	
+730559808	6	
+730559808	7	False_Dilemma-No_Choice,Loaded_Language
+730559808	8	Appeal_to_Popularity,Exaggeration-Minimisation
+730559808	9	
+730559808	10	
+730559808	11	
+730559808	12	Causal_Oversimplification,False_Dilemma-No_Choice
+730559808	13	False_Dilemma-No_Choice,Guilt_by_Association
+730559808	14	Causal_Oversimplification
+730559808	15	Appeal_to_Popularity,Conversation_Killer,False_Dilemma-No_Choice,Repetition
+730559808	16	
+730559808	17	Appeal_to_Fear-Prejudice,Loaded_Language
+730559808	18	Appeal_to_Authority,Appeal_to_Fear-Prejudice,Exaggeration-Minimisation
+730559808	19	

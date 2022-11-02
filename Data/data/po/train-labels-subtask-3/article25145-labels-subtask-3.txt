@@ -1,0 +1,13 @@
+25145	1	
+25145	3	Loaded_Language
+25145	5	
+25145	7	
+25145	9	
+25145	11	Doubt
+25145	13	
+25145	15	
+25145	17	
+25145	19	Doubt,Name_Calling-Labeling
+25145	21	Appeal_to_Hypocrisy,Doubt,Name_Calling-Labeling
+25145	23	Appeal_to_Hypocrisy
+25145	25	

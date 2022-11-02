@@ -1,0 +1,13 @@
+781847297	1	
+781847297	3	Exaggeration-Minimisation,Loaded_Language
+781847297	4	Doubt
+781847297	5	Appeal_to_Hypocrisy,Doubt
+781847297	6	
+781847297	7	Loaded_Language
+781847297	8	Name_Calling-Labeling
+781847297	9	
+781847297	10	Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling
+781847297	11	
+781847297	12	
+781847297	13	
+781847297	14	

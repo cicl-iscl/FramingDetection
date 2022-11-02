@@ -1,0 +1,19 @@
+789370909	1	
+789370909	3	Loaded_Language
+789370909	4	
+789370909	5	
+789370909	6	Exaggeration-Minimisation,Name_Calling-Labeling,Slogans
+789370909	8	
+789370909	9	Loaded_Language
+789370909	10	Loaded_Language
+789370909	11	Loaded_Language,Repetition
+789370909	12	
+789370909	13	Doubt
+789370909	14	Name_Calling-Labeling
+789370909	15	Doubt,Name_Calling-Labeling
+789370909	16	
+789370909	17	Appeal_to_Authority,Doubt,Slogans
+789370909	18	Causal_Oversimplification,Name_Calling-Labeling,Repetition
+789370909	19	Exaggeration-Minimisation,Flag_Waving
+789370909	20	Flag_Waving,Loaded_Language,Repetition
+789370909	21	Loaded_Language,Slogans

@@ -1,0 +1,24 @@
+788847916	1	
+788847916	3	Name_Calling-Labeling
+788847916	4	Appeal_to_Fear-Prejudice,Loaded_Language
+788847916	5	
+788847916	6	
+788847916	7	
+788847916	8	
+788847916	9	
+788847916	10	
+788847916	11	
+788847916	12	
+788847916	13	Doubt
+788847916	14	
+788847916	15	Name_Calling-Labeling
+788847916	16	
+788847916	17	Appeal_to_Fear-Prejudice
+788847916	18	Appeal_to_Fear-Prejudice
+788847916	19	Name_Calling-Labeling,Repetition
+788847916	20	
+788847916	21	
+788847916	22	
+788847916	23	Repetition
+788847916	24	Exaggeration-Minimisation,Repetition
+788847916	25	

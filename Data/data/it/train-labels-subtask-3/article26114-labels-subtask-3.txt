@@ -1,0 +1,13 @@
+26114	1	Loaded_Language,Straw_Man
+26114	3	Doubt,Loaded_Language
+26114	5	Appeal_to_Fear-Prejudice,Consequential_Oversimplification,Loaded_Language
+26114	7	Doubt,Exaggeration-Minimisation
+26114	9	Doubt,Name_Calling-Labeling
+26114	11	Guilt_by_Association,Loaded_Language
+26114	13	Appeal_to_Values,Loaded_Language
+26114	14	Appeal_to_Values
+26114	16	Loaded_Language
+26114	18	Appeal_to_Fear-Prejudice,Doubt,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+26114	20	
+26114	22	Doubt,Loaded_Language,Questioning_the_Reputation
+26114	24	Doubt,Loaded_Language

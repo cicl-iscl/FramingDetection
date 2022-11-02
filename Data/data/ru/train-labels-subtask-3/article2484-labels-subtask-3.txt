@@ -1,0 +1,68 @@
+2484	1	
+2484	3	
+2484	5	
+2484	7	
+2484	9	Consequential_Oversimplification,Loaded_Language
+2484	11	
+2484	13	Questioning_the_Reputation
+2484	15	
+2484	17	
+2484	18	
+2484	20	
+2484	22	Loaded_Language
+2484	24	Doubt,Name_Calling-Labeling
+2484	26	Doubt,Loaded_Language
+2484	28	Loaded_Language
+2484	30	
+2484	32	
+2484	34	Doubt,Name_Calling-Labeling
+2484	36	
+2484	38	
+2484	40	Conversation_Killer
+2484	42	Doubt,Name_Calling-Labeling,Questioning_the_Reputation
+2484	44	Loaded_Language
+2484	46	
+2484	48	
+2484	50	
+2484	52	Doubt
+2484	54	
+2484	55	
+2484	57	
+2484	59	
+2484	61	
+2484	63	
+2484	65	
+2484	67	
+2484	69	Loaded_Language
+2484	71	
+2484	73	
+2484	75	
+2484	77	
+2484	79	
+2484	81	
+2484	83	Loaded_Language
+2484	85	
+2484	87	
+2484	89	Loaded_Language
+2484	91	
+2484	92	
+2484	94	
+2484	96	
+2484	98	
+2484	100	
+2484	102	
+2484	104	
+2484	106	Causal_Oversimplification
+2484	108	
+2484	110	
+2484	112	
+2484	114	
+2484	116	
+2484	117	
+2484	119	Doubt
+2484	121	
+2484	123	Doubt
+2484	125	
+2484	127	Doubt
+2484	129	Name_Calling-Labeling
+2484	131	Doubt,Loaded_Language

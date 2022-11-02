@@ -1,0 +1,10 @@
+26243	2	
+26243	4	
+26243	6	Doubt,Loaded_Language,Name_Calling-Labeling,Slogans
+26243	8	
+26243	10	Doubt,Loaded_Language,Name_Calling-Labeling,Obfuscation-Vagueness-Confusion,Questioning_the_Reputation,Slogans
+26243	12	Doubt,Loaded_Language,Name_Calling-Labeling
+26243	14	
+26243	16	Appeal_to_Fear-Prejudice,Doubt,Loaded_Language,Name_Calling-Labeling
+26243	18	
+26243	20	Appeal_to_Hypocrisy,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation

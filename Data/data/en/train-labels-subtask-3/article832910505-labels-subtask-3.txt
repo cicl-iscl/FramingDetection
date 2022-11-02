@@ -1,0 +1,23 @@
+832910505	1	Loaded_Language,Name_Calling-Labeling,Slogans
+832910505	3	Name_Calling-Labeling
+832910505	4	Exaggeration-Minimisation
+832910505	5	Loaded_Language
+832910505	6	Loaded_Language
+832910505	7	
+832910505	8	
+832910505	9	
+832910505	10	
+832910505	11	Name_Calling-Labeling
+832910505	12	
+832910505	13	
+832910505	14	
+832910505	15	
+832910505	16	Loaded_Language
+832910505	17	
+832910505	18	
+832910505	19	Loaded_Language,Name_Calling-Labeling
+832910505	20	
+832910505	21	Loaded_Language,Repetition
+832910505	22	Loaded_Language
+832910505	23	Loaded_Language
+832910505	24	

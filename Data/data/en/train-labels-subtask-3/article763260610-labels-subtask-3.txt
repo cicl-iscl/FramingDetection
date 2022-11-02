@@ -1,0 +1,32 @@
+763260610	1	Loaded_Language
+763260610	3	Name_Calling-Labeling
+763260610	4	
+763260610	5	Name_Calling-Labeling
+763260610	6	
+763260610	7	Appeal_to_Fear-Prejudice,Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling
+763260610	8	Loaded_Language,Name_Calling-Labeling
+763260610	9	Exaggeration-Minimisation,Loaded_Language
+763260610	10	Name_Calling-Labeling
+763260610	11	Appeal_to_Authority,Exaggeration-Minimisation,Flag_Waving,Loaded_Language,Name_Calling-Labeling
+763260610	12	Exaggeration-Minimisation,Name_Calling-Labeling
+763260610	13	Exaggeration-Minimisation,Loaded_Language
+763260610	14	
+763260610	15	Loaded_Language
+763260610	16	Exaggeration-Minimisation,Loaded_Language
+763260610	17	Exaggeration-Minimisation,Name_Calling-Labeling
+763260610	18	Loaded_Language,Name_Calling-Labeling
+763260610	19	
+763260610	20	Exaggeration-Minimisation,Loaded_Language
+763260610	21	Loaded_Language,Name_Calling-Labeling
+763260610	22	Name_Calling-Labeling
+763260610	23	Loaded_Language
+763260610	24	Loaded_Language,Name_Calling-Labeling
+763260610	25	
+763260610	26	Appeal_to_Hypocrisy,Exaggeration-Minimisation,Loaded_Language,Repetition
+763260610	27	Loaded_Language
+763260610	28	Exaggeration-Minimisation,Loaded_Language
+763260610	29	Loaded_Language,Repetition,Whataboutism
+763260610	30	
+763260610	31	Loaded_Language
+763260610	32	Loaded_Language,Whataboutism
+763260610	33	

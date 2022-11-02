@@ -1,0 +1,5 @@
+26135	1	
+26135	3	Conversation_Killer,Loaded_Language,Questioning_the_Reputation,Straw_Man
+26135	5	Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling
+26135	7	Appeal_to_Time
+26135	9	Exaggeration-Minimisation,Loaded_Language

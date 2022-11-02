@@ -1,0 +1,6 @@
+2391	1	
+2391	3	Doubt
+2391	5	Appeal_to_Popularity,Appeal_to_Values,Loaded_Language
+2391	7	
+2391	9	Appeal_to_Values,Exaggeration-Minimisation
+2391	11	

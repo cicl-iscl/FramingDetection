@@ -1,0 +1,18 @@
+26103	1	Appeal_to_Fear-Prejudice,Name_Calling-Labeling
+26103	3	Causal_Oversimplification,Exaggeration-Minimisation,Name_Calling-Labeling
+26103	5	
+26103	7	
+26103	9	Loaded_Language
+26103	11	Doubt
+26103	13	Loaded_Language
+26103	15	Loaded_Language
+26103	17	Exaggeration-Minimisation,Loaded_Language
+26103	19	
+26103	21	Consequential_Oversimplification
+26103	23	Appeal_to_Fear-Prejudice,Doubt,Loaded_Language
+26103	25	Doubt
+26103	27	
+26103	29	Loaded_Language
+26103	31	Doubt
+26103	33	Appeal_to_Popularity
+26103	35	Appeal_to_Time,Name_Calling-Labeling

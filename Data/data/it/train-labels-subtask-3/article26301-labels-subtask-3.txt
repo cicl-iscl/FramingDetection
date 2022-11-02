@@ -1,0 +1,6 @@
+26301	1	Doubt
+26301	2	Doubt
+26301	4	Doubt,Questioning_the_Reputation
+26301	7	Appeal_to_Fear-Prejudice,Doubt
+26301	9	
+26301	11	Doubt

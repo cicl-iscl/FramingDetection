@@ -1,0 +1,30 @@
+999001280	1	
+999001280	3	Loaded_Language,Name_Calling-Labeling
+999001280	4	Repetition
+999001280	5	Loaded_Language
+999001280	6	Doubt,Loaded_Language,Repetition
+999001280	7	
+999001280	8	
+999001280	9	
+999001280	10	
+999001280	11	
+999001280	12	
+999001280	13	Exaggeration-Minimisation,Loaded_Language,Repetition
+999001280	14	Repetition
+999001280	15	Repetition
+999001280	16	Repetition
+999001280	17	Repetition
+999001280	18	Loaded_Language,Red_Herring
+999001280	19	
+999001280	20	
+999001280	21	Name_Calling-Labeling
+999001280	22	
+999001280	23	Flag_Waving,Loaded_Language,Repetition
+999001280	24	
+999001280	25	Loaded_Language
+999001280	26	Loaded_Language,Name_Calling-Labeling,Repetition
+999001280	27	Loaded_Language,Repetition
+999001280	28	Causal_Oversimplification,Loaded_Language
+999001280	29	Loaded_Language,Name_Calling-Labeling,Repetition
+999001280	30	Loaded_Language
+999001280	31	

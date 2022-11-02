@@ -1,0 +1,9 @@
+2348	1	
+2348	3	Loaded_Language,Questioning_the_Reputation
+2348	4	
+2348	6	Appeal_to_Popularity,Loaded_Language,Questioning_the_Reputation
+2348	8	Appeal_to_Fear-Prejudice,Appeal_to_Hypocrisy,Conversation_Killer,Doubt,Loaded_Language
+2348	10	Appeal_to_Hypocrisy,Causal_Oversimplification,Guilt_by_Association,Loaded_Language,Questioning_the_Reputation,Straw_Man
+2348	11	
+2348	13	Flag_Waving,Loaded_Language
+2348	15	Loaded_Language

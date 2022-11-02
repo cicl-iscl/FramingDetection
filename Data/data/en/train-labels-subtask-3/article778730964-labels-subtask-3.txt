@@ -1,0 +1,11 @@
+778730964	1	Loaded_Language,Name_Calling-Labeling,Slogans
+778730964	3	Causal_Oversimplification,Loaded_Language,Name_Calling-Labeling
+778730964	4	Loaded_Language
+778730964	5	
+778730964	6	
+778730964	7	
+778730964	8	
+778730964	9	
+778730964	10	Name_Calling-Labeling
+778730964	11	Doubt,Exaggeration-Minimisation,Guilt_by_Association,Name_Calling-Labeling
+778730964	12	

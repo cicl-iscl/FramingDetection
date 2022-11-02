@@ -1,0 +1,5 @@
+26130	1	
+26130	3	Doubt,Loaded_Language,Name_Calling-Labeling
+26130	5	Appeal_to_Hypocrisy,Doubt
+26130	7	Causal_Oversimplification,False_Dilemma-No_Choice,Name_Calling-Labeling,Questioning_the_Reputation
+26130	9	Loaded_Language

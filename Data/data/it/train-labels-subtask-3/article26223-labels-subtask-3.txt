@@ -1,0 +1,8 @@
+26223	1	Doubt,Questioning_the_Reputation
+26223	3	Questioning_the_Reputation
+26223	5	Appeal_to_Authority,Conversation_Killer,Doubt,Exaggeration-Minimisation,False_Dilemma-No_Choice,Loaded_Language,Questioning_the_Reputation
+26223	7	
+26223	9	Appeal_to_Authority,Appeal_to_Hypocrisy,Doubt,Loaded_Language,Questioning_the_Reputation,Slogans
+26223	11	
+26223	13	Conversation_Killer,Doubt
+26223	15	Appeal_to_Authority,Appeal_to_Fear-Prejudice,Conversation_Killer,Doubt,Loaded_Language,Name_Calling-Labeling,Repetition

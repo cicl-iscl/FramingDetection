@@ -1,0 +1,13 @@
+2653	1	
+2653	3	Doubt,Name_Calling-Labeling
+2653	5	Name_Calling-Labeling
+2653	7	Doubt,Loaded_Language,Name_Calling-Labeling
+2653	9	
+2653	11	
+2653	13	
+2653	15	
+2653	17	Doubt
+2653	19	Doubt
+2653	22	Doubt
+2653	24	Conversation_Killer,Doubt,Loaded_Language,Name_Calling-Labeling
+2653	26	Doubt

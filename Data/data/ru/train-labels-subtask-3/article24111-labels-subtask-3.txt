@@ -1,0 +1,26 @@
+24111	1	
+24111	3	Doubt,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+24111	5	
+24111	7	
+24111	9	Conversation_Killer,Doubt
+24111	11	Flag_Waving,Loaded_Language
+24111	14	Doubt,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation,Straw_Man
+24111	16	
+24111	18	False_Dilemma-No_Choice,Repetition
+24111	20	Doubt,Loaded_Language
+24111	22	Doubt,Loaded_Language,Questioning_the_Reputation
+24111	24	Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+24111	26	Doubt
+24111	28	Loaded_Language,Questioning_the_Reputation
+24111	30	Doubt,Questioning_the_Reputation
+24111	32	
+24111	34	Appeal_to_Hypocrisy,Loaded_Language,Questioning_the_Reputation
+24111	36	Appeal_to_Hypocrisy
+24111	38	Doubt
+24111	40	Doubt,Loaded_Language
+24111	42	Doubt,Loaded_Language
+24111	44	
+24111	46	Loaded_Language
+24111	48	Doubt,Name_Calling-Labeling
+24111	50	Doubt,Flag_Waving,Name_Calling-Labeling
+24111	52	

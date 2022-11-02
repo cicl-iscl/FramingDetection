@@ -1,0 +1,7 @@
+2462	1	Loaded_Language
+2462	2	Appeal_to_Fear-Prejudice
+2462	4	Appeal_to_Fear-Prejudice
+2462	5	
+2462	7	Appeal_to_Fear-Prejudice,Conversation_Killer
+2462	8	Questioning_the_Reputation
+2462	10	Doubt

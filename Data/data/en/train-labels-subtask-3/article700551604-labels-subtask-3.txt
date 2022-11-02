@@ -1,0 +1,37 @@
+700551604	1	
+700551604	3	
+700551604	4	
+700551604	5	
+700551604	6	
+700551604	7	
+700551604	8	
+700551604	9	
+700551604	10	
+700551604	11	
+700551604	12	Loaded_Language
+700551604	13	Causal_Oversimplification,Flag_Waving
+700551604	14	
+700551604	15	Loaded_Language
+700551604	16	
+700551604	17	Exaggeration-Minimisation
+700551604	18	
+700551604	19	Doubt
+700551604	20	Causal_Oversimplification,Exaggeration-Minimisation,Loaded_Language
+700551604	21	Name_Calling-Labeling
+700551604	22	
+700551604	23	
+700551604	24	Exaggeration-Minimisation,Loaded_Language
+700551604	25	
+700551604	26	Guilt_by_Association,Name_Calling-Labeling
+700551604	27	Causal_Oversimplification
+700551604	28	
+700551604	29	
+700551604	30	Loaded_Language
+700551604	31	Causal_Oversimplification
+700551604	32	Causal_Oversimplification
+700551604	33	
+700551604	34	Flag_Waving
+700551604	35	Flag_Waving
+700551604	36	Flag_Waving
+700551604	37	
+700551604	38	

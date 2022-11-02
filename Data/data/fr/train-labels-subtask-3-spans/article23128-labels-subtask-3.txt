@@ -1,0 +1,5 @@
+23128	Obfuscation-Vagueness-Confusion	29	96
+23128	Questioning_the_Reputation	1703	1786
+23128	Loaded_Language	2286	2307
+23128	Obfuscation-Vagueness-Confusion	1199	1296
+23128	Doubt	1314	1390

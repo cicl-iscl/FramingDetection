@@ -1,0 +1,20 @@
+2324	1	Slogans
+2324	3	Doubt,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+2324	5	Appeal_to_Values,Doubt,Exaggeration-Minimisation,False_Dilemma-No_Choice
+2324	7	Doubt
+2324	9	Appeal_to_Authority,Exaggeration-Minimisation,Repetition
+2324	11	
+2324	13	Loaded_Language,Name_Calling-Labeling
+2324	15	Causal_Oversimplification
+2324	16	Slogans
+2324	18	Exaggeration-Minimisation,Loaded_Language
+2324	20	
+2324	22	Appeal_to_Authority,Appeal_to_Fear-Prejudice,Loaded_Language
+2324	24	Conversation_Killer
+2324	26	Exaggeration-Minimisation,Questioning_the_Reputation,Slogans
+2324	28	Appeal_to_Fear-Prejudice,Loaded_Language
+2324	30	Conversation_Killer,Obfuscation-Vagueness-Confusion
+2324	32	Appeal_to_Fear-Prejudice,Appeal_to_Values,Loaded_Language,Slogans
+2324	34	Causal_Oversimplification,Conversation_Killer,Slogans
+2324	36	Conversation_Killer,Doubt,Exaggeration-Minimisation,Name_Calling-Labeling,Slogans
+2324	38	Exaggeration-Minimisation,Loaded_Language,Obfuscation-Vagueness-Confusion

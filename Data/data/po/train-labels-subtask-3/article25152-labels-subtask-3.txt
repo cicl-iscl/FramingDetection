@@ -1,0 +1,11 @@
+25152	1	
+25152	3	Name_Calling-Labeling
+25152	5	Appeal_to_Hypocrisy,Exaggeration-Minimisation,Questioning_the_Reputation
+25152	7	
+25152	9	Doubt,Guilt_by_Association,Name_Calling-Labeling
+25152	11	
+25152	13	Conversation_Killer,Doubt,Flag_Waving,Straw_Man
+25152	15	
+25152	17	Doubt,Exaggeration-Minimisation,Guilt_by_Association,Loaded_Language,Questioning_the_Reputation
+25152	19	
+25152	21	Doubt,Loaded_Language

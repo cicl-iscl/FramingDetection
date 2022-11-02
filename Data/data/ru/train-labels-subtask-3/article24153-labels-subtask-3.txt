@@ -1,0 +1,5 @@
+24153	1	Appeal_to_Fear-Prejudice
+24153	3	Appeal_to_Fear-Prejudice,Loaded_Language,Questioning_the_Reputation
+24153	5	Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+24153	7	Loaded_Language
+24153	9	Appeal_to_Popularity
