@@ -1,0 +1,15 @@
+26200	1	
+26200	3	Appeal_to_Fear-Prejudice,Doubt,Loaded_Language
+26200	5	Appeal_to_Fear-Prejudice,Causal_Oversimplification,Doubt,Loaded_Language
+26200	7	Doubt,Name_Calling-Labeling,Slogans
+26200	9	
+26200	11	
+26200	13	Questioning_the_Reputation
+26200	15	Consequential_Oversimplification,Doubt,Flag_Waving
+26200	17	Loaded_Language,Questioning_the_Reputation
+26200	19	Consequential_Oversimplification,Loaded_Language,Name_Calling-Labeling
+26200	21	
+26200	23	
+26200	25	Appeal_to_Popularity,Conversation_Killer,Doubt,Loaded_Language
+26200	27	Doubt,Loaded_Language,Name_Calling-Labeling,Slogans
+26200	29	

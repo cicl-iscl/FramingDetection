@@ -1,0 +1,27 @@
+23141	1	Loaded_Language
+23141	3	
+23141	5	False_Dilemma-No_Choice,Slogans
+23141	7	
+23141	9	Appeal_to_Fear-Prejudice
+23141	11	Appeal_to_Hypocrisy,Loaded_Language
+23141	13	
+23141	15	Appeal_to_Authority,Loaded_Language
+23141	17	Appeal_to_Fear-Prejudice,Consequential_Oversimplification,Loaded_Language
+23141	19	Appeal_to_Fear-Prejudice,Loaded_Language
+23141	21	Doubt,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+23141	23	Causal_Oversimplification
+23141	25	
+23141	27	
+23141	29	
+23141	31	
+23141	33	Questioning_the_Reputation,Straw_Man
+23141	35	
+23141	37	
+23141	39	
+23141	41	
+23141	43	
+23141	45	Loaded_Language
+23141	47	Slogans
+23141	49	Doubt,Loaded_Language
+23141	51	Appeal_to_Fear-Prejudice,Loaded_Language
+23141	53	False_Dilemma-No_Choice,Name_Calling-Labeling

@@ -1,0 +1,12 @@
+25175	1	Loaded_Language,Questioning_the_Reputation
+25175	3	Loaded_Language,Questioning_the_Reputation
+25175	5	
+25175	7	Name_Calling-Labeling
+25175	9	
+25175	11	Flag_Waving
+25175	13	Appeal_to_Values
+25175	15	
+25175	17	Loaded_Language,Questioning_the_Reputation
+25175	19	Name_Calling-Labeling
+25175	21	Appeal_to_Values,Questioning_the_Reputation
+25175	23	Appeal_to_Popularity,Appeal_to_Values

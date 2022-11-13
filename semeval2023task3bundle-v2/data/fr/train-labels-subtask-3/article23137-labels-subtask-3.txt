@@ -1,0 +1,8 @@
+23137	1	
+23137	3	Loaded_Language
+23137	5	Loaded_Language,Repetition
+23137	7	
+23137	9	False_Dilemma-No_Choice
+23137	11	Obfuscation-Vagueness-Confusion
+23137	13	Appeal_to_Values
+23137	15	Appeal_to_Fear-Prejudice,Appeal_to_Popularity,Exaggeration-Minimisation

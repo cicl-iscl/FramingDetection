@@ -1,0 +1,19 @@
+111111124	1	Loaded_Language
+111111124	3	Loaded_Language
+111111124	5	Name_Calling-Labeling
+111111124	8	
+111111124	10	
+111111124	12	
+111111124	14	
+111111124	16	
+111111124	17	
+111111124	19	Name_Calling-Labeling
+111111124	21	Loaded_Language
+111111124	22	
+111111124	24	Exaggeration-Minimisation
+111111124	26	Loaded_Language
+111111124	28	
+111111124	30	Loaded_Language,Name_Calling-Labeling
+111111124	32	Causal_Oversimplification,Loaded_Language
+111111124	34	Doubt,Name_Calling-Labeling
+111111124	36	Name_Calling-Labeling

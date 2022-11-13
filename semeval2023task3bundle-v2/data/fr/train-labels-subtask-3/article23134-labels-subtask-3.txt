@@ -1,0 +1,18 @@
+23134	1	
+23134	3	
+23134	5	Loaded_Language,Slogans
+23134	7	Loaded_Language,Red_Herring
+23134	9	Loaded_Language,Red_Herring
+23134	11	
+23134	13	
+23134	15	
+23134	17	Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling,Slogans
+23134	19	Flag_Waving,Loaded_Language,Straw_Man
+23134	21	Loaded_Language
+23134	23	Appeal_to_Authority,Exaggeration-Minimisation,Loaded_Language
+23134	25	Loaded_Language
+23134	27	
+23134	29	Doubt
+23134	31	Appeal_to_Fear-Prejudice,Loaded_Language,Name_Calling-Labeling,Whataboutism
+23134	33	Exaggeration-Minimisation,Loaded_Language,Slogans
+23134	35	Doubt,Exaggeration-Minimisation

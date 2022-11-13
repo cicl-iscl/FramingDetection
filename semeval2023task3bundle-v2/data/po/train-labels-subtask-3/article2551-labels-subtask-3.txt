@@ -1,0 +1,10 @@
+2551	1	Appeal_to_Values,Name_Calling-Labeling
+2551	3	Appeal_to_Fear-Prejudice,Doubt,Name_Calling-Labeling
+2551	5	Loaded_Language
+2551	7	
+2551	9	Appeal_to_Fear-Prejudice,Appeal_to_Values,Doubt,Flag_Waving,Guilt_by_Association,Name_Calling-Labeling
+2551	11	Name_Calling-Labeling
+2551	13	Doubt,Name_Calling-Labeling
+2551	15	Appeal_to_Fear-Prejudice,Appeal_to_Values,Flag_Waving,Guilt_by_Association,Loaded_Language,Name_Calling-Labeling
+2551	17	Exaggeration-Minimisation,Name_Calling-Labeling
+2551	19	Appeal_to_Fear-Prejudice,Appeal_to_Values,Doubt,Name_Calling-Labeling,Questioning_the_Reputation

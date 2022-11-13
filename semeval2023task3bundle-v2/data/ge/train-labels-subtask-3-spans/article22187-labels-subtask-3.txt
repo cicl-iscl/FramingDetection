@@ -1,0 +1,4 @@
+22187	Name_Calling-Labeling	1072	1090
+22187	Appeal_to_Hypocrisy	509	555
+22187	Name_Calling-Labeling	1140	1165
+22187	Name_Calling-Labeling	654	681

@@ -1,0 +1,7 @@
+25185	1	
+25185	3	Doubt,Name_Calling-Labeling
+25185	5	Appeal_to_Fear-Prejudice,Doubt,Name_Calling-Labeling
+25185	7	Doubt,Name_Calling-Labeling
+25185	9	Appeal_to_Hypocrisy
+25185	11	Appeal_to_Hypocrisy
+25185	13	

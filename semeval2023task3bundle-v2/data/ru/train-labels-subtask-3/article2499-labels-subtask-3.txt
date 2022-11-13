@@ -1,0 +1,54 @@
+2499	1	
+2499	3	Questioning_the_Reputation
+2499	4	
+2499	7	
+2499	9	Doubt,Loaded_Language
+2499	11	Exaggeration-Minimisation
+2499	13	
+2499	15	Loaded_Language,Name_Calling-Labeling
+2499	17	Doubt,Loaded_Language,Questioning_the_Reputation
+2499	19	Loaded_Language
+2499	21	Exaggeration-Minimisation,Loaded_Language
+2499	23	Exaggeration-Minimisation,Name_Calling-Labeling
+2499	25	
+2499	27	
+2499	28	
+2499	30	Doubt,Loaded_Language
+2499	32	Doubt,Loaded_Language
+2499	34	Loaded_Language,Questioning_the_Reputation
+2499	36	
+2499	37	Doubt,Loaded_Language
+2499	39	Doubt
+2499	41	Appeal_to_Hypocrisy
+2499	43	Doubt
+2499	45	
+2499	47	Name_Calling-Labeling,Questioning_the_Reputation
+2499	49	Appeal_to_Values
+2499	51	
+2499	53	
+2499	55	Appeal_to_Values
+2499	57	Consequential_Oversimplification
+2499	59	Doubt
+2499	61	Loaded_Language
+2499	63	Loaded_Language
+2499	65	Name_Calling-Labeling
+2499	67	
+2499	69	Conversation_Killer,Doubt,Loaded_Language
+2499	71	Loaded_Language
+2499	73	Doubt,Loaded_Language
+2499	75	Loaded_Language
+2499	77	Loaded_Language
+2499	79	Doubt,Loaded_Language
+2499	81	
+2499	83	Doubt,Loaded_Language
+2499	85	Doubt
+2499	87	
+2499	89	
+2499	91	
+2499	93	
+2499	95	
+2499	97	
+2499	99	
+2499	101	
+2499	103	Consequential_Oversimplification,Flag_Waving
+2499	105	

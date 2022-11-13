@@ -1,0 +1,17 @@
+26228	1	
+26228	3	
+26228	5	Loaded_Language,Questioning_the_Reputation
+26228	7	
+26228	9	Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling,Straw_Man
+26228	11	Straw_Man
+26228	13	
+26228	15	Causal_Oversimplification
+26228	17	Appeal_to_Hypocrisy,Loaded_Language
+26228	19	
+26228	21	
+26228	23	Loaded_Language
+26228	25	Doubt,Obfuscation-Vagueness-Confusion
+26228	27	Doubt,Loaded_Language,Name_Calling-Labeling
+26228	29	Appeal_to_Fear-Prejudice
+26228	31	Conversation_Killer
+26228	33	

@@ -1,0 +1,32 @@
+24104	1	Loaded_Language
+24104	3	Doubt,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+24104	5	Loaded_Language
+24104	7	Appeal_to_Hypocrisy,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+24104	9	Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation,Slogans
+24104	11	
+24104	13	Loaded_Language,Questioning_the_Reputation,Slogans
+24104	15	Appeal_to_Hypocrisy,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+24104	17	Loaded_Language
+24104	19	Loaded_Language,Questioning_the_Reputation
+24104	21	Doubt,Loaded_Language
+24104	23	Loaded_Language,Name_Calling-Labeling
+24104	25	
+24104	27	Doubt,Loaded_Language,Name_Calling-Labeling
+24104	29	Loaded_Language
+24104	31	Appeal_to_Hypocrisy,Doubt
+24104	33	Appeal_to_Hypocrisy,Loaded_Language
+24104	35	Loaded_Language
+24104	37	Loaded_Language
+24104	39	Loaded_Language
+24104	41	Guilt_by_Association,Loaded_Language,Questioning_the_Reputation
+24104	43	Loaded_Language
+24104	45	Guilt_by_Association,Loaded_Language
+24104	47	Loaded_Language,Questioning_the_Reputation
+24104	49	Appeal_to_Hypocrisy,Loaded_Language,Name_Calling-Labeling
+24104	51	Loaded_Language
+24104	53	Loaded_Language
+24104	55	Loaded_Language,Questioning_the_Reputation
+24104	57	Loaded_Language
+24104	59	Loaded_Language
+24104	61	
+24104	63	Loaded_Language

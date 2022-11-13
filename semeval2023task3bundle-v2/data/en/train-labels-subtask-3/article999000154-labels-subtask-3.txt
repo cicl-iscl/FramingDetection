@@ -1,0 +1,14 @@
+999000154	1	
+999000154	3	Causal_Oversimplification,Loaded_Language
+999000154	4	
+999000154	5	Causal_Oversimplification,Loaded_Language
+999000154	6	
+999000154	7	
+999000154	8	
+999000154	9	
+999000154	10	
+999000154	11	Causal_Oversimplification
+999000154	12	Causal_Oversimplification
+999000154	13	Causal_Oversimplification
+999000154	14	
+999000154	15	

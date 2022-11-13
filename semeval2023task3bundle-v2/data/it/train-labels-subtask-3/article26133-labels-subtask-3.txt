@@ -1,0 +1,11 @@
+26133	1	
+26133	3	Appeal_to_Hypocrisy,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation,Red_Herring,Slogans
+26133	5	Exaggeration-Minimisation,Questioning_the_Reputation
+26133	7	Loaded_Language
+26133	9	
+26133	11	
+26133	13	Appeal_to_Hypocrisy,Loaded_Language,Name_Calling-Labeling
+26133	15	
+26133	17	
+26133	19	Causal_Oversimplification,Loaded_Language,Questioning_the_Reputation,Straw_Man
+26133	20	Loaded_Language

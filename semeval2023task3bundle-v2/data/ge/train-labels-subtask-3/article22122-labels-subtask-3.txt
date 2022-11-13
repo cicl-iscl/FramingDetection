@@ -1,0 +1,16 @@
+22122	1	
+22122	3	
+22122	5	
+22122	7	Doubt,Guilt_by_Association,Questioning_the_Reputation
+22122	9	Appeal_to_Hypocrisy,Loaded_Language,Slogans
+22122	11	Guilt_by_Association,Loaded_Language
+22122	13	Appeal_to_Hypocrisy
+22122	15	Guilt_by_Association,Questioning_the_Reputation
+22122	17	Name_Calling-Labeling,Questioning_the_Reputation
+22122	19	Guilt_by_Association,Questioning_the_Reputation
+22122	21	Loaded_Language
+22122	23	
+22122	25	
+22122	27	
+22122	29	
+22122	31	

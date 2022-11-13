@@ -1,0 +1,7 @@
+741802985	Doubt	0	116
+741802985	Loaded_Language	354	366
+741802985	Doubt	369	512
+741802985	Appeal_to_Fear-Prejudice	514	602
+741802985	Appeal_to_Fear-Prejudice	604	765
+741802985	Guilt_by_Association	1786	1816
+741802985	Loaded_Language	1902	1931

@@ -1,0 +1,14 @@
+2361	1	
+2361	3	Appeal_to_Fear-Prejudice
+2361	5	Obfuscation-Vagueness-Confusion
+2361	7	Doubt,Exaggeration-Minimisation
+2361	9	Conversation_Killer,Doubt,Exaggeration-Minimisation,Loaded_Language
+2361	11	Causal_Oversimplification,Exaggeration-Minimisation,Questioning_the_Reputation
+2361	13	Consequential_Oversimplification,Conversation_Killer,Loaded_Language,Questioning_the_Reputation,Repetition
+2361	15	Loaded_Language,Repetition
+2361	17	Loaded_Language,Whataboutism
+2361	19	
+2361	21	Causal_Oversimplification,Exaggeration-Minimisation,Questioning_the_Reputation
+2361	23	Exaggeration-Minimisation
+2361	25	Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+2361	27	Exaggeration-Minimisation,Loaded_Language

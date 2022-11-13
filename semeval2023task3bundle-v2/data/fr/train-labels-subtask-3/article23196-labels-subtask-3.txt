@@ -1,0 +1,14 @@
+23196	1	
+23196	3	
+23196	5	Appeal_to_Hypocrisy,Conversation_Killer,Loaded_Language,Questioning_the_Reputation
+23196	7	Name_Calling-Labeling
+23196	9	
+23196	10	
+23196	12	Appeal_to_Fear-Prejudice,Consequential_Oversimplification,Guilt_by_Association,Loaded_Language
+23196	14	
+23196	16	
+23196	18	
+23196	20	Loaded_Language
+23196	21	
+23196	23	Loaded_Language
+23196	25	

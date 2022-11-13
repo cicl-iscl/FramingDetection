@@ -1,0 +1,19 @@
+24108	1	Questioning_the_Reputation
+24108	3	
+24108	5	Doubt,Exaggeration-Minimisation,Name_Calling-Labeling
+24108	7	Doubt,Exaggeration-Minimisation,Name_Calling-Labeling,Questioning_the_Reputation
+24108	9	Appeal_to_Hypocrisy,Loaded_Language
+24108	11	Doubt,Loaded_Language,Slogans
+24108	13	Doubt
+24108	15	Doubt,Loaded_Language
+24108	17	Doubt,Exaggeration-Minimisation,Loaded_Language
+24108	19	Name_Calling-Labeling
+24108	21	Name_Calling-Labeling,Questioning_the_Reputation
+24108	23	Doubt,Exaggeration-Minimisation,Flag_Waving,Loaded_Language,Name_Calling-Labeling
+24108	25	Doubt,Exaggeration-Minimisation,Loaded_Language
+24108	27	Doubt
+24108	29	Doubt
+24108	31	Doubt
+24108	33	Doubt,Name_Calling-Labeling
+24108	35	Doubt
+24108	37	Loaded_Language

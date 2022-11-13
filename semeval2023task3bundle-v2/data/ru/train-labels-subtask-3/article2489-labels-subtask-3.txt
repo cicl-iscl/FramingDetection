@@ -1,0 +1,85 @@
+2489	1	Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+2489	3	Loaded_Language,Obfuscation-Vagueness-Confusion,Questioning_the_Reputation
+2489	5	Doubt,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation,Slogans
+2489	7	Doubt,Exaggeration-Minimisation,Loaded_Language,Slogans
+2489	9	
+2489	11	Loaded_Language,Name_Calling-Labeling
+2489	13	Conversation_Killer,Doubt,Loaded_Language,Name_Calling-Labeling
+2489	15	Conversation_Killer,Doubt,Name_Calling-Labeling
+2489	17	Doubt,Loaded_Language
+2489	19	
+2489	21	Appeal_to_Hypocrisy,Doubt,Loaded_Language,Name_Calling-Labeling
+2489	23	Doubt,Name_Calling-Labeling
+2489	25	Doubt,Loaded_Language
+2489	27	Doubt,Loaded_Language
+2489	29	Loaded_Language,Questioning_the_Reputation
+2489	31	
+2489	33	Loaded_Language
+2489	35	Name_Calling-Labeling
+2489	37	Doubt,Loaded_Language
+2489	39	
+2489	41	Loaded_Language,Name_Calling-Labeling
+2489	43	
+2489	45	
+2489	47	Doubt,Loaded_Language,Name_Calling-Labeling
+2489	49	
+2489	51	
+2489	53	Doubt,Loaded_Language
+2489	55	Name_Calling-Labeling
+2489	57	
+2489	59	
+2489	61	
+2489	63	
+2489	65	
+2489	67	
+2489	69	
+2489	71	
+2489	73	Repetition
+2489	75	Loaded_Language
+2489	77	Doubt,Loaded_Language
+2489	79	
+2489	81	Loaded_Language,Questioning_the_Reputation
+2489	83	Loaded_Language,Questioning_the_Reputation
+2489	85	Doubt,Loaded_Language,Name_Calling-Labeling
+2489	87	
+2489	89	Loaded_Language,Name_Calling-Labeling
+2489	91	Doubt
+2489	93	
+2489	95	Doubt,Loaded_Language
+2489	97	
+2489	99	Conversation_Killer
+2489	101	Doubt,Loaded_Language
+2489	103	
+2489	105	Name_Calling-Labeling
+2489	107	Loaded_Language,Name_Calling-Labeling
+2489	109	Doubt,Loaded_Language,Name_Calling-Labeling
+2489	111	Exaggeration-Minimisation
+2489	113	Loaded_Language,Name_Calling-Labeling
+2489	115	
+2489	117	Name_Calling-Labeling
+2489	119	
+2489	121	
+2489	123	
+2489	125	
+2489	127	Doubt,Exaggeration-Minimisation,Loaded_Language
+2489	129	Appeal_to_Hypocrisy,Loaded_Language
+2489	131	Doubt,Loaded_Language
+2489	133	
+2489	135	
+2489	137	
+2489	139	Doubt,Loaded_Language
+2489	141	Doubt,Loaded_Language,Questioning_the_Reputation
+2489	143	Loaded_Language
+2489	145	Doubt,Name_Calling-Labeling
+2489	147	Loaded_Language
+2489	149	Doubt,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+2489	151	
+2489	153	Questioning_the_Reputation
+2489	155	Doubt,Loaded_Language
+2489	157	
+2489	159	
+2489	161	
+2489	163	Loaded_Language
+2489	165	Doubt,Loaded_Language
+2489	167	Doubt,Loaded_Language,Obfuscation-Vagueness-Confusion,Questioning_the_Reputation
+2489	169	

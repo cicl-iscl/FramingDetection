@@ -1,0 +1,11 @@
+771546417	1	Slogans
+771546417	3	Repetition,Slogans
+771546417	4	Loaded_Language
+771546417	5	
+771546417	6	Loaded_Language,Name_Calling-Labeling
+771546417	7	Repetition
+771546417	8	Slogans
+771546417	9	
+771546417	10	Repetition
+771546417	11	Repetition
+771546417	12	

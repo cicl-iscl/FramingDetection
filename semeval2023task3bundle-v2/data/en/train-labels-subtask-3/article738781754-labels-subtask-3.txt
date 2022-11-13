@@ -1,0 +1,12 @@
+738781754	1	
+738781754	3	
+738781754	4	
+738781754	5	
+738781754	6	Appeal_to_Authority,Exaggeration-Minimisation
+738781754	7	
+738781754	8	
+738781754	9	
+738781754	10	Exaggeration-Minimisation,Loaded_Language
+738781754	11	Loaded_Language
+738781754	12	Doubt
+738781754	13	

@@ -92,4 +92,7 @@ def main():
     print('Results on: ', out_fn)
 
 if __name__ == "__main__":
+    train_folder = "/Volumes/Elements/Computerlinguistics/Data/data/en/train-articles-subtask-1"
+    dev_folder = "/Volumes/Elements/Computerlinguistics/Data/data/en/dev-articles-subtask-1"
+    train_labels = "/Volumes/Elements/Computerlinguistics/Data/data/en/train-labels-subtask-1.txt"
     main()

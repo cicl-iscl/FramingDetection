@@ -1,0 +1,17 @@
+25147	1	Name_Calling-Labeling
+25147	3	
+25147	6	Appeal_to_Values,Name_Calling-Labeling
+25147	9	Name_Calling-Labeling,Questioning_the_Reputation
+25147	12	Appeal_to_Hypocrisy,Guilt_by_Association,Name_Calling-Labeling,Questioning_the_Reputation
+25147	15	
+25147	18	Guilt_by_Association
+25147	21	Name_Calling-Labeling,Questioning_the_Reputation
+25147	24	Name_Calling-Labeling
+25147	27	Name_Calling-Labeling,Questioning_the_Reputation
+25147	30	Questioning_the_Reputation
+25147	33	Name_Calling-Labeling,Questioning_the_Reputation
+25147	36	Appeal_to_Hypocrisy
+25147	39	Appeal_to_Hypocrisy
+25147	42	
+25147	45	Loaded_Language
+25147	48	Appeal_to_Hypocrisy

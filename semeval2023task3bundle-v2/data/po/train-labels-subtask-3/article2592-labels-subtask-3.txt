@@ -1,0 +1,5 @@
+2592	1	
+2592	3	Appeal_to_Hypocrisy,Doubt,Guilt_by_Association,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+2592	5	Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+2592	7	Appeal_to_Fear-Prejudice,Appeal_to_Hypocrisy,Exaggeration-Minimisation,Guilt_by_Association,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+2592	9	Appeal_to_Fear-Prejudice,Conversation_Killer,Guilt_by_Association,Obfuscation-Vagueness-Confusion,Questioning_the_Reputation

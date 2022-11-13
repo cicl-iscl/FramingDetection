@@ -1,0 +1,17 @@
+757713354	1	
+757713354	3	Exaggeration-Minimisation,Loaded_Language
+757713354	4	Loaded_Language,Name_Calling-Labeling
+757713354	5	Loaded_Language
+757713354	6	Loaded_Language,Name_Calling-Labeling
+757713354	7	Loaded_Language,Name_Calling-Labeling
+757713354	8	
+757713354	9	
+757713354	10	Loaded_Language
+757713354	11	Loaded_Language
+757713354	12	Doubt,Loaded_Language,Name_Calling-Labeling
+757713354	13	Conversation_Killer
+757713354	14	
+757713354	15	
+757713354	16	
+757713354	17	
+757713354	18	

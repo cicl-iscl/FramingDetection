@@ -1,0 +1,7 @@
+2688	Appeal_to_Values	2045	2116
+2688	Name_Calling-Labeling	1946	1962
+2688	Doubt	1976	2042
+2688	Doubt	1434	1535
+2688	Loaded_Language	1782	1801
+2688	Doubt	531	633
+2688	Repetition	2045	2198

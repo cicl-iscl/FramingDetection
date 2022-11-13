@@ -1,0 +1,19 @@
+765197039	1	
+765197039	3	Conversation_Killer,Doubt,Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling
+765197039	4	Appeal_to_Fear-Prejudice,Exaggeration-Minimisation,Repetition
+765197039	5	Doubt,Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling,Repetition
+765197039	6	
+765197039	7	
+765197039	8	
+765197039	9	
+765197039	10	
+765197039	11	Appeal_to_Fear-Prejudice
+765197039	12	Doubt,Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling,Repetition
+765197039	13	Appeal_to_Authority,Appeal_to_Fear-Prejudice,Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling
+765197039	14	Appeal_to_Authority,Name_Calling-Labeling
+765197039	15	Appeal_to_Authority,Causal_Oversimplification,Loaded_Language,Name_Calling-Labeling,Repetition
+765197039	16	Appeal_to_Authority
+765197039	17	Appeal_to_Authority,Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling
+765197039	18	Exaggeration-Minimisation,Repetition,Whataboutism
+765197039	19	Doubt,Name_Calling-Labeling
+765197039	20	

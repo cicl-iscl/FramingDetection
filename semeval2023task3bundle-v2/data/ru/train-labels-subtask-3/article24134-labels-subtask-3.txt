@@ -1,0 +1,8 @@
+24134	1	Loaded_Language
+24134	3	Loaded_Language
+24134	5	
+24134	7	Doubt
+24134	9	Consequential_Oversimplification
+24134	11	Exaggeration-Minimisation
+24134	13	
+24134	15	Causal_Oversimplification,Exaggeration-Minimisation

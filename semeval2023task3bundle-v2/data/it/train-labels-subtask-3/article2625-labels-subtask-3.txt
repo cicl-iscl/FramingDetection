@@ -1,0 +1,19 @@
+2625	1	
+2625	3	Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+2625	5	Loaded_Language,Obfuscation-Vagueness-Confusion
+2625	7	Appeal_to_Fear-Prejudice,Doubt,Loaded_Language
+2625	9	Appeal_to_Fear-Prejudice
+2625	11	Doubt,Loaded_Language
+2625	13	Doubt,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+2625	15	Name_Calling-Labeling
+2625	17	
+2625	19	Appeal_to_Fear-Prejudice,Conversation_Killer,False_Dilemma-No_Choice,Loaded_Language,Name_Calling-Labeling
+2625	21	Doubt
+2625	23	
+2625	25	Appeal_to_Fear-Prejudice,Conversation_Killer,False_Dilemma-No_Choice,Loaded_Language,Name_Calling-Labeling
+2625	27	Doubt
+2625	29	Doubt,Loaded_Language
+2625	31	
+2625	33	Doubt,Loaded_Language,Name_Calling-Labeling
+2625	35	Doubt,Name_Calling-Labeling,Questioning_the_Reputation
+2625	37	Appeal_to_Fear-Prejudice,Conversation_Killer,Doubt,False_Dilemma-No_Choice,Loaded_Language,Name_Calling-Labeling

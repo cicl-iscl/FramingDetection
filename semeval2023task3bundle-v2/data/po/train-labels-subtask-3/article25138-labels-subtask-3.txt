@@ -1,0 +1,24 @@
+25138	1	
+25138	3	
+25138	6	
+25138	8	
+25138	10	Appeal_to_Popularity
+25138	12	
+25138	14	
+25138	16	Appeal_to_Hypocrisy,Doubt,Guilt_by_Association,Loaded_Language,Name_Calling-Labeling
+25138	20	
+25138	22	
+25138	24	Appeal_to_Popularity,Appeal_to_Values,Consequential_Oversimplification,Straw_Man
+25138	28	
+25138	30	
+25138	32	Doubt,Questioning_the_Reputation
+25138	36	
+25138	37	
+25138	38	Doubt
+25138	42	
+25138	44	
+25138	46	Doubt
+25138	52	
+25138	54	
+25138	58	
+25138	60	Doubt,Name_Calling-Labeling

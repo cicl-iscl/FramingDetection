@@ -1,0 +1,28 @@
+24125	1	Doubt,Loaded_Language
+24125	3	Loaded_Language,Questioning_the_Reputation
+24125	5	Doubt,Loaded_Language
+24125	7	Loaded_Language
+24125	9	Loaded_Language,Name_Calling-Labeling
+24125	11	Loaded_Language
+24125	13	Doubt,Exaggeration-Minimisation,Loaded_Language
+24125	15	Doubt,Loaded_Language,Questioning_the_Reputation
+24125	17	Doubt,Loaded_Language,Name_Calling-Labeling
+24125	19	Loaded_Language,Name_Calling-Labeling
+24125	21	Doubt
+24125	23	Doubt,Loaded_Language
+24125	25	Doubt,Loaded_Language
+24125	27	Appeal_to_Hypocrisy,Guilt_by_Association,Loaded_Language
+24125	29	Doubt,Loaded_Language
+24125	31	Doubt,Loaded_Language
+24125	33	Loaded_Language,Questioning_the_Reputation
+24125	35	
+24125	37	Loaded_Language,Questioning_the_Reputation
+24125	39	Doubt,Loaded_Language
+24125	41	
+24125	43	Appeal_to_Hypocrisy,Doubt,Loaded_Language,Name_Calling-Labeling
+24125	45	Doubt
+24125	47	Loaded_Language,Questioning_the_Reputation
+24125	49	Loaded_Language,Name_Calling-Labeling
+24125	51	Doubt,Loaded_Language,Name_Calling-Labeling
+24125	53	Doubt,Exaggeration-Minimisation
+24125	55	Loaded_Language

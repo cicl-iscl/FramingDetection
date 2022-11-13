@@ -1,0 +1,28 @@
+2477	1	False_Dilemma-No_Choice
+2477	3	
+2477	4	Doubt,Questioning_the_Reputation
+2477	6	
+2477	9	Conversation_Killer
+2477	11	Appeal_to_Fear-Prejudice,Doubt,Loaded_Language
+2477	13	Doubt
+2477	16	
+2477	19	Doubt,Exaggeration-Minimisation,Loaded_Language
+2477	21	Doubt,Straw_Man
+2477	23	Doubt,Exaggeration-Minimisation,Loaded_Language,Questioning_the_Reputation
+2477	25	Loaded_Language
+2477	28	Doubt
+2477	30	Doubt,Loaded_Language
+2477	32	Loaded_Language,Questioning_the_Reputation
+2477	34	Conversation_Killer,Doubt,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation,Straw_Man
+2477	36	Doubt
+2477	38	Consequential_Oversimplification,Doubt,False_Dilemma-No_Choice,Loaded_Language
+2477	40	
+2477	43	Appeal_to_Hypocrisy,Loaded_Language,Name_Calling-Labeling
+2477	45	Doubt
+2477	47	Appeal_to_Time
+2477	49	Doubt
+2477	51	
+2477	54	Doubt,Exaggeration-Minimisation
+2477	56	
+2477	58	Appeal_to_Authority
+2477	60	Doubt

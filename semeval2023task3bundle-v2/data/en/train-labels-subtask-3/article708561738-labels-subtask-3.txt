@@ -1,0 +1,23 @@
+708561738	1	Flag_Waving
+708561738	3	Flag_Waving
+708561738	4	
+708561738	5	Loaded_Language
+708561738	6	
+708561738	7	
+708561738	8	
+708561738	9	Flag_Waving
+708561738	10	Loaded_Language
+708561738	11	
+708561738	12	
+708561738	13	
+708561738	14	Appeal_to_Fear-Prejudice,Loaded_Language
+708561738	15	Causal_Oversimplification
+708561738	16	
+708561738	17	Exaggeration-Minimisation,Loaded_Language,Slogans
+708561738	18	
+708561738	19	Appeal_to_Fear-Prejudice,Name_Calling-Labeling
+708561738	20	
+708561738	21	
+708561738	22	Flag_Waving
+708561738	23	
+708561738	24	

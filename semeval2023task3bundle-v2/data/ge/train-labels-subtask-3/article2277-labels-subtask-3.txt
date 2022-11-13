@@ -1,0 +1,4 @@
+2277	1	
+2277	3	Conversation_Killer,Name_Calling-Labeling
+2277	5	Guilt_by_Association
+2277	7	Causal_Oversimplification,Loaded_Language,Questioning_the_Reputation

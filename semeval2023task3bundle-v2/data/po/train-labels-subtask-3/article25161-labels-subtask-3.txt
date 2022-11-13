@@ -1,0 +1,6 @@
+25161	1	Appeal_to_Hypocrisy
+25161	3	Appeal_to_Hypocrisy
+25161	5	
+25161	7	Appeal_to_Hypocrisy,Doubt,Exaggeration-Minimisation
+25161	9	
+25161	11	

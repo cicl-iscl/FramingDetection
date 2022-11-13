@@ -1,0 +1,9 @@
+25165	1	
+25165	3	
+25165	6	
+25165	8	Appeal_to_Hypocrisy,Loaded_Language,Name_Calling-Labeling
+25165	10	Loaded_Language,Questioning_the_Reputation
+25165	12	Conversation_Killer,Doubt,Loaded_Language,Questioning_the_Reputation
+25165	14	Conversation_Killer,Doubt,Loaded_Language
+25165	16	Doubt
+25165	18	

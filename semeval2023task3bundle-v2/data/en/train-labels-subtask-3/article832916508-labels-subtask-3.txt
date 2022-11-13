@@ -1,0 +1,5 @@
+832916508	1	
+832916508	3	Repetition
+832916508	4	Causal_Oversimplification,Slogans,Straw_Man
+832916508	5	
+832916508	6	

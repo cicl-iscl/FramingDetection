@@ -1,0 +1,29 @@
+2532	1	Loaded_Language
+2532	3	
+2532	5	
+2532	7	
+2532	9	
+2532	11	Loaded_Language
+2532	13	Guilt_by_Association
+2532	15	
+2532	17	Appeal_to_Values,Exaggeration-Minimisation,Flag_Waving,Loaded_Language,Name_Calling-Labeling,Slogans
+2532	19	Flag_Waving
+2532	21	Guilt_by_Association,Name_Calling-Labeling
+2532	23	Name_Calling-Labeling
+2532	25	
+2532	27	Appeal_to_Values
+2532	29	Appeal_to_Values
+2532	31	
+2532	33	Appeal_to_Hypocrisy
+2532	35	Doubt
+2532	37	Appeal_to_Hypocrisy
+2532	39	
+2532	41	
+2532	43	Loaded_Language
+2532	45	Doubt
+2532	47	
+2532	49	
+2532	51	
+2532	53	Doubt,Name_Calling-Labeling
+2532	55	Questioning_the_Reputation
+2532	57	Conversation_Killer,Loaded_Language,Questioning_the_Reputation,Straw_Man

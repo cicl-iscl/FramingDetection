@@ -1,0 +1,6 @@
+26146	1	
+26146	3	Loaded_Language,Name_Calling-Labeling
+26146	5	Doubt,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+26146	7	Doubt
+26146	9	Doubt,False_Dilemma-No_Choice,Questioning_the_Reputation
+26146	11	Appeal_to_Fear-Prejudice,Appeal_to_Hypocrisy,Doubt,Loaded_Language

@@ -1,0 +1,11 @@
+23147	1	
+23147	3	Guilt_by_Association,Loaded_Language
+23147	5	
+23147	7	
+23147	9	Doubt,Exaggeration-Minimisation,Loaded_Language
+23147	11	Guilt_by_Association,Loaded_Language,Name_Calling-Labeling
+23147	13	Loaded_Language
+23147	15	
+23147	17	Exaggeration-Minimisation,Name_Calling-Labeling
+23147	19	Name_Calling-Labeling
+23147	21	Doubt,Loaded_Language

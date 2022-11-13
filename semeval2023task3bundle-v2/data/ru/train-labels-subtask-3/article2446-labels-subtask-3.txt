@@ -1,0 +1,5 @@
+2446	1	Guilt_by_Association
+2446	3	Guilt_by_Association
+2446	5	Appeal_to_Hypocrisy,Doubt,Loaded_Language,Questioning_the_Reputation
+2446	7	Appeal_to_Values,Doubt,Guilt_by_Association,Name_Calling-Labeling
+2446	9	

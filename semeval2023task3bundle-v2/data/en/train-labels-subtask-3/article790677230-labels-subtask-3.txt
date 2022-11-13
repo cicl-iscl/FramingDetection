@@ -1,0 +1,49 @@
+790677230	1	
+790677230	3	
+790677230	4	Slogans
+790677230	5	
+790677230	6	Appeal_to_Authority,Loaded_Language,Name_Calling-Labeling
+790677230	7	
+790677230	8	Loaded_Language
+790677230	9	Loaded_Language,Repetition
+790677230	10	Loaded_Language,Name_Calling-Labeling
+790677230	11	Loaded_Language
+790677230	12	
+790677230	13	
+790677230	14	Doubt
+790677230	15	
+790677230	16	Loaded_Language
+790677230	17	Loaded_Language
+790677230	18	Doubt
+790677230	19	
+790677230	20	
+790677230	21	Doubt
+790677230	22	
+790677230	23	Repetition
+790677230	24	
+790677230	25	
+790677230	26	
+790677230	27	
+790677230	28	
+790677230	29	
+790677230	30	Doubt
+790677230	31	
+790677230	32	
+790677230	33	
+790677230	34	
+790677230	35	
+790677230	36	Loaded_Language
+790677230	37	Loaded_Language
+790677230	38	Exaggeration-Minimisation,Loaded_Language
+790677230	39	Causal_Oversimplification
+790677230	40	Flag_Waving,Loaded_Language
+790677230	41	Appeal_to_Fear-Prejudice,Exaggeration-Minimisation,Loaded_Language
+790677230	42	Exaggeration-Minimisation,Loaded_Language
+790677230	43	Doubt,Name_Calling-Labeling
+790677230	44	Exaggeration-Minimisation,Flag_Waving,Repetition
+790677230	45	
+790677230	46	
+790677230	47	
+790677230	48	Name_Calling-Labeling
+790677230	49	
+790677230	50	

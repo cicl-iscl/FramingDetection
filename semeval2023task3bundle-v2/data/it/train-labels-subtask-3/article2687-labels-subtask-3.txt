@@ -1,0 +1,14 @@
+2687	1	Appeal_to_Hypocrisy,Loaded_Language
+2687	3	Appeal_to_Hypocrisy,Name_Calling-Labeling
+2687	5	Loaded_Language
+2687	7	
+2687	9	Doubt,Loaded_Language
+2687	11	Loaded_Language
+2687	13	
+2687	15	False_Dilemma-No_Choice
+2687	17	
+2687	19	Loaded_Language
+2687	21	Doubt
+2687	23	
+2687	25	Appeal_to_Authority
+2687	27	Doubt

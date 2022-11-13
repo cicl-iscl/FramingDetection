@@ -1,0 +1,6 @@
+2516	2	
+2516	4	Name_Calling-Labeling,Questioning_the_Reputation
+2516	6	Appeal_to_Time,Loaded_Language
+2516	8	Loaded_Language,Questioning_the_Reputation
+2516	10	Doubt,Loaded_Language,Name_Calling-Labeling
+2516	12	Doubt,Flag_Waving,Guilt_by_Association

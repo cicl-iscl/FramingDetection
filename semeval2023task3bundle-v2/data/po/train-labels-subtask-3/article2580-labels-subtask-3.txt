@@ -1,0 +1,37 @@
+2580	1	
+2580	3	
+2580	5	
+2580	7	
+2580	9	Appeal_to_Hypocrisy
+2580	11	
+2580	13	
+2580	15	
+2580	17	
+2580	19	
+2580	21	Obfuscation-Vagueness-Confusion
+2580	23	
+2580	25	Appeal_to_Popularity,Appeal_to_Values,Exaggeration-Minimisation
+2580	27	
+2580	29	Doubt
+2580	31	Doubt
+2580	33	Obfuscation-Vagueness-Confusion
+2580	35	
+2580	37	
+2580	39	Name_Calling-Labeling
+2580	41	
+2580	43	Name_Calling-Labeling
+2580	45	Questioning_the_Reputation
+2580	47	
+2580	49	
+2580	51	
+2580	53	Name_Calling-Labeling
+2580	55	
+2580	57	Name_Calling-Labeling
+2580	59	
+2580	61	
+2580	63	
+2580	65	
+2580	67	Name_Calling-Labeling
+2580	69	
+2580	71	
+2580	73	

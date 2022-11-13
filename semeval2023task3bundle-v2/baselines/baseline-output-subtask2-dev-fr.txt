@@ -1,0 +1,53 @@
+23116	
+23188	Capacity_and_resources,Health_and_safety,Political
+23138	Economic
+23208	
+2328	Political
+23185	Economic,External_regulation_and_reputation,Political,Security_and_defense
+23104	
+23105	Health_and_safety
+23154	External_regulation_and_reputation
+23160	External_regulation_and_reputation,Political,Security_and_defense
+23112	Capacity_and_resources,Economic,External_regulation_and_reputation,Security_and_defense
+2338	
+23127	External_regulation_and_reputation,Security_and_defense
+23194	Economic,Fairness_and_equality,Health_and_safety,Morality,Political,Quality_of_life
+2357	Political
+2342	External_regulation_and_reputation,Political,Security_and_defense
+2312	
+23210	
+2356	Capacity_and_resources,Economic,Health_and_safety,Policy_prescription_and_evaluation,Quality_of_life
+23205	
+231	Health_and_safety
+23146	External_regulation_and_reputation
+2319	
+2363	
+23148	External_regulation_and_reputation,Security_and_defense
+23157	Security_and_defense
+23172	Health_and_safety
+23171	Political
+23190	Security_and_defense
+2344	
+2331	Security_and_defense
+23119	Security_and_defense
+23109	
+2327	
+2322	Morality,Political,Security_and_defense
+2386	External_regulation_and_reputation,Political,Security_and_defense
+2377	
+2358	Health_and_safety
+23195	External_regulation_and_reputation,Political,Security_and_defense
+23182	Capacity_and_resources,Quality_of_life
+2360	Political
+2374	Health_and_safety
+23203	
+23183	
+23161	Political
+2353	Cultural_identity
+23192	
+23131	
+23152	Capacity_and_resources,Economic,External_regulation_and_reputation,Political,Security_and_defense
+2311	
+2379	Health_and_safety
+2385	External_regulation_and_reputation,Security_and_defense
+23135	

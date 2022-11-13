@@ -1,0 +1,27 @@
+715588833	1	Name_Calling-Labeling
+715588833	3	Loaded_Language,Name_Calling-Labeling
+715588833	4	Exaggeration-Minimisation,Loaded_Language
+715588833	5	
+715588833	6	Loaded_Language,Repetition
+715588833	7	Exaggeration-Minimisation,Loaded_Language
+715588833	8	
+715588833	9	
+715588833	11	
+715588833	12	
+715588833	13	
+715588833	15	
+715588833	16	
+715588833	17	
+715588833	18	
+715588833	19	
+715588833	20	Loaded_Language
+715588833	21	Doubt,Loaded_Language
+715588833	22	Exaggeration-Minimisation,False_Dilemma-No_Choice,Loaded_Language
+715588833	23	Exaggeration-Minimisation,Loaded_Language
+715588833	24	Appeal_to_Fear-Prejudice,Loaded_Language,Name_Calling-Labeling
+715588833	25	Conversation_Killer,Loaded_Language
+715588833	26	Loaded_Language
+715588833	27	Name_Calling-Labeling,Whataboutism
+715588833	28	Loaded_Language,Repetition
+715588833	29	Flag_Waving,Loaded_Language,Obfuscation-Vagueness-Confusion
+715588833	30	

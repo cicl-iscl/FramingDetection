@@ -1,0 +1,13 @@
+2283	1	Name_Calling-Labeling
+2283	3	Appeal_to_Values,Conversation_Killer,Loaded_Language
+2283	5	Appeal_to_Fear-Prejudice,Doubt,Exaggeration-Minimisation,Flag_Waving
+2283	7	Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation,Red_Herring,Whataboutism
+2283	9	Name_Calling-Labeling
+2283	11	Conversation_Killer,Exaggeration-Minimisation,Flag_Waving,Guilt_by_Association,Name_Calling-Labeling,Questioning_the_Reputation
+2283	13	Doubt,Exaggeration-Minimisation,Flag_Waving,Name_Calling-Labeling
+2283	15	
+2283	17	Exaggeration-Minimisation,False_Dilemma-No_Choice,Flag_Waving,Name_Calling-Labeling,Questioning_the_Reputation
+2283	19	Appeal_to_Fear-Prejudice,Appeal_to_Values,Conversation_Killer,Exaggeration-Minimisation,False_Dilemma-No_Choice,Flag_Waving,Guilt_by_Association,Name_Calling-Labeling,Questioning_the_Reputation
+2283	21	
+2283	23	Appeal_to_Fear-Prejudice,Appeal_to_Time,False_Dilemma-No_Choice,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation,Straw_Man
+2283	25	Appeal_to_Fear-Prejudice,Conversation_Killer,Exaggeration-Minimisation,False_Dilemma-No_Choice,Loaded_Language,Name_Calling-Labeling,Red_Herring

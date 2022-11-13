@@ -1,0 +1,24 @@
+2674	1	Doubt
+2674	3	Appeal_to_Fear-Prejudice,Questioning_the_Reputation
+2674	5	Appeal_to_Values
+2674	7	
+2674	8	
+2674	10	Name_Calling-Labeling
+2674	12	
+2674	13	False_Dilemma-No_Choice
+2674	14	
+2674	16	Appeal_to_Values
+2674	17	Appeal_to_Values,Causal_Oversimplification
+2674	19	Appeal_to_Hypocrisy,Appeal_to_Values
+2674	21	Questioning_the_Reputation
+2674	22	
+2674	24	
+2674	26	Doubt
+2674	27	
+2674	29	
+2674	30	Appeal_to_Fear-Prejudice
+2674	32	Exaggeration-Minimisation
+2674	34	
+2674	36	
+2674	38	Appeal_to_Fear-Prejudice
+2674	40	

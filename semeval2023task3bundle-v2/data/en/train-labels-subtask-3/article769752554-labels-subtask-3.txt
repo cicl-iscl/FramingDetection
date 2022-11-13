@@ -1,0 +1,9 @@
+769752554	1	Slogans
+769752554	3	Repetition,Slogans
+769752554	4	Loaded_Language,Repetition
+769752554	5	Flag_Waving,Name_Calling-Labeling
+769752554	6	
+769752554	7	Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling,Repetition
+769752554	8	Loaded_Language,Name_Calling-Labeling,Repetition
+769752554	9	Slogans
+769752554	10	Name_Calling-Labeling,Repetition

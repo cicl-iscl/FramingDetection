@@ -1,0 +1,51 @@
+2491	1	Loaded_Language,Questioning_the_Reputation
+2491	3	
+2491	5	
+2491	7	
+2491	9	
+2491	11	
+2491	13	Consequential_Oversimplification,Doubt,Loaded_Language
+2491	15	
+2491	17	
+2491	19	Doubt,Loaded_Language
+2491	21	
+2491	23	
+2491	25	Doubt,Loaded_Language
+2491	27	
+2491	29	
+2491	31	
+2491	33	
+2491	35	
+2491	37	
+2491	39	
+2491	41	
+2491	43	
+2491	45	
+2491	47	
+2491	49	Doubt,Loaded_Language
+2491	51	
+2491	53	
+2491	55	
+2491	57	
+2491	59	Loaded_Language
+2491	61	
+2491	63	
+2491	65	
+2491	67	
+2491	69	
+2491	71	
+2491	73	
+2491	75	
+2491	77	
+2491	79	
+2491	81	Doubt,Exaggeration-Minimisation,False_Dilemma-No_Choice
+2491	83	
+2491	85	
+2491	87	
+2491	89	
+2491	91	
+2491	93	
+2491	95	
+2491	97	
+2491	99	
+2491	101	

@@ -1,0 +1,31 @@
+252	1	
+252	3	Appeal_to_Values,Exaggeration-Minimisation
+252	5	Appeal_to_Values
+252	7	Doubt
+252	9	Flag_Waving
+252	10	Appeal_to_Hypocrisy,Doubt
+252	12	Obfuscation-Vagueness-Confusion
+252	14	
+252	16	
+252	18	
+252	20	Appeal_to_Fear-Prejudice,Exaggeration-Minimisation,Flag_Waving,Loaded_Language,Obfuscation-Vagueness-Confusion
+252	22	
+252	24	Appeal_to_Hypocrisy,Doubt,Flag_Waving,Loaded_Language,Name_Calling-Labeling,Straw_Man
+252	26	Appeal_to_Hypocrisy,Doubt,Name_Calling-Labeling,Straw_Man
+252	28	Loaded_Language,Name_Calling-Labeling,Straw_Man
+252	30	
+252	32	Loaded_Language,Straw_Man
+252	34	Consequential_Oversimplification,Straw_Man
+252	36	Doubt,Loaded_Language
+252	38	Appeal_to_Fear-Prejudice
+252	40	Loaded_Language,Straw_Man
+252	42	Straw_Man
+252	44	Appeal_to_Fear-Prejudice,Appeal_to_Values,Doubt,Loaded_Language
+252	46	Appeal_to_Hypocrisy,Straw_Man
+252	48	
+252	50	Exaggeration-Minimisation
+252	52	Doubt
+252	54	Conversation_Killer,Exaggeration-Minimisation
+252	56	Conversation_Killer,Exaggeration-Minimisation
+252	57	Exaggeration-Minimisation
+252	59	Appeal_to_Hypocrisy,Conversation_Killer,Doubt,Exaggeration-Minimisation

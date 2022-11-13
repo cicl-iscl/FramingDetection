@@ -1,0 +1,41 @@
+2490	1	
+2490	3	Loaded_Language,Name_Calling-Labeling
+2490	5	Appeal_to_Values,False_Dilemma-No_Choice
+2490	7	Doubt,Slogans
+2490	9	Doubt,Flag_Waving,Loaded_Language,Slogans
+2490	11	Appeal_to_Values,Consequential_Oversimplification,False_Dilemma-No_Choice,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation,Straw_Man
+2490	13	Conversation_Killer,Doubt,Loaded_Language,Name_Calling-Labeling
+2490	15	Appeal_to_Popularity,Appeal_to_Values,Name_Calling-Labeling,Questioning_the_Reputation
+2490	17	Appeal_to_Fear-Prejudice,Appeal_to_Values,Flag_Waving
+2490	19	Doubt,Loaded_Language,Name_Calling-Labeling,Slogans
+2490	21	Questioning_the_Reputation
+2490	23	Doubt,Name_Calling-Labeling,Questioning_the_Reputation
+2490	25	Doubt,Name_Calling-Labeling
+2490	27	Consequential_Oversimplification,Doubt,Name_Calling-Labeling
+2490	29	Consequential_Oversimplification
+2490	31	Doubt,Exaggeration-Minimisation,Loaded_Language
+2490	33	Doubt
+2490	35	Conversation_Killer,Exaggeration-Minimisation,Name_Calling-Labeling
+2490	37	Consequential_Oversimplification,False_Dilemma-No_Choice
+2490	39	Consequential_Oversimplification,False_Dilemma-No_Choice
+2490	41	
+2490	43	Doubt,Loaded_Language
+2490	45	Doubt,Loaded_Language
+2490	47	Consequential_Oversimplification,Doubt,Loaded_Language,Name_Calling-Labeling,Slogans
+2490	49	Conversation_Killer,Doubt
+2490	51	Consequential_Oversimplification,Doubt,Name_Calling-Labeling
+2490	53	
+2490	55	Doubt,Flag_Waving
+2490	57	Conversation_Killer
+2490	59	Conversation_Killer,Doubt,Exaggeration-Minimisation,Loaded_Language
+2490	61	Causal_Oversimplification,Exaggeration-Minimisation
+2490	63	Doubt,Loaded_Language
+2490	65	Appeal_to_Values
+2490	67	Conversation_Killer,Doubt,Loaded_Language
+2490	69	Doubt,Loaded_Language
+2490	71	Doubt
+2490	73	Name_Calling-Labeling,Slogans
+2490	75	
+2490	77	
+2490	79	
+2490	81	Doubt,False_Dilemma-No_Choice,Loaded_Language

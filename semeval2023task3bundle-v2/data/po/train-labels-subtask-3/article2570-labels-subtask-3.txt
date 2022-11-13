@@ -1,0 +1,11 @@
+2570	1	
+2570	3	
+2570	5	
+2570	7	Appeal_to_Values,Questioning_the_Reputation
+2570	9	Appeal_to_Values
+2570	11	
+2570	14	
+2570	16	Questioning_the_Reputation
+2570	18	Doubt
+2570	20	Appeal_to_Values,Doubt
+2570	22	

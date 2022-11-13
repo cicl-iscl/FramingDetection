@@ -1,0 +1,13 @@
+2219	1	
+2219	3	Exaggeration-Minimisation,Questioning_the_Reputation
+2219	5	Appeal_to_Popularity,Name_Calling-Labeling,Questioning_the_Reputation
+2219	7	Appeal_to_Authority,Appeal_to_Fear-Prejudice,Appeal_to_Hypocrisy,Name_Calling-Labeling,Questioning_the_Reputation
+2219	9	Appeal_to_Popularity,Doubt,Name_Calling-Labeling
+2219	11	Doubt,Loaded_Language,Name_Calling-Labeling
+2219	13	Name_Calling-Labeling,Whataboutism
+2219	15	Name_Calling-Labeling,Questioning_the_Reputation
+2219	17	Doubt,Exaggeration-Minimisation,Name_Calling-Labeling
+2219	19	Name_Calling-Labeling
+2219	21	Doubt,Guilt_by_Association,Loaded_Language,Name_Calling-Labeling
+2219	23	Appeal_to_Hypocrisy,Name_Calling-Labeling,Questioning_the_Reputation
+2219	25	Appeal_to_Hypocrisy,Exaggeration-Minimisation,Guilt_by_Association,Name_Calling-Labeling

@@ -1,0 +1,13 @@
+786250729	1	Name_Calling-Labeling
+786250729	3	Causal_Oversimplification
+786250729	4	Name_Calling-Labeling
+786250729	5	
+786250729	6	
+786250729	7	Exaggeration-Minimisation,Loaded_Language
+786250729	8	Exaggeration-Minimisation,Loaded_Language,Repetition
+786250729	9	
+786250729	10	
+786250729	11	
+786250729	12	
+786250729	13	Name_Calling-Labeling
+786250729	14	Exaggeration-Minimisation

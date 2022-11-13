@@ -1,0 +1,15 @@
+729940206	1	
+729940206	3	
+729940206	4	Doubt,Exaggeration-Minimisation,Loaded_Language
+729940206	5	Loaded_Language
+729940206	6	
+729940206	7	Loaded_Language
+729940206	8	Conversation_Killer,Doubt
+729940206	9	Doubt
+729940206	10	Doubt
+729940206	11	
+729940206	12	Name_Calling-Labeling,Repetition
+729940206	13	
+729940206	14	
+729940206	16	
+729940206	17	

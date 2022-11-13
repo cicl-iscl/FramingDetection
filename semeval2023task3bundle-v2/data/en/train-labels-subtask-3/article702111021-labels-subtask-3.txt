@@ -1,0 +1,9 @@
+702111021	1	
+702111021	3	
+702111021	4	
+702111021	5	
+702111021	6	Obfuscation-Vagueness-Confusion,Repetition
+702111021	7	Loaded_Language,Repetition
+702111021	8	
+702111021	9	
+702111021	10	Appeal_to_Authority,False_Dilemma-No_Choice,Name_Calling-Labeling,Repetition

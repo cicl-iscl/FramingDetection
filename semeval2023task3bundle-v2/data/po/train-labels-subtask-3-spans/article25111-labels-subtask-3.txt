@@ -1,0 +1,6 @@
+25111	Loaded_Language	695	708
+25111	Name_Calling-Labeling	1951	1972
+25111	Name_Calling-Labeling	1846	1869
+25111	Appeal_to_Fear-Prejudice	1846	1900
+25111	Loaded_Language	2452	2470
+25111	Name_Calling-Labeling	3567	3577

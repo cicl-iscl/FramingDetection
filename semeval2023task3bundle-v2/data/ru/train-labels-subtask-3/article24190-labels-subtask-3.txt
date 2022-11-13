@@ -1,0 +1,5 @@
+24190	1	
+24190	3	
+24190	5	Flag_Waving
+24190	7	
+24190	9	Appeal_to_Popularity,Loaded_Language,Slogans

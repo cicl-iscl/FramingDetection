@@ -1,0 +1,6 @@
+2391	Doubt	66	134
+2391	Appeal_to_Values	661	815
+2391	Exaggeration-Minimisation	909	1055
+2391	Appeal_to_Popularity	503	658
+2391	Loaded_Language	375	396
+2391	Appeal_to_Values	1058	1336

@@ -1,0 +1,25 @@
+786731884	1	Name_Calling-Labeling
+786731884	3	Loaded_Language,Name_Calling-Labeling
+786731884	4	
+786731884	5	Loaded_Language
+786731884	6	Name_Calling-Labeling,Repetition
+786731884	7	Loaded_Language,Name_Calling-Labeling
+786731884	8	
+786731884	9	
+786731884	10	Name_Calling-Labeling
+786731884	11	Guilt_by_Association,Loaded_Language
+786731884	13	
+786731884	14	Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling
+786731884	15	Causal_Oversimplification,Name_Calling-Labeling
+786731884	16	Causal_Oversimplification,Loaded_Language,Name_Calling-Labeling
+786731884	17	Causal_Oversimplification,Loaded_Language,Name_Calling-Labeling
+786731884	18	
+786731884	19	Loaded_Language,Name_Calling-Labeling
+786731884	20	Name_Calling-Labeling
+786731884	21	Flag_Waving
+786731884	22	
+786731884	23	
+786731884	24	Appeal_to_Authority,Name_Calling-Labeling
+786731884	25	Appeal_to_Authority
+786731884	26	
+786731884	27	Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling

@@ -1,0 +1,5 @@
+2661	Doubt	2725	2898
+2661	Doubt	172	220
+2661	Questioning_the_Reputation	1942	2014
+2661	Questioning_the_Reputation	1764	1862
+2661	Doubt	1940	2014

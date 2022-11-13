@@ -1,0 +1,27 @@
+2515	2	
+2515	4	Doubt,Loaded_Language
+2515	6	Doubt,Loaded_Language
+2515	8	Appeal_to_Popularity
+2515	10	Appeal_to_Hypocrisy,Doubt
+2515	12	Appeal_to_Popularity
+2515	14	
+2515	16	
+2515	18	
+2515	20	Obfuscation-Vagueness-Confusion
+2515	22	
+2515	24	Appeal_to_Popularity
+2515	26	
+2515	28	Obfuscation-Vagueness-Confusion
+2515	30	
+2515	32	
+2515	34	
+2515	36	
+2515	38	
+2515	40	
+2515	42	
+2515	44	
+2515	46	Slogans
+2515	48	Doubt,Slogans
+2515	50	Appeal_to_Fear-Prejudice,Doubt
+2515	52	Slogans
+2515	54	Appeal_to_Popularity,Doubt

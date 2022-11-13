@@ -1,0 +1,13 @@
+26247	1	Appeal_to_Authority,Questioning_the_Reputation
+26247	3	
+26247	5	Questioning_the_Reputation
+26247	7	
+26247	9	
+26247	11	
+26247	13	Doubt
+26247	15	
+26247	17	
+26247	19	
+26247	21	Doubt
+26247	23	
+26247	25	

@@ -1,0 +1,522 @@
+22106	1	
+22106	2	
+22106	4	
+22106	6	Name_Calling-Labeling
+22106	8	Appeal_to_Authority,Doubt,Name_Calling-Labeling
+22106	10	
+22106	12	Name_Calling-Labeling
+22106	14	
+22106	16	Appeal_to_Fear-Prejudice
+22106	18	Name_Calling-Labeling
+22106	20	Doubt
+22106	22	Name_Calling-Labeling
+22106	24	Appeal_to_Fear-Prejudice
+22106	26	
+22106	28	Conversation_Killer,Doubt
+22106	30	
+22106	32	Conversation_Killer
+22106	34	
+22106	36	
+22106	38	
+22106	40	Doubt
+22106	42	
+22106	44	Name_Calling-Labeling
+22106	46	
+22106	48	
+229	1	Name_Calling-Labeling
+229	3	Doubt,Name_Calling-Labeling
+229	5	Name_Calling-Labeling
+229	7	Doubt,Name_Calling-Labeling,Questioning_the_Reputation
+2257	1	
+2257	3	Name_Calling-Labeling,Questioning_the_Reputation
+2257	5	Exaggeration-Minimisation,Name_Calling-Labeling,Questioning_the_Reputation
+2257	7	Questioning_the_Reputation
+2257	9	Appeal_to_Fear-Prejudice,Appeal_to_Hypocrisy,Doubt,Loaded_Language,Questioning_the_Reputation
+2257	11	Name_Calling-Labeling
+2257	12	Doubt,Name_Calling-Labeling,Questioning_the_Reputation
+2257	14	
+2257	16	Doubt
+2257	18	Doubt,Name_Calling-Labeling
+2257	20	Doubt,Name_Calling-Labeling,Questioning_the_Reputation
+2257	22	Name_Calling-Labeling
+2257	24	
+2275	1	
+2275	3	
+2275	5	Name_Calling-Labeling
+2275	7	
+2275	9	Name_Calling-Labeling
+2275	11	Name_Calling-Labeling
+2269	1	Name_Calling-Labeling
+2269	3	
+2269	5	Name_Calling-Labeling
+2269	7	Doubt,Name_Calling-Labeling
+2269	9	Name_Calling-Labeling
+2269	11	Conversation_Killer
+2269	13	Name_Calling-Labeling,Questioning_the_Reputation
+2218	1	Name_Calling-Labeling
+2218	3	Name_Calling-Labeling
+2218	5	Name_Calling-Labeling
+2218	7	
+2218	9	Name_Calling-Labeling,Questioning_the_Reputation
+2218	11	Name_Calling-Labeling
+2218	13	Name_Calling-Labeling
+22107	1	
+22107	3	Name_Calling-Labeling
+22107	5	Appeal_to_Authority,Causal_Oversimplification,Conversation_Killer
+22107	7	Appeal_to_Hypocrisy,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+22107	9	Name_Calling-Labeling
+22107	11	Name_Calling-Labeling
+22107	13	
+22107	15	
+22107	17	Appeal_to_Fear-Prejudice,Appeal_to_Values
+22107	19	
+22107	21	Name_Calling-Labeling,Questioning_the_Reputation
+22107	23	
+22107	25	Name_Calling-Labeling
+22107	27	
+22107	29	Name_Calling-Labeling
+22107	31	Name_Calling-Labeling
+22107	33	Name_Calling-Labeling
+22116	1	Name_Calling-Labeling
+22116	3	
+22116	5	Name_Calling-Labeling
+22116	7	Doubt
+22116	9	
+22116	11	
+22116	13	Name_Calling-Labeling
+22116	15	
+22116	17	Conversation_Killer,Name_Calling-Labeling,Questioning_the_Reputation
+22116	19	Name_Calling-Labeling
+22116	21	Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+22116	23	Doubt,Name_Calling-Labeling
+22116	25	Appeal_to_Fear-Prejudice,Questioning_the_Reputation
+22116	27	Loaded_Language,Name_Calling-Labeling
+22116	29	
+22116	31	
+22116	33	
+22116	35	
+22116	37	
+2252	1	
+2252	3	Appeal_to_Fear-Prejudice,Name_Calling-Labeling
+2252	5	Appeal_to_Authority,Name_Calling-Labeling
+2252	7	Name_Calling-Labeling
+2252	9	Appeal_to_Hypocrisy
+2287	1	
+2287	2	Name_Calling-Labeling
+2287	4	Loaded_Language,Name_Calling-Labeling
+2287	6	Name_Calling-Labeling
+2287	8	Doubt,Loaded_Language,Name_Calling-Labeling
+2287	10	Name_Calling-Labeling
+2287	12	Appeal_to_Fear-Prejudice,Name_Calling-Labeling
+2287	14	Name_Calling-Labeling
+2287	16	Name_Calling-Labeling
+2287	18	Loaded_Language
+2287	20	
+22198	1	
+22198	3	
+22198	5	
+22198	7	
+22198	9	
+22198	11	Name_Calling-Labeling
+22198	13	
+22198	15	
+22198	17	
+2233	1	
+2233	3	Name_Calling-Labeling
+2233	4	Doubt
+2233	6	Name_Calling-Labeling
+2233	8	Name_Calling-Labeling
+2233	10	Name_Calling-Labeling
+2233	12	Appeal_to_Fear-Prejudice
+2291	1	Name_Calling-Labeling
+2291	3	Doubt,Name_Calling-Labeling
+2291	5	
+2291	7	Name_Calling-Labeling
+2291	9	
+2291	11	Doubt,Name_Calling-Labeling
+2291	13	Name_Calling-Labeling
+2291	15	
+2291	17	
+2291	19	
+2291	21	
+2291	23	
+2291	25	
+2291	27	Name_Calling-Labeling
+2291	29	
+2291	31	
+2291	33	
+2291	35	Name_Calling-Labeling
+2291	37	
+2291	39	
+2291	41	Doubt
+2291	43	
+2291	45	Name_Calling-Labeling
+2291	47	
+2291	49	Doubt,Name_Calling-Labeling
+2291	51	
+2291	53	Name_Calling-Labeling
+22158	1	
+22158	3	
+22158	5	
+22158	7	
+22158	9	Appeal_to_Authority,Name_Calling-Labeling
+22158	11	Name_Calling-Labeling
+22158	13	Name_Calling-Labeling
+22158	15	Name_Calling-Labeling
+22158	17	
+22158	19	
+22158	21	Name_Calling-Labeling
+22158	23	Appeal_to_Authority
+22158	25	
+22158	27	Name_Calling-Labeling
+22158	29	
+22158	31	
+22158	33	
+22158	35	
+22158	37	
+22158	39	Name_Calling-Labeling
+22193	1	
+22193	3	Name_Calling-Labeling
+22193	5	
+22193	7	
+22193	9	Name_Calling-Labeling
+22193	11	Name_Calling-Labeling
+2214	1	
+2214	3	
+2214	5	
+2214	7	
+2214	9	Name_Calling-Labeling
+2214	11	
+2214	13	Name_Calling-Labeling
+2214	15	Name_Calling-Labeling
+2214	17	Name_Calling-Labeling
+2214	19	Doubt
+2214	21	Name_Calling-Labeling,Questioning_the_Reputation
+2214	23	
+2214	25	Name_Calling-Labeling
+2214	27	
+2214	29	Name_Calling-Labeling
+2214	31	
+2214	33	
+2237	1	
+2237	3	Name_Calling-Labeling
+2237	5	Name_Calling-Labeling
+2237	7	Name_Calling-Labeling
+2237	9	
+2237	11	Loaded_Language,Name_Calling-Labeling
+2237	13	
+2237	15	
+2237	17	Appeal_to_Authority,Name_Calling-Labeling
+2237	19	Name_Calling-Labeling,Questioning_the_Reputation
+2237	21	
+2237	23	Name_Calling-Labeling
+2237	25	Name_Calling-Labeling
+2237	27	
+2237	29	Doubt,Exaggeration-Minimisation,Name_Calling-Labeling,Slogans
+2237	31	
+2237	33	Name_Calling-Labeling
+2237	35	
+2237	37	Name_Calling-Labeling
+2237	39	Name_Calling-Labeling
+2237	41	
+2296	1	
+2296	3	Name_Calling-Labeling
+2296	5	
+2296	7	Name_Calling-Labeling,Questioning_the_Reputation
+2296	9	Name_Calling-Labeling
+2296	11	Appeal_to_Authority,Name_Calling-Labeling
+2296	13	Appeal_to_Fear-Prejudice
+2296	15	Name_Calling-Labeling
+2296	17	Name_Calling-Labeling
+2296	19	
+2296	21	Appeal_to_Fear-Prejudice,Appeal_to_Values
+2296	23	
+2296	25	
+2296	27	Name_Calling-Labeling
+2290	1	
+2290	2	Name_Calling-Labeling
+2290	4	Name_Calling-Labeling
+2290	6	
+2290	8	
+2290	10	Doubt
+2290	12	Appeal_to_Authority,Doubt,Name_Calling-Labeling
+2290	14	
+2290	16	Appeal_to_Authority,Name_Calling-Labeling,Questioning_the_Reputation
+2290	18	Name_Calling-Labeling
+2290	20	Name_Calling-Labeling
+22108	1	
+22108	3	Name_Calling-Labeling,Questioning_the_Reputation
+22108	5	Appeal_to_Fear-Prejudice,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+22108	7	Name_Calling-Labeling
+22108	9	Name_Calling-Labeling
+22108	11	Name_Calling-Labeling
+22108	13	Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+22108	15	Appeal_to_Authority,Conversation_Killer
+22108	17	
+22108	19	Appeal_to_Fear-Prejudice,Appeal_to_Values
+22108	21	
+22144	1	Name_Calling-Labeling
+22144	3	Loaded_Language,Name_Calling-Labeling
+22144	5	
+22144	7	Name_Calling-Labeling
+22144	9	
+22144	11	Name_Calling-Labeling,Questioning_the_Reputation
+22144	13	Questioning_the_Reputation
+22196	1	
+22196	3	Name_Calling-Labeling
+22196	5	
+22196	7	Name_Calling-Labeling
+22196	9	Conversation_Killer,Name_Calling-Labeling
+22168	1	
+22168	3	Name_Calling-Labeling
+22168	5	Doubt,Name_Calling-Labeling
+22168	7	Name_Calling-Labeling
+22168	9	Doubt
+22168	11	Doubt,Name_Calling-Labeling
+2232	1	Name_Calling-Labeling
+2232	3	Doubt,Name_Calling-Labeling,Questioning_the_Reputation
+22104	1	
+22104	3	
+22104	5	
+22104	7	
+22104	9	
+22104	11	
+22104	13	Appeal_to_Authority,Exaggeration-Minimisation
+22104	15	
+2294	1	
+2294	3	
+2294	5	Appeal_to_Authority,Name_Calling-Labeling
+2294	7	Name_Calling-Labeling
+2294	9	Doubt,Loaded_Language,Name_Calling-Labeling
+2294	11	Name_Calling-Labeling,Questioning_the_Reputation
+2294	13	Name_Calling-Labeling
+2294	15	
+2294	17	Appeal_to_Fear-Prejudice,Appeal_to_Values
+2294	19	
+2294	21	
+2294	23	
+22192	1	Name_Calling-Labeling
+22192	3	
+22192	5	Name_Calling-Labeling
+22192	7	Name_Calling-Labeling,Questioning_the_Reputation
+22192	9	Name_Calling-Labeling
+22192	11	Name_Calling-Labeling
+22192	13	
+22192	15	Name_Calling-Labeling
+22192	17	
+22192	19	Name_Calling-Labeling
+22192	21	Name_Calling-Labeling
+22192	23	Name_Calling-Labeling
+22192	25	
+22192	27	Doubt
+22192	29	Name_Calling-Labeling
+22192	31	Name_Calling-Labeling
+22192	33	Name_Calling-Labeling
+22192	35	Name_Calling-Labeling
+22192	37	
+22192	39	Name_Calling-Labeling
+22192	41	
+22192	43	
+22192	45	
+2230	1	Name_Calling-Labeling
+2230	3	
+2230	5	Appeal_to_Values,Name_Calling-Labeling,Questioning_the_Reputation
+2230	7	Name_Calling-Labeling,Questioning_the_Reputation
+2230	9	
+2230	11	Name_Calling-Labeling
+2230	13	Appeal_to_Authority,Doubt,Name_Calling-Labeling,Questioning_the_Reputation
+22143	1	
+22143	3	Name_Calling-Labeling
+22143	5	
+22143	7	
+22143	9	Name_Calling-Labeling
+22143	11	Doubt,Loaded_Language,Name_Calling-Labeling
+22143	13	Appeal_to_Fear-Prejudice,Guilt_by_Association,Name_Calling-Labeling,Questioning_the_Reputation
+22143	15	Name_Calling-Labeling
+22143	17	Appeal_to_Fear-Prejudice,Name_Calling-Labeling
+22143	19	Loaded_Language,Name_Calling-Labeling
+22143	21	Name_Calling-Labeling
+22143	23	
+22143	25	Loaded_Language,Name_Calling-Labeling
+22143	27	Appeal_to_Authority,Appeal_to_Fear-Prejudice,Guilt_by_Association,Name_Calling-Labeling
+22143	29	Doubt,Name_Calling-Labeling
+22143	31	
+22143	33	Name_Calling-Labeling
+22143	35	Name_Calling-Labeling
+22143	37	Appeal_to_Authority,Name_Calling-Labeling
+22130	1	
+22130	3	Name_Calling-Labeling
+22130	5	Name_Calling-Labeling
+22130	7	Appeal_to_Fear-Prejudice,Appeal_to_Hypocrisy,Doubt,Name_Calling-Labeling
+22130	9	Name_Calling-Labeling
+22130	11	Appeal_to_Fear-Prejudice,Name_Calling-Labeling
+22130	13	Appeal_to_Hypocrisy,Doubt,Name_Calling-Labeling,Questioning_the_Reputation
+22130	15	Name_Calling-Labeling
+22130	17	Doubt,Name_Calling-Labeling
+22130	19	Name_Calling-Labeling
+22130	21	Name_Calling-Labeling
+22130	23	Name_Calling-Labeling
+22130	25	Loaded_Language,Name_Calling-Labeling
+22130	27	Name_Calling-Labeling
+22130	29	
+22130	31	Name_Calling-Labeling
+22130	33	Name_Calling-Labeling
+22130	35	Appeal_to_Values,Name_Calling-Labeling,Questioning_the_Reputation
+22130	37	Appeal_to_Values
+22138	1	Name_Calling-Labeling
+22138	3	Name_Calling-Labeling
+22138	5	Name_Calling-Labeling
+22138	7	Name_Calling-Labeling
+22138	9	Name_Calling-Labeling
+22138	11	
+22138	13	
+22138	15	Name_Calling-Labeling
+22138	17	Name_Calling-Labeling
+22138	19	Name_Calling-Labeling,Questioning_the_Reputation
+22138	21	
+22138	23	Appeal_to_Values,Name_Calling-Labeling,Questioning_the_Reputation
+2250	1	
+2250	3	Appeal_to_Authority
+2250	5	
+2250	7	
+2250	9	
+2250	11	
+2250	13	Name_Calling-Labeling
+2250	15	Name_Calling-Labeling
+2250	21	
+2250	22	
+2250	24	
+2250	25	Name_Calling-Labeling
+2250	27	
+2250	29	
+2250	31	Name_Calling-Labeling
+2250	33	
+2250	35	Appeal_to_Authority
+2250	37	Name_Calling-Labeling
+2250	39	
+2250	41	
+2250	43	Name_Calling-Labeling
+2250	45	Name_Calling-Labeling
+2250	47	Name_Calling-Labeling
+2268	1	
+2268	3	
+2268	5	
+2268	7	
+2268	9	
+2268	11	Name_Calling-Labeling
+2268	13	
+2268	15	Appeal_to_Authority
+2268	17	Name_Calling-Labeling
+2264	1	Name_Calling-Labeling
+2264	3	Loaded_Language,Name_Calling-Labeling
+2264	5	Name_Calling-Labeling
+2264	7	Name_Calling-Labeling
+2264	9	Name_Calling-Labeling
+2264	11	Name_Calling-Labeling
+2264	13	Name_Calling-Labeling
+2264	15	Name_Calling-Labeling
+2264	17	Name_Calling-Labeling
+2264	19	Name_Calling-Labeling
+2264	21	Loaded_Language,Name_Calling-Labeling
+2264	23	Name_Calling-Labeling
+2264	25	Name_Calling-Labeling,Questioning_the_Reputation
+2264	27	Name_Calling-Labeling
+2264	29	
+2264	31	Loaded_Language,Name_Calling-Labeling
+2264	33	
+2264	35	Name_Calling-Labeling
+2264	37	Name_Calling-Labeling
+22172	1	
+22172	3	
+22172	5	
+22172	7	Name_Calling-Labeling
+22172	9	Name_Calling-Labeling
+22172	11	
+22172	13	
+22110	1	
+22110	3	Name_Calling-Labeling
+22110	5	Name_Calling-Labeling
+22110	7	Name_Calling-Labeling,Questioning_the_Reputation
+22110	9	Name_Calling-Labeling
+22110	11	Name_Calling-Labeling,Slogans
+22110	13	Name_Calling-Labeling
+22110	15	Name_Calling-Labeling
+22110	17	
+22110	19	Appeal_to_Fear-Prejudice,Appeal_to_Values
+22110	21	
+22110	23	
+22110	25	
+22110	27	Name_Calling-Labeling
+22110	29	
+22110	31	Name_Calling-Labeling
+22110	33	Name_Calling-Labeling
+22110	35	Name_Calling-Labeling
+22183	1	
+22183	3	
+22183	5	Appeal_to_Authority,Doubt,Loaded_Language,Name_Calling-Labeling
+22183	7	Doubt,Name_Calling-Labeling
+22183	9	Flag_Waving,Name_Calling-Labeling,Questioning_the_Reputation
+22183	11	Appeal_to_Authority,Doubt,Name_Calling-Labeling
+22183	13	Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+22137	1	
+22137	3	Questioning_the_Reputation
+22137	5	Flag_Waving
+2267	1	
+2267	3	Appeal_to_Authority
+2267	5	
+2267	7	Name_Calling-Labeling
+2267	9	Name_Calling-Labeling
+2267	11	Name_Calling-Labeling
+2267	13	Name_Calling-Labeling
+2267	15	Name_Calling-Labeling
+2267	17	
+2267	19	Name_Calling-Labeling
+2267	21	Name_Calling-Labeling
+2267	23	
+2258	1	
+2258	3	Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+2224	1	Name_Calling-Labeling
+2224	3	Name_Calling-Labeling
+2224	5	
+2224	7	Doubt,Name_Calling-Labeling
+2224	9	Name_Calling-Labeling
+2224	11	
+2224	13	
+2224	15	Name_Calling-Labeling
+2224	17	
+2224	19	Name_Calling-Labeling
+2224	21	Name_Calling-Labeling,Slogans
+2224	23	Name_Calling-Labeling
+2270	1	
+2270	3	Name_Calling-Labeling
+2270	5	Name_Calling-Labeling
+2270	7	
+22142	1	
+22142	3	
+22142	5	Name_Calling-Labeling
+22142	7	Appeal_to_Authority,Name_Calling-Labeling
+22142	9	Name_Calling-Labeling
+22142	11	Name_Calling-Labeling
+22142	13	
+22142	15	Name_Calling-Labeling
+22142	17	Name_Calling-Labeling
+22142	19	Name_Calling-Labeling
+22142	21	Name_Calling-Labeling
+22142	23	Name_Calling-Labeling
+2217	1	Name_Calling-Labeling
+2217	3	Name_Calling-Labeling
+2217	5	Doubt,Name_Calling-Labeling
+2217	7	Name_Calling-Labeling
+2217	9	Name_Calling-Labeling
+2217	10	Name_Calling-Labeling
+2217	12	
+2217	14	Name_Calling-Labeling
+2217	16	Name_Calling-Labeling
+2217	18	Name_Calling-Labeling
+2217	20	Doubt,Name_Calling-Labeling
+2284	1	
+2284	3	
+2284	5	Name_Calling-Labeling
+2284	7	Name_Calling-Labeling
+2284	9	Name_Calling-Labeling
+2284	11	

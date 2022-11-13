@@ -1,0 +1,9 @@
+701553469	1	Loaded_Language
+701553469	3	Slogans
+701553469	4	Loaded_Language
+701553469	5	Loaded_Language
+701553469	6	Name_Calling-Labeling
+701553469	7	Causal_Oversimplification,Doubt
+701553469	8	
+701553469	9	Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling,Slogans
+701553469	10	Appeal_to_Fear-Prejudice

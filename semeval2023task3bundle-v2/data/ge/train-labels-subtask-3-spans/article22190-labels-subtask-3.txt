@@ -1,0 +1,7 @@
+22190	Appeal_to_Authority	182	347
+22190	Doubt	935	1021
+22190	Conversation_Killer	1024	1046
+22190	Obfuscation-Vagueness-Confusion	18	81
+22190	Doubt	857	931
+22190	Obfuscation-Vagueness-Confusion	503	587
+22190	Appeal_to_Hypocrisy	701	840

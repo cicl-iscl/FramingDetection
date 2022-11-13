@@ -1,0 +1,17 @@
+22112	1	Doubt
+22112	3	Doubt,Name_Calling-Labeling
+22112	5	Exaggeration-Minimisation,Loaded_Language
+22112	7	Conversation_Killer
+22112	9	Doubt,Loaded_Language
+22112	11	Doubt
+22112	13	Appeal_to_Authority,Doubt
+22112	15	Appeal_to_Authority,Questioning_the_Reputation
+22112	17	Appeal_to_Hypocrisy,Loaded_Language
+22112	19	Appeal_to_Hypocrisy,Conversation_Killer,Doubt,Name_Calling-Labeling,Questioning_the_Reputation
+22112	21	Appeal_to_Authority,Doubt,Exaggeration-Minimisation
+22112	23	
+22112	25	Appeal_to_Authority,Appeal_to_Hypocrisy,Doubt,Loaded_Language
+22112	27	Appeal_to_Popularity,Doubt,Name_Calling-Labeling
+22112	29	Questioning_the_Reputation
+22112	31	Appeal_to_Authority,Name_Calling-Labeling
+22112	33	Appeal_to_Authority,Appeal_to_Values,Conversation_Killer,Name_Calling-Labeling

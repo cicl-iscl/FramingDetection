@@ -1,0 +1,23 @@
+789121798	1	Name_Calling-Labeling
+789121798	3	Loaded_Language,Name_Calling-Labeling,Slogans
+789121798	4	Loaded_Language,Name_Calling-Labeling
+789121798	5	Name_Calling-Labeling,Red_Herring
+789121798	6	
+789121798	7	
+789121798	8	
+789121798	9	
+789121798	10	
+789121798	11	
+789121798	12	
+789121798	13	
+789121798	14	
+789121798	15	
+789121798	16	
+789121798	17	
+789121798	18	Doubt
+789121798	19	Causal_Oversimplification,Exaggeration-Minimisation,Loaded_Language
+789121798	20	Appeal_to_Fear-Prejudice,Exaggeration-Minimisation,Loaded_Language
+789121798	21	Name_Calling-Labeling
+789121798	22	Causal_Oversimplification,Name_Calling-Labeling
+789121798	23	
+789121798	24	Exaggeration-Minimisation

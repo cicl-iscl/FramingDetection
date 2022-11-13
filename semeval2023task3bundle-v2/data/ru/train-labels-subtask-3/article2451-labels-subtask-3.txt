@@ -1,0 +1,8 @@
+2451	1	Questioning_the_Reputation
+2451	3	Questioning_the_Reputation
+2451	5	Doubt,Questioning_the_Reputation
+2451	7	Doubt
+2451	9	
+2451	11	Doubt
+2451	13	Questioning_the_Reputation,Repetition
+2451	15	Doubt,Loaded_Language

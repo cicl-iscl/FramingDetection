@@ -1,0 +1,16 @@
+2573	1	Loaded_Language
+2573	3	Loaded_Language
+2573	5	
+2573	7	Guilt_by_Association,Loaded_Language
+2573	9	
+2573	11	Appeal_to_Hypocrisy,Loaded_Language,Name_Calling-Labeling
+2573	13	
+2573	15	Flag_Waving
+2573	17	
+2573	19	
+2573	21	
+2573	23	Appeal_to_Hypocrisy,Appeal_to_Popularity
+2573	25	
+2573	27	Appeal_to_Hypocrisy,Doubt,Loaded_Language
+2573	29	
+2573	31	Whataboutism

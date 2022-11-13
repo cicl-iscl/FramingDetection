@@ -1,0 +1,10 @@
+728758697	1	Name_Calling-Labeling
+728758697	3	Straw_Man
+728758697	4	
+728758697	5	Appeal_to_Authority
+728758697	6	
+728758697	7	Guilt_by_Association
+728758697	8	Conversation_Killer,Guilt_by_Association
+728758697	9	Doubt,Flag_Waving
+728758697	10	Causal_Oversimplification
+728758697	11	Straw_Man

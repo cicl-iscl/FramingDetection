@@ -1,0 +1,30 @@
+780619695	1	Slogans
+780619695	3	Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling
+780619695	4	
+780619695	5	
+780619695	6	
+780619695	7	
+780619695	8	Name_Calling-Labeling
+780619695	9	Repetition
+780619695	10	Repetition
+780619695	11	Loaded_Language,Repetition
+780619695	12	Repetition
+780619695	13	Loaded_Language,Repetition
+780619695	14	
+780619695	15	Repetition
+780619695	16	Repetition
+780619695	17	
+780619695	18	Loaded_Language,Repetition
+780619695	19	Loaded_Language
+780619695	20	Loaded_Language
+780619695	21	Appeal_to_Fear-Prejudice
+780619695	22	Repetition
+780619695	23	
+780619695	24	
+780619695	25	Loaded_Language
+780619695	26	Loaded_Language
+780619695	27	
+780619695	28	Slogans
+780619695	30	Repetition,Slogans
+780619695	31	
+780619695	32	

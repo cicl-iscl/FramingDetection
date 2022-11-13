@@ -1,0 +1,5 @@
+2697	1	Exaggeration-Minimisation
+2697	3	
+2697	5	Appeal_to_Hypocrisy,Doubt,Exaggeration-Minimisation
+2697	7	Doubt,Guilt_by_Association,Questioning_the_Reputation
+2697	9	Conversation_Killer,Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling

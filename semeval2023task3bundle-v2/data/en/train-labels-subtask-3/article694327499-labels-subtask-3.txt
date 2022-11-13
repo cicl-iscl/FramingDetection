@@ -1,0 +1,25 @@
+694327499	1	
+694327499	3	Loaded_Language
+694327499	4	
+694327499	5	
+694327499	7	Causal_Oversimplification
+694327499	8	
+694327499	9	
+694327499	10	
+694327499	11	
+694327499	13	Loaded_Language
+694327499	15	Name_Calling-Labeling
+694327499	17	Name_Calling-Labeling
+694327499	19	
+694327499	21	
+694327499	23	Causal_Oversimplification,Name_Calling-Labeling
+694327499	25	Loaded_Language
+694327499	27	Conversation_Killer,Name_Calling-Labeling
+694327499	29	
+694327499	31	
+694327499	32	
+694327499	33	
+694327499	35	Loaded_Language
+694327499	37	Appeal_to_Fear-Prejudice
+694327499	39	
+694327499	41	Loaded_Language,Name_Calling-Labeling

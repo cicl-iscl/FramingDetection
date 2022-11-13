@@ -1,0 +1,57 @@
+786527921	1	Name_Calling-Labeling
+786527921	3	Loaded_Language
+786527921	4	
+786527921	5	
+786527921	6	
+786527921	7	Repetition
+786527921	8	Doubt
+786527921	9	
+786527921	10	
+786527921	11	Name_Calling-Labeling
+786527921	12	
+786527921	13	Doubt,Name_Calling-Labeling
+786527921	14	Loaded_Language
+786527921	15	
+786527921	16	Exaggeration-Minimisation,Name_Calling-Labeling
+786527921	17	
+786527921	18	
+786527921	19	
+786527921	20	Appeal_to_Authority,Exaggeration-Minimisation
+786527921	21	Exaggeration-Minimisation
+786527921	22	
+786527921	23	Loaded_Language,Name_Calling-Labeling
+786527921	24	
+786527921	25	Causal_Oversimplification,Loaded_Language,Repetition
+786527921	26	
+786527921	27	Loaded_Language,Name_Calling-Labeling,Repetition
+786527921	28	Loaded_Language,Name_Calling-Labeling
+786527921	29	Name_Calling-Labeling,Repetition
+786527921	30	Name_Calling-Labeling
+786527921	31	
+786527921	32	Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling
+786527921	33	
+786527921	34	Slogans
+786527921	35	Name_Calling-Labeling
+786527921	36	Loaded_Language,Name_Calling-Labeling
+786527921	37	Flag_Waving
+786527921	38	
+786527921	39	Name_Calling-Labeling,Slogans
+786527921	40	
+786527921	41	
+786527921	42	Doubt
+786527921	43	Loaded_Language
+786527921	44	Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling
+786527921	45	Loaded_Language
+786527921	46	Doubt,Loaded_Language
+786527921	47	Exaggeration-Minimisation,Loaded_Language
+786527921	48	Name_Calling-Labeling
+786527921	49	Loaded_Language
+786527921	50	
+786527921	51	
+786527921	52	
+786527921	53	Loaded_Language,Name_Calling-Labeling
+786527921	54	Name_Calling-Labeling
+786527921	55	Name_Calling-Labeling
+786527921	56	Exaggeration-Minimisation,Slogans
+786527921	57	Loaded_Language
+786527921	58	

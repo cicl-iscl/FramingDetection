@@ -1,0 +1,4 @@
+2227	1	Slogans
+2227	3	Appeal_to_Fear-Prejudice
+2227	5	Appeal_to_Fear-Prejudice,Appeal_to_Hypocrisy,Name_Calling-Labeling
+2227	7	Doubt,Name_Calling-Labeling,Slogans

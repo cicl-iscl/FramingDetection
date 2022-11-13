@@ -1,0 +1,14 @@
+26237	1	Loaded_Language
+26237	3	Loaded_Language,Questioning_the_Reputation
+26237	5	
+26237	7	
+26237	9	
+26237	11	
+26237	13	Loaded_Language
+26237	15	Loaded_Language,Name_Calling-Labeling
+26237	17	
+26237	19	Appeal_to_Fear-Prejudice,Doubt
+26237	21	Loaded_Language,Name_Calling-Labeling
+26237	23	Doubt,Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+26237	25	
+26237	27	Appeal_to_Values,Name_Calling-Labeling,Questioning_the_Reputation

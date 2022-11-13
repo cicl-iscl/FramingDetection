@@ -1,0 +1,15 @@
+776368676	1	Loaded_Language,Name_Calling-Labeling
+776368676	3	Flag_Waving,Loaded_Language,Name_Calling-Labeling
+776368676	4	Loaded_Language,Name_Calling-Labeling
+776368676	5	Exaggeration-Minimisation,Flag_Waving,Loaded_Language,Name_Calling-Labeling,Repetition
+776368676	6	Exaggeration-Minimisation,Flag_Waving,Loaded_Language,Name_Calling-Labeling
+776368676	7	Name_Calling-Labeling
+776368676	8	Exaggeration-Minimisation,Loaded_Language
+776368676	9	
+776368676	10	Flag_Waving,Loaded_Language,Name_Calling-Labeling,Slogans
+776368676	11	
+776368676	12	
+776368676	13	
+776368676	14	
+776368676	15	
+776368676	16	

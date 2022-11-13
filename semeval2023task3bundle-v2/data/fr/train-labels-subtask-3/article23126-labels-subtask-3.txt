@@ -1,0 +1,14 @@
+23126	1	
+23126	3	Appeal_to_Fear-Prejudice
+23126	5	
+23126	7	Appeal_to_Fear-Prejudice,Doubt
+23126	9	Appeal_to_Fear-Prejudice,Exaggeration-Minimisation
+23126	11	Conversation_Killer,Doubt
+23126	13	Questioning_the_Reputation
+23126	15	Questioning_the_Reputation
+23126	17	
+23126	19	
+23126	21	
+23126	23	
+23126	25	Doubt
+23126	27	Doubt,Name_Calling-Labeling

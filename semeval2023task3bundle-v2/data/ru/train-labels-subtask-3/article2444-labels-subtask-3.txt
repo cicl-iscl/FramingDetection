@@ -1,0 +1,12 @@
+2444	1	Appeal_to_Values,Flag_Waving
+2444	2	
+2444	4	Exaggeration-Minimisation,Loaded_Language
+2444	6	Exaggeration-Minimisation,Loaded_Language,Repetition
+2444	8	
+2444	10	Exaggeration-Minimisation,False_Dilemma-No_Choice,Loaded_Language,Repetition
+2444	12	Exaggeration-Minimisation,Loaded_Language
+2444	14	Appeal_to_Values,Doubt,Flag_Waving,Loaded_Language,Questioning_the_Reputation
+2444	16	Appeal_to_Values,Flag_Waving,Loaded_Language
+2444	18	Loaded_Language,Name_Calling-Labeling,Slogans
+2444	20	Loaded_Language
+2444	22	Slogans

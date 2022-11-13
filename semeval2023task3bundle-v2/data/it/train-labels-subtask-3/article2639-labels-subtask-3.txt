@@ -1,0 +1,9 @@
+2639	1	Conversation_Killer,Guilt_by_Association,Name_Calling-Labeling
+2639	3	Conversation_Killer,Doubt,False_Dilemma-No_Choice,Guilt_by_Association,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+2639	5	Conversation_Killer,Doubt,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+2639	7	Appeal_to_Hypocrisy,Doubt,Loaded_Language,Name_Calling-Labeling,Straw_Man
+2639	9	Appeal_to_Values,Doubt,Loaded_Language,Name_Calling-Labeling
+2639	11	Doubt,Loaded_Language,Name_Calling-Labeling,Straw_Man
+2639	13	Causal_Oversimplification,Doubt,Loaded_Language
+2639	15	Doubt,Loaded_Language,Name_Calling-Labeling
+2639	17	Conversation_Killer,Doubt,False_Dilemma-No_Choice,Guilt_by_Association

@@ -1,0 +1,2 @@
+26225	1	Appeal_to_Values
+26225	3	Appeal_to_Fear-Prejudice,Appeal_to_Values,Causal_Oversimplification,Consequential_Oversimplification

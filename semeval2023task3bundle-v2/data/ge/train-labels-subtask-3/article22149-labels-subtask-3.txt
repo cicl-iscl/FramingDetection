@@ -1,0 +1,16 @@
+22149	1	Name_Calling-Labeling
+22149	3	Flag_Waving,Loaded_Language,Name_Calling-Labeling
+22149	5	Appeal_to_Hypocrisy
+22149	7	
+22149	9	Guilt_by_Association,Loaded_Language
+22149	11	Flag_Waving,Loaded_Language
+22149	13	
+22149	15	Name_Calling-Labeling
+22149	17	Loaded_Language
+22149	19	Doubt,Loaded_Language,Name_Calling-Labeling,Slogans
+22149	21	Guilt_by_Association
+22149	23	Flag_Waving
+22149	25	Appeal_to_Values,Flag_Waving,Name_Calling-Labeling,Obfuscation-Vagueness-Confusion
+22149	27	
+22149	29	Appeal_to_Values
+22149	31	Appeal_to_Values,Name_Calling-Labeling

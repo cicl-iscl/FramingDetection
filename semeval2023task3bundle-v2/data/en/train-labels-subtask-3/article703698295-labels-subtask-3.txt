@@ -1,0 +1,41 @@
+703698295	1	
+703698295	3	Name_Calling-Labeling
+703698295	4	
+703698295	8	Appeal_to_Fear-Prejudice
+703698295	12	
+703698295	16	Appeal_to_Fear-Prejudice
+703698295	20	Loaded_Language
+703698295	24	Exaggeration-Minimisation,Loaded_Language
+703698295	28	Loaded_Language,Name_Calling-Labeling
+703698295	32	Name_Calling-Labeling
+703698295	36	
+703698295	37	
+703698295	39	
+703698295	40	
+703698295	42	
+703698295	43	
+703698295	44	
+703698295	45	Loaded_Language
+703698295	46	Appeal_to_Fear-Prejudice
+703698295	47	Loaded_Language
+703698295	48	
+703698295	50	
+703698295	52	
+703698295	54	Appeal_to_Fear-Prejudice
+703698295	56	Loaded_Language
+703698295	58	
+703698295	60	Repetition
+703698295	62	Loaded_Language,Name_Calling-Labeling
+703698295	64	
+703698295	66	Causal_Oversimplification,Loaded_Language
+703698295	68	Causal_Oversimplification,Loaded_Language
+703698295	70	Name_Calling-Labeling
+703698295	72	
+703698295	74	False_Dilemma-No_Choice
+703698295	76	Appeal_to_Fear-Prejudice
+703698295	78	
+703698295	80	Loaded_Language
+703698295	82	
+703698295	84	
+703698295	85	
+703698295	86	Loaded_Language

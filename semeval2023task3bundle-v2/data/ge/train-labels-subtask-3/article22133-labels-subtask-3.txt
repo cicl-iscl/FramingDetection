@@ -1,0 +1,9 @@
+22133	1	Exaggeration-Minimisation
+22133	3	
+22133	5	Appeal_to_Authority,Appeal_to_Fear-Prejudice,Exaggeration-Minimisation,Name_Calling-Labeling,Questioning_the_Reputation
+22133	7	Appeal_to_Hypocrisy,Guilt_by_Association,Loaded_Language,Name_Calling-Labeling
+22133	9	Appeal_to_Authority,False_Dilemma-No_Choice,Name_Calling-Labeling
+22133	11	Appeal_to_Authority,False_Dilemma-No_Choice,Flag_Waving,Loaded_Language
+22133	13	Appeal_to_Authority,Appeal_to_Hypocrisy,Slogans
+22133	15	Exaggeration-Minimisation,Guilt_by_Association,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+22133	17	Red_Herring

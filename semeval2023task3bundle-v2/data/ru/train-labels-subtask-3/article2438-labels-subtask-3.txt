@@ -1,0 +1,20 @@
+2438	1	Appeal_to_Fear-Prejudice,Doubt,Exaggeration-Minimisation
+2438	3	Appeal_to_Fear-Prejudice,Doubt,Exaggeration-Minimisation
+2438	5	Appeal_to_Authority,Name_Calling-Labeling,Questioning_the_Reputation
+2438	7	Appeal_to_Authority,Appeal_to_Values,Loaded_Language,Name_Calling-Labeling
+2438	9	Appeal_to_Fear-Prejudice,Appeal_to_Hypocrisy,Doubt,Questioning_the_Reputation
+2438	11	Appeal_to_Fear-Prejudice,Exaggeration-Minimisation,Loaded_Language
+2438	13	
+2438	15	Appeal_to_Fear-Prejudice,Doubt
+2438	17	Doubt,Repetition
+2438	19	Appeal_to_Fear-Prejudice,Questioning_the_Reputation
+2438	21	Repetition
+2438	23	
+2438	25	Loaded_Language,Questioning_the_Reputation
+2438	27	Exaggeration-Minimisation,Questioning_the_Reputation
+2438	29	Doubt
+2438	31	Doubt
+2438	33	Doubt,Exaggeration-Minimisation
+2438	35	Questioning_the_Reputation
+2438	37	
+2438	39	Appeal_to_Time,Consequential_Oversimplification,Conversation_Killer

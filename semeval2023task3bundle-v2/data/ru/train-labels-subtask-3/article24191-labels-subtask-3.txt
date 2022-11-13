@@ -1,0 +1,5 @@
+24191	1	Questioning_the_Reputation
+24191	3	Appeal_to_Popularity,Consequential_Oversimplification,Questioning_the_Reputation
+24191	5	Loaded_Language
+24191	7	Appeal_to_Authority,Appeal_to_Values,Doubt,Loaded_Language,Questioning_the_Reputation
+24191	9	Consequential_Oversimplification

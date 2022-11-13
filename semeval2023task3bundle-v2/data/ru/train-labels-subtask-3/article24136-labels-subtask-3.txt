@@ -1,0 +1,10 @@
+24136	1	Loaded_Language
+24136	3	Questioning_the_Reputation
+24136	5	Doubt,Exaggeration-Minimisation
+24136	7	Appeal_to_Hypocrisy,Questioning_the_Reputation
+24136	9	Loaded_Language
+24136	11	Questioning_the_Reputation
+24136	13	Doubt
+24136	15	Appeal_to_Fear-Prejudice,Questioning_the_Reputation
+24136	17	Appeal_to_Fear-Prejudice
+24136	19	

@@ -1,0 +1,21 @@
+999001419	1	
+999001419	3	
+999001419	4	Loaded_Language
+999001419	5	
+999001419	6	
+999001419	7	False_Dilemma-No_Choice,Name_Calling-Labeling
+999001419	8	Loaded_Language,Name_Calling-Labeling
+999001419	9	
+999001419	10	
+999001419	11	Loaded_Language,Name_Calling-Labeling
+999001419	12	Exaggeration-Minimisation,Loaded_Language
+999001419	13	
+999001419	14	
+999001419	15	Flag_Waving
+999001419	16	
+999001419	17	
+999001419	18	
+999001419	19	
+999001419	20	Name_Calling-Labeling
+999001419	21	
+999001419	22	

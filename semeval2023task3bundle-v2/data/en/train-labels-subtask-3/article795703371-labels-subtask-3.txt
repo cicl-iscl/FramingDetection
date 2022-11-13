@@ -1,0 +1,20 @@
+795703371	1	
+795703371	3	
+795703371	4	
+795703371	5	Loaded_Language
+795703371	6	
+795703371	7	Appeal_to_Fear-Prejudice,Flag_Waving
+795703371	8	
+795703371	9	
+795703371	10	
+795703371	11	Exaggeration-Minimisation,False_Dilemma-No_Choice,Loaded_Language
+795703371	12	Loaded_Language
+795703371	13	
+795703371	14	
+795703371	15	
+795703371	16	Flag_Waving,Name_Calling-Labeling
+795703371	17	
+795703371	18	Appeal_to_Fear-Prejudice
+795703371	19	
+795703371	20	Loaded_Language
+795703371	21	

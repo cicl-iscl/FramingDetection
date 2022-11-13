@@ -1,0 +1,8 @@
+2550	1	Guilt_by_Association,Loaded_Language
+2550	3	
+2550	5	Appeal_to_Hypocrisy,Doubt,Guilt_by_Association,Loaded_Language
+2550	9	
+2550	11	
+2550	13	Appeal_to_Values,Name_Calling-Labeling
+2550	15	
+2550	17	Doubt

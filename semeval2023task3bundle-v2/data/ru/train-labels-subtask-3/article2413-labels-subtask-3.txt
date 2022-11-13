@@ -1,0 +1,8 @@
+2413	1	Exaggeration-Minimisation,Loaded_Language
+2413	3	Doubt,Exaggeration-Minimisation,Loaded_Language
+2413	5	Loaded_Language,Name_Calling-Labeling
+2413	7	Consequential_Oversimplification,Doubt,Exaggeration-Minimisation,Loaded_Language,Repetition
+2413	9	Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling,Repetition
+2413	11	Doubt,Exaggeration-Minimisation,Loaded_Language,Questioning_the_Reputation,Repetition
+2413	13	Appeal_to_Hypocrisy,Conversation_Killer,Doubt,Loaded_Language
+2413	15	Loaded_Language

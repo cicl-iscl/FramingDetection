@@ -1,0 +1,7 @@
+2465	1	
+2465	3	Appeal_to_Hypocrisy
+2465	5	
+2465	7	Name_Calling-Labeling
+2465	9	Appeal_to_Hypocrisy
+2465	11	
+2465	13	Appeal_to_Hypocrisy,Loaded_Language,Whataboutism

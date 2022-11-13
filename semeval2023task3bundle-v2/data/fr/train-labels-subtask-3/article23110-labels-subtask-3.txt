@@ -1,0 +1,17 @@
+23110	1	Appeal_to_Fear-Prejudice
+23110	3	Consequential_Oversimplification,Loaded_Language
+23110	5	Causal_Oversimplification
+23110	7	Conversation_Killer,Loaded_Language,Slogans
+23110	9	Doubt,Loaded_Language
+23110	10	
+23110	12	Appeal_to_Hypocrisy,Exaggeration-Minimisation
+23110	14	Appeal_to_Fear-Prejudice,Consequential_Oversimplification
+23110	16	
+23110	18	Doubt,Exaggeration-Minimisation,Name_Calling-Labeling
+23110	19	Conversation_Killer,False_Dilemma-No_Choice,Slogans
+23110	21	Loaded_Language
+23110	23	Conversation_Killer
+23110	25	Name_Calling-Labeling
+23110	26	False_Dilemma-No_Choice
+23110	28	Exaggeration-Minimisation,Name_Calling-Labeling,Obfuscation-Vagueness-Confusion
+23110	30	Appeal_to_Fear-Prejudice,Appeal_to_Time,Consequential_Oversimplification,Name_Calling-Labeling,Questioning_the_Reputation,Repetition

@@ -1,0 +1,5 @@
+2574	1	
+2574	3	
+2574	5	Doubt
+2574	7	Appeal_to_Popularity,Conversation_Killer,Doubt
+2574	9	

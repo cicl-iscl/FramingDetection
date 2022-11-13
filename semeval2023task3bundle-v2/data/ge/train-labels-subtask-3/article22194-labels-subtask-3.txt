@@ -1,0 +1,9 @@
+22194	1	
+22194	3	
+22194	4	Conversation_Killer
+22194	6	Conversation_Killer,Doubt
+22194	8	Conversation_Killer,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+22194	10	Exaggeration-Minimisation
+22194	12	Obfuscation-Vagueness-Confusion
+22194	14	Name_Calling-Labeling
+22194	16	Doubt,Loaded_Language,Name_Calling-Labeling

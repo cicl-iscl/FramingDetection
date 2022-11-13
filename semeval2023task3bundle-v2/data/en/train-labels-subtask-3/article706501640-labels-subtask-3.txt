@@ -1,0 +1,7 @@
+706501640	1	Appeal_to_Fear-Prejudice,Loaded_Language,Repetition
+706501640	3	Appeal_to_Authority,Repetition
+706501640	4	Repetition
+706501640	5	Appeal_to_Fear-Prejudice,Repetition
+706501640	6	Loaded_Language
+706501640	7	Appeal_to_Fear-Prejudice
+706501640	8	

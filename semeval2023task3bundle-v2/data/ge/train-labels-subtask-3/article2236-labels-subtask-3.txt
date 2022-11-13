@@ -1,0 +1,22 @@
+2236	1	Appeal_to_Authority,Appeal_to_Fear-Prejudice
+2236	3	Appeal_to_Authority,Appeal_to_Fear-Prejudice
+2236	5	Appeal_to_Authority,Appeal_to_Fear-Prejudice,Doubt
+2236	7	
+2236	9	
+2236	11	Appeal_to_Fear-Prejudice
+2236	13	Appeal_to_Authority,Appeal_to_Fear-Prejudice
+2236	15	
+2236	17	Appeal_to_Authority
+2236	19	Appeal_to_Authority,Doubt
+2236	21	
+2236	23	
+2236	25	Appeal_to_Authority,Name_Calling-Labeling
+2236	27	
+2236	29	Appeal_to_Authority,Doubt
+2236	31	Appeal_to_Authority
+2236	33	Exaggeration-Minimisation
+2236	35	Doubt
+2236	37	Appeal_to_Authority
+2236	39	
+2236	41	Conversation_Killer,Doubt
+2236	43	Appeal_to_Fear-Prejudice,Doubt

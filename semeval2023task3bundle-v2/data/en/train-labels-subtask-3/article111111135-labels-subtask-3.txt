@@ -1,0 +1,28 @@
+111111135	1	
+111111135	3	
+111111135	5	Causal_Oversimplification,Loaded_Language
+111111135	7	Loaded_Language
+111111135	9	Loaded_Language
+111111135	11	
+111111135	12	
+111111135	14	Appeal_to_Authority,Loaded_Language
+111111135	16	
+111111135	17	
+111111135	19	Exaggeration-Minimisation,Guilt_by_Association,Loaded_Language,Name_Calling-Labeling
+111111135	21	
+111111135	22	
+111111135	24	
+111111135	26	
+111111135	28	Doubt
+111111135	29	Loaded_Language,Repetition
+111111135	31	
+111111135	33	
+111111135	35	
+111111135	36	
+111111135	38	
+111111135	40	
+111111135	42	
+111111135	44	Loaded_Language
+111111135	46	Loaded_Language
+111111135	48	Exaggeration-Minimisation
+111111135	50	Loaded_Language

@@ -1,0 +1,4 @@
+25110	Conversation_Killer	1775	1843
+25110	Name_Calling-Labeling	911	932
+25110	Appeal_to_Hypocrisy	935	1018
+25110	Doubt	823	932

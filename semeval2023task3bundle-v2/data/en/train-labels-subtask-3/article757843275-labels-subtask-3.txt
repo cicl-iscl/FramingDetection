@@ -1,0 +1,12 @@
+757843275	1	
+757843275	3	Appeal_to_Fear-Prejudice
+757843275	4	False_Dilemma-No_Choice
+757843275	5	
+757843275	6	Appeal_to_Fear-Prejudice
+757843275	7	Loaded_Language
+757843275	8	
+757843275	9	
+757843275	10	Appeal_to_Fear-Prejudice
+757843275	11	
+757843275	12	Appeal_to_Fear-Prejudice
+757843275	13	Red_Herring

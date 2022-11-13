@@ -1,0 +1,9 @@
+26221	1	Loaded_Language
+26221	3	Loaded_Language
+26221	5	
+26221	7	Loaded_Language,Questioning_the_Reputation
+26221	9	
+26221	11	Appeal_to_Time,Doubt
+26221	13	
+26221	15	Doubt,Exaggeration-Minimisation
+26221	17	Appeal_to_Hypocrisy,Doubt,Exaggeration-Minimisation,Questioning_the_Reputation

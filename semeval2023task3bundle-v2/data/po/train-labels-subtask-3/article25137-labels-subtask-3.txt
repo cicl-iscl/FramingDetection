@@ -1,0 +1,24 @@
+25137	1	
+25137	3	
+25137	6	
+25137	8	
+25137	10	Doubt
+25137	13	
+25137	15	
+25137	17	Appeal_to_Hypocrisy
+25137	20	
+25137	22	
+25137	24	Appeal_to_Hypocrisy,Obfuscation-Vagueness-Confusion,Slogans
+25137	27	
+25137	29	
+25137	31	
+25137	34	
+25137	36	
+25137	38	Doubt
+25137	41	
+25137	43	Questioning_the_Reputation
+25137	45	Doubt
+25137	48	
+25137	50	
+25137	53	
+25137	55	Appeal_to_Authority,Doubt

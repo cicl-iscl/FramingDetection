@@ -1,0 +1,11 @@
+2255	1	
+2255	3	False_Dilemma-No_Choice,Name_Calling-Labeling
+2255	5	Exaggeration-Minimisation,False_Dilemma-No_Choice
+2255	7	Flag_Waving,Name_Calling-Labeling
+2255	9	Appeal_to_Values,Doubt,Guilt_by_Association,Loaded_Language,Name_Calling-Labeling
+2255	11	Appeal_to_Values,Flag_Waving,Name_Calling-Labeling
+2255	13	Appeal_to_Fear-Prejudice,Name_Calling-Labeling
+2255	15	Flag_Waving,Name_Calling-Labeling
+2255	17	Guilt_by_Association,Name_Calling-Labeling
+2255	19	Causal_Oversimplification,Name_Calling-Labeling
+2255	21	False_Dilemma-No_Choice,Name_Calling-Labeling

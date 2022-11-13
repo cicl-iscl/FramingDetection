@@ -1,0 +1,46 @@
+780414700	1	
+780414700	3	Loaded_Language,Name_Calling-Labeling,Slogans
+780414700	4	Causal_Oversimplification,Loaded_Language
+780414700	5	Appeal_to_Fear-Prejudice,Appeal_to_Popularity,Exaggeration-Minimisation,False_Dilemma-No_Choice,Loaded_Language,Name_Calling-Labeling,Slogans
+780414700	6	
+780414700	7	
+780414700	8	
+780414700	9	
+780414700	10	Loaded_Language,Name_Calling-Labeling,Repetition,Slogans
+780414700	11	Exaggeration-Minimisation,Loaded_Language,Repetition
+780414700	12	
+780414700	13	Causal_Oversimplification,Loaded_Language,Name_Calling-Labeling
+780414700	14	Appeal_to_Fear-Prejudice
+780414700	15	Causal_Oversimplification,Repetition
+780414700	16	Doubt,Name_Calling-Labeling
+780414700	17	Appeal_to_Fear-Prejudice
+780414700	18	Loaded_Language
+780414700	19	Causal_Oversimplification,Loaded_Language
+780414700	20	Causal_Oversimplification,Loaded_Language,Name_Calling-Labeling
+780414700	21	Name_Calling-Labeling
+780414700	22	Exaggeration-Minimisation,Loaded_Language
+780414700	23	Exaggeration-Minimisation
+780414700	24	Exaggeration-Minimisation,Loaded_Language
+780414700	25	Causal_Oversimplification
+780414700	26	Name_Calling-Labeling
+780414700	27	
+780414700	28	
+780414700	29	
+780414700	30	
+780414700	31	Loaded_Language,Repetition
+780414700	32	Name_Calling-Labeling,Repetition
+780414700	33	Loaded_Language,Repetition
+780414700	34	
+780414700	35	
+780414700	36	Appeal_to_Fear-Prejudice
+780414700	37	
+780414700	38	
+780414700	39	Loaded_Language,Repetition
+780414700	40	Appeal_to_Popularity,Loaded_Language
+780414700	41	Loaded_Language
+780414700	42	Loaded_Language
+780414700	43	Slogans
+780414700	44	
+780414700	45	
+780414700	46	
+780414700	47	

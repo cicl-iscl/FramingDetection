@@ -1,0 +1,8 @@
+25170	1	Name_Calling-Labeling
+25170	3	Questioning_the_Reputation
+25170	5	Exaggeration-Minimisation
+25170	7	Appeal_to_Hypocrisy
+25170	9	
+25170	11	Appeal_to_Hypocrisy
+25170	13	
+25170	15	

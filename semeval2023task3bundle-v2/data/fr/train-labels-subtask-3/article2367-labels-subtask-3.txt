@@ -1,0 +1,29 @@
+2367	1	Straw_Man
+2367	3	
+2367	5	Conversation_Killer
+2367	7	Appeal_to_Hypocrisy,Appeal_to_Values,False_Dilemma-No_Choice,Loaded_Language,Questioning_the_Reputation
+2367	9	Conversation_Killer,False_Dilemma-No_Choice,Name_Calling-Labeling,Questioning_the_Reputation
+2367	11	Loaded_Language,Straw_Man
+2367	13	
+2367	15	Consequential_Oversimplification
+2367	16	Consequential_Oversimplification,Loaded_Language
+2367	17	Doubt,Name_Calling-Labeling
+2367	19	Appeal_to_Hypocrisy,Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation,Straw_Man
+2367	21	Appeal_to_Values,Consequential_Oversimplification,Doubt,Exaggeration-Minimisation,Name_Calling-Labeling
+2367	23	
+2367	25	Loaded_Language,Name_Calling-Labeling
+2367	27	
+2367	29	Appeal_to_Hypocrisy,Guilt_by_Association,Name_Calling-Labeling
+2367	31	Straw_Man
+2367	33	Causal_Oversimplification,Conversation_Killer,Doubt,False_Dilemma-No_Choice,Name_Calling-Labeling,Questioning_the_Reputation,Repetition
+2367	35	Appeal_to_Fear-Prejudice,Loaded_Language
+2367	37	
+2367	38	Questioning_the_Reputation
+2367	39	
+2367	40	Questioning_the_Reputation
+2367	41	Questioning_the_Reputation
+2367	42	
+2367	44	Obfuscation-Vagueness-Confusion
+2367	46	Name_Calling-Labeling
+2367	48	Conversation_Killer,Loaded_Language,Name_Calling-Labeling,Obfuscation-Vagueness-Confusion,Questioning_the_Reputation,Red_Herring,Straw_Man
+2367	50	Doubt,Name_Calling-Labeling,Straw_Man

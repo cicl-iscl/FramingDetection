@@ -1,0 +1,6 @@
+2241	1	Doubt,Name_Calling-Labeling
+2241	3	Appeal_to_Authority,Doubt,Name_Calling-Labeling
+2241	5	Slogans
+2241	7	Doubt,Exaggeration-Minimisation,Name_Calling-Labeling,Whataboutism
+2241	9	Appeal_to_Fear-Prejudice,Conversation_Killer,Doubt,Flag_Waving,Name_Calling-Labeling
+2241	11	Appeal_to_Values,Doubt,Exaggeration-Minimisation,False_Dilemma-No_Choice,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation

@@ -1,0 +1,10 @@
+2669	1	Name_Calling-Labeling
+2669	3	Doubt,Loaded_Language,Name_Calling-Labeling
+2669	5	Loaded_Language,Name_Calling-Labeling
+2669	7	Appeal_to_Hypocrisy,Doubt,Loaded_Language
+2669	9	
+2669	11	Doubt,Questioning_the_Reputation
+2669	12	
+2669	14	Doubt
+2669	15	Questioning_the_Reputation
+2669	17	Appeal_to_Fear-Prejudice,Doubt

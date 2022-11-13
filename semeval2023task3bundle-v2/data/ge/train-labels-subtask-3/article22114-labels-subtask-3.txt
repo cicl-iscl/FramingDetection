@@ -1,0 +1,18 @@
+22114	1	
+22114	3	Appeal_to_Authority,Doubt,Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling
+22114	5	
+22114	7	Appeal_to_Values
+22114	9	Appeal_to_Hypocrisy
+22114	11	Appeal_to_Hypocrisy,Name_Calling-Labeling,Questioning_the_Reputation
+22114	13	Name_Calling-Labeling
+22114	15	Appeal_to_Hypocrisy,Appeal_to_Values,Doubt,Name_Calling-Labeling
+22114	17	
+22114	19	Appeal_to_Hypocrisy,Conversation_Killer
+22114	21	Slogans
+22114	23	Slogans
+22114	25	Slogans
+22114	27	
+22114	29	Slogans
+22114	31	Slogans
+22114	33	
+22114	35	Slogans

@@ -1,0 +1,10 @@
+694356862	1	
+694356862	3	Causal_Oversimplification,Exaggeration-Minimisation,Loaded_Language
+694356862	4	
+694356862	5	Loaded_Language
+694356862	6	Flag_Waving
+694356862	7	
+694356862	8	
+694356862	9	Loaded_Language
+694356862	10	Appeal_to_Fear-Prejudice
+694356862	11	Doubt

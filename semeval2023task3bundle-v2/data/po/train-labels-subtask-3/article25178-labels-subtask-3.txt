@@ -1,0 +1,35 @@
+25178	1	Name_Calling-Labeling,Questioning_the_Reputation
+25178	3	
+25178	5	Questioning_the_Reputation
+25178	7	Appeal_to_Popularity
+25178	9	
+25178	11	Appeal_to_Values
+25178	13	Name_Calling-Labeling
+25178	15	
+25178	17	Questioning_the_Reputation
+25178	19	
+25178	21	
+25178	23	Appeal_to_Hypocrisy,Flag_Waving,Name_Calling-Labeling
+25178	25	Doubt,Exaggeration-Minimisation
+25178	27	
+25178	29	
+25178	31	Appeal_to_Values
+25178	33	Consequential_Oversimplification
+25178	35	
+25178	37	Guilt_by_Association
+25178	39	Guilt_by_Association
+25178	41	Appeal_to_Values,Doubt
+25178	43	Exaggeration-Minimisation
+25178	45	Exaggeration-Minimisation,Name_Calling-Labeling
+25178	47	Appeal_to_Values
+25178	49	Doubt,Questioning_the_Reputation
+25178	51	
+25178	53	Doubt
+25178	55	Appeal_to_Hypocrisy
+25178	57	
+25178	59	Doubt
+25178	61	
+25178	63	
+25178	65	
+25178	67	
+25178	69	

@@ -1,0 +1,4 @@
+2468	Obfuscation-Vagueness-Confusion	1113	1134
+2468	Slogans	1625	1655
+2468	Exaggeration-Minimisation	2347	2408
+2468	Loaded_Language	1357	1393

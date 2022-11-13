@@ -1,0 +1,34 @@
+761610997	1	
+761610997	3	
+761610997	4	False_Dilemma-No_Choice
+761610997	5	Loaded_Language
+761610997	6	Loaded_Language,Slogans
+761610997	7	
+761610997	8	
+761610997	9	False_Dilemma-No_Choice,Loaded_Language,Name_Calling-Labeling
+761610997	10	
+761610997	11	
+761610997	12	
+761610997	13	Exaggeration-Minimisation
+761610997	14	Slogans
+761610997	15	Name_Calling-Labeling
+761610997	16	Flag_Waving,Name_Calling-Labeling
+761610997	17	
+761610997	18	Causal_Oversimplification
+761610997	19	
+761610997	20	
+761610997	21	
+761610997	22	
+761610997	23	
+761610997	24	Causal_Oversimplification
+761610997	25	
+761610997	26	Exaggeration-Minimisation
+761610997	27	
+761610997	28	
+761610997	29	Loaded_Language
+761610997	30	
+761610997	31	False_Dilemma-No_Choice
+761610997	32	
+761610997	33	
+761610997	34	
+761610997	35	

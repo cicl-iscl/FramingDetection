@@ -1,0 +1,6 @@
+2387	1	Appeal_to_Fear-Prejudice
+2387	3	Appeal_to_Fear-Prejudice
+2387	5	Appeal_to_Fear-Prejudice
+2387	7	Appeal_to_Popularity,Loaded_Language
+2387	9	Loaded_Language,Questioning_the_Reputation
+2387	11	Exaggeration-Minimisation,Name_Calling-Labeling

@@ -1,0 +1,20 @@
+26186	1	
+26186	3	Name_Calling-Labeling
+26186	5	
+26186	7	Doubt,Loaded_Language,Red_Herring
+26186	9	
+26186	11	
+26186	13	Appeal_to_Popularity
+26186	15	Slogans
+26186	17	
+26186	19	Causal_Oversimplification,Questioning_the_Reputation
+26186	21	Appeal_to_Values
+26186	23	
+26186	25	
+26186	27	
+26186	29	
+26186	31	
+26186	33	Name_Calling-Labeling
+26186	35	Conversation_Killer,Loaded_Language,Name_Calling-Labeling
+26186	37	Doubt,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+26186	39	Doubt,Loaded_Language,Name_Calling-Labeling

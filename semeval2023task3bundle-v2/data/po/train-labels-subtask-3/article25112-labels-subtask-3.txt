@@ -1,0 +1,20 @@
+25112	1	
+25112	3	Appeal_to_Hypocrisy,Loaded_Language
+25112	5	Appeal_to_Hypocrisy,Conversation_Killer,Doubt,Loaded_Language,Name_Calling-Labeling
+25112	7	Appeal_to_Fear-Prejudice,Appeal_to_Hypocrisy,Doubt,Loaded_Language,Name_Calling-Labeling
+25112	9	
+25112	11	Name_Calling-Labeling
+25112	13	Appeal_to_Values,Loaded_Language,Name_Calling-Labeling
+25112	15	Doubt,Name_Calling-Labeling
+25112	17	Doubt,Exaggeration-Minimisation
+25112	19	
+25112	21	Appeal_to_Fear-Prejudice,Name_Calling-Labeling,Obfuscation-Vagueness-Confusion
+25112	23	Appeal_to_Fear-Prejudice,Exaggeration-Minimisation,Name_Calling-Labeling
+25112	25	Loaded_Language,Obfuscation-Vagueness-Confusion
+25112	27	Name_Calling-Labeling
+25112	29	Appeal_to_Hypocrisy,Loaded_Language,Questioning_the_Reputation
+25112	31	Appeal_to_Hypocrisy,Doubt,Name_Calling-Labeling
+25112	33	Appeal_to_Popularity,Conversation_Killer,Whataboutism
+25112	35	
+25112	37	
+25112	39	

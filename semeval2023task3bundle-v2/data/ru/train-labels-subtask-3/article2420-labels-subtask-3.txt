@@ -1,0 +1,8 @@
+2420	1	
+2420	3	Appeal_to_Fear-Prejudice,Consequential_Oversimplification,Loaded_Language,Name_Calling-Labeling
+2420	5	
+2420	6	Loaded_Language,Name_Calling-Labeling
+2420	8	
+2420	10	Appeal_to_Time,Appeal_to_Values,Consequential_Oversimplification,Loaded_Language,Name_Calling-Labeling,Slogans
+2420	12	Conversation_Killer,Loaded_Language,Name_Calling-Labeling
+2420	14	Doubt

@@ -1,0 +1,9 @@
+2242	1	Exaggeration-Minimisation
+2242	3	Name_Calling-Labeling
+2242	5	Doubt,Exaggeration-Minimisation,Guilt_by_Association,Name_Calling-Labeling
+2242	7	Appeal_to_Authority,Appeal_to_Popularity,Conversation_Killer,Guilt_by_Association,Name_Calling-Labeling
+2242	9	Conversation_Killer,Doubt,Name_Calling-Labeling,Questioning_the_Reputation
+2242	11	Conversation_Killer,Doubt,Exaggeration-Minimisation,Name_Calling-Labeling,Questioning_the_Reputation
+2242	13	Doubt,Name_Calling-Labeling,Slogans
+2242	15	Appeal_to_Fear-Prejudice,Appeal_to_Values,Exaggeration-Minimisation,Guilt_by_Association,Name_Calling-Labeling,Questioning_the_Reputation
+2242	17	Conversation_Killer,Doubt,Guilt_by_Association,Name_Calling-Labeling

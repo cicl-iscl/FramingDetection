@@ -1,0 +1,12 @@
+2334	1	Loaded_Language
+2334	3	
+2334	4	
+2334	5	
+2334	7	
+2334	8	
+2334	10	
+2334	11	
+2334	13	Doubt
+2334	14	Doubt,Whataboutism
+2334	15	
+2334	17	Consequential_Oversimplification

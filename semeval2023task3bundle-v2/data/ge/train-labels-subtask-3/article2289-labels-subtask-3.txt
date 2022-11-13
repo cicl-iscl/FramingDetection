@@ -1,0 +1,7 @@
+2289	1	
+2289	3	Exaggeration-Minimisation,Name_Calling-Labeling,Questioning_the_Reputation
+2289	5	Appeal_to_Values,Exaggeration-Minimisation,False_Dilemma-No_Choice,Guilt_by_Association,Name_Calling-Labeling,Straw_Man
+2289	7	Exaggeration-Minimisation,Guilt_by_Association,Loaded_Language,Name_Calling-Labeling,Obfuscation-Vagueness-Confusion,Repetition,Straw_Man
+2289	9	Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation,Red_Herring
+2289	11	Name_Calling-Labeling,Obfuscation-Vagueness-Confusion
+2289	13	Appeal_to_Fear-Prejudice,Doubt,Exaggeration-Minimisation,Guilt_by_Association,Name_Calling-Labeling,Obfuscation-Vagueness-Confusion

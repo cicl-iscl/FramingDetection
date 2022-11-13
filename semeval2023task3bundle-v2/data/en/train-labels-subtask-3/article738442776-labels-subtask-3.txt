@@ -1,0 +1,8 @@
+738442776	1	Loaded_Language
+738442776	3	
+738442776	4	
+738442776	5	
+738442776	6	Appeal_to_Authority
+738442776	7	
+738442776	8	Flag_Waving,Loaded_Language
+738442776	9	Flag_Waving

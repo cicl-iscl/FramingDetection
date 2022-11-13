@@ -1,0 +1,8 @@
+2340	1	
+2340	3	Loaded_Language
+2340	5	Appeal_to_Fear-Prejudice,Doubt,Exaggeration-Minimisation,Loaded_Language
+2340	7	Conversation_Killer,Doubt,Flag_Waving,Loaded_Language,Obfuscation-Vagueness-Confusion
+2340	9	Loaded_Language,Whataboutism
+2340	11	Loaded_Language
+2340	13	Appeal_to_Popularity,Guilt_by_Association,Questioning_the_Reputation
+2340	15	Appeal_to_Popularity,Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling,Obfuscation-Vagueness-Confusion,Questioning_the_Reputation,Slogans

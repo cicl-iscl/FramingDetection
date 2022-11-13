@@ -1,0 +1,20 @@
+22178	1	Doubt
+22178	3	Appeal_to_Authority,Doubt
+22178	5	
+22178	7	
+22178	9	Appeal_to_Hypocrisy
+22178	11	Doubt
+22178	13	
+22178	15	Appeal_to_Authority,Appeal_to_Popularity,Name_Calling-Labeling
+22178	17	
+22178	19	Doubt,Name_Calling-Labeling
+22178	21	
+22178	23	Appeal_to_Authority,Doubt
+22178	25	
+22178	27	
+22178	29	
+22178	31	Doubt
+22178	33	Appeal_to_Authority,Doubt
+22178	35	
+22178	37	Name_Calling-Labeling
+22178	39	Appeal_to_Time,Doubt

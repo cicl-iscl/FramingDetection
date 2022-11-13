@@ -1,0 +1,14 @@
+236	1	
+236	3	
+236	5	Conversation_Killer,Questioning_the_Reputation
+236	6	Doubt,Obfuscation-Vagueness-Confusion,Slogans
+236	7	Appeal_to_Popularity,Loaded_Language,Name_Calling-Labeling
+236	9	
+236	11	
+236	13	Appeal_to_Authority,Appeal_to_Fear-Prejudice,Consequential_Oversimplification
+236	15	
+236	16	
+236	18	
+236	20	
+236	22	Appeal_to_Popularity,Appeal_to_Values,Doubt,Loaded_Language,Name_Calling-Labeling
+236	24	Conversation_Killer

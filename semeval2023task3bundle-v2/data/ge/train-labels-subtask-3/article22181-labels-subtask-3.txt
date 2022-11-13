@@ -1,0 +1,4 @@
+22181	1	Name_Calling-Labeling,Questioning_the_Reputation
+22181	3	Appeal_to_Hypocrisy,Doubt,False_Dilemma-No_Choice,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+22181	5	Appeal_to_Fear-Prejudice,Appeal_to_Values,Doubt,Name_Calling-Labeling
+22181	7	Appeal_to_Fear-Prejudice,Appeal_to_Time,Appeal_to_Values,Conversation_Killer,Name_Calling-Labeling,Questioning_the_Reputation,Repetition

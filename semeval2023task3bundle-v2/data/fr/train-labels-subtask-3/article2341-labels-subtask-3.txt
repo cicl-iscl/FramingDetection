@@ -1,0 +1,12 @@
+2341	1	
+2341	3	Appeal_to_Values,Causal_Oversimplification,Loaded_Language,Questioning_the_Reputation
+2341	5	Red_Herring
+2341	7	
+2341	9	
+2341	11	Exaggeration-Minimisation
+2341	13	Appeal_to_Values,Loaded_Language,Obfuscation-Vagueness-Confusion
+2341	15	Causal_Oversimplification,Exaggeration-Minimisation,Guilt_by_Association,Name_Calling-Labeling
+2341	17	Loaded_Language,Name_Calling-Labeling
+2341	19	Appeal_to_Hypocrisy,Doubt
+2341	21	Whataboutism
+2341	23	

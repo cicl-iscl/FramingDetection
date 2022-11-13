@@ -1,0 +1,9 @@
+24143	1	Loaded_Language,Questioning_the_Reputation
+24143	3	Questioning_the_Reputation
+24143	5	Questioning_the_Reputation
+24143	7	
+24143	9	Questioning_the_Reputation
+24143	11	Doubt
+24143	13	Questioning_the_Reputation
+24143	15	
+24143	17	

@@ -1,0 +1,7 @@
+2440	1	Doubt
+2440	3	Doubt
+2440	5	Repetition
+2440	7	Exaggeration-Minimisation
+2440	9	
+2440	11	
+2440	13	Loaded_Language

@@ -1,0 +1,11 @@
+244	1	Consequential_Oversimplification
+244	3	Consequential_Oversimplification,Loaded_Language,Repetition
+244	5	Causal_Oversimplification,Loaded_Language,Questioning_the_Reputation
+244	7	Questioning_the_Reputation
+244	9	Loaded_Language,Questioning_the_Reputation
+244	11	Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+244	13	Loaded_Language,Questioning_the_Reputation
+244	15	Flag_Waving
+244	17	Loaded_Language
+244	19	Loaded_Language
+244	21	Consequential_Oversimplification,Doubt,Loaded_Language,Questioning_the_Reputation

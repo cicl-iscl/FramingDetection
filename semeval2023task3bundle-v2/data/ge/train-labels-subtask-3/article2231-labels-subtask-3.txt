@@ -1,0 +1,14 @@
+2231	1	
+2231	3	Appeal_to_Popularity,Appeal_to_Values
+2231	5	
+2231	7	Name_Calling-Labeling
+2231	9	Appeal_to_Hypocrisy
+2231	11	Repetition
+2231	13	
+2231	15	Appeal_to_Fear-Prejudice,Conversation_Killer
+2231	17	Doubt,Questioning_the_Reputation
+2231	19	Flag_Waving,Name_Calling-Labeling
+2231	21	Exaggeration-Minimisation
+2231	23	Appeal_to_Fear-Prejudice,Appeal_to_Values
+2231	25	Conversation_Killer,Flag_Waving
+2231	27	Appeal_to_Hypocrisy,Whataboutism

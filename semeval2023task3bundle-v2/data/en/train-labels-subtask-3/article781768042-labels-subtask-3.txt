@@ -1,0 +1,42 @@
+781768042	1	Causal_Oversimplification,Name_Calling-Labeling
+781768042	3	Loaded_Language
+781768042	4	Doubt
+781768042	5	Appeal_to_Fear-Prejudice,Doubt,Loaded_Language
+781768042	6	
+781768042	7	
+781768042	8	
+781768042	9	
+781768042	10	
+781768042	11	
+781768042	12	
+781768042	13	
+781768042	14	Name_Calling-Labeling,Repetition
+781768042	15	
+781768042	16	Loaded_Language,Name_Calling-Labeling
+781768042	17	Loaded_Language
+781768042	18	Loaded_Language,Name_Calling-Labeling
+781768042	19	Loaded_Language
+781768042	20	Causal_Oversimplification,Loaded_Language
+781768042	21	Name_Calling-Labeling
+781768042	22	Doubt
+781768042	23	
+781768042	24	
+781768042	25	
+781768042	26	
+781768042	27	Repetition
+781768042	28	
+781768042	29	Doubt,Name_Calling-Labeling
+781768042	30	
+781768042	31	
+781768042	32	Name_Calling-Labeling
+781768042	33	Doubt,Flag_Waving
+781768042	34	Doubt,Loaded_Language
+781768042	35	Doubt
+781768042	36	Doubt,Loaded_Language,Name_Calling-Labeling
+781768042	37	Doubt
+781768042	38	Doubt
+781768042	39	Doubt,Flag_Waving,Loaded_Language
+781768042	40	Causal_Oversimplification,Name_Calling-Labeling
+781768042	41	Name_Calling-Labeling
+781768042	42	Causal_Oversimplification,Doubt,Loaded_Language
+781768042	43	

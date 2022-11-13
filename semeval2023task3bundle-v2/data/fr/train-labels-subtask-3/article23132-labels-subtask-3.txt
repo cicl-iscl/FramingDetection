@@ -1,0 +1,9 @@
+23132	1	Loaded_Language
+23132	3	
+23132	5	Loaded_Language
+23132	7	
+23132	9	Loaded_Language
+23132	11	Loaded_Language
+23132	13	Loaded_Language
+23132	15	Loaded_Language,Name_Calling-Labeling
+23132	17	

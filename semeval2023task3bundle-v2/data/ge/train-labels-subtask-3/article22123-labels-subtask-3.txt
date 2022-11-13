@@ -1,0 +1,43 @@
+22123	1	
+22123	3	
+22123	5	
+22123	7	Exaggeration-Minimisation,Loaded_Language
+22123	9	Appeal_to_Authority,Causal_Oversimplification
+22123	11	
+22123	13	Appeal_to_Authority
+22123	15	Appeal_to_Authority
+22123	17	
+22123	19	
+22123	21	
+22123	23	
+22123	25	
+22123	27	Exaggeration-Minimisation
+22123	29	
+22123	31	
+22123	33	Appeal_to_Authority
+22123	35	
+22123	37	
+22123	39	
+22123	41	Appeal_to_Authority
+22123	43	
+22123	45	Appeal_to_Authority
+22123	47	
+22123	49	Appeal_to_Authority
+22123	51	Appeal_to_Authority
+22123	53	
+22123	55	
+22123	57	
+22123	59	Appeal_to_Authority
+22123	61	
+22123	63	
+22123	65	
+22123	67	
+22123	69	
+22123	71	
+22123	73	
+22123	75	
+22123	77	Doubt
+22123	79	
+22123	81	
+22123	83	
+22123	85	

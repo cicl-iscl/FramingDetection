@@ -1,0 +1,5 @@
+26106	1	Questioning_the_Reputation
+26106	3	Doubt,Questioning_the_Reputation
+26106	5	Exaggeration-Minimisation,Loaded_Language,Questioning_the_Reputation
+26106	7	Doubt,Questioning_the_Reputation
+26106	9	Causal_Oversimplification,Conversation_Killer,Doubt,Loaded_Language,Name_Calling-Labeling,Obfuscation-Vagueness-Confusion

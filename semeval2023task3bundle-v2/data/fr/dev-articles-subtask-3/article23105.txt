@@ -1,0 +1,39 @@
+Variants du Covid : redémarrage ou virus saisonnier ?
+
+Avec l’arrivée et la circulation très majoritaire de BA.4 et de BA.5 sur le territoire français, le nombre de contaminations repart à la hausse. Comment analyser cette reprise ? Les réponses des épidémiologistes Catherine Hill et Antoine Flahault.
+
+L’épidémie n’est pas saisonnière. Des variants de plus en plus contagieux se succèdent et continuent de faire circuler le virus par vagues.
+
+Catherine Hill Épidémiologiste à l’Institut Gustave-Roussy (Villejuif)
+
+Si certains pensent que l’épidémie de Covid est saisonnière, c’est probablement par analogie avec les épidémies de grippe. Mais il suffit de regarder l’évolution de la mortalité par Covid dans les pays de l’hémisphère Nord et dans les pays de l’hémisphère Sud pour voir que les pics observés au Nord ne correspondent pas à des creux observés au Sud. On peut aussi comparer les dates des pics entre deux pays situés dans le même hémisphère, par exemple l’Afrique du Sud et le Brésil, pour constater qu’au Brésil le pic le plus important s’est produit mi-avril 2021, moment où on observait très peu de décès en Afrique du Sud.
+
+Il y a eu trois pics au Brésil, en juillet 2020, avril 2021 et février 2022, et quatre pics en Afrique du Sud, en août 2020, janvier 2021, juillet 2021 et février 2022. En France, il y a eu sept pics, en avril 2020, novembre 2020, février 2021, mars 2021, août 2021, février 2022, et avril 2022, donc à toutes les saisons.
+
+L’épidémie est en réalité gouvernée par la propagation de variants de plus en plus contagieux qui diffusent d’un pays à l’autre en fonction de la circulation des personnes. Ainsi, le variant BA.2 d’Omicron est rapidement devenu dominant en France, succédant au variant BA.1 d’Omicron, qui lui-même succédait au variant Delta.
+
+Les variants BA.4 et BA.5 d’Omicron sont en train d’arriver en France, ils représentaient déjà 46 % des virus du 5 au 11 juin d’après les données de criblage, et leur fréquence relative augmente rapidement. Nous sommes passés de 45 % de BA.2 à 75 % de BA.2 en deux semaines, on peut donc s’attendre à avoir bientôt 75 % de BA.4 ou BA.5.
+
+Peut-on alors parler de reprise ? Redémarrage suppose arrêt, or il n’y a pas eu d’arrêt de l’épidémie : comme dans le reste du monde, le Sars-CoV-2 n’a jamais cessé de circuler en France. L’évolution de cette circulation peut être étudiée à partir de plusieurs indicateurs : le nombre de cas positifs, le nombre de patients arrivant à l’hôpital ou en réanimation et le nombre de décès.
+
+Quel que soit l’indicateur, la circulation du virus s’est faite par vagues successives, avec des hauts et des bas, les hauts devenant de moins en moins hauts parce que la population est en partie protégée des risques par la vaccination ou par une infection antérieure, la protection étant meilleure contre les risques les plus graves, c’est-à-dire les risques d’admission en réanimation et les risques de décès.
+
+Cependant, les variants BA.4 et BA.5, qui sont arrivés au Portugal plus tôt qu’en France, sont associés dans ce pays à une importante augmentation de la mortalité.
+
+On peut donc s’attendre à observer le même phénomène en France, voire pire dans la mesure où 11 % de la population française de 80 ans et plus n’a pas du tout été vaccinée, alors qu’au Portugal la couverture vaccinale de la population de 60 ans et plus est de 100 %.
+
+Nous n’en avons pas fini avec la pandémie. La vague en cours qui, après avoir touché le Portugal, déferle sur l’Europe témoigne d’un redémarrage.
+
+Antoine Flahault Médecin épidémiologiste, directeur de l’Institut de santé globale, université de Genève (Suisse)
+
+Àla fin de chaque vague s’élèvent des voix d’experts et aussi de politiques pour expliquer, d’un ton très optimiste, que cette fois-ci on en a bien terminé. Rappelons-nous la première vague, après le terrible premier confinement. Après l’été où nous avions retrouvé la vie presque « comme avant », la deuxième vague a nécessité un autre confinement. On espérait ensuite, grâce aux bonnes nouvelles concernant l’arrivée d’un vaccin, qu’ on en aurait terminé avec cette pandémie. Mais le variant Alpha allait contrecarrer les plans de nos rassuristes préférés et nécessiter un nouveau confinement, qui cette fois serait bien le dernier.
+
+Mais est-ce à dire qu’on en avait terminé avec la pandémie depuis juin 2021 ? Malheureusement, la vague Delta s’est répandue sur l’Europe et dans le monde. Le vaccin allait changer la donne. Alors que l’on sortait début décembre de ce qui allait être notre dernière expérience avec cette pandémie, on vit déferler le nouveau variant Omicron en Afrique du Sud, au début de leur été austral. Il était tellement transmissible que rien ne l’arrêta et à peine était-on arrivé au pic de la vague Delta, mi-décembre, qu’Omicron allait se répandre sur toute l’Europe sans nous laisser le moindre répit.
+
+Omicron est une famille nombreuse et chacun des sous-variants a son propre caractère. BA.1, BA.2, BA.3, BA.4 et BA.5. Ne croyons pas d’ailleurs qu’il n’y aurait « que » cinq enfants dans la famille Omicron. Les Nord-Américains se débattent aujourd’hui avec un sous-variant qui s’appelle BA.2.12.1, signifiant que le sous-variant BA.2 a déjà eu au moins 12 sous-variants. Il déferle en Martinique, qui connaît aujourd’hui les plus fortes incidences et mortalités rapportées à la population.
+
+Donc non, on n’en a pas terminé avec le Covid. On aimerait bien, mais les vagues ont plutôt l’air de s’enchaîner avec un rythme accéléré.
+
+Il semble que BA.5 mène la course en tête en Europe de l’Ouest. La vague provoquée au Portugal – et son cortège de décès – s’étend désormais au sous-continent et notamment à la France métropolitaine. Les Portugais sont pourtant remarquablement vaccinés, ils portent encore le masque dans les transports publics, donc il y a peu de raisons de penser que les Français s’en tireront mieux. Il est important de noter que 93 % de la mortalité durant cette vague BA.5 au Portugal a concerné des personnes de plus de 80 ans. Ce sont elles qu’il faut protéger en très grande priorité, les 7 % restants étaient les rares personnes non vaccinées ou insuffisamment vaccinées, les personnes immunodéprimées par leurs traitements ou leurs maladies.
+
+Alors, si vous voulez appeler ce virus « saisonnier », libre à vous, mais de quelle saison parlons-nous ? N’utilisait-on pas autrefois cette expression pour les virus grippaux et les rhumes hivernaux ? Si l’on regarde le Covid des douze derniers mois, ce sont plutôt les quatre saisons que nous ont jouées ce virus et son orchestre de sous-variants : je dirais donc plutôt redémarrage, vous l’avez compris !

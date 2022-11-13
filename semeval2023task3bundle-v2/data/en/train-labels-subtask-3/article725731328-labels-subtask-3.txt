@@ -1,0 +1,26 @@
+725731328	1	
+725731328	3	Exaggeration-Minimisation,Loaded_Language
+725731328	4	
+725731328	5	Slogans
+725731328	6	Loaded_Language
+725731328	7	Doubt
+725731328	8	Doubt,Guilt_by_Association
+725731328	9	
+725731328	10	
+725731328	11	
+725731328	12	
+725731328	13	Exaggeration-Minimisation
+725731328	14	Appeal_to_Fear-Prejudice
+725731328	15	Conversation_Killer,Flag_Waving,Loaded_Language
+725731328	16	Exaggeration-Minimisation,Guilt_by_Association,Repetition
+725731328	17	
+725731328	18	Appeal_to_Fear-Prejudice,Loaded_Language
+725731328	19	Guilt_by_Association,Whataboutism
+725731328	20	
+725731328	21	Appeal_to_Fear-Prejudice
+725731328	22	Appeal_to_Fear-Prejudice,Loaded_Language
+725731328	23	
+725731328	24	Loaded_Language
+725731328	25	
+725731328	26	
+725731328	27	Loaded_Language

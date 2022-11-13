@@ -1,0 +1,37 @@
+701837665	1	
+701837665	3	
+701837665	4	
+701837665	5	Exaggeration-Minimisation,Name_Calling-Labeling
+701837665	6	
+701837665	7	Doubt
+701837665	8	Causal_Oversimplification,Name_Calling-Labeling
+701837665	9	
+701837665	10	Conversation_Killer
+701837665	11	Doubt,Exaggeration-Minimisation,Loaded_Language
+701837665	12	Appeal_to_Fear-Prejudice,Causal_Oversimplification,Repetition
+701837665	13	Causal_Oversimplification,Loaded_Language
+701837665	14	Causal_Oversimplification
+701837665	15	
+701837665	16	
+701837665	17	Exaggeration-Minimisation,Loaded_Language
+701837665	18	
+701837665	19	
+701837665	20	Appeal_to_Fear-Prejudice,Causal_Oversimplification,Exaggeration-Minimisation
+701837665	21	Appeal_to_Authority,Causal_Oversimplification,Exaggeration-Minimisation,Red_Herring
+701837665	22	Name_Calling-Labeling
+701837665	23	Doubt,Loaded_Language
+701837665	24	
+701837665	25	
+701837665	26	Exaggeration-Minimisation,Flag_Waving,Name_Calling-Labeling,Red_Herring
+701837665	27	Loaded_Language,Name_Calling-Labeling
+701837665	28	Doubt,Exaggeration-Minimisation,Name_Calling-Labeling
+701837665	29	
+701837665	30	Causal_Oversimplification
+701837665	31	
+701837665	32	
+701837665	33	Causal_Oversimplification
+701837665	34	Conversation_Killer,Loaded_Language
+701837665	35	
+701837665	36	Exaggeration-Minimisation,Flag_Waving
+701837665	37	
+701837665	38	

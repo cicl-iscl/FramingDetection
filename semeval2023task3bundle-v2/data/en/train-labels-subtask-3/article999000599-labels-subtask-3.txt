@@ -1,0 +1,15 @@
+999000599	1	Loaded_Language
+999000599	3	
+999000599	4	Loaded_Language
+999000599	5	Loaded_Language
+999000599	6	Conversation_Killer
+999000599	7	Loaded_Language
+999000599	8	
+999000599	9	Loaded_Language
+999000599	10	
+999000599	11	
+999000599	12	Loaded_Language
+999000599	13	
+999000599	14	Doubt
+999000599	15	
+999000599	16	Appeal_to_Authority,Loaded_Language

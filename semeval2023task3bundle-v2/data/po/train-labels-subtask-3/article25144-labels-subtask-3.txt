@@ -1,0 +1,15 @@
+25144	1	
+25144	3	Obfuscation-Vagueness-Confusion
+25144	5	Name_Calling-Labeling
+25144	7	
+25144	9	Doubt,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+25144	11	Doubt,Exaggeration-Minimisation,Loaded_Language
+25144	13	
+25144	15	
+25144	17	Appeal_to_Hypocrisy,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+25144	19	
+25144	21	
+25144	23	
+25144	25	
+25144	27	Doubt,Name_Calling-Labeling
+25144	29	Appeal_to_Hypocrisy,Questioning_the_Reputation

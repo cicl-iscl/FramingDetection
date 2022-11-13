@@ -1,0 +1,9 @@
+703056647	1	Appeal_to_Authority,Appeal_to_Fear-Prejudice,Loaded_Language,Name_Calling-Labeling,Repetition
+703056647	3	Appeal_to_Fear-Prejudice,Exaggeration-Minimisation,Loaded_Language,Repetition
+703056647	4	Repetition
+703056647	5	Appeal_to_Authority,Appeal_to_Fear-Prejudice
+703056647	6	Appeal_to_Fear-Prejudice
+703056647	7	Causal_Oversimplification
+703056647	8	Appeal_to_Fear-Prejudice,Causal_Oversimplification,Doubt
+703056647	9	Appeal_to_Authority,Appeal_to_Fear-Prejudice
+703056647	10	

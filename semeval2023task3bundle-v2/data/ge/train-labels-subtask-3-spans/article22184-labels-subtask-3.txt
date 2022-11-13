@@ -1,0 +1,6 @@
+22184	Loaded_Language	1145	1153
+22184	Appeal_to_Authority	833	909
+22184	Name_Calling-Labeling	1683	1709
+22184	Doubt	153	212
+22184	Questioning_the_Reputation	420	465
+22184	Doubt	213	383

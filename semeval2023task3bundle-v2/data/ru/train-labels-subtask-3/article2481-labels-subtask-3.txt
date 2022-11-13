@@ -1,0 +1,18 @@
+2481	1	
+2481	2	
+2481	4	Loaded_Language,Questioning_the_Reputation
+2481	6	
+2481	8	Loaded_Language
+2481	10	
+2481	12	
+2481	14	Loaded_Language
+2481	17	
+2481	19	
+2481	21	
+2481	23	Loaded_Language
+2481	25	
+2481	27	Doubt
+2481	29	Appeal_to_Hypocrisy,Exaggeration-Minimisation,Loaded_Language
+2481	31	
+2481	33	
+2481	35	Repetition

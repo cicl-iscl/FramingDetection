@@ -1,0 +1,8 @@
+269	1	Loaded_Language,Name_Calling-Labeling
+269	3	Conversation_Killer,Doubt,Name_Calling-Labeling,Questioning_the_Reputation
+269	4	Doubt,Questioning_the_Reputation
+269	5	Doubt,Loaded_Language
+269	6	Name_Calling-Labeling,Questioning_the_Reputation
+269	7	Conversation_Killer,Doubt,Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+269	8	Doubt,Loaded_Language
+269	9	Questioning_the_Reputation

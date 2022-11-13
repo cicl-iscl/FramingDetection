@@ -1,0 +1,13 @@
+26151	1	Appeal_to_Fear-Prejudice,Guilt_by_Association,Loaded_Language
+26151	3	Loaded_Language
+26151	5	Guilt_by_Association,Loaded_Language
+26151	7	Doubt,Loaded_Language
+26151	9	Appeal_to_Fear-Prejudice,Guilt_by_Association,Loaded_Language
+26151	11	Doubt,Guilt_by_Association,Loaded_Language
+26151	13	Appeal_to_Fear-Prejudice,Consequential_Oversimplification,False_Dilemma-No_Choice
+26151	15	
+26151	17	Loaded_Language
+26151	19	Loaded_Language
+26151	21	Appeal_to_Fear-Prejudice,Appeal_to_Values,Doubt,Loaded_Language
+26151	23	Loaded_Language
+26151	25	

@@ -1,0 +1,14 @@
+2576	1	Doubt,Loaded_Language
+2576	3	
+2576	5	
+2576	7	Slogans
+2576	9	Appeal_to_Values
+2576	11	
+2576	13	Appeal_to_Values
+2576	15	Appeal_to_Values
+2576	17	
+2576	19	
+2576	21	Appeal_to_Values,Name_Calling-Labeling,Questioning_the_Reputation
+2576	23	
+2576	25	
+2576	27	

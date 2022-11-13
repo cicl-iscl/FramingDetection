@@ -1,0 +1,23 @@
+2430	1	Slogans
+2430	3	Conversation_Killer
+2430	5	False_Dilemma-No_Choice,Name_Calling-Labeling
+2430	7	Exaggeration-Minimisation,Loaded_Language
+2430	9	Appeal_to_Time,Exaggeration-Minimisation,Flag_Waving,Loaded_Language
+2430	11	Doubt,Flag_Waving,Loaded_Language,Name_Calling-Labeling
+2430	13	Appeal_to_Fear-Prejudice,Consequential_Oversimplification
+2430	15	Doubt
+2430	17	Loaded_Language,Name_Calling-Labeling
+2430	19	Conversation_Killer,Doubt,Guilt_by_Association
+2430	21	Doubt,Loaded_Language,Name_Calling-Labeling,Repetition
+2430	23	Appeal_to_Fear-Prejudice,Consequential_Oversimplification,Loaded_Language,Name_Calling-Labeling,Repetition
+2430	25	Appeal_to_Fear-Prejudice,Doubt,Loaded_Language,Name_Calling-Labeling,Repetition
+2430	27	Loaded_Language,Name_Calling-Labeling
+2430	29	Doubt
+2430	31	Appeal_to_Fear-Prejudice,Consequential_Oversimplification,False_Dilemma-No_Choice,Flag_Waving,Loaded_Language,Name_Calling-Labeling,Repetition
+2430	33	Loaded_Language
+2430	35	
+2430	37	Consequential_Oversimplification,Loaded_Language
+2430	39	Consequential_Oversimplification,Guilt_by_Association
+2430	41	Slogans
+2430	43	Flag_Waving,Slogans
+2430	45	Flag_Waving,Slogans

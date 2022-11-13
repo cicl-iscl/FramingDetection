@@ -1,0 +1,8 @@
+23151	1	
+23151	3	Red_Herring
+23151	5	Repetition
+23151	7	Flag_Waving
+23151	9	
+23151	11	Flag_Waving,Loaded_Language
+23151	13	Appeal_to_Values,Conversation_Killer,Questioning_the_Reputation
+23151	15	Consequential_Oversimplification,Conversation_Killer,Guilt_by_Association,Loaded_Language,Name_Calling-Labeling,Whataboutism

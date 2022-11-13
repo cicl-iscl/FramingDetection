@@ -1,0 +1,24 @@
+2393	1	Loaded_Language
+2393	3	
+2393	5	Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling
+2393	7	Loaded_Language,Obfuscation-Vagueness-Confusion
+2393	9	Name_Calling-Labeling,Questioning_the_Reputation,Whataboutism
+2393	11	Guilt_by_Association,Loaded_Language,Questioning_the_Reputation
+2393	12	Flag_Waving
+2393	14	Appeal_to_Hypocrisy
+2393	16	Name_Calling-Labeling
+2393	18	
+2393	19	Appeal_to_Fear-Prejudice,Appeal_to_Time
+2393	21	Causal_Oversimplification,Loaded_Language
+2393	23	Exaggeration-Minimisation
+2393	25	Loaded_Language
+2393	27	
+2393	29	Appeal_to_Fear-Prejudice,Guilt_by_Association,Name_Calling-Labeling,Questioning_the_Reputation
+2393	31	Slogans
+2393	33	Consequential_Oversimplification,Doubt
+2393	35	
+2393	37	Loaded_Language,Questioning_the_Reputation
+2393	39	Loaded_Language
+2393	41	Appeal_to_Hypocrisy,Name_Calling-Labeling,Questioning_the_Reputation,Straw_Man
+2393	43	
+2393	45	Conversation_Killer

@@ -1,0 +1,10 @@
+740808926	1	Name_Calling-Labeling
+740808926	3	Loaded_Language
+740808926	4	
+740808926	5	
+740808926	6	Appeal_to_Authority,Loaded_Language
+740808926	7	Appeal_to_Authority
+740808926	8	
+740808926	9	
+740808926	10	
+740808926	11	

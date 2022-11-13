@@ -1,0 +1,46 @@
+26204	1	
+26204	3	
+26204	5	
+26204	7	Doubt
+26204	9	Loaded_Language
+26204	11	Questioning_the_Reputation
+26204	13	Doubt,False_Dilemma-No_Choice,Loaded_Language,Name_Calling-Labeling
+26204	15	Doubt,Loaded_Language,Questioning_the_Reputation
+26204	17	Doubt,Loaded_Language,Questioning_the_Reputation
+26204	19	
+26204	21	
+26204	23	
+26204	25	Doubt
+26204	27	Doubt,Loaded_Language
+26204	29	Doubt,Loaded_Language
+26204	31	Doubt,Loaded_Language
+26204	33	
+26204	35	Appeal_to_Values
+26204	37	Appeal_to_Values,Doubt
+26204	39	
+26204	41	Doubt,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+26204	43	Doubt
+26204	45	Appeal_to_Values,Doubt,Name_Calling-Labeling
+26204	47	
+26204	49	Doubt,False_Dilemma-No_Choice,Loaded_Language,Straw_Man
+26204	51	Appeal_to_Values,Doubt,False_Dilemma-No_Choice
+26204	53	
+26204	55	Appeal_to_Values,Doubt,Loaded_Language
+26204	57	Name_Calling-Labeling
+26204	59	Appeal_to_Values
+26204	61	Name_Calling-Labeling
+26204	63	Doubt,Flag_Waving,Name_Calling-Labeling,Straw_Man
+26204	65	
+26204	67	
+26204	69	
+26204	71	
+26204	73	Appeal_to_Fear-Prejudice,Appeal_to_Values,Flag_Waving,Name_Calling-Labeling
+26204	75	
+26204	77	Appeal_to_Fear-Prejudice,Doubt,Loaded_Language
+26204	79	Loaded_Language,Name_Calling-Labeling
+26204	81	Doubt,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+26204	83	
+26204	85	Doubt
+26204	87	Doubt
+26204	89	Doubt,Questioning_the_Reputation
+26204	91	Consequential_Oversimplification

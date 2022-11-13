@@ -1,0 +1,19 @@
+22135	1	Appeal_to_Authority,Questioning_the_Reputation
+22135	3	Exaggeration-Minimisation,Name_Calling-Labeling,Questioning_the_Reputation
+22135	5	Appeal_to_Authority
+22135	7	Appeal_to_Authority,Questioning_the_Reputation
+22135	9	Name_Calling-Labeling,Questioning_the_Reputation
+22135	11	Appeal_to_Authority,Questioning_the_Reputation
+22135	13	
+22135	15	Appeal_to_Authority,Doubt,Loaded_Language,Name_Calling-Labeling
+22135	17	Appeal_to_Authority
+22135	19	Loaded_Language
+22135	21	Appeal_to_Values,Exaggeration-Minimisation
+22135	23	Appeal_to_Authority,Name_Calling-Labeling
+22135	25	
+22135	27	Name_Calling-Labeling
+22135	29	Conversation_Killer,Doubt,Name_Calling-Labeling
+22135	31	Name_Calling-Labeling
+22135	33	Appeal_to_Authority,Appeal_to_Fear-Prejudice,Doubt,Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+22135	35	Appeal_to_Authority,Appeal_to_Fear-Prejudice
+22135	37	Appeal_to_Authority,Appeal_to_Hypocrisy,Appeal_to_Popularity,Loaded_Language

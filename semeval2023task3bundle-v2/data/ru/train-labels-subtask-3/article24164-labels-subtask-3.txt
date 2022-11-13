@@ -1,0 +1,6 @@
+24164	1	Appeal_to_Hypocrisy
+24164	3	Appeal_to_Hypocrisy
+24164	4	Appeal_to_Authority,Doubt
+24164	5	
+24164	7	Loaded_Language
+24164	9	Appeal_to_Authority,Doubt

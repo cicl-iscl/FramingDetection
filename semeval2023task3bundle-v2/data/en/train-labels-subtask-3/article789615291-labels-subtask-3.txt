@@ -1,0 +1,35 @@
+789615291	1	
+789615291	3	
+789615291	4	Loaded_Language
+789615291	5	Causal_Oversimplification
+789615291	6	Name_Calling-Labeling
+789615291	7	Loaded_Language,Name_Calling-Labeling
+789615291	8	Loaded_Language,Repetition
+789615291	9	Loaded_Language,Name_Calling-Labeling
+789615291	10	Doubt,Loaded_Language
+789615291	11	
+789615291	12	
+789615291	13	
+789615291	14	
+789615291	15	
+789615291	16	
+789615291	17	
+789615291	18	
+789615291	19	Name_Calling-Labeling
+789615291	20	
+789615291	21	
+789615291	22	
+789615291	23	Flag_Waving,Loaded_Language,Name_Calling-Labeling,Slogans
+789615291	24	
+789615291	25	Name_Calling-Labeling
+789615291	26	Name_Calling-Labeling
+789615291	27	Loaded_Language
+789615291	28	Loaded_Language,Name_Calling-Labeling
+789615291	29	Doubt,Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling
+789615291	30	Name_Calling-Labeling
+789615291	31	Loaded_Language,Name_Calling-Labeling
+789615291	32	Loaded_Language,Name_Calling-Labeling
+789615291	33	Name_Calling-Labeling
+789615291	34	Loaded_Language,Name_Calling-Labeling
+789615291	35	Loaded_Language,Name_Calling-Labeling,Repetition
+789615291	36	Loaded_Language

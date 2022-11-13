@@ -1,0 +1,6 @@
+735090638	1	
+735090638	3	Exaggeration-Minimisation,Name_Calling-Labeling
+735090638	4	Appeal_to_Authority,Loaded_Language
+735090638	5	
+735090638	6	Appeal_to_Authority,Name_Calling-Labeling,Red_Herring
+735090638	7	Exaggeration-Minimisation

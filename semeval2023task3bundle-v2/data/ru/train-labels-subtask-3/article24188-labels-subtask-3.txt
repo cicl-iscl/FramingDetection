@@ -1,0 +1,6 @@
+24188	1	
+24188	3	
+24188	5	
+24188	7	Causal_Oversimplification,Doubt,Loaded_Language
+24188	9	
+24188	11	

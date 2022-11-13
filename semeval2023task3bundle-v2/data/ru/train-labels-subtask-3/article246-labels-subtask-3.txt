@@ -1,0 +1,8 @@
+246	1	Conversation_Killer,Repetition
+246	3	
+246	5	
+246	7	Loaded_Language,Repetition,Slogans
+246	9	Loaded_Language
+246	11	Conversation_Killer,Loaded_Language,Questioning_the_Reputation,Repetition,Slogans
+246	13	
+246	15	

@@ -1,0 +1,16 @@
+2476	1	
+2476	3	Appeal_to_Time,Doubt,False_Dilemma-No_Choice
+2476	4	
+2476	6	Loaded_Language
+2476	8	Appeal_to_Hypocrisy,Causal_Oversimplification,Loaded_Language
+2476	9	
+2476	11	Loaded_Language,Questioning_the_Reputation
+2476	12	Doubt,Obfuscation-Vagueness-Confusion
+2476	13	Doubt,Loaded_Language
+2476	15	Appeal_to_Hypocrisy,Loaded_Language
+2476	16	Loaded_Language
+2476	17	
+2476	19	Loaded_Language
+2476	20	Loaded_Language
+2476	21	Appeal_to_Hypocrisy,Doubt,Loaded_Language
+2476	23	Doubt,Exaggeration-Minimisation,Loaded_Language,Obfuscation-Vagueness-Confusion

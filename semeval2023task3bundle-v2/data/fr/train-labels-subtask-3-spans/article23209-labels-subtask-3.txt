@@ -1,0 +1,4 @@
+23209	Slogans	247	311
+23209	Loaded_Language	1826	1843
+23209	Doubt	1456	1555
+23209	Name_Calling-Labeling	1514	1525

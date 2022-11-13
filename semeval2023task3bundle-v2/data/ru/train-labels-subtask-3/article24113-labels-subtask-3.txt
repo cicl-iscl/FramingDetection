@@ -1,0 +1,13 @@
+24113	1	
+24113	3	Loaded_Language
+24113	5	Doubt,Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling,Repetition
+24113	7	Doubt
+24113	9	Doubt,Loaded_Language
+24113	11	
+24113	13	Consequential_Oversimplification,Doubt,Loaded_Language
+24113	15	Doubt,Loaded_Language
+24113	17	Doubt,Loaded_Language
+24113	19	Doubt,Loaded_Language
+24113	21	Doubt,Loaded_Language
+24113	23	Doubt,Exaggeration-Minimisation,Questioning_the_Reputation
+24113	25	Doubt

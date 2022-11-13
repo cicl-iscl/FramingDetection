@@ -1,0 +1,16 @@
+2346	1	Consequential_Oversimplification
+2346	3	
+2346	5	
+2346	7	Loaded_Language,Name_Calling-Labeling,Obfuscation-Vagueness-Confusion,Questioning_the_Reputation,Straw_Man
+2346	9	Appeal_to_Hypocrisy,Loaded_Language
+2346	11	Appeal_to_Hypocrisy,Appeal_to_Popularity
+2346	13	Consequential_Oversimplification,Repetition
+2346	15	Appeal_to_Fear-Prejudice,Straw_Man
+2346	17	Doubt
+2346	19	Doubt,Loaded_Language,Straw_Man
+2346	21	Appeal_to_Hypocrisy,Loaded_Language,Straw_Man
+2346	23	Consequential_Oversimplification,Conversation_Killer,Loaded_Language
+2346	25	Appeal_to_Fear-Prejudice,Loaded_Language
+2346	27	Loaded_Language
+2346	29	Consequential_Oversimplification,Doubt
+2346	31	Conversation_Killer,Doubt,False_Dilemma-No_Choice

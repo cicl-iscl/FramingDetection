@@ -1,0 +1,17 @@
+790720480	1	
+790720480	3	
+790720480	4	Loaded_Language
+790720480	5	
+790720480	6	
+790720480	7	
+790720480	8	
+790720480	9	
+790720480	10	
+790720480	11	Flag_Waving,Loaded_Language
+790720480	12	
+790720480	13	Appeal_to_Hypocrisy,Exaggeration-Minimisation
+790720480	14	Doubt,Loaded_Language
+790720480	15	
+790720480	16	
+790720480	17	Loaded_Language,Name_Calling-Labeling
+790720480	18	

@@ -1,0 +1,16 @@
+2354	1	False_Dilemma-No_Choice
+2354	3	Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+2354	5	
+2354	7	Conversation_Killer,Doubt,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+2354	9	
+2354	11	Appeal_to_Hypocrisy,Appeal_to_Values,Doubt,Loaded_Language,Name_Calling-Labeling,Whataboutism
+2354	13	Doubt,Loaded_Language,Name_Calling-Labeling
+2354	14	Questioning_the_Reputation
+2354	16	Appeal_to_Authority,Doubt,Exaggeration-Minimisation,Questioning_the_Reputation
+2354	18	Doubt,Loaded_Language
+2354	20	Doubt,Red_Herring
+2354	22	Conversation_Killer,Doubt,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+2354	24	Appeal_to_Fear-Prejudice,Appeal_to_Hypocrisy,Consequential_Oversimplification,Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+2354	26	Appeal_to_Popularity,Doubt,Loaded_Language,Questioning_the_Reputation
+2354	28	Consequential_Oversimplification,Exaggeration-Minimisation,False_Dilemma-No_Choice,Loaded_Language
+2354	30	Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation

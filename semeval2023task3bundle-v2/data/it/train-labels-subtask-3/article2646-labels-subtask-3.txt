@@ -1,0 +1,14 @@
+2646	1	Conversation_Killer
+2646	3	Doubt
+2646	5	
+2646	7	Appeal_to_Fear-Prejudice,Loaded_Language
+2646	9	Appeal_to_Values,Doubt
+2646	10	
+2646	12	
+2646	14	
+2646	15	
+2646	17	
+2646	19	Appeal_to_Fear-Prejudice,Doubt
+2646	21	Appeal_to_Values,Doubt
+2646	23	Doubt
+2646	25	Appeal_to_Time,Conversation_Killer

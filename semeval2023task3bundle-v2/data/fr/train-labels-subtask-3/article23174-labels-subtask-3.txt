@@ -1,0 +1,11 @@
+23174	1	Loaded_Language,Name_Calling-Labeling
+23174	3	Appeal_to_Fear-Prejudice,Causal_Oversimplification,Loaded_Language,Name_Calling-Labeling,Obfuscation-Vagueness-Confusion,Whataboutism
+23174	5	Obfuscation-Vagueness-Confusion,Repetition
+23174	7	Appeal_to_Authority,Causal_Oversimplification,Loaded_Language
+23174	9	Appeal_to_Authority,Straw_Man
+23174	11	Red_Herring
+23174	13	Obfuscation-Vagueness-Confusion
+23174	15	Appeal_to_Fear-Prejudice,Repetition
+23174	17	Appeal_to_Authority,Causal_Oversimplification,Loaded_Language
+23174	19	Loaded_Language,Obfuscation-Vagueness-Confusion
+23174	21	Appeal_to_Fear-Prejudice,Causal_Oversimplification,Exaggeration-Minimisation,Loaded_Language

@@ -1,0 +1,21 @@
+26234	1	Doubt
+26234	3	
+26234	5	Doubt,Guilt_by_Association,Loaded_Language
+26234	7	
+26234	9	Doubt,Guilt_by_Association,Name_Calling-Labeling
+26234	11	
+26234	13	Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+26234	15	Loaded_Language,Name_Calling-Labeling
+26234	17	
+26234	19	Conversation_Killer,Slogans
+26234	21	
+26234	23	Name_Calling-Labeling
+26234	25	Name_Calling-Labeling
+26234	27	
+26234	29	Appeal_to_Values,Conversation_Killer,Doubt,Exaggeration-Minimisation,Loaded_Language
+26234	31	
+26234	33	
+26234	35	Loaded_Language
+26234	37	
+26234	39	
+26234	41	Questioning_the_Reputation

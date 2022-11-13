@@ -1,0 +1,16 @@
+725276027	1	
+725276027	3	Causal_Oversimplification,Conversation_Killer,Loaded_Language
+725276027	4	
+725276027	5	Appeal_to_Popularity,Obfuscation-Vagueness-Confusion
+725276027	6	Name_Calling-Labeling
+725276027	7	Repetition
+725276027	8	Appeal_to_Fear-Prejudice
+725276027	9	
+725276027	10	
+725276027	11	Conversation_Killer
+725276027	12	Repetition
+725276027	13	
+725276027	14	
+725276027	15	Loaded_Language,Repetition
+725276027	16	
+725276027	17	Loaded_Language,Name_Calling-Labeling

@@ -1,0 +1,4 @@
+2298	1	Name_Calling-Labeling
+2298	3	Guilt_by_Association,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation,Slogans
+2298	5	Appeal_to_Fear-Prejudice,Appeal_to_Popularity,Appeal_to_Values,Conversation_Killer,Exaggeration-Minimisation,False_Dilemma-No_Choice,Guilt_by_Association,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation,Slogans
+2298	7	Conversation_Killer,Exaggeration-Minimisation,Guilt_by_Association,Name_Calling-Labeling

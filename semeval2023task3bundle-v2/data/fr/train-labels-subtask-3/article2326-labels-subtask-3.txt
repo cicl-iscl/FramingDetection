@@ -1,0 +1,18 @@
+2326	1	Loaded_Language
+2326	3	Name_Calling-Labeling
+2326	5	Loaded_Language,Name_Calling-Labeling
+2326	7	False_Dilemma-No_Choice,Repetition
+2326	9	Loaded_Language
+2326	11	
+2326	13	Repetition
+2326	15	Name_Calling-Labeling
+2326	17	Name_Calling-Labeling
+2326	19	
+2326	21	Loaded_Language,Questioning_the_Reputation
+2326	23	Loaded_Language
+2326	25	Loaded_Language
+2326	27	Causal_Oversimplification,Doubt,Loaded_Language
+2326	29	Appeal_to_Hypocrisy,Loaded_Language,Straw_Man
+2326	31	False_Dilemma-No_Choice,Loaded_Language
+2326	33	
+2326	35	Whataboutism

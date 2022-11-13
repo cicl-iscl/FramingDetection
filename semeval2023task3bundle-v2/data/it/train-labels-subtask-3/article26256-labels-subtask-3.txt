@@ -1,0 +1,6 @@
+26256	1	Questioning_the_Reputation
+26256	3	Doubt,Questioning_the_Reputation
+26256	5	
+26256	7	Doubt,Name_Calling-Labeling
+26256	9	Conversation_Killer,Doubt,Name_Calling-Labeling
+26256	11	Loaded_Language,Questioning_the_Reputation

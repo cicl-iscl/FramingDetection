@@ -1,0 +1,8 @@
+2662	1	Loaded_Language
+2662	3	Doubt
+2662	5	Doubt,Loaded_Language,Questioning_the_Reputation
+2662	7	
+2662	9	Appeal_to_Fear-Prejudice,Loaded_Language,Name_Calling-Labeling
+2662	10	
+2662	12	Doubt
+2662	14	Doubt,Loaded_Language,Name_Calling-Labeling

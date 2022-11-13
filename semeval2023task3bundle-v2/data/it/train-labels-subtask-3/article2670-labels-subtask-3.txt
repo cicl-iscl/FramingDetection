@@ -1,0 +1,32 @@
+2670	1	Name_Calling-Labeling
+2670	3	Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+2670	5	Doubt,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+2670	7	Exaggeration-Minimisation
+2670	9	
+2670	11	Doubt
+2670	13	
+2670	15	
+2670	17	
+2670	19	
+2670	21	Appeal_to_Fear-Prejudice,Appeal_to_Time
+2670	23	Name_Calling-Labeling
+2670	25	Name_Calling-Labeling
+2670	27	Name_Calling-Labeling
+2670	29	Doubt,Loaded_Language
+2670	31	Doubt
+2670	33	
+2670	35	Appeal_to_Hypocrisy
+2670	37	Conversation_Killer
+2670	39	Loaded_Language,Name_Calling-Labeling
+2670	41	
+2670	43	Loaded_Language
+2670	45	Doubt
+2670	47	Loaded_Language
+2670	49	
+2670	51	
+2670	53	
+2670	55	
+2670	57	
+2670	59	Loaded_Language
+2670	61	Questioning_the_Reputation
+2670	63	

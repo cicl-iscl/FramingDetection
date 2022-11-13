@@ -1,0 +1,25 @@
+23211	1	
+23211	3	
+23211	5	
+23211	7	
+23211	9	
+23211	11	
+23211	13	
+23211	15	Exaggeration-Minimisation
+23211	17	Loaded_Language
+23211	19	Loaded_Language
+23211	21	Exaggeration-Minimisation
+23211	23	
+23211	25	Appeal_to_Values
+23211	27	Name_Calling-Labeling
+23211	29	Conversation_Killer
+23211	31	
+23211	33	
+23211	35	
+23211	37	
+23211	39	Loaded_Language
+23211	41	
+23211	43	
+23211	45	
+23211	47	Loaded_Language
+23211	49	Exaggeration-Minimisation,Name_Calling-Labeling

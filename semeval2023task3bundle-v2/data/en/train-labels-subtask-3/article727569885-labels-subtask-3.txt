@@ -1,0 +1,13 @@
+727569885	1	
+727569885	3	Loaded_Language
+727569885	4	Flag_Waving,Guilt_by_Association,Loaded_Language
+727569885	5	Name_Calling-Labeling
+727569885	6	Loaded_Language
+727569885	7	
+727569885	8	Loaded_Language,Name_Calling-Labeling
+727569885	9	Loaded_Language
+727569885	10	Loaded_Language
+727569885	11	Flag_Waving
+727569885	12	
+727569885	13	Loaded_Language
+727569885	14	Loaded_Language

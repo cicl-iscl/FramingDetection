@@ -1,0 +1,21 @@
+711622457	1	
+711622457	3	
+711622457	4	Conversation_Killer,Loaded_Language,Whataboutism
+711622457	5	Conversation_Killer,Whataboutism
+711622457	6	Causal_Oversimplification,Doubt
+711622457	7	Appeal_to_Fear-Prejudice
+711622457	8	Flag_Waving
+711622457	9	
+711622457	10	
+711622457	11	
+711622457	12	Appeal_to_Fear-Prejudice
+711622457	13	
+711622457	14	
+711622457	15	
+711622457	16	Appeal_to_Fear-Prejudice,False_Dilemma-No_Choice
+711622457	17	Loaded_Language
+711622457	18	
+711622457	19	
+711622457	20	
+711622457	21	Appeal_to_Fear-Prejudice
+711622457	22	

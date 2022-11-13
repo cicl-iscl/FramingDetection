@@ -1,0 +1,14 @@
+999001293	1	
+999001293	3	Conversation_Killer
+999001293	4	Conversation_Killer,Loaded_Language
+999001293	5	Doubt
+999001293	6	
+999001293	7	
+999001293	8	
+999001293	9	
+999001293	10	
+999001293	11	
+999001293	12	Appeal_to_Fear-Prejudice
+999001293	13	
+999001293	14	Doubt,Flag_Waving,Loaded_Language,Repetition
+999001293	15	

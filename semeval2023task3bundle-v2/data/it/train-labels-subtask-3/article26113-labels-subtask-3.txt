@@ -1,0 +1,12 @@
+26113	1	Doubt,Loaded_Language
+26113	3	Doubt,Loaded_Language
+26113	5	Doubt,Loaded_Language
+26113	7	Appeal_to_Time,Conversation_Killer
+26113	9	Doubt
+26113	11	Appeal_to_Authority,Doubt,Loaded_Language
+26113	13	Doubt,False_Dilemma-No_Choice,Flag_Waving
+26113	15	False_Dilemma-No_Choice,Name_Calling-Labeling,Questioning_the_Reputation
+26113	17	Appeal_to_Fear-Prejudice,Appeal_to_Values,Doubt,Loaded_Language
+26113	19	Doubt,Loaded_Language,Questioning_the_Reputation
+26113	21	Appeal_to_Fear-Prejudice,Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling
+26113	23	Doubt,False_Dilemma-No_Choice,Flag_Waving,Loaded_Language

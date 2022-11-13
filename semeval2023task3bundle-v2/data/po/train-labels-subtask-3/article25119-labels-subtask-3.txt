@@ -1,0 +1,13 @@
+25119	1	Doubt
+25119	3	
+25119	5	
+25119	7	
+25119	9	Doubt
+25119	11	Doubt
+25119	13	
+25119	15	Appeal_to_Hypocrisy,Doubt
+25119	17	Doubt
+25119	19	Doubt
+25119	21	Doubt
+25119	23	Doubt
+25119	25	Conversation_Killer,Doubt

@@ -1,0 +1,7 @@
+2521	Guilt_by_Association	484	523
+2521	Name_Calling-Labeling	5200	5219
+2521	Name_Calling-Labeling	3856	3876
+2521	Appeal_to_Fear-Prejudice	2292	2473
+2521	False_Dilemma-No_Choice	3291	3450
+2521	Name_Calling-Labeling	504	523
+2521	Loaded_Language	4188	4197

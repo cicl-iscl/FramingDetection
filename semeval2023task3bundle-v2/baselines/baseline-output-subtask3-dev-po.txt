@@ -1,0 +1,800 @@
+25192	1	
+25192	3	Doubt
+25192	5	
+25192	7	
+25192	9	
+25192	11	
+25192	13	
+25115	1	
+25115	3	Doubt
+25115	5	
+25115	7	Appeal_to_Fear-Prejudice,Appeal_to_Hypocrisy,Questioning_the_Reputation
+25115	9	
+25115	11	
+25121	1	Name_Calling-Labeling
+25121	3	
+25121	5	Name_Calling-Labeling
+25121	7	
+25121	9	Doubt
+25121	11	Name_Calling-Labeling
+25121	13	
+25121	15	
+25121	17	
+25121	19	
+25121	21	
+25121	23	
+25121	25	
+25121	27	
+25121	29	Name_Calling-Labeling
+25148	1	
+25148	3	
+25148	5	
+25148	7	
+25148	9	Appeal_to_Hypocrisy,Doubt,Name_Calling-Labeling
+25148	11	
+25148	13	Doubt,Questioning_the_Reputation
+25148	15	
+25148	17	Appeal_to_Hypocrisy
+25143	1	
+25143	3	
+25143	5	
+25143	7	
+25143	9	
+25143	11	Name_Calling-Labeling
+25143	13	
+25143	15	Doubt
+259	1	
+259	3	
+259	5	Name_Calling-Labeling
+259	9	
+259	11	
+259	13	
+259	15	Loaded_Language
+259	17	Name_Calling-Labeling
+259	19	
+259	21	Loaded_Language,Name_Calling-Labeling
+259	23	
+259	25	
+259	27	
+259	29	
+259	31	
+25162	1	
+25162	3	
+25162	5	
+25162	7	
+2564	1	
+2564	3	Name_Calling-Labeling
+2564	5	Appeal_to_Fear-Prejudice,Loaded_Language,Name_Calling-Labeling
+2564	7	Appeal_to_Fear-Prejudice,Loaded_Language
+2564	9	Appeal_to_Fear-Prejudice,Loaded_Language
+2564	11	Doubt
+2564	13	Doubt
+2564	15	
+2564	16	
+2564	17	
+2564	18	
+2564	19	
+2564	20	
+2564	21	
+2564	22	
+2564	24	Slogans
+2595	1	
+2595	3	
+2595	5	
+2595	7	
+2595	9	
+2595	11	
+2595	13	
+2595	15	
+2595	17	
+2595	19	
+2595	21	
+2578	1	
+2578	3	Doubt
+2578	5	
+2578	7	Appeal_to_Values
+2578	9	
+2578	11	
+2578	13	
+2578	15	Doubt
+2578	17	Appeal_to_Values,Doubt
+2578	19	
+2578	21	
+2578	23	Appeal_to_Values
+2578	25	Doubt
+2578	27	
+2578	29	
+2578	31	Appeal_to_Values
+2578	33	Name_Calling-Labeling
+2578	35	Appeal_to_Values,Doubt,Name_Calling-Labeling
+2578	37	Doubt
+2578	39	Name_Calling-Labeling
+2578	41	Name_Calling-Labeling
+2578	43	Appeal_to_Values,Doubt
+2578	45	Appeal_to_Hypocrisy,Name_Calling-Labeling
+2578	47	
+2578	49	Appeal_to_Values,Doubt
+2578	51	
+2578	53	Appeal_to_Values
+2578	55	
+2578	57	
+2578	59	
+2578	61	
+2530	1	
+2530	3	
+2530	5	
+2530	7	
+2530	9	
+2530	11	
+2530	13	
+2530	15	Name_Calling-Labeling
+2530	17	Name_Calling-Labeling
+2530	19	
+2530	21	Name_Calling-Labeling
+2549	1	Name_Calling-Labeling
+2549	3	Name_Calling-Labeling
+2549	5	Name_Calling-Labeling
+2549	7	
+2549	9	
+2549	11	Name_Calling-Labeling
+2549	13	
+2549	15	
+2549	17	Name_Calling-Labeling
+2591	1	
+2591	3	
+2591	5	
+2591	7	Loaded_Language
+2591	9	
+2598	1	
+2598	3	
+2598	5	Name_Calling-Labeling
+2598	7	
+2598	9	
+2598	11	Name_Calling-Labeling
+2598	13	
+2598	15	
+2598	17	Name_Calling-Labeling
+2598	19	
+2598	21	
+2598	23	
+2598	25	Name_Calling-Labeling
+2598	27	
+2598	29	Name_Calling-Labeling
+2598	31	Name_Calling-Labeling
+25114	1	
+25114	3	Appeal_to_Hypocrisy,Name_Calling-Labeling
+25114	5	Appeal_to_Hypocrisy,Appeal_to_Values,Questioning_the_Reputation
+25114	7	Appeal_to_Hypocrisy,Loaded_Language
+25114	9	Appeal_to_Hypocrisy,Appeal_to_Values,Conversation_Killer,Doubt
+25114	11	
+25114	13	
+2527	1	
+2527	3	Loaded_Language
+2527	5	
+2527	7	Doubt
+2527	9	
+2527	11	Loaded_Language
+2527	13	
+2527	15	
+2527	17	
+2527	19	Doubt
+2527	21	Name_Calling-Labeling
+2527	23	
+2527	25	Name_Calling-Labeling
+2527	27	
+2527	29	
+2527	31	
+2527	33	
+2527	35	Doubt
+2527	37	
+2527	39	
+2527	41	
+2527	43	
+2527	45	Name_Calling-Labeling
+2527	47	Name_Calling-Labeling
+2527	49	
+2556	1	
+2556	3	Name_Calling-Labeling
+2556	5	
+2556	7	
+2556	9	Name_Calling-Labeling
+2556	11	Name_Calling-Labeling
+2556	13	
+2556	15	
+2556	17	
+25127	1	
+25127	3	
+25127	5	
+25127	7	Name_Calling-Labeling
+25127	9	
+25127	11	
+25127	13	Name_Calling-Labeling
+25127	15	
+25127	17	Name_Calling-Labeling
+25173	1	
+25173	3	
+25173	5	
+25173	7	Name_Calling-Labeling
+25173	9	
+25173	11	
+25173	13	Name_Calling-Labeling
+25173	15	
+25173	17	Name_Calling-Labeling
+25173	19	
+25173	21	
+25173	23	
+25173	25	
+25173	27	
+25173	29	Name_Calling-Labeling
+25173	31	Name_Calling-Labeling
+25173	33	
+25173	35	
+25173	37	
+25173	39	
+25173	41	
+25173	43	
+25173	45	Name_Calling-Labeling
+25173	47	
+25173	49	
+25173	51	
+25173	53	
+25173	55	Name_Calling-Labeling
+25173	57	
+25173	59	
+25173	61	
+25173	63	
+25173	65	Name_Calling-Labeling
+25173	67	
+25173	69	Name_Calling-Labeling
+25173	71	Name_Calling-Labeling
+2558	1	
+2558	3	
+2558	5	
+2558	7	
+2558	9	Name_Calling-Labeling
+2558	11	Name_Calling-Labeling
+2558	13	
+2558	15	
+2558	17	
+2558	19	Name_Calling-Labeling
+2558	21	
+2594	1	Name_Calling-Labeling
+2594	3	
+2594	5	
+2594	7	Doubt,Loaded_Language
+2594	9	Loaded_Language,Questioning_the_Reputation
+2594	11	
+2594	13	Name_Calling-Labeling
+25106	1	
+25106	3	
+25106	5	
+25106	7	
+25106	9	
+25106	11	Name_Calling-Labeling
+25106	13	
+25106	15	
+25106	17	Conversation_Killer
+25106	19	
+25106	21	
+25106	23	
+25106	25	Name_Calling-Labeling
+25106	27	
+25106	29	
+25106	31	
+25140	1	
+25140	3	
+25140	5	
+25140	7	
+25140	9	
+25140	11	
+2590	1	
+2590	3	Doubt
+2590	5	
+2590	7	Appeal_to_Hypocrisy,Flag_Waving,Guilt_by_Association
+2590	9	
+2590	11	Doubt
+25176	1	
+25176	3	Appeal_to_Authority
+25176	5	
+25176	7	
+25176	9	
+25176	11	
+25176	13	
+25176	15	
+25176	17	
+25176	19	
+25176	21	
+2577	1	
+2577	3	Name_Calling-Labeling
+2577	5	
+2577	7	
+2577	9	
+2577	11	Name_Calling-Labeling
+2577	13	
+2577	15	
+2577	17	
+2577	19	
+2577	21	
+2577	23	
+2577	25	
+2577	27	
+2577	29	Name_Calling-Labeling
+2577	31	
+2577	33	
+2577	35	
+2577	37	
+2577	39	
+2577	41	
+2577	43	Name_Calling-Labeling
+2577	45	Doubt
+2577	47	
+2577	49	
+2577	51	
+2577	53	
+2577	55	
+2577	57	
+2577	59	
+2577	61	
+2577	63	
+2577	65	
+2577	67	
+2577	69	
+2577	71	
+2577	73	
+2577	75	
+2577	77	
+2577	79	
+2577	81	Name_Calling-Labeling
+2577	83	
+2577	85	
+2577	87	
+2577	89	
+2577	91	Doubt
+2577	93	
+2577	95	
+2577	97	Name_Calling-Labeling
+2577	99	
+2577	101	
+2577	103	
+2577	105	
+2577	107	Name_Calling-Labeling
+2577	109	
+2577	111	Doubt
+2577	113	
+2577	115	
+2577	117	
+2577	119	
+2577	121	
+2577	123	
+2577	125	
+2577	127	
+2577	129	
+2577	131	
+2577	133	
+2577	135	
+2571	1	
+2571	3	
+2571	5	
+2571	7	Appeal_to_Hypocrisy,Doubt
+2571	9	
+2571	11	
+2571	13	
+2571	15	Doubt
+2571	17	Doubt
+2571	19	
+2571	21	Doubt
+2571	23	Name_Calling-Labeling
+2571	25	Doubt
+2599	1	
+2599	3	
+2599	5	
+2599	7	
+2599	9	Loaded_Language
+2599	11	
+2599	13	
+2599	15	
+2599	17	
+2599	19	
+2599	21	
+2599	23	
+2599	25	Name_Calling-Labeling
+2599	27	
+2599	29	
+2599	31	Name_Calling-Labeling
+2599	33	
+2599	35	
+2599	37	
+2599	39	
+2599	41	
+25186	1	Name_Calling-Labeling
+25186	3	Name_Calling-Labeling
+25186	5	Name_Calling-Labeling
+25186	7	Name_Calling-Labeling
+25186	9	Name_Calling-Labeling
+25186	11	Doubt
+25186	13	Name_Calling-Labeling
+25181	1	
+25181	3	
+25181	5	
+25181	7	
+25181	9	Name_Calling-Labeling
+25181	11	
+25181	13	
+25181	15	
+25181	17	
+25181	19	
+25181	21	Name_Calling-Labeling
+25181	23	
+25181	25	
+25181	27	
+25181	29	
+25181	31	
+25181	33	
+25181	35	
+25181	37	
+25181	39	
+25181	41	
+25181	43	
+25181	45	
+2528	1	
+2528	3	
+2528	5	
+2528	7	
+2528	9	Name_Calling-Labeling
+2528	11	
+2528	13	
+2528	15	Doubt
+2528	17	
+2528	19	Name_Calling-Labeling
+2528	22	
+2528	24	Doubt
+2528	26	
+2528	28	
+2528	30	
+2528	32	
+25195	1	
+25195	3	
+25195	5	
+2559	1	
+2559	3	
+2559	5	Doubt,Loaded_Language,Name_Calling-Labeling
+2559	7	Loaded_Language
+2559	9	Loaded_Language
+2559	11	Loaded_Language
+2560	1	
+2560	3	
+2560	5	
+2560	7	
+2560	9	Name_Calling-Labeling
+2560	11	
+2560	13	
+2560	15	
+2560	17	
+2560	19	Name_Calling-Labeling
+2560	21	
+2560	23	Loaded_Language
+2560	25	Doubt,Name_Calling-Labeling
+2560	27	
+2560	29	Name_Calling-Labeling
+25128	1	
+25128	3	
+25128	5	
+25128	7	
+25128	10	
+25128	12	
+25128	14	
+25128	16	Doubt
+25128	18	
+25128	20	Doubt
+25128	24	
+25128	26	
+25128	28	
+25128	30	
+25128	32	
+25128	34	Doubt
+2546	1	
+2546	3	
+2546	5	Loaded_Language
+2546	7	
+2546	9	Loaded_Language
+2546	11	
+2546	13	
+2546	15	
+2546	17	
+2546	19	
+2546	21	Name_Calling-Labeling
+2546	23	
+2546	25	
+2546	27	
+2546	29	
+2546	31	Name_Calling-Labeling
+2546	33	
+2546	35	
+2546	37	Name_Calling-Labeling
+2546	39	
+2546	41	
+2546	43	
+2546	45	
+2546	47	
+2546	49	Name_Calling-Labeling
+2579	1	
+2579	3	Doubt
+2579	5	Appeal_to_Hypocrisy,Loaded_Language
+2579	7	
+2579	9	Loaded_Language
+2514	1	Name_Calling-Labeling
+2514	3	Appeal_to_Fear-Prejudice
+2514	5	
+2514	7	
+2514	9	Name_Calling-Labeling
+2514	11	
+2514	13	Name_Calling-Labeling
+2514	15	
+2514	17	
+2514	19	
+2514	21	Name_Calling-Labeling
+2514	23	
+2514	25	
+2537	1	
+2537	3	
+2537	5	
+2537	7	Name_Calling-Labeling
+2537	9	
+2537	11	
+2537	13	Name_Calling-Labeling
+2537	15	Name_Calling-Labeling
+2537	17	
+2537	19	Name_Calling-Labeling
+2537	21	
+2537	23	
+2537	25	Name_Calling-Labeling
+2537	27	
+2537	29	
+2537	31	Loaded_Language
+2537	33	Loaded_Language
+2537	35	
+2537	37	
+2537	39	
+2537	41	
+2537	43	
+2537	45	
+2537	47	
+2537	49	Loaded_Language
+2537	51	Name_Calling-Labeling
+2537	53	
+2537	55	
+2537	57	
+2537	59	Name_Calling-Labeling
+2537	61	Name_Calling-Labeling
+2537	63	
+2537	65	
+2537	67	
+2537	69	Name_Calling-Labeling
+2537	71	
+2537	73	
+2537	75	
+2537	77	
+2537	79	
+2537	81	
+2537	83	
+2537	85	
+2537	87	
+2537	89	
+2561	1	
+2561	3	
+2561	5	Name_Calling-Labeling
+2561	7	Name_Calling-Labeling
+2561	9	
+2561	11	Name_Calling-Labeling
+2561	13	
+2561	15	
+2561	17	
+2561	19	Name_Calling-Labeling
+2561	21	
+2561	23	
+2561	25	
+2561	27	
+2561	29	
+2561	31	
+2561	33	
+2561	35	Name_Calling-Labeling
+2561	37	Name_Calling-Labeling
+2561	38	
+2561	40	Doubt,Name_Calling-Labeling
+2518	2	
+2518	4	
+2518	6	Name_Calling-Labeling
+2518	8	
+2518	10	
+2518	12	
+2518	14	Appeal_to_Hypocrisy,Appeal_to_Values
+2518	16	Name_Calling-Labeling
+2518	18	
+2518	20	Name_Calling-Labeling
+2518	22	
+2518	24	
+2518	26	
+2518	28	
+2518	30	
+2518	32	
+2518	34	
+25167	1	
+25167	3	
+25167	5	Name_Calling-Labeling
+25167	7	
+25167	9	
+25167	11	
+25167	13	
+25167	15	
+25154	1	
+25154	3	
+25154	5	
+25154	7	
+25154	9	
+25154	11	
+25154	13	
+2569	1	
+2569	3	
+2569	5	Appeal_to_Hypocrisy
+2569	7	Questioning_the_Reputation
+2569	9	Doubt
+2569	11	Appeal_to_Hypocrisy,Loaded_Language
+2569	13	
+2569	15	
+2569	17	Name_Calling-Labeling
+2569	19	
+2569	21	Name_Calling-Labeling
+2569	23	
+2569	25	
+2569	27	
+2569	29	
+2569	31	
+2569	33	
+2569	35	Name_Calling-Labeling
+2569	37	
+2569	39	Name_Calling-Labeling
+2569	41	
+2569	43	
+2569	45	
+2569	47	
+2569	49	
+2569	51	Questioning_the_Reputation
+2569	53	
+2569	55	
+2569	57	
+2569	59	
+2569	61	
+2569	63	
+2569	65	
+2569	67	Loaded_Language
+2569	69	
+25171	1	
+25171	3	
+25171	5	
+25171	7	Name_Calling-Labeling
+25171	9	Name_Calling-Labeling
+25171	11	
+25171	13	
+25171	15	
+25171	17	
+25171	19	
+25171	21	Appeal_to_Hypocrisy
+25171	23	Name_Calling-Labeling
+25171	25	
+25171	27	
+25171	29	Name_Calling-Labeling
+25171	31	Questioning_the_Reputation
+25194	1	Name_Calling-Labeling
+25194	3	Questioning_the_Reputation
+25194	5	
+25194	7	Name_Calling-Labeling
+25194	9	
+25194	11	
+25194	13	
+25194	15	
+25194	17	
+25194	19	
+25194	21	Loaded_Language
+25194	23	
+25194	25	
+25107	1	
+25107	3	
+25107	5	
+25107	7	Name_Calling-Labeling
+25107	9	
+25107	11	Loaded_Language
+25107	13	
+25107	15	
+25107	17	
+25107	19	
+25107	21	
+25107	23	Appeal_to_Hypocrisy,Doubt
+25107	25	
+25107	27	Name_Calling-Labeling
+25107	29	
+25107	31	
+25107	33	
+25107	35	
+25107	37	
+25107	39	
+25107	41	
+25107	43	
+25107	45	
+25107	47	
+2583	1	
+2583	3	
+2583	5	Name_Calling-Labeling
+2583	7	
+2583	9	
+2583	11	Name_Calling-Labeling
+2583	13	
+2583	15	Name_Calling-Labeling
+2583	17	Name_Calling-Labeling
+2583	19	Name_Calling-Labeling
+2583	21	Appeal_to_Hypocrisy,Appeal_to_Values,Doubt
+2583	23	
+2583	25	
+2583	27	
+2583	29	
+2583	31	
+2583	33	
+2583	35	
+2583	37	Name_Calling-Labeling
+2583	39	
+2583	41	Appeal_to_Hypocrisy
+2583	43	
+2583	45	Loaded_Language
+2583	47	
+2583	49	Loaded_Language
+2583	51	
+2583	53	
+2583	55	
+2583	57	
+2583	59	
+2583	61	
+2583	63	
+2583	65	
+2583	67	
+2583	69	Appeal_to_Values
+2583	71	
+2583	73	Appeal_to_Hypocrisy,Appeal_to_Values,Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+2583	75	
+2583	77	
+2583	79	
+2583	81	
+2583	83	Name_Calling-Labeling
+2583	85	
+2583	87	
+2583	89	
+2583	91	
+2583	93	
+2583	95	
+2583	97	Doubt
+2583	99	
+2583	101	
+2583	103	
+2583	105	
+2583	107	Exaggeration-Minimisation
+2583	109	
+2583	111	
+2583	113	Doubt
+2583	115	
+2583	117	Appeal_to_Fear-Prejudice
+2583	119	
+2583	121	Name_Calling-Labeling
+2583	123	
+2583	125	Appeal_to_Hypocrisy
+2583	127	Name_Calling-Labeling
+2583	129	
+25141	1	
+25141	3	
+25141	5	
+25141	7	
+25141	9	
+25141	11	
+25141	13	Name_Calling-Labeling
+25141	15	
+25141	17	
+25141	19	
+25141	21	
+25141	23	

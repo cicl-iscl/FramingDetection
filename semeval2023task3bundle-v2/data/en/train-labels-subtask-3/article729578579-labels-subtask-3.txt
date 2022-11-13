@@ -1,0 +1,73 @@
+729578579	1	
+729578579	3	Doubt,Loaded_Language,Name_Calling-Labeling
+729578579	4	Loaded_Language
+729578579	5	
+729578579	7	Doubt
+729578579	8	
+729578579	9	
+729578579	10	
+729578579	11	Appeal_to_Authority
+729578579	12	
+729578579	13	
+729578579	14	
+729578579	15	
+729578579	16	
+729578579	17	Repetition
+729578579	18	
+729578579	19	
+729578579	20	
+729578579	21	Conversation_Killer
+729578579	22	Conversation_Killer,Name_Calling-Labeling
+729578579	23	
+729578579	24	Conversation_Killer
+729578579	25	
+729578579	26	
+729578579	27	Loaded_Language
+729578579	28	Loaded_Language
+729578579	29	Exaggeration-Minimisation
+729578579	30	
+729578579	31	
+729578579	32	
+729578579	33	
+729578579	35	
+729578579	36	
+729578579	37	
+729578579	38	
+729578579	39	
+729578579	40	
+729578579	41	Loaded_Language
+729578579	42	Name_Calling-Labeling
+729578579	43	Loaded_Language
+729578579	44	Loaded_Language,Name_Calling-Labeling
+729578579	45	Loaded_Language
+729578579	46	
+729578579	47	
+729578579	49	Appeal_to_Fear-Prejudice
+729578579	51	
+729578579	53	
+729578579	55	
+729578579	57	Conversation_Killer
+729578579	58	Loaded_Language
+729578579	59	Doubt,Loaded_Language,Name_Calling-Labeling
+729578579	60	Appeal_to_Authority,Loaded_Language
+729578579	61	Loaded_Language
+729578579	62	Loaded_Language
+729578579	63	
+729578579	64	
+729578579	65	
+729578579	66	
+729578579	67	Loaded_Language
+729578579	68	Name_Calling-Labeling,Repetition
+729578579	69	Appeal_to_Fear-Prejudice
+729578579	70	Appeal_to_Fear-Prejudice,Loaded_Language,Name_Calling-Labeling
+729578579	71	Loaded_Language
+729578579	72	
+729578579	73	
+729578579	74	Loaded_Language
+729578579	75	
+729578579	76	Loaded_Language
+729578579	77	
+729578579	78	
+729578579	79	
+729578579	80	
+729578579	81	Doubt

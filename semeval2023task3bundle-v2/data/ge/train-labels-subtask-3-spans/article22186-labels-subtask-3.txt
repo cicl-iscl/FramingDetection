@@ -1,0 +1,5 @@
+22186	Name_Calling-Labeling	233	264
+22186	Obfuscation-Vagueness-Confusion	653	787
+22186	Name_Calling-Labeling	1131	1139
+22186	Name_Calling-Labeling	38	59
+22186	Conversation_Killer	83	93
