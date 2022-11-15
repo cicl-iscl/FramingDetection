@@ -1,0 +1,7 @@
+221	Questioning_the_Reputation	0	34
+221	Loaded_Language	48	76
+221	Loaded_Language	289	332
+221	Name_Calling-Labeling	15	34
+221	Name_Calling-Labeling	1171	1202
+221	Name_Calling-Labeling	85	99
+221	Questioning_the_Reputation	409	594

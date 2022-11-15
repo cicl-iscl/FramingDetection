@@ -1,0 +1,17 @@
+2234	1	Exaggeration-Minimisation,Name_Calling-Labeling
+2234	3	Flag_Waving,Name_Calling-Labeling
+2234	5	Loaded_Language,Name_Calling-Labeling
+2234	7	Loaded_Language,Name_Calling-Labeling,Obfuscation-Vagueness-Confusion
+2234	9	Exaggeration-Minimisation,Name_Calling-Labeling
+2234	11	Exaggeration-Minimisation,Guilt_by_Association,Loaded_Language,Name_Calling-Labeling,Obfuscation-Vagueness-Confusion
+2234	13	
+2234	15	Exaggeration-Minimisation,Name_Calling-Labeling
+2234	17	Appeal_to_Fear-Prejudice,Flag_Waving,Guilt_by_Association,Name_Calling-Labeling
+2234	19	Name_Calling-Labeling
+2234	21	
+2234	23	Name_Calling-Labeling
+2234	25	Exaggeration-Minimisation,Name_Calling-Labeling,Questioning_the_Reputation
+2234	27	Appeal_to_Fear-Prejudice
+2234	29	Slogans
+2234	31	Name_Calling-Labeling,Obfuscation-Vagueness-Confusion
+2234	33	Conversation_Killer,Obfuscation-Vagueness-Confusion

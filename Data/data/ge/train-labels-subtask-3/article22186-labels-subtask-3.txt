@@ -1,0 +1,7 @@
+22186	1	Name_Calling-Labeling
+22186	3	Conversation_Killer,Name_Calling-Labeling
+22186	5	
+22186	7	Obfuscation-Vagueness-Confusion
+22186	9	
+22186	11	Name_Calling-Labeling
+22186	13	

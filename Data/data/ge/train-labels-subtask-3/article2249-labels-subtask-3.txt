@@ -1,0 +1,5 @@
+2249	1	Guilt_by_Association
+2249	3	Name_Calling-Labeling
+2249	5	Name_Calling-Labeling,Questioning_the_Reputation
+2249	7	Appeal_to_Hypocrisy,Guilt_by_Association,Name_Calling-Labeling
+2249	9	Appeal_to_Hypocrisy

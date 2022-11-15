@@ -1,0 +1,5 @@
+2259	1	
+2259	3	Name_Calling-Labeling,Questioning_the_Reputation,Red_Herring
+2259	5	Appeal_to_Fear-Prejudice,Doubt,Name_Calling-Labeling
+2259	6	
+2259	8	Doubt,Name_Calling-Labeling,Questioning_the_Reputation

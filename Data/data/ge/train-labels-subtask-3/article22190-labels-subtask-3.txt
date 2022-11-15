@@ -1,0 +1,5 @@
+22190	1	Obfuscation-Vagueness-Confusion
+22190	3	Appeal_to_Authority
+22190	5	Obfuscation-Vagueness-Confusion
+22190	7	Appeal_to_Hypocrisy
+22190	9	Conversation_Killer,Doubt

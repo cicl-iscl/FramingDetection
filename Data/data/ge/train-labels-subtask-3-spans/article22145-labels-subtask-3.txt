@@ -1,0 +1,5 @@
+22145	Name_Calling-Labeling	577	593
+22145	Name_Calling-Labeling	1086	1108
+22145	Doubt	848	976
+22145	Appeal_to_Authority	117	368
+22145	Name_Calling-Labeling	762	774

@@ -1,0 +1,11 @@
+222	1	Doubt,Slogans
+222	3	Doubt,Name_Calling-Labeling,Questioning_the_Reputation
+222	4	Name_Calling-Labeling
+222	6	Doubt,Name_Calling-Labeling
+222	8	Appeal_to_Values,Doubt,Name_Calling-Labeling,Slogans
+222	9	Appeal_to_Fear-Prejudice
+222	11	Appeal_to_Values,Doubt,Exaggeration-Minimisation,False_Dilemma-No_Choice,Name_Calling-Labeling,Slogans
+222	13	Appeal_to_Fear-Prejudice,Loaded_Language,Name_Calling-Labeling,Obfuscation-Vagueness-Confusion,Whataboutism
+222	14	Appeal_to_Values
+222	16	Conversation_Killer,Name_Calling-Labeling,Questioning_the_Reputation
+222	18	Appeal_to_Values,Name_Calling-Labeling

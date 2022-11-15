@@ -1,0 +1,18 @@
+2226	1	
+2226	3	Appeal_to_Authority,Appeal_to_Fear-Prejudice,Doubt
+2226	5	Appeal_to_Authority,Appeal_to_Fear-Prejudice
+2226	7	Appeal_to_Authority
+2226	9	Appeal_to_Authority,Name_Calling-Labeling
+2226	11	Appeal_to_Authority
+2226	13	Appeal_to_Popularity
+2226	15	
+2226	17	
+2226	19	Appeal_to_Authority
+2226	21	
+2226	23	Appeal_to_Authority
+2226	25	Appeal_to_Hypocrisy,Doubt
+2226	27	Doubt,Name_Calling-Labeling
+2226	29	Appeal_to_Authority
+2226	31	
+2226	33	
+2226	35	

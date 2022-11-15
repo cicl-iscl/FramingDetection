@@ -1,0 +1,6 @@
+2292	1	Name_Calling-Labeling,Obfuscation-Vagueness-Confusion
+2292	3	Appeal_to_Fear-Prejudice
+2292	5	Appeal_to_Authority,Obfuscation-Vagueness-Confusion
+2292	7	Loaded_Language,Obfuscation-Vagueness-Confusion
+2292	9	Obfuscation-Vagueness-Confusion
+2292	11	Appeal_to_Authority,Appeal_to_Fear-Prejudice,Conversation_Killer,Obfuscation-Vagueness-Confusion

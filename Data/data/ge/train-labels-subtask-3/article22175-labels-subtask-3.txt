@@ -1,0 +1,7 @@
+22175	1	Exaggeration-Minimisation,Name_Calling-Labeling,Obfuscation-Vagueness-Confusion
+22175	3	Doubt,Loaded_Language,Name_Calling-Labeling
+22175	5	Appeal_to_Hypocrisy,Conversation_Killer,Doubt
+22175	7	Appeal_to_Fear-Prejudice,Doubt,False_Dilemma-No_Choice,Guilt_by_Association,Name_Calling-Labeling
+22175	9	Appeal_to_Authority,Red_Herring
+22175	11	Conversation_Killer
+22175	13	Guilt_by_Association,Name_Calling-Labeling

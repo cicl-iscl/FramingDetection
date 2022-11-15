@@ -1,0 +1,13 @@
+2244	3	Conversation_Killer,Name_Calling-Labeling
+2244	5	Appeal_to_Fear-Prejudice,Name_Calling-Labeling
+2244	7	Appeal_to_Fear-Prejudice,Consequential_Oversimplification,Guilt_by_Association,Name_Calling-Labeling,Questioning_the_Reputation
+2244	9	Conversation_Killer,Name_Calling-Labeling,Questioning_the_Reputation
+2244	11	Exaggeration-Minimisation,Name_Calling-Labeling
+2244	13	Appeal_to_Fear-Prejudice,Appeal_to_Popularity,Appeal_to_Values,Doubt,Exaggeration-Minimisation,Name_Calling-Labeling
+2244	15	Doubt,Guilt_by_Association,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+2244	17	Appeal_to_Authority,Guilt_by_Association,Name_Calling-Labeling
+2244	19	Appeal_to_Values,Flag_Waving,Name_Calling-Labeling
+2244	21	Appeal_to_Authority,Appeal_to_Fear-Prejudice,Appeal_to_Values,Conversation_Killer,Name_Calling-Labeling,Slogans
+2244	23	Appeal_to_Authority
+2244	25	Appeal_to_Authority,Appeal_to_Fear-Prejudice,Appeal_to_Time,Guilt_by_Association,Name_Calling-Labeling,Questioning_the_Reputation
+2244	27	Doubt,Exaggeration-Minimisation,Guilt_by_Association,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation,Slogans

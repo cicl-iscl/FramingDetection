@@ -1,0 +1,16 @@
+22139	1	Appeal_to_Fear-Prejudice,Appeal_to_Hypocrisy
+22139	3	Appeal_to_Authority,Guilt_by_Association
+22139	5	Appeal_to_Authority,Appeal_to_Fear-Prejudice,Questioning_the_Reputation
+22139	7	Appeal_to_Authority
+22139	9	Appeal_to_Authority
+22139	11	Doubt
+22139	13	Appeal_to_Authority,Appeal_to_Fear-Prejudice,Doubt
+22139	15	Appeal_to_Fear-Prejudice
+22139	17	Doubt
+22139	19	Appeal_to_Authority
+22139	21	Appeal_to_Authority
+22139	23	Appeal_to_Authority
+22139	25	Appeal_to_Fear-Prejudice,Questioning_the_Reputation
+22139	27	Doubt
+22139	29	Appeal_to_Authority
+22139	31	Appeal_to_Fear-Prejudice,Guilt_by_Association

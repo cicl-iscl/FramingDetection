@@ -1,0 +1,16 @@
+2263	1	Name_Calling-Labeling,Questioning_the_Reputation
+2263	3	Appeal_to_Popularity,Exaggeration-Minimisation,Questioning_the_Reputation
+2263	5	Doubt
+2263	7	Appeal_to_Fear-Prejudice,Appeal_to_Popularity,Doubt,Questioning_the_Reputation
+2263	9	Appeal_to_Hypocrisy
+2263	11	Guilt_by_Association,Questioning_the_Reputation,Red_Herring
+2263	13	
+2263	15	Doubt
+2263	17	Doubt,Name_Calling-Labeling,Red_Herring,Repetition
+2263	19	Doubt,Questioning_the_Reputation
+2263	21	
+2263	23	Guilt_by_Association,Red_Herring
+2263	25	Questioning_the_Reputation,Red_Herring
+2263	27	Appeal_to_Popularity,Conversation_Killer,Doubt
+2263	29	Appeal_to_Fear-Prejudice,Doubt,Flag_Waving,Questioning_the_Reputation
+2263	31	Name_Calling-Labeling

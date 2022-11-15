@@ -1,0 +1,22 @@
+22101	1	Name_Calling-Labeling
+22101	3	Doubt,Name_Calling-Labeling
+22101	5	Doubt
+22101	7	
+22101	9	Loaded_Language
+22101	11	Causal_Oversimplification
+22101	13	
+22101	15	
+22101	17	
+22101	19	Name_Calling-Labeling
+22101	21	Appeal_to_Fear-Prejudice
+22101	23	Name_Calling-Labeling
+22101	25	Appeal_to_Fear-Prejudice,Exaggeration-Minimisation
+22101	27	
+22101	29	Appeal_to_Authority,Appeal_to_Fear-Prejudice
+22101	31	Appeal_to_Fear-Prejudice,Appeal_to_Popularity,Consequential_Oversimplification,False_Dilemma-No_Choice,Loaded_Language,Name_Calling-Labeling
+22101	33	
+22101	35	Loaded_Language
+22101	37	Name_Calling-Labeling,Obfuscation-Vagueness-Confusion
+22101	39	Doubt
+22101	41	Appeal_to_Fear-Prejudice,Consequential_Oversimplification,Conversation_Killer,Name_Calling-Labeling
+22101	43	Appeal_to_Values,Conversation_Killer,Name_Calling-Labeling

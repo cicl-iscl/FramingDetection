@@ -1,0 +1,10 @@
+2286	1	Conversation_Killer
+2286	2	Doubt,Name_Calling-Labeling
+2286	4	Doubt,Name_Calling-Labeling,Questioning_the_Reputation
+2286	6	Conversation_Killer,Name_Calling-Labeling,Obfuscation-Vagueness-Confusion,Questioning_the_Reputation
+2286	8	Name_Calling-Labeling
+2286	10	Name_Calling-Labeling
+2286	12	Name_Calling-Labeling
+2286	14	Doubt,Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+2286	16	Causal_Oversimplification,Conversation_Killer,Name_Calling-Labeling
+2286	18	Conversation_Killer,Loaded_Language,Name_Calling-Labeling

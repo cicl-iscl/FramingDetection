@@ -1,0 +1,10 @@
+2276	1	Questioning_the_Reputation,Slogans
+2276	3	Name_Calling-Labeling
+2276	5	Doubt,Questioning_the_Reputation
+2276	7	
+2276	9	Appeal_to_Authority,Doubt
+2276	11	Doubt,Name_Calling-Labeling
+2276	13	
+2276	15	
+2276	17	Questioning_the_Reputation
+2276	19	

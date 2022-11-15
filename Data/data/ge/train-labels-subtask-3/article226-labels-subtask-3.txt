@@ -1,0 +1,9 @@
+226	1	Doubt,Name_Calling-Labeling
+226	3	Doubt,Exaggeration-Minimisation,Name_Calling-Labeling,Questioning_the_Reputation
+226	5	Exaggeration-Minimisation,Name_Calling-Labeling
+226	6	
+226	8	
+226	9	Loaded_Language
+226	11	Appeal_to_Fear-Prejudice,Doubt,Name_Calling-Labeling
+226	12	Doubt,Name_Calling-Labeling
+226	14	Doubt,Name_Calling-Labeling,Questioning_the_Reputation

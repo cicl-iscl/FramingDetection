@@ -1,0 +1,9 @@
+22161	1	Name_Calling-Labeling
+22161	3	Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+22161	5	Name_Calling-Labeling,Questioning_the_Reputation
+22161	7	Loaded_Language,Name_Calling-Labeling
+22161	9	Name_Calling-Labeling,Slogans
+22161	11	Name_Calling-Labeling
+22161	13	Appeal_to_Authority,Appeal_to_Hypocrisy,Guilt_by_Association,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation,Slogans
+22161	15	Appeal_to_Authority,Name_Calling-Labeling
+22161	17	Name_Calling-Labeling

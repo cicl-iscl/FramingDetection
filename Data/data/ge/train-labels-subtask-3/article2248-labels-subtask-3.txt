@@ -1,0 +1,6 @@
+2248	1	Appeal_to_Popularity
+2248	3	Questioning_the_Reputation
+2248	5	Doubt,Name_Calling-Labeling
+2248	7	Doubt,Name_Calling-Labeling
+2248	9	
+2248	11	Appeal_to_Fear-Prejudice,Doubt

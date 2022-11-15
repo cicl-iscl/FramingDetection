@@ -1,0 +1,10 @@
+2211	1	Slogans
+2211	3	Appeal_to_Authority,Exaggeration-Minimisation,Obfuscation-Vagueness-Confusion
+2211	5	Appeal_to_Authority,Doubt
+2211	7	Appeal_to_Authority,Conversation_Killer,Doubt,Exaggeration-Minimisation,Questioning_the_Reputation
+2211	9	
+2211	11	Appeal_to_Authority
+2211	13	Conversation_Killer,Doubt
+2211	15	Doubt,Exaggeration-Minimisation
+2211	17	Whataboutism
+2211	19	Conversation_Killer
