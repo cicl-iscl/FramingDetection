@@ -1,2 +1,0 @@
-26250	Loaded_Language	322	335
-26250	Exaggeration-Minimisation	112	143
