@@ -108,5 +108,5 @@ def main():
     out.to_csv(out_fn, sep='\t', header=None)
     print('Results on: ', out_fn)
 
-#if __name__ == "__main__":
-#    main()
+if __name__ == "__main__":
+    main()

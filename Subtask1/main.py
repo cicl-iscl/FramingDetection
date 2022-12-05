@@ -48,9 +48,9 @@ class BertTransformer(BaseEstimator, TransformerMixin):
             self,
             bert_tokenizer,
             bert_model,
-            embedding_func: None,  # embedding_func: #Optional[Callable[[torch.tensor], torch.tensor]] = None,
+            #embedding_func: None,  # embedding_func: #Optional[Callable[[torch.tensor], torch.tensor]] = None,
             max_length: int = 60,
-            #embedding_func: None,#embedding_func: #Optional[Callable[[torch.tensor], torch.tensor]] = None,
+            embedding_func: Optional[Callable[[torch.tensor], torch.tensor]] = None,
     ):
         self.tokenizer = bert_tokenizer
         self.model = bert_model
@@ -61,7 +61,7 @@ class BertTransformer(BaseEstimator, TransformerMixin):
         if self.embedding_func is None:
             self.embedding_func = lambda x: x[0][:, 0, :]
 
-    def tokenize(self, text: str) -> tuple[torch.tensor, torch.tensor]:
+    def tokenize(self, text: str) -> Tuple[torch.tensor, torch.tensor]:
         # Tokenize the text with the provided tokenizer
         tokenized_text = self.tokenizer.encode_plus(text,
                                                     add_special_tokens=True,
