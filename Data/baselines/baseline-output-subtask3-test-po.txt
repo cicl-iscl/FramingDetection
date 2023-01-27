@@ -1,0 +1,1006 @@
+353	1	
+353	3	
+353	5	Doubt,Loaded_Language
+353	7	Name_Calling-Labeling
+353	9	Appeal_to_Hypocrisy,Doubt
+353	11	Name_Calling-Labeling
+3510	1	
+3510	3	
+3510	5	
+3510	7	
+3510	9	
+3510	11	
+3510	13	
+3510	15	Loaded_Language
+3510	17	
+3510	19	Guilt_by_Association
+3510	21	
+3510	23	Exaggeration-Minimisation,Loaded_Language
+3510	25	
+3510	27	Doubt
+3510	29	
+3510	31	Appeal_to_Hypocrisy,Doubt,Name_Calling-Labeling
+3510	33	
+3510	35	
+3510	37	
+3510	39	
+3510	41	Appeal_to_Fear-Prejudice,Consequential_Oversimplification,Doubt,Loaded_Language,Name_Calling-Labeling
+3510	43	
+3510	45	Appeal_to_Fear-Prejudice,Appeal_to_Hypocrisy,Exaggeration-Minimisation,Questioning_the_Reputation
+3510	47	
+3510	49	Loaded_Language
+3510	51	Appeal_to_Hypocrisy,Doubt,Questioning_the_Reputation
+3510	53	Name_Calling-Labeling
+3510	55	Doubt,Loaded_Language
+3510	57	Doubt,Loaded_Language
+3510	59	Appeal_to_Hypocrisy,Conversation_Killer,Doubt,Name_Calling-Labeling,Questioning_the_Reputation
+3510	61	
+3510	63	
+3510	65	
+3510	67	Doubt
+3510	69	
+3511	1	
+3511	3	
+3511	5	
+3511	7	
+3511	9	
+3511	11	Doubt
+3511	13	Name_Calling-Labeling
+3511	15	
+3511	17	Appeal_to_Hypocrisy
+3511	19	
+3511	21	
+3511	23	Appeal_to_Hypocrisy
+3511	25	Appeal_to_Hypocrisy
+3511	27	
+3511	29	
+3511	31	Appeal_to_Hypocrisy
+3525	1	
+3525	3	
+3525	5	
+3525	7	
+3525	9	
+3525	11	Doubt
+3525	13	Name_Calling-Labeling
+3525	15	Name_Calling-Labeling
+3525	17	
+3525	19	
+3525	21	Questioning_the_Reputation
+3525	23	
+3525	25	
+3525	27	
+3525	29	
+3525	31	
+3525	33	
+3525	35	
+3525	37	Appeal_to_Values,Questioning_the_Reputation
+3525	39	
+3525	41	
+3525	43	
+3525	45	
+3525	47	
+3525	49	Doubt
+3525	51	
+3525	53	Appeal_to_Authority,Loaded_Language
+3525	55	
+3525	57	Appeal_to_Hypocrisy,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+3525	59	
+3525	61	Appeal_to_Hypocrisy
+3525	63	
+3525	65	
+3525	67	
+3525	69	Appeal_to_Hypocrisy,Doubt
+3525	71	
+3525	73	
+3525	75	
+3525	77	Conversation_Killer
+3525	79	
+3525	81	Doubt,Questioning_the_Reputation
+3525	83	
+3525	85	Doubt
+3525	87	
+3525	89	Loaded_Language,Questioning_the_Reputation
+3525	91	
+3525	93	
+3525	95	Name_Calling-Labeling
+3525	97	Appeal_to_Hypocrisy,Name_Calling-Labeling
+3525	99	
+3525	101	
+3525	103	
+3525	105	
+3547	1	
+3547	3	
+3547	5	
+3547	7	
+3547	9	
+3547	11	
+3547	13	
+3547	15	
+3547	17	Doubt
+3518	1	
+3518	3	
+3518	5	Appeal_to_Hypocrisy
+3518	7	Name_Calling-Labeling
+3518	9	Name_Calling-Labeling
+3518	11	
+3518	13	Name_Calling-Labeling
+3518	15	Doubt,Name_Calling-Labeling
+3518	17	
+3518	19	
+3518	21	
+3518	23	
+3518	25	
+3518	27	
+354	1	
+354	3	
+354	5	Name_Calling-Labeling
+354	7	
+354	9	
+354	11	Doubt
+354	13	
+354	15	
+354	17	
+354	19	
+354	21	
+354	23	
+354	25	
+354	27	
+354	29	
+354	31	
+354	33	
+354	35	Loaded_Language
+354	37	
+354	39	
+354	41	
+354	43	
+354	45	
+354	47	
+354	49	
+3535	1	
+3535	3	
+3535	5	
+3535	7	Loaded_Language
+3535	9	
+3535	11	Name_Calling-Labeling
+3535	13	
+3535	15	
+3535	17	
+3535	19	
+3513	1	
+3513	3	
+3513	5	
+3513	7	
+3513	9	Loaded_Language
+3513	11	
+3513	13	
+3513	15	
+3513	17	
+3513	19	Name_Calling-Labeling
+3526	1	
+3526	3	Appeal_to_Hypocrisy,Name_Calling-Labeling
+3526	5	
+3526	7	
+3526	9	
+3526	11	Name_Calling-Labeling
+3526	13	
+3526	15	Exaggeration-Minimisation,Name_Calling-Labeling
+3526	17	Appeal_to_Hypocrisy,Loaded_Language
+3526	19	
+3526	21	
+3526	23	
+3526	25	Name_Calling-Labeling
+3526	27	
+3526	29	
+3526	31	
+3526	33	Exaggeration-Minimisation
+3526	35	
+3526	37	Doubt
+3526	39	
+355	1	
+355	3	
+355	5	
+355	7	
+355	9	
+355	11	Name_Calling-Labeling
+355	13	
+355	15	
+355	17	
+355	19	Name_Calling-Labeling
+355	21	
+355	23	Conversation_Killer
+355	25	Name_Calling-Labeling
+355	27	
+355	29	
+355	31	Name_Calling-Labeling
+355	33	
+355	35	Loaded_Language
+355	37	Doubt
+355	39	Name_Calling-Labeling
+355	41	
+355	43	
+355	45	Doubt
+355	47	
+355	49	Name_Calling-Labeling
+355	51	Name_Calling-Labeling
+3528	1	
+3528	3	
+3528	5	
+3528	7	Name_Calling-Labeling
+3528	9	
+3528	11	
+357	1	Name_Calling-Labeling
+357	3	
+357	5	
+357	7	
+357	9	
+357	11	
+357	13	
+357	15	
+3516	1	
+3516	3	
+3516	5	
+3516	7	Doubt
+3516	9	
+3516	11	
+3516	13	
+3516	15	
+3516	17	
+3516	19	
+3516	21	
+3516	23	
+3516	25	
+3516	27	Name_Calling-Labeling
+3516	29	
+3516	31	Name_Calling-Labeling
+3516	33	Name_Calling-Labeling
+3516	35	Name_Calling-Labeling
+3516	37	Name_Calling-Labeling
+3516	39	Name_Calling-Labeling
+3516	41	
+3516	43	
+3516	45	
+3516	47	
+3516	49	
+3516	51	
+3516	53	
+3516	55	Name_Calling-Labeling
+3516	57	
+3516	59	
+3516	61	
+3516	63	
+3516	65	
+3516	67	Name_Calling-Labeling
+3516	69	
+3516	71	
+3516	73	
+3516	75	
+3516	77	Name_Calling-Labeling
+3516	79	
+3516	81	
+3516	83	
+3516	85	
+3516	87	Name_Calling-Labeling
+3516	89	
+3516	91	
+3516	93	
+3516	95	
+3516	97	
+3516	99	
+3516	101	
+3516	103	
+3516	105	Name_Calling-Labeling
+3516	107	Doubt,Name_Calling-Labeling
+3521	1	
+3521	3	Appeal_to_Values,Doubt,Loaded_Language
+3521	5	Name_Calling-Labeling
+3524	1	
+3524	3	Name_Calling-Labeling
+3524	5	
+3524	7	Name_Calling-Labeling,Questioning_the_Reputation
+3524	9	
+3524	11	
+3524	13	Questioning_the_Reputation
+3524	15	Questioning_the_Reputation
+3524	17	
+3524	19	
+3524	21	
+3524	23	
+3524	25	Flag_Waving
+3524	27	
+3524	29	Name_Calling-Labeling
+3524	31	
+3524	33	Appeal_to_Hypocrisy,Questioning_the_Reputation
+3524	35	Loaded_Language
+3524	37	
+3524	39	Name_Calling-Labeling
+3524	41	Appeal_to_Hypocrisy,Appeal_to_Values,Name_Calling-Labeling,Questioning_the_Reputation
+3524	43	Name_Calling-Labeling,Questioning_the_Reputation
+3524	45	
+3524	47	
+3524	49	Appeal_to_Hypocrisy,Name_Calling-Labeling
+3524	51	Appeal_to_Fear-Prejudice
+3524	53	Appeal_to_Hypocrisy,Doubt,Questioning_the_Reputation
+3527	1	
+3527	3	
+3527	5	
+3527	7	
+3527	9	
+3527	11	
+3527	13	Name_Calling-Labeling
+3527	15	
+3527	17	
+3527	19	
+3527	21	
+3527	23	
+3527	25	
+351	1	
+351	3	
+351	5	Name_Calling-Labeling
+351	7	
+351	9	
+351	11	
+351	13	
+351	15	
+351	17	
+351	19	Loaded_Language
+351	21	Loaded_Language
+351	23	
+351	25	
+351	27	Name_Calling-Labeling
+351	29	
+351	31	
+351	33	Conversation_Killer,Doubt
+351	35	Name_Calling-Labeling
+351	37	
+351	39	Name_Calling-Labeling
+351	41	
+351	43	
+351	45	Name_Calling-Labeling
+351	47	
+351	49	
+3537	1	
+3537	3	Name_Calling-Labeling
+3537	5	Doubt
+3537	7	
+3537	9	
+3537	11	Doubt
+3537	13	
+3546	1	
+3546	3	
+3546	5	
+3546	7	Appeal_to_Hypocrisy,Doubt,Loaded_Language
+3546	9	
+3546	11	
+3546	13	
+3546	15	
+3546	17	
+3546	19	
+3546	21	
+3546	23	
+3546	25	Appeal_to_Hypocrisy
+3546	27	
+3546	29	
+3546	31	
+3546	33	
+3546	35	
+3546	37	
+3546	39	
+3546	41	Name_Calling-Labeling
+3546	43	
+3546	45	
+3546	47	
+3546	49	
+3546	51	
+3546	53	
+3546	55	
+3546	57	
+3546	59	
+3546	61	
+3546	63	
+3546	65	
+3546	67	
+3546	69	
+3546	71	Name_Calling-Labeling
+3546	73	
+3546	75	
+3546	77	
+3546	79	
+3546	81	
+3546	83	
+3546	85	Doubt,Name_Calling-Labeling
+3546	87	Name_Calling-Labeling
+3546	89	Doubt
+3546	91	
+3546	93	
+3546	95	
+3546	97	
+3546	99	Doubt
+3546	101	
+3546	103	
+3546	105	
+3546	107	Name_Calling-Labeling
+3546	109	
+3546	111	
+3546	113	
+3530	1	
+3530	3	
+3530	5	
+3530	7	
+3530	9	Name_Calling-Labeling
+3530	11	Name_Calling-Labeling
+3530	13	
+3530	15	
+3530	17	
+3530	19	
+3530	21	Questioning_the_Reputation
+3530	23	Name_Calling-Labeling
+3530	25	
+3530	27	
+3530	29	Loaded_Language,Questioning_the_Reputation
+3530	31	Name_Calling-Labeling
+3530	33	Loaded_Language
+3530	35	
+3530	37	
+3530	39	
+3530	41	Loaded_Language
+3530	43	
+3530	45	Loaded_Language
+3530	47	
+3530	49	
+3530	51	
+3530	53	
+3530	55	
+3530	57	
+3539	1	
+3539	3	
+3539	5	
+3539	7	
+3539	9	Name_Calling-Labeling
+3539	11	
+3539	13	
+3539	15	
+3539	17	
+3539	19	Doubt
+3539	21	
+3539	23	
+3539	25	
+3539	27	
+3539	29	
+3539	31	
+3539	33	
+3539	35	
+3539	37	
+3539	39	
+3534	1	
+3534	3	
+3534	5	
+3534	7	
+3534	9	
+3534	11	
+3534	13	
+3534	15	
+3534	17	
+3534	19	
+3534	21	
+3534	23	
+359	1	
+359	3	
+359	5	
+359	7	Doubt,Questioning_the_Reputation
+359	9	
+359	11	Loaded_Language
+359	13	
+359	15	
+359	17	
+359	19	
+3540	1	
+3540	3	
+3540	5	
+3540	7	
+3540	9	
+3540	11	
+3540	13	
+3540	15	
+3540	17	
+3522	1	
+3522	3	Loaded_Language,Name_Calling-Labeling
+3522	5	
+3522	7	Doubt
+3522	9	Appeal_to_Hypocrisy,Doubt,Loaded_Language
+3522	11	Name_Calling-Labeling
+3522	13	
+3522	15	Appeal_to_Hypocrisy,Doubt,Questioning_the_Reputation
+3522	17	
+3522	19	
+3522	21	
+3522	23	
+3522	25	
+3522	27	Appeal_to_Values,Name_Calling-Labeling
+3522	29	
+3522	31	
+3522	33	Appeal_to_Fear-Prejudice,Doubt
+3522	35	
+3522	37	Conversation_Killer,Doubt,Flag_Waving
+3522	39	
+3522	41	Conversation_Killer
+3522	43	
+3522	45	
+3522	47	
+3522	49	Name_Calling-Labeling
+3522	51	
+3522	53	
+3522	55	Doubt
+3522	57	
+3522	59	Appeal_to_Fear-Prejudice
+3522	61	
+3522	63	Name_Calling-Labeling
+3522	65	Doubt
+3522	67	Name_Calling-Labeling
+3522	69	
+3522	71	
+3522	73	
+3522	75	
+3522	77	
+3522	79	
+3522	81	Doubt
+3522	83	
+3545	1	
+3545	3	
+3545	5	
+3545	7	
+3545	9	Appeal_to_Authority
+3545	11	
+3545	13	
+3545	15	Name_Calling-Labeling
+3545	17	Name_Calling-Labeling
+3545	19	
+3545	21	
+3545	23	
+3545	25	
+3545	27	
+3515	1	Name_Calling-Labeling
+3515	3	Name_Calling-Labeling
+3515	5	Name_Calling-Labeling
+3515	7	Name_Calling-Labeling
+3515	9	
+3515	11	
+3515	13	
+3515	15	
+3515	17	
+3515	19	
+3515	21	Name_Calling-Labeling
+3515	23	Name_Calling-Labeling
+3515	25	Name_Calling-Labeling
+3515	27	
+3515	29	
+3515	31	
+3515	33	Name_Calling-Labeling
+3515	35	Name_Calling-Labeling
+3515	37	
+3515	39	
+3515	41	Name_Calling-Labeling
+3515	43	Name_Calling-Labeling
+3515	45	
+3515	47	
+3515	49	
+3515	51	
+3515	53	
+3515	55	
+3515	57	
+3515	59	Doubt
+3515	61	
+3523	1	
+3523	3	
+3523	5	
+3523	7	
+3523	9	
+3523	11	Appeal_to_Hypocrisy,Doubt
+3523	13	
+3523	15	
+3523	17	
+3523	19	
+3523	21	
+3523	23	
+3523	25	
+3523	27	
+3523	29	
+3523	31	
+3523	33	
+3523	35	
+3523	37	
+3523	39	
+3523	41	
+3523	43	
+3523	45	
+3523	47	Doubt
+3523	49	
+3523	51	
+3523	53	
+3523	55	
+3523	57	
+3523	59	
+3523	61	
+3523	63	
+3523	65	
+3523	67	
+3523	69	Doubt
+3523	71	
+3523	73	Name_Calling-Labeling
+3523	75	Doubt
+3523	77	
+3523	79	
+3523	81	
+3523	83	
+3523	85	
+3523	87	
+3523	89	
+3523	91	Name_Calling-Labeling
+3523	93	
+3523	95	
+3523	97	Name_Calling-Labeling
+3523	99	Name_Calling-Labeling
+3523	101	
+3523	103	Name_Calling-Labeling
+3523	105	
+3523	107	
+3523	109	
+3523	111	
+3523	113	
+3523	115	Name_Calling-Labeling
+3523	117	
+3523	119	
+3523	121	
+3523	123	
+3523	125	
+3523	127	
+3523	129	
+3523	131	Name_Calling-Labeling
+3523	133	
+3523	135	
+3523	137	
+3523	139	
+3523	141	
+3523	143	
+3532	1	
+3532	3	
+3532	5	
+3532	7	Name_Calling-Labeling
+3532	9	
+3532	11	
+3532	13	
+3532	15	
+3532	17	
+356	1	
+356	3	Name_Calling-Labeling
+356	5	
+356	7	
+356	9	
+356	11	
+356	13	Name_Calling-Labeling
+356	15	
+356	17	Name_Calling-Labeling
+356	19	Name_Calling-Labeling
+356	21	
+356	23	
+356	25	
+356	27	Name_Calling-Labeling
+356	29	Name_Calling-Labeling
+356	31	Name_Calling-Labeling
+356	33	Name_Calling-Labeling
+356	35	
+356	37	Name_Calling-Labeling
+356	39	
+356	41	
+356	43	Name_Calling-Labeling
+356	45	
+356	47	
+356	49	Name_Calling-Labeling
+356	51	
+356	53	
+356	55	
+356	57	Name_Calling-Labeling
+356	59	Name_Calling-Labeling
+356	61	Name_Calling-Labeling
+356	63	Doubt
+356	65	Name_Calling-Labeling
+356	67	
+356	69	Loaded_Language
+356	71	Name_Calling-Labeling
+356	73	
+356	75	
+356	77	
+356	79	Name_Calling-Labeling
+356	81	
+356	83	
+356	85	
+356	87	
+356	89	Doubt
+3543	1	
+3543	3	
+3543	5	
+3543	7	Loaded_Language
+3543	9	
+3543	11	
+3543	13	
+3543	15	Appeal_to_Values
+3543	17	
+3543	19	
+3543	21	
+3529	1	Name_Calling-Labeling
+3529	3	
+3529	5	
+3529	7	
+3529	9	
+3529	11	
+3529	13	
+3529	15	Name_Calling-Labeling
+3529	17	
+3529	19	
+3529	21	
+3529	23	
+3544	1	
+3544	3	
+3544	5	
+3544	7	
+3544	9	
+3544	11	
+3544	13	
+3544	15	
+3544	17	
+3544	19	Name_Calling-Labeling
+3544	21	
+3544	23	Name_Calling-Labeling
+3544	25	
+3544	27	
+3544	29	
+3544	31	
+3544	33	
+3544	35	
+3544	37	
+3544	39	Name_Calling-Labeling
+3544	41	
+3544	43	
+3544	45	
+3544	47	
+3544	49	
+3544	51	
+3544	53	
+3544	55	
+3544	57	
+3544	59	
+3544	61	Name_Calling-Labeling
+3544	63	
+3544	65	
+3544	67	
+3544	69	
+3544	71	
+3544	73	
+3544	75	
+3544	77	
+3544	79	
+3544	80	
+3544	82	
+3538	1	
+3538	3	Appeal_to_Hypocrisy,Loaded_Language
+3538	5	
+3538	7	
+3538	9	
+3538	11	
+3538	13	
+3538	15	Name_Calling-Labeling
+3538	17	
+3538	19	
+3533	1	
+3533	3	
+3533	5	
+3533	7	
+3533	9	
+3533	11	
+3533	13	
+3533	15	
+3533	17	
+3533	19	
+3533	21	
+3512	1	
+3512	3	
+3512	5	
+3512	7	
+3512	9	
+3512	11	
+3512	13	
+3512	15	
+3512	17	Name_Calling-Labeling
+3512	19	Name_Calling-Labeling
+3512	21	
+3512	23	Name_Calling-Labeling
+3512	25	
+3512	27	
+3512	29	
+3512	31	
+3512	33	
+3512	35	
+3512	37	
+3512	39	
+3512	41	
+3512	43	Name_Calling-Labeling
+3512	45	
+3512	47	Name_Calling-Labeling
+3512	49	
+3512	51	
+3512	53	
+3512	55	
+3512	57	Name_Calling-Labeling
+3512	59	
+3512	61	
+3512	63	
+3512	65	
+3512	67	
+3512	69	
+3512	71	
+3512	73	Name_Calling-Labeling
+3512	75	Name_Calling-Labeling
+3512	77	
+3517	1	Name_Calling-Labeling
+3517	3	
+3517	5	
+3517	7	
+3517	9	
+3517	11	
+3517	13	
+3517	15	Name_Calling-Labeling
+3517	17	
+352	1	
+352	3	
+352	5	
+352	7	
+352	9	
+352	11	
+352	13	Name_Calling-Labeling
+352	15	
+352	17	
+358	1	Name_Calling-Labeling
+358	3	
+358	5	
+358	7	Doubt
+358	9	Name_Calling-Labeling
+358	11	Name_Calling-Labeling
+358	13	
+358	15	Doubt
+358	17	Name_Calling-Labeling
+358	19	Name_Calling-Labeling
+358	21	
+358	23	
+358	25	
+358	27	
+358	29	
+358	31	
+358	33	Name_Calling-Labeling
+358	35	
+358	37	Name_Calling-Labeling
+358	39	
+358	41	
+358	43	
+358	45	
+358	47	
+3536	1	
+3536	3	Name_Calling-Labeling
+3536	5	Doubt
+3536	7	
+3536	9	
+3536	11	Doubt
+3536	13	
+3542	1	
+3542	3	Questioning_the_Reputation
+3542	5	Appeal_to_Hypocrisy,Doubt,Exaggeration-Minimisation,Name_Calling-Labeling
+3542	7	Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+3542	9	Questioning_the_Reputation
+3542	11	Appeal_to_Hypocrisy
+3514	1	
+3514	3	
+3514	5	
+3514	7	
+3514	9	
+3514	11	Appeal_to_Hypocrisy,Name_Calling-Labeling
+3514	13	
+3514	15	Name_Calling-Labeling
+3514	17	Appeal_to_Hypocrisy,Appeal_to_Values,Questioning_the_Reputation
+3514	19	Exaggeration-Minimisation,Loaded_Language
+3514	21	
+3514	23	Name_Calling-Labeling
+3514	25	Name_Calling-Labeling
+3514	27	Doubt
+3514	29	Name_Calling-Labeling
+3514	31	
+3514	33	
+3514	35	Name_Calling-Labeling
+3514	37	Name_Calling-Labeling
+3514	39	Name_Calling-Labeling
+3514	41	
+3514	43	
+3514	45	
+3514	47	Name_Calling-Labeling
+3514	49	
+3519	1	Name_Calling-Labeling
+3519	3	Name_Calling-Labeling
+3519	5	
+3519	7	
+3519	9	
+3519	11	Name_Calling-Labeling
+3519	13	Name_Calling-Labeling
+3541	1	Name_Calling-Labeling
+3541	3	Name_Calling-Labeling
+3541	5	Doubt,Name_Calling-Labeling
+3541	7	
+3541	9	Name_Calling-Labeling
+3541	11	
+3541	13	Appeal_to_Values
+3541	15	
+3541	17	Name_Calling-Labeling
+3541	19	
+3541	21	
+3541	23	Name_Calling-Labeling
+3541	25	
+3541	27	Name_Calling-Labeling
+3541	29	
+3541	31	
+3541	33	
+3541	35	Loaded_Language
+3541	37	
+3541	39	
+3541	41	Name_Calling-Labeling
+3541	43	Name_Calling-Labeling
+3541	45	Name_Calling-Labeling
+3531	1	
+3531	3	
+3531	5	
+3531	7	
+3531	9	Name_Calling-Labeling
+3531	11	
+3531	13	
+3531	15	
+3531	17	
+3531	19	
+3531	21	
+3531	23	
+3531	25	
+3531	27	
+3531	29	
+3520	1	
+3520	3	
+3520	5	
+3520	7	Name_Calling-Labeling
+3520	9	
+3520	11	Name_Calling-Labeling
+3520	13	
+3520	15	Name_Calling-Labeling
+3520	17	Name_Calling-Labeling
+3520	19	
+3520	21	
+3520	23	
+3520	25	
+3520	27	
+3520	29	
+3520	31	
+3520	33	
+3520	35	
+3520	37	
+3520	39	
+3520	41	
+3520	43	
+3520	45	
+3520	47	
+3520	49	
+3520	51	Doubt
+3520	53	
+3520	55	
+3520	57	Name_Calling-Labeling
+3520	59	
+3520	61	
+3520	63	
+3520	65	Doubt
+3520	67	
+3520	69	
+3520	71	Name_Calling-Labeling
+3520	73	
+3520	75	Name_Calling-Labeling
+3520	77	

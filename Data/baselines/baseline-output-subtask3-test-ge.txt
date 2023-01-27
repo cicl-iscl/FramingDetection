@@ -1,0 +1,790 @@
+3220	1	
+3220	3	Name_Calling-Labeling
+3220	5	Name_Calling-Labeling
+3220	7	Appeal_to_Authority,Name_Calling-Labeling
+3220	9	Appeal_to_Authority,Name_Calling-Labeling
+3220	11	Name_Calling-Labeling
+3220	13	Conversation_Killer,Doubt
+3238	1	
+3238	3	Name_Calling-Labeling
+3238	5	Name_Calling-Labeling
+3238	7	Doubt,Name_Calling-Labeling
+3238	9	Name_Calling-Labeling
+3210	1	Name_Calling-Labeling
+3210	3	Name_Calling-Labeling
+3210	5	
+3210	7	Name_Calling-Labeling
+3210	9	
+3219	1	
+3219	3	Name_Calling-Labeling
+3219	5	Conversation_Killer
+3219	7	Name_Calling-Labeling
+3219	9	Name_Calling-Labeling
+3219	11	
+3219	13	Name_Calling-Labeling
+3219	15	Conversation_Killer,Name_Calling-Labeling
+3219	17	Name_Calling-Labeling
+3219	19	Name_Calling-Labeling
+3219	21	Name_Calling-Labeling
+3219	23	
+3219	25	Name_Calling-Labeling
+3219	27	Name_Calling-Labeling
+3219	29	Slogans
+3219	31	Name_Calling-Labeling
+3219	33	
+3219	35	Name_Calling-Labeling
+3219	37	Name_Calling-Labeling
+3219	39	Name_Calling-Labeling,Questioning_the_Reputation
+3219	41	Name_Calling-Labeling
+3219	43	Conversation_Killer,Slogans
+3219	45	Name_Calling-Labeling
+3232	1	
+3232	3	Name_Calling-Labeling
+3232	5	
+3232	7	Name_Calling-Labeling
+3232	9	Loaded_Language,Name_Calling-Labeling
+3232	11	
+3232	13	Doubt,Name_Calling-Labeling
+3232	15	Name_Calling-Labeling,Questioning_the_Reputation
+3232	17	
+3232	19	Name_Calling-Labeling
+3232	21	Name_Calling-Labeling
+3232	23	Name_Calling-Labeling
+3232	25	Name_Calling-Labeling
+3232	27	Name_Calling-Labeling
+3232	29	
+3232	31	Name_Calling-Labeling
+3232	33	Appeal_to_Authority,Loaded_Language,Name_Calling-Labeling
+3232	35	
+3232	37	Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling
+3232	39	Doubt,Name_Calling-Labeling
+3232	41	
+3232	43	Name_Calling-Labeling
+3232	45	Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+3232	47	Appeal_to_Fear-Prejudice,Loaded_Language,Name_Calling-Labeling
+3232	49	Name_Calling-Labeling,Questioning_the_Reputation
+3232	51	
+3232	53	Appeal_to_Fear-Prejudice,Name_Calling-Labeling
+3232	55	Name_Calling-Labeling
+3232	57	Name_Calling-Labeling
+3232	59	Name_Calling-Labeling
+3232	61	Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+3232	63	Appeal_to_Fear-Prejudice,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation,Slogans
+3232	65	
+3243	1	Name_Calling-Labeling
+3243	3	
+3243	5	Name_Calling-Labeling
+3243	7	Name_Calling-Labeling
+3243	9	Name_Calling-Labeling
+3243	11	
+3215	1	
+3215	3	Name_Calling-Labeling
+3215	5	Name_Calling-Labeling
+3215	7	
+3215	9	
+3215	11	
+3215	13	
+3215	15	Slogans
+3235	1	
+3235	3	Name_Calling-Labeling
+3235	5	
+3235	7	Doubt
+325	1	
+325	3	Name_Calling-Labeling
+325	5	Name_Calling-Labeling
+325	7	Name_Calling-Labeling
+325	9	
+325	11	Name_Calling-Labeling
+325	13	
+325	15	
+325	17	Name_Calling-Labeling
+325	19	Name_Calling-Labeling
+325	21	
+325	23	Name_Calling-Labeling
+325	25	Name_Calling-Labeling
+325	27	
+325	29	Appeal_to_Authority
+325	31	
+3223	1	
+3223	3	Name_Calling-Labeling
+3223	5	
+3223	7	
+3223	9	
+3223	11	Doubt,Questioning_the_Reputation
+3223	13	
+3223	15	
+3223	17	Name_Calling-Labeling,Questioning_the_Reputation
+3223	19	Doubt,Name_Calling-Labeling
+3223	21	Doubt,Exaggeration-Minimisation,Name_Calling-Labeling
+3223	23	Doubt
+3223	25	Doubt,Loaded_Language,Name_Calling-Labeling
+3223	27	Doubt
+3223	29	Name_Calling-Labeling
+3223	31	Name_Calling-Labeling
+3223	33	
+3223	35	
+3223	37	
+3223	39	
+3223	41	Name_Calling-Labeling
+3223	43	
+3223	45	Name_Calling-Labeling
+3223	47	Name_Calling-Labeling
+3223	49	Doubt,Name_Calling-Labeling
+3223	51	
+3223	53	Name_Calling-Labeling
+3223	55	Exaggeration-Minimisation,Name_Calling-Labeling
+3223	57	
+3223	59	
+3223	61	Causal_Oversimplification,Name_Calling-Labeling
+3223	63	
+3223	65	Name_Calling-Labeling
+3223	67	Guilt_by_Association,Name_Calling-Labeling,Questioning_the_Reputation
+3223	69	Name_Calling-Labeling
+3223	71	Name_Calling-Labeling
+3223	73	
+3223	75	Name_Calling-Labeling
+3223	77	
+3223	79	
+3223	81	
+3223	83	
+3223	85	
+3223	87	Loaded_Language
+3223	89	Causal_Oversimplification
+3223	91	Loaded_Language,Questioning_the_Reputation
+3223	93	Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+3223	95	
+3223	97	Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+3223	99	Conversation_Killer,Guilt_by_Association,Questioning_the_Reputation
+3223	101	Appeal_to_Hypocrisy,Exaggeration-Minimisation,Name_Calling-Labeling
+3223	103	Name_Calling-Labeling,Questioning_the_Reputation
+3223	105	Appeal_to_Hypocrisy,Name_Calling-Labeling
+3223	107	
+3223	109	
+3223	111	Name_Calling-Labeling
+3223	113	False_Dilemma-No_Choice,Slogans
+3246	1	
+3246	3	Name_Calling-Labeling
+3246	5	Name_Calling-Labeling
+3246	7	Appeal_to_Authority,Name_Calling-Labeling
+3246	9	Name_Calling-Labeling
+3246	11	Name_Calling-Labeling
+3246	13	
+3246	15	Name_Calling-Labeling
+3246	17	Name_Calling-Labeling
+329	1	
+329	3	
+329	5	
+329	7	
+329	9	Name_Calling-Labeling
+329	11	Name_Calling-Labeling
+329	13	
+329	15	
+329	17	
+329	19	Name_Calling-Labeling
+329	21	
+329	23	Name_Calling-Labeling
+329	25	Name_Calling-Labeling
+3245	1	
+3245	3	Name_Calling-Labeling
+3245	5	Name_Calling-Labeling
+3245	7	Name_Calling-Labeling
+3245	9	
+3245	11	
+3245	13	Name_Calling-Labeling
+3245	15	Name_Calling-Labeling
+3245	17	
+3214	1	
+3214	3	Name_Calling-Labeling
+3214	5	Name_Calling-Labeling
+3214	7	Name_Calling-Labeling
+3231	1	Name_Calling-Labeling
+3231	3	Name_Calling-Labeling
+3231	5	Doubt,Name_Calling-Labeling
+3231	7	Name_Calling-Labeling
+3231	9	Name_Calling-Labeling
+3231	11	
+3231	13	Name_Calling-Labeling
+3231	15	Name_Calling-Labeling
+3231	17	
+3231	19	
+3231	21	
+3231	23	Name_Calling-Labeling
+3231	25	
+3231	27	Name_Calling-Labeling
+3231	29	Name_Calling-Labeling
+3231	31	Name_Calling-Labeling
+3231	33	
+3231	35	Name_Calling-Labeling,Questioning_the_Reputation
+3231	37	Name_Calling-Labeling
+3221	1	
+3221	3	Name_Calling-Labeling
+3221	5	Doubt,Name_Calling-Labeling
+3221	7	
+3221	9	Name_Calling-Labeling
+3242	1	
+3242	3	
+3242	5	
+3242	7	Doubt,Name_Calling-Labeling
+3242	9	Name_Calling-Labeling
+3242	11	Questioning_the_Reputation
+3242	13	Name_Calling-Labeling
+3242	15	Name_Calling-Labeling
+3242	17	
+3242	19	Name_Calling-Labeling
+3242	21	Appeal_to_Authority,Name_Calling-Labeling
+3224	1	
+3224	3	Name_Calling-Labeling
+3224	5	Name_Calling-Labeling
+3224	7	Name_Calling-Labeling
+3224	9	Name_Calling-Labeling
+3224	11	Name_Calling-Labeling
+3224	13	Name_Calling-Labeling
+3224	15	
+3224	17	Name_Calling-Labeling
+3224	19	Guilt_by_Association,Name_Calling-Labeling,Questioning_the_Reputation
+3224	21	Appeal_to_Fear-Prejudice,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+3224	23	
+3224	25	
+3224	27	Questioning_the_Reputation
+3224	29	Name_Calling-Labeling
+3224	31	
+3224	33	
+3224	35	
+3224	37	
+3250	1	
+3250	3	
+3250	5	
+3250	7	Doubt,Name_Calling-Labeling
+3250	9	Appeal_to_Authority,Name_Calling-Labeling
+3250	11	
+3250	13	
+3250	15	Appeal_to_Authority,Doubt
+3250	17	Name_Calling-Labeling
+321	1	
+321	3	Slogans
+321	5	
+321	7	Name_Calling-Labeling
+321	9	Appeal_to_Hypocrisy,Questioning_the_Reputation
+321	11	
+321	13	
+321	15	
+321	17	
+321	19	Name_Calling-Labeling
+321	21	Name_Calling-Labeling
+321	23	
+321	25	
+321	27	Name_Calling-Labeling
+321	29	Name_Calling-Labeling
+321	31	
+321	33	
+321	35	
+321	37	Conversation_Killer
+321	39	Name_Calling-Labeling
+321	41	
+321	43	Name_Calling-Labeling
+321	45	
+321	47	
+321	49	Name_Calling-Labeling
+321	51	Appeal_to_Authority,Name_Calling-Labeling
+321	53	Slogans
+321	55	Name_Calling-Labeling
+321	57	Doubt,Slogans
+321	59	
+321	61	
+321	63	
+321	65	Name_Calling-Labeling,Questioning_the_Reputation,Slogans
+321	67	
+321	69	Name_Calling-Labeling
+321	71	
+321	73	
+321	75	Name_Calling-Labeling
+321	77	Name_Calling-Labeling
+321	79	
+321	81	Name_Calling-Labeling
+324	1	
+324	3	Name_Calling-Labeling
+324	5	Name_Calling-Labeling
+324	7	
+324	9	
+324	11	
+324	13	Name_Calling-Labeling
+324	15	Name_Calling-Labeling
+324	17	Name_Calling-Labeling
+324	19	Name_Calling-Labeling
+324	21	Name_Calling-Labeling
+324	23	Doubt,Name_Calling-Labeling
+324	25	
+324	27	
+324	29	Name_Calling-Labeling
+324	31	Name_Calling-Labeling
+324	33	Name_Calling-Labeling
+324	35	Doubt,Name_Calling-Labeling,Questioning_the_Reputation
+324	37	
+324	39	Name_Calling-Labeling
+324	41	
+324	43	
+324	45	Name_Calling-Labeling
+324	47	Name_Calling-Labeling
+324	49	Doubt,Name_Calling-Labeling,Questioning_the_Reputation
+324	51	Conversation_Killer
+324	53	
+324	55	
+324	57	Doubt,Questioning_the_Reputation
+324	59	
+324	61	
+324	63	
+324	65	Name_Calling-Labeling,Questioning_the_Reputation
+324	67	Name_Calling-Labeling
+324	69	
+324	71	Name_Calling-Labeling
+324	73	
+324	75	
+324	77	
+324	79	Name_Calling-Labeling,Questioning_the_Reputation
+324	81	
+324	83	Name_Calling-Labeling,Questioning_the_Reputation
+324	85	
+324	87	Name_Calling-Labeling
+324	89	
+324	91	Conversation_Killer
+324	93	
+324	95	Doubt,Name_Calling-Labeling
+324	97	
+324	99	
+324	101	Name_Calling-Labeling
+324	103	Name_Calling-Labeling
+324	105	
+324	107	Name_Calling-Labeling,Questioning_the_Reputation
+324	109	
+324	111	
+324	113	
+324	115	Name_Calling-Labeling
+324	117	
+324	119	Appeal_to_Fear-Prejudice,Doubt,Name_Calling-Labeling
+324	121	
+324	123	Name_Calling-Labeling
+324	125	Name_Calling-Labeling
+324	127	Name_Calling-Labeling
+324	129	Name_Calling-Labeling,Questioning_the_Reputation
+324	131	
+324	133	
+3218	1	
+3218	3	Name_Calling-Labeling
+3218	5	Name_Calling-Labeling
+3218	7	Name_Calling-Labeling
+3247	1	Name_Calling-Labeling
+3247	3	Name_Calling-Labeling
+3247	5	Name_Calling-Labeling
+3247	7	Loaded_Language,Name_Calling-Labeling
+3247	9	Doubt,Name_Calling-Labeling
+3247	11	Name_Calling-Labeling
+3247	13	Name_Calling-Labeling
+3247	15	Name_Calling-Labeling
+3228	1	
+3228	3	Doubt,Questioning_the_Reputation
+3228	5	Name_Calling-Labeling
+3228	7	
+3228	9	Doubt,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+3228	11	
+3228	13	
+3228	15	
+3228	17	Doubt,Name_Calling-Labeling
+3228	19	Name_Calling-Labeling,Questioning_the_Reputation
+3228	21	Doubt
+3228	23	Doubt
+3228	25	Name_Calling-Labeling
+3228	27	Appeal_to_Fear-Prejudice,Doubt,Loaded_Language,Name_Calling-Labeling
+3228	29	Doubt
+3228	31	
+3228	33	
+3228	35	Doubt
+3228	37	
+3240	1	
+3240	3	Doubt,Name_Calling-Labeling
+3240	5	Name_Calling-Labeling
+3240	7	
+3240	9	Name_Calling-Labeling
+3240	11	Name_Calling-Labeling
+3240	13	Name_Calling-Labeling
+3240	15	
+3240	17	Appeal_to_Authority,Name_Calling-Labeling
+3240	19	Appeal_to_Authority,Name_Calling-Labeling
+3212	1	
+3212	3	
+3212	5	Name_Calling-Labeling
+3212	7	
+3212	9	Name_Calling-Labeling
+3212	11	
+3212	13	Name_Calling-Labeling
+3212	15	
+3212	17	Name_Calling-Labeling
+3212	19	
+3212	21	Name_Calling-Labeling
+3233	1	Name_Calling-Labeling
+3233	3	Name_Calling-Labeling
+3233	5	Doubt
+3233	7	Name_Calling-Labeling,Slogans
+3233	9	
+3233	11	
+3233	13	Name_Calling-Labeling
+3233	15	Name_Calling-Labeling
+3233	17	Doubt,Name_Calling-Labeling
+3233	19	
+3233	21	Name_Calling-Labeling
+3233	23	Name_Calling-Labeling
+3233	25	Doubt,Name_Calling-Labeling
+3233	27	
+3233	29	
+3233	31	
+3233	33	Name_Calling-Labeling
+3233	35	
+3233	37	Name_Calling-Labeling
+3233	39	
+3233	41	
+3233	43	
+3233	45	Name_Calling-Labeling
+3233	47	Name_Calling-Labeling
+3233	49	Name_Calling-Labeling,Questioning_the_Reputation
+3233	51	
+3233	53	
+3233	55	
+3233	57	Exaggeration-Minimisation,Name_Calling-Labeling
+3233	59	
+3233	61	Name_Calling-Labeling
+3233	63	Name_Calling-Labeling
+3233	65	Exaggeration-Minimisation,Name_Calling-Labeling
+3233	67	Name_Calling-Labeling,Questioning_the_Reputation
+3233	69	
+3225	1	
+3225	3	Appeal_to_Authority,Name_Calling-Labeling
+3225	5	Name_Calling-Labeling
+3225	7	
+3225	9	Name_Calling-Labeling
+3225	11	
+3225	13	Name_Calling-Labeling
+3225	15	
+3225	17	Name_Calling-Labeling,Slogans
+3225	19	Name_Calling-Labeling
+3236	1	
+3236	3	Name_Calling-Labeling
+3236	5	Name_Calling-Labeling
+3236	7	
+3236	9	Name_Calling-Labeling
+3211	1	Name_Calling-Labeling
+3211	3	
+3211	5	Name_Calling-Labeling
+3211	7	
+3211	9	Name_Calling-Labeling
+3211	11	Doubt,Name_Calling-Labeling
+3211	13	
+3211	15	Name_Calling-Labeling
+3211	17	
+3211	19	Name_Calling-Labeling
+3248	1	
+3248	3	Name_Calling-Labeling
+3248	5	Name_Calling-Labeling
+3248	7	Name_Calling-Labeling
+3248	9	Appeal_to_Authority,Name_Calling-Labeling
+3248	11	
+3248	13	Name_Calling-Labeling
+3248	15	
+3248	17	Name_Calling-Labeling
+3237	1	
+3237	3	
+3237	5	
+3237	7	Name_Calling-Labeling
+3237	9	Name_Calling-Labeling
+3237	11	Name_Calling-Labeling
+3237	13	
+3216	1	
+3216	3	
+3216	5	
+3216	7	
+3216	9	Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+3216	11	Doubt
+3216	13	
+3216	15	Name_Calling-Labeling
+3216	17	
+3213	1	
+3213	3	Appeal_to_Fear-Prejudice,Name_Calling-Labeling
+3213	5	
+3213	7	Name_Calling-Labeling
+3213	9	
+3213	11	Name_Calling-Labeling
+3213	13	Slogans
+3213	15	Slogans
+3213	17	Name_Calling-Labeling
+3213	19	
+322	1	
+322	3	
+322	5	Name_Calling-Labeling
+322	7	Name_Calling-Labeling
+322	9	
+322	11	Doubt,Name_Calling-Labeling
+322	13	
+322	15	
+322	17	Name_Calling-Labeling
+322	19	
+322	21	Name_Calling-Labeling
+322	23	Name_Calling-Labeling
+322	25	
+322	27	Appeal_to_Fear-Prejudice
+322	29	Name_Calling-Labeling
+322	31	
+322	33	
+322	35	
+322	37	
+322	39	Appeal_to_Hypocrisy,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+322	41	Appeal_to_Fear-Prejudice,Name_Calling-Labeling,Questioning_the_Reputation
+322	43	Name_Calling-Labeling
+322	45	
+322	47	Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+322	49	Loaded_Language,Name_Calling-Labeling
+322	51	Name_Calling-Labeling
+322	53	Name_Calling-Labeling
+322	55	
+322	57	Questioning_the_Reputation
+322	59	Name_Calling-Labeling,Questioning_the_Reputation
+322	61	
+322	63	Name_Calling-Labeling
+322	65	
+322	67	
+322	69	Name_Calling-Labeling
+322	71	Name_Calling-Labeling,Questioning_the_Reputation
+322	73	Name_Calling-Labeling
+322	75	Name_Calling-Labeling
+322	77	Name_Calling-Labeling
+326	1	
+326	3	Name_Calling-Labeling
+326	5	Appeal_to_Authority,Doubt,Name_Calling-Labeling
+326	7	
+326	9	
+326	11	
+3222	1	
+3222	3	Slogans
+3222	5	Name_Calling-Labeling
+3222	7	
+3222	9	
+3222	11	
+3222	13	Name_Calling-Labeling,Questioning_the_Reputation
+3222	15	Name_Calling-Labeling
+3222	17	
+3222	19	Name_Calling-Labeling
+3222	21	
+3222	23	Name_Calling-Labeling
+3222	25	
+3222	27	Name_Calling-Labeling,Questioning_the_Reputation
+3222	29	
+3222	31	
+3222	33	Appeal_to_Authority
+3222	35	
+3222	37	
+3222	39	Name_Calling-Labeling
+3222	41	
+3222	43	Name_Calling-Labeling
+3222	45	Name_Calling-Labeling
+3222	47	Name_Calling-Labeling
+3222	49	
+3222	51	Name_Calling-Labeling
+3222	53	
+3222	55	Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+3222	57	Name_Calling-Labeling
+3222	59	
+3222	61	Doubt,Loaded_Language,Questioning_the_Reputation
+3222	63	Appeal_to_Authority
+3222	65	Slogans
+3222	67	
+3222	69	Appeal_to_Authority
+3222	71	
+3222	73	
+3222	75	Name_Calling-Labeling
+3222	77	
+3222	79	
+3222	81	
+3222	83	Name_Calling-Labeling
+328	1	
+328	3	Doubt,Questioning_the_Reputation
+328	5	Name_Calling-Labeling,Questioning_the_Reputation
+328	7	Name_Calling-Labeling
+328	9	Name_Calling-Labeling
+3241	1	
+3241	3	Name_Calling-Labeling
+3241	5	Doubt
+3241	7	
+3241	9	
+3241	11	
+3241	13	Name_Calling-Labeling,Questioning_the_Reputation
+3241	15	
+3241	17	Appeal_to_Popularity,Doubt,Questioning_the_Reputation
+3241	19	
+3241	21	Name_Calling-Labeling
+3241	23	Conversation_Killer
+3241	25	
+3241	27	Name_Calling-Labeling
+3227	1	
+3227	3	
+3227	5	
+3227	7	Name_Calling-Labeling
+3227	9	Name_Calling-Labeling
+3227	11	Appeal_to_Authority,Doubt
+3227	13	Name_Calling-Labeling
+3227	15	
+3227	17	
+3227	19	
+3227	21	Name_Calling-Labeling
+3227	23	
+3227	25	
+3227	27	Name_Calling-Labeling
+3227	29	Name_Calling-Labeling
+3227	31	Name_Calling-Labeling
+3227	33	
+3227	35	Name_Calling-Labeling
+3227	37	
+3227	39	Appeal_to_Authority,Doubt
+3227	41	Appeal_to_Authority,Doubt
+3227	43	Name_Calling-Labeling
+3227	45	Doubt
+3227	47	Doubt
+3227	49	
+3227	51	Name_Calling-Labeling
+3227	53	
+3227	55	
+3227	57	Name_Calling-Labeling
+3227	59	
+3227	61	
+3227	63	
+3227	65	
+3227	67	Name_Calling-Labeling
+3227	69	
+3227	71	Name_Calling-Labeling
+3227	73	Name_Calling-Labeling
+3227	75	Name_Calling-Labeling
+3227	77	Name_Calling-Labeling
+3227	79	Name_Calling-Labeling
+3227	81	Name_Calling-Labeling
+3227	83	
+3227	85	Name_Calling-Labeling
+3227	87	
+3227	89	
+3227	91	Name_Calling-Labeling
+3227	93	Appeal_to_Authority,Appeal_to_Fear-Prejudice
+3227	95	Name_Calling-Labeling
+3227	97	Name_Calling-Labeling
+3227	99	Name_Calling-Labeling
+3227	101	Name_Calling-Labeling
+3227	103	Doubt
+3227	105	
+3227	107	
+3227	109	Name_Calling-Labeling
+3227	111	Name_Calling-Labeling
+3227	113	
+3227	115	
+3227	117	
+3227	119	
+3227	121	Name_Calling-Labeling
+3227	123	Name_Calling-Labeling
+3227	125	Name_Calling-Labeling
+3227	127	
+3227	129	Name_Calling-Labeling
+3226	1	
+3226	3	Name_Calling-Labeling
+3226	5	Name_Calling-Labeling
+3226	7	Name_Calling-Labeling
+3226	9	Name_Calling-Labeling
+3226	11	Name_Calling-Labeling
+3226	13	Appeal_to_Authority
+3226	15	Name_Calling-Labeling
+3226	17	Name_Calling-Labeling
+3226	19	
+3226	21	Name_Calling-Labeling
+3226	23	Name_Calling-Labeling
+3226	25	Appeal_to_Authority,Name_Calling-Labeling
+3226	27	Name_Calling-Labeling,Questioning_the_Reputation
+3226	29	Name_Calling-Labeling
+3226	31	Appeal_to_Hypocrisy,Name_Calling-Labeling
+3226	33	Name_Calling-Labeling
+3226	35	Name_Calling-Labeling
+3226	37	Name_Calling-Labeling
+3234	1	Name_Calling-Labeling
+3234	3	Name_Calling-Labeling
+3234	5	
+3234	7	Name_Calling-Labeling
+3217	1	
+3217	3	Appeal_to_Fear-Prejudice,Name_Calling-Labeling
+3217	5	Appeal_to_Fear-Prejudice,Name_Calling-Labeling
+3217	7	Name_Calling-Labeling
+3217	9	Name_Calling-Labeling
+3217	11	
+3217	13	Name_Calling-Labeling
+3217	15	
+3239	1	
+3239	3	
+3239	5	Appeal_to_Authority,Appeal_to_Fear-Prejudice,Name_Calling-Labeling
+3239	7	Name_Calling-Labeling
+3239	9	Appeal_to_Fear-Prejudice,Name_Calling-Labeling
+3239	11	Appeal_to_Authority,Loaded_Language,Questioning_the_Reputation
+3239	13	
+3239	15	Name_Calling-Labeling
+3239	17	Loaded_Language
+3239	19	Name_Calling-Labeling
+3249	1	
+3249	3	Name_Calling-Labeling
+3249	5	Name_Calling-Labeling
+3249	7	Name_Calling-Labeling
+3249	9	Doubt,Name_Calling-Labeling
+3249	11	Name_Calling-Labeling
+327	1	
+327	3	Name_Calling-Labeling
+327	5	Name_Calling-Labeling
+327	7	Appeal_to_Authority,Appeal_to_Fear-Prejudice
+3230	1	Name_Calling-Labeling
+3230	3	
+3230	5	Appeal_to_Fear-Prejudice,Name_Calling-Labeling
+3230	7	Doubt,Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling
+3230	9	
+3230	11	Doubt
+3230	13	Name_Calling-Labeling
+3230	15	Name_Calling-Labeling
+3230	17	
+3230	19	Loaded_Language,Name_Calling-Labeling
+3230	21	Name_Calling-Labeling
+3230	23	
+3230	25	
+3230	27	
+3230	29	
+3230	31	
+3230	33	Name_Calling-Labeling
+3230	35	Doubt,Name_Calling-Labeling
+323	1	
+323	3	Conversation_Killer,Doubt,Exaggeration-Minimisation,Name_Calling-Labeling,Questioning_the_Reputation
+323	5	Appeal_to_Fear-Prejudice,Doubt,Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+323	7	Doubt,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+323	9	Loaded_Language,Name_Calling-Labeling
+323	11	Guilt_by_Association,Loaded_Language,Name_Calling-Labeling
+323	13	Appeal_to_Fear-Prejudice,Appeal_to_Values,Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+323	15	Appeal_to_Authority,Exaggeration-Minimisation,Guilt_by_Association,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+323	17	Name_Calling-Labeling,Questioning_the_Reputation,Slogans
+3229	1	
+3229	3	
+3229	5	
+3229	7	Name_Calling-Labeling
+3229	9	Name_Calling-Labeling
+3229	11	
+3229	13	Appeal_to_Authority
+3229	15	Name_Calling-Labeling
+3229	17	Name_Calling-Labeling
+3229	19	Name_Calling-Labeling
+3229	21	Name_Calling-Labeling
+3229	23	
+3229	25	
+3229	27	Name_Calling-Labeling
+3229	29	Name_Calling-Labeling
+3229	31	Name_Calling-Labeling
+3229	33	
+3229	35	Name_Calling-Labeling
+3244	1	Name_Calling-Labeling
+3244	3	Name_Calling-Labeling
+3244	5	
+3244	7	Name_Calling-Labeling
+3244	9	Name_Calling-Labeling
+3244	11	Name_Calling-Labeling
