@@ -11,6 +11,7 @@ This is a 3-class classification problem, we compute the macro F1 over the three
 One row of the prediction file has the following format:
 
 article_id|TAB|class
+
 where article_id is the numerical code in the name of the file with the input article, |TAB| is the tab character and class is one the output classes
 For example:
 
