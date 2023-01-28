@@ -1,0 +1,14 @@
+2690	1	
+2690	3	
+2690	5	
+2690	7	
+2690	9	Doubt,Loaded_Language
+2690	11	Appeal_to_Authority,Doubt
+2690	13	
+2690	14	
+2690	15	
+2690	17	
+2690	19	Doubt
+2690	21	Doubt
+2690	23	
+2690	25	Appeal_to_Fear-Prejudice,Doubt,Loaded_Language

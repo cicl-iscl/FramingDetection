@@ -1,0 +1,4 @@
+268	1	Appeal_to_Fear-Prejudice
+268	3	Appeal_to_Fear-Prejudice
+268	4	Appeal_to_Fear-Prejudice,Doubt,Slogans
+268	5	Name_Calling-Labeling

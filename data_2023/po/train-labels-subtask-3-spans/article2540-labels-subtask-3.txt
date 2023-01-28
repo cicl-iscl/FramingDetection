@@ -1,0 +1,6 @@
+2540	Exaggeration-Minimisation	2420	2458
+2540	Conversation_Killer	2866	2877
+2540	Name_Calling-Labeling	284	295
+2540	Causal_Oversimplification	2271	2335
+2540	Causal_Oversimplification	1603	1679
+2540	Appeal_to_Hypocrisy	984	1128

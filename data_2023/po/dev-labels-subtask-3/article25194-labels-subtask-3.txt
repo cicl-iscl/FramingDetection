@@ -1,0 +1,13 @@
+25194	1	
+25194	3	Name_Calling-Labeling
+25194	5	Name_Calling-Labeling
+25194	7	
+25194	9	Name_Calling-Labeling
+25194	11	
+25194	13	Appeal_to_Hypocrisy
+25194	15	Doubt
+25194	17	
+25194	19	
+25194	21	Doubt
+25194	23	
+25194	25	Appeal_to_Hypocrisy

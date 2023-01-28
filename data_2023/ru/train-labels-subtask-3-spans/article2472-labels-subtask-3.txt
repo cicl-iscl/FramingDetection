@@ -1,0 +1,5 @@
+2472	Appeal_to_Hypocrisy	4651	4794
+2472	Appeal_to_Hypocrisy	4973	5086
+2472	Loaded_Language	3644	3684
+2472	Questioning_the_Reputation	0	42
+2472	Questioning_the_Reputation	2455	2505

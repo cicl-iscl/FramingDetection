@@ -1,0 +1,6 @@
+26225	Appeal_to_Values	38	68
+26225	Consequential_Oversimplification	391	490
+26225	Appeal_to_Values	444	490
+26225	Appeal_to_Values	142	171
+26225	Appeal_to_Fear-Prejudice	362	388
+26225	Causal_Oversimplification	342	490

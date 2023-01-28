@@ -1,0 +1,9 @@
+2454	1	Doubt
+2454	2	Doubt
+2454	4	Appeal_to_Values,Doubt,Loaded_Language
+2454	5	
+2454	6	Appeal_to_Values,Loaded_Language
+2454	7	
+2454	9	Appeal_to_Hypocrisy,Doubt
+2454	10	Exaggeration-Minimisation
+2454	12	Questioning_the_Reputation

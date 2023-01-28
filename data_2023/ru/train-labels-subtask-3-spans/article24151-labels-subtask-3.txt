@@ -1,0 +1,7 @@
+24151	Appeal_to_Hypocrisy	1621	1725
+24151	Appeal_to_Values	1468	1597
+24151	Appeal_to_Hypocrisy	1766	2042
+24151	Appeal_to_Hypocrisy	1288	1424
+24151	Appeal_to_Hypocrisy	681	797
+24151	Loaded_Language	267	309
+24151	Loaded_Language	1758	1772

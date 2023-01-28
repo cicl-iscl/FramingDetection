@@ -1,0 +1,5 @@
+2591	1	
+2591	3	
+2591	5	Appeal_to_Fear-Prejudice,Doubt,Flag_Waving
+2591	7	Doubt,Exaggeration-Minimisation
+2591	9	Appeal_to_Values,Flag_Waving

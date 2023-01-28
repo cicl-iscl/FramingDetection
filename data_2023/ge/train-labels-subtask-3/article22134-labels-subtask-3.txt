@@ -1,0 +1,11 @@
+22134	1	
+22134	3	Loaded_Language,Questioning_the_Reputation
+22134	5	Conversation_Killer,Doubt,Loaded_Language,Name_Calling-Labeling
+22134	7	Conversation_Killer
+22134	9	Appeal_to_Authority,Name_Calling-Labeling
+22134	11	
+22134	13	Conversation_Killer
+22134	15	Appeal_to_Authority
+22134	17	Appeal_to_Authority
+22134	19	
+22134	21	False_Dilemma-No_Choice

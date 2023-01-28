@@ -1,0 +1,5 @@
+22176	1	Loaded_Language,Name_Calling-Labeling
+22176	3	Conversation_Killer
+22176	5	Slogans
+22176	7	Slogans
+22176	9	Appeal_to_Hypocrisy,Conversation_Killer

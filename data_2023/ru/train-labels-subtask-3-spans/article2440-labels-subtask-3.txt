@@ -1,0 +1,5 @@
+2440	Exaggeration-Minimisation	341	428
+2440	Repetition	207	273
+2440	Loaded_Language	901	1025
+2440	Doubt	95	136
+2440	Doubt	26	63

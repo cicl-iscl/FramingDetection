@@ -1,0 +1,5 @@
+2380	1	Appeal_to_Hypocrisy,Loaded_Language,Name_Calling-Labeling
+2380	3	Appeal_to_Values,Consequential_Oversimplification,Loaded_Language,Name_Calling-Labeling
+2380	5	Conversation_Killer,Loaded_Language,Name_Calling-Labeling,Repetition,Slogans
+2380	7	
+2380	9	Name_Calling-Labeling,Straw_Man

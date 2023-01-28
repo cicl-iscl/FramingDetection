@@ -1,0 +1,9 @@
+697063039	1	
+697063039	3	Loaded_Language
+697063039	4	
+697063039	5	
+697063039	6	
+697063039	7	Exaggeration-Minimisation,Flag_Waving
+697063039	8	Loaded_Language,Name_Calling-Labeling
+697063039	9	Conversation_Killer
+697063039	10	

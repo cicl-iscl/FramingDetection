@@ -1,0 +1,16 @@
+2254	1	Appeal_to_Fear-Prejudice,Slogans
+2254	3	Doubt
+2254	5	Causal_Oversimplification
+2254	6	Conversation_Killer
+2254	8	Causal_Oversimplification
+2254	10	Doubt
+2254	12	
+2254	13	
+2254	15	Doubt,Name_Calling-Labeling
+2254	17	Questioning_the_Reputation
+2254	18	
+2254	20	Appeal_to_Fear-Prejudice
+2254	22	
+2254	24	
+2254	26	
+2254	28	

@@ -1,0 +1,8 @@
+2410	1	Name_Calling-Labeling
+2410	3	Causal_Oversimplification,Consequential_Oversimplification,Loaded_Language,Questioning_the_Reputation
+2410	5	Doubt,Exaggeration-Minimisation,Red_Herring
+2410	7	Consequential_Oversimplification,Conversation_Killer,Doubt,Loaded_Language,Questioning_the_Reputation,Repetition
+2410	9	Conversation_Killer,Flag_Waving
+2410	11	Loaded_Language,Slogans
+2410	13	Loaded_Language
+2410	15	Appeal_to_Values,Loaded_Language

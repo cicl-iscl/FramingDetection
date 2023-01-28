@@ -1,0 +1,7 @@
+2694	1	Appeal_to_Authority,Exaggeration-Minimisation
+2694	3	Exaggeration-Minimisation
+2694	4	Guilt_by_Association
+2694	6	Appeal_to_Fear-Prejudice,Exaggeration-Minimisation
+2694	8	Appeal_to_Fear-Prejudice
+2694	9	Exaggeration-Minimisation
+2694	11	

@@ -1,0 +1,2 @@
+26141	1	
+26141	3	Causal_Oversimplification,Doubt,Loaded_Language,Name_Calling-Labeling,Obfuscation-Vagueness-Confusion,Red_Herring,Straw_Man,Whataboutism

@@ -1,0 +1,41 @@
+816720060	1	Name_Calling-Labeling,Repetition
+816720060	3	
+816720060	4	Loaded_Language,Slogans
+816720060	5	Exaggeration-Minimisation,False_Dilemma-No_Choice,Repetition
+816720060	6	
+816720060	7	Name_Calling-Labeling
+816720060	8	
+816720060	9	Appeal_to_Fear-Prejudice
+816720060	10	Appeal_to_Fear-Prejudice,Loaded_Language
+816720060	11	Appeal_to_Fear-Prejudice
+816720060	12	
+816720060	13	
+816720060	14	
+816720060	15	
+816720060	16	
+816720060	17	
+816720060	18	
+816720060	19	
+816720060	20	
+816720060	21	
+816720060	22	
+816720060	23	
+816720060	24	Name_Calling-Labeling
+816720060	25	
+816720060	26	
+816720060	27	
+816720060	28	Name_Calling-Labeling
+816720060	29	Loaded_Language,Name_Calling-Labeling
+816720060	30	Appeal_to_Fear-Prejudice,Doubt,Name_Calling-Labeling
+816720060	31	Appeal_to_Fear-Prejudice
+816720060	32	False_Dilemma-No_Choice
+816720060	33	Loaded_Language
+816720060	34	
+816720060	35	
+816720060	36	Name_Calling-Labeling,Repetition
+816720060	37	Name_Calling-Labeling
+816720060	38	
+816720060	39	Doubt,Loaded_Language,Name_Calling-Labeling
+816720060	41	Doubt,Loaded_Language
+816720060	42	
+816720060	43	

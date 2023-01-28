@@ -1,0 +1,18 @@
+24100	1	Questioning_the_Reputation
+24100	3	
+24100	5	Questioning_the_Reputation
+24100	7	Questioning_the_Reputation
+24100	9	Doubt,Loaded_Language,Name_Calling-Labeling
+24100	11	Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+24100	13	Appeal_to_Hypocrisy,Loaded_Language,Questioning_the_Reputation
+24100	15	Loaded_Language,Name_Calling-Labeling
+24100	17	Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+24100	19	Loaded_Language
+24100	21	
+24100	23	
+24100	25	
+24100	27	
+24100	29	Loaded_Language
+24100	31	
+24100	33	
+24100	35	Loaded_Language,Name_Calling-Labeling

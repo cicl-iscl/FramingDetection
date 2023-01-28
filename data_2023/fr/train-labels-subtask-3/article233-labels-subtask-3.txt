@@ -1,0 +1,3 @@
+233	1	Loaded_Language
+233	3	Appeal_to_Fear-Prejudice,Conversation_Killer,Doubt,Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling,Repetition,Slogans
+233	4	Consequential_Oversimplification,Conversation_Killer,Exaggeration-Minimisation,Loaded_Language,Questioning_the_Reputation,Straw_Man,Whataboutism

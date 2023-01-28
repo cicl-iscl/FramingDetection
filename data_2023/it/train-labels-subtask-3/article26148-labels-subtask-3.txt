@@ -1,0 +1,10 @@
+26148	1	Appeal_to_Fear-Prejudice
+26148	3	
+26148	5	Appeal_to_Fear-Prejudice,Doubt,Guilt_by_Association,Loaded_Language,Name_Calling-Labeling,Slogans
+26148	7	Appeal_to_Fear-Prejudice,Doubt,Flag_Waving,Loaded_Language,Name_Calling-Labeling,Slogans
+26148	9	Appeal_to_Fear-Prejudice,Doubt,Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling,Obfuscation-Vagueness-Confusion,Questioning_the_Reputation
+26148	11	Appeal_to_Fear-Prejudice,Appeal_to_Values,Doubt,Loaded_Language
+26148	13	Doubt,Loaded_Language
+26148	15	Doubt,Loaded_Language
+26148	17	Appeal_to_Fear-Prejudice,Doubt,Loaded_Language,Slogans
+26148	19	Appeal_to_Authority,Appeal_to_Fear-Prejudice,Conversation_Killer,Doubt,Exaggeration-Minimisation,False_Dilemma-No_Choice,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation

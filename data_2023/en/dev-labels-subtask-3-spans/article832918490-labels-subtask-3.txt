@@ -1,0 +1,3 @@
+832918490	Exaggeration-Minimisation	930	1021
+832918490	Repetition	1088	1093
+832918490	Repetition	1179	1193

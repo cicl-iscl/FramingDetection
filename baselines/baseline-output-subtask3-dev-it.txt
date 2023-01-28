@@ -1,0 +1,882 @@
+2613	1	
+2613	3	Doubt
+2613	5	
+2613	6	Name_Calling-Labeling
+2613	7	
+2613	9	Appeal_to_Fear-Prejudice,Doubt
+2613	10	Loaded_Language
+2613	12	Loaded_Language
+2613	13	Appeal_to_Fear-Prejudice
+26152	1	
+26152	3	
+26152	5	Doubt
+26152	7	Name_Calling-Labeling
+26152	9	Doubt
+26152	11	
+26152	13	Doubt,Loaded_Language
+26152	15	
+26152	17	Appeal_to_Fear-Prejudice,Doubt
+26152	19	
+26152	21	Doubt
+26152	23	Appeal_to_Fear-Prejudice,Doubt
+26191	1	Doubt
+26191	3	Doubt
+26191	5	Doubt,Questioning_the_Reputation
+26185	1	
+26185	3	
+26185	5	
+26185	7	Conversation_Killer,Doubt,Name_Calling-Labeling
+26185	9	Conversation_Killer
+26224	1	
+26224	3	Loaded_Language,Questioning_the_Reputation
+26224	5	Loaded_Language
+26224	7	Doubt,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+26224	9	Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+26224	11	Appeal_to_Hypocrisy,Doubt,Exaggeration-Minimisation,Loaded_Language,Questioning_the_Reputation
+26230	1	
+26230	3	
+26230	5	
+26230	7	
+26231	1	
+26231	3	Doubt,Loaded_Language
+26231	5	Doubt,Loaded_Language,Name_Calling-Labeling
+26231	7	Loaded_Language
+26231	9	
+26231	11	Doubt,Loaded_Language,Questioning_the_Reputation
+26231	13	Doubt,Loaded_Language
+26231	15	Doubt,Loaded_Language
+26231	17	
+26231	19	Doubt,Loaded_Language
+26231	21	Appeal_to_Fear-Prejudice,Doubt,Loaded_Language
+26231	23	Appeal_to_Values,Doubt,Loaded_Language
+26231	25	
+26231	27	Doubt
+26219	1	
+26219	3	
+26219	5	
+26219	7	
+26219	9	
+26219	11	
+26219	13	
+26219	15	
+26219	17	
+26219	19	Loaded_Language
+26219	21	
+26219	23	Loaded_Language
+26219	25	
+26219	27	
+26219	29	Loaded_Language
+26219	31	
+26219	33	
+26219	35	
+26219	37	
+26219	39	
+26219	41	
+26219	43	Doubt,Loaded_Language
+26219	45	
+26219	47	
+26219	49	Loaded_Language
+26219	51	Loaded_Language
+26219	53	
+26219	55	
+26219	57	
+26219	59	
+26219	61	
+26219	63	Loaded_Language
+26219	65	
+26219	67	
+26219	69	
+26219	71	
+26219	73	
+26219	75	Loaded_Language
+26219	77	Doubt
+26219	79	
+26219	81	
+26219	83	
+26219	85	
+26219	87	
+26219	89	Loaded_Language
+26219	91	
+26219	93	Loaded_Language
+26219	95	
+26219	97	
+26219	99	
+26219	101	
+26219	103	
+26219	105	
+26219	107	
+26219	109	
+26219	111	
+26219	113	Name_Calling-Labeling
+26219	115	
+26219	117	
+26219	119	
+26219	121	
+26219	123	
+26219	125	
+26219	127	
+26219	129	
+26219	131	
+26219	133	
+26219	135	
+26219	137	Loaded_Language
+26219	139	Conversation_Killer
+26219	141	
+26219	143	
+26219	145	Loaded_Language
+26219	147	
+26219	149	
+26219	151	
+26219	153	
+26219	155	
+26219	157	
+26219	159	
+26219	161	
+26219	163	Loaded_Language
+26219	165	
+26219	167	
+26219	169	
+26219	171	Doubt
+26219	173	Loaded_Language
+26219	175	
+26219	177	
+26219	179	
+26219	181	
+26219	183	
+26219	185	
+26219	187	
+26219	189	
+26219	191	
+26219	193	
+26219	195	
+26219	197	
+26219	199	
+26219	201	
+26219	203	
+26219	205	
+26219	207	
+26219	209	
+26219	211	
+26219	213	
+26219	215	
+26219	217	
+26219	219	
+26219	221	
+26219	223	
+26219	225	
+26219	227	
+26219	229	
+26219	231	
+26219	233	
+26219	235	
+26219	237	
+26219	239	
+26219	241	
+26219	243	
+26219	245	
+26219	247	Conversation_Killer
+26219	249	
+26219	251	
+26219	253	Loaded_Language
+26219	255	
+26219	257	
+26219	259	
+26219	261	
+26219	263	
+26219	265	
+26219	267	Name_Calling-Labeling
+26219	269	
+26219	271	
+26219	273	
+26219	275	
+26219	277	
+26219	279	
+26219	281	
+26219	283	
+26219	285	
+26219	287	Loaded_Language
+26219	289	Doubt,Questioning_the_Reputation
+26219	291	
+26219	293	
+26219	295	
+26219	297	
+26219	299	
+26219	301	
+2610	1	
+2610	3	Doubt,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+2610	4	Doubt,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+2610	5	Loaded_Language
+26227	1	
+26227	3	Doubt
+26227	5	
+26227	7	
+26232	1	
+26232	3	Doubt,Loaded_Language,Questioning_the_Reputation
+26232	5	Name_Calling-Labeling
+26232	7	Doubt,Loaded_Language,Name_Calling-Labeling
+26232	9	
+26232	11	
+26232	12	
+26232	13	Doubt,Loaded_Language
+26232	14	Loaded_Language
+26232	15	Doubt,Loaded_Language,Name_Calling-Labeling
+2611	1	Loaded_Language
+2611	3	Loaded_Language
+2611	4	Doubt,Loaded_Language
+2611	5	Loaded_Language
+2611	6	Loaded_Language
+2611	7	
+2611	8	Conversation_Killer,Loaded_Language
+2611	9	Loaded_Language
+2611	10	Doubt,Loaded_Language
+2611	11	Loaded_Language
+26178	1	
+26178	3	Doubt,Loaded_Language
+26178	5	Name_Calling-Labeling
+26178	7	Doubt,Loaded_Language
+26178	9	Conversation_Killer,Loaded_Language
+26178	11	Loaded_Language,Name_Calling-Labeling
+26178	13	Doubt
+26178	15	Doubt
+26236	1	
+26236	3	Doubt,Loaded_Language
+26236	5	
+26236	7	
+26236	9	
+26236	11	Appeal_to_Values,Doubt,Loaded_Language,Name_Calling-Labeling
+26236	13	
+26236	15	Doubt,Loaded_Language,Questioning_the_Reputation
+26236	17	Doubt,Loaded_Language
+26196	1	
+26196	3	Doubt,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+26196	5	Doubt,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+26196	7	Doubt,Loaded_Language,Name_Calling-Labeling
+26196	9	Doubt,Loaded_Language,Name_Calling-Labeling
+26196	11	Conversation_Killer,Doubt,False_Dilemma-No_Choice,Name_Calling-Labeling,Questioning_the_Reputation
+26143	1	
+26143	3	Appeal_to_Fear-Prejudice,Doubt,Loaded_Language
+26143	5	Doubt,Loaded_Language
+26143	7	Doubt
+26181	1	
+26181	3	Doubt,Loaded_Language
+26181	5	Loaded_Language,Questioning_the_Reputation
+26181	7	Doubt,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+2617	1	
+2617	3	Doubt,Loaded_Language,Name_Calling-Labeling
+2617	5	Loaded_Language
+2617	7	
+2617	9	Loaded_Language
+2617	11	Doubt,Loaded_Language
+26142	1	
+26142	3	
+26142	5	
+26142	7	Loaded_Language
+26142	9	Loaded_Language,Name_Calling-Labeling
+26142	11	Loaded_Language
+26142	13	Doubt
+26142	15	Appeal_to_Fear-Prejudice
+26156	1	
+26156	3	
+26156	5	
+26156	7	
+26156	9	Conversation_Killer,Doubt,Loaded_Language
+26156	11	Conversation_Killer,Doubt,Loaded_Language
+26156	13	Appeal_to_Values,Doubt,Loaded_Language,Name_Calling-Labeling
+26156	15	Doubt,Loaded_Language
+26156	17	Doubt,Loaded_Language
+26156	19	Doubt,Loaded_Language
+26156	21	
+26156	23	
+26156	25	Loaded_Language
+26156	27	
+26156	29	
+26156	31	
+26156	33	
+26156	35	Doubt,Loaded_Language
+26119	1	
+26119	3	Loaded_Language
+26119	5	Loaded_Language
+26119	7	
+26119	9	Name_Calling-Labeling
+26119	11	
+26119	13	
+26119	15	
+26119	17	Questioning_the_Reputation
+26119	19	
+26119	21	Loaded_Language,Questioning_the_Reputation
+26119	23	
+26119	25	
+26119	27	Loaded_Language
+26131	1	
+26131	3	Doubt,Loaded_Language
+26131	5	
+26131	7	
+26131	9	Appeal_to_Fear-Prejudice
+26131	11	Loaded_Language
+26131	13	
+26253	1	Conversation_Killer
+26253	3	
+26253	5	
+26253	7	Appeal_to_Fear-Prejudice,Doubt,Loaded_Language
+26253	9	Appeal_to_Fear-Prejudice,Doubt
+26253	11	Appeal_to_Fear-Prejudice,Loaded_Language,Name_Calling-Labeling,Slogans
+26284	1	Loaded_Language,Questioning_the_Reputation
+26284	3	Doubt
+26284	5	Doubt,Loaded_Language
+26284	7	
+26284	9	Doubt,Loaded_Language,Name_Calling-Labeling
+26284	11	
+26284	13	Doubt,Loaded_Language,Name_Calling-Labeling
+26284	15	
+26284	17	Doubt,Loaded_Language,Questioning_the_Reputation
+26285	1	Loaded_Language
+26285	3	Loaded_Language,Slogans
+26285	5	Doubt
+26285	7	
+26285	9	Loaded_Language
+26285	11	Loaded_Language
+26285	13	
+26285	15	
+26118	1	
+26118	3	
+26118	5	Loaded_Language,Name_Calling-Labeling
+26118	7	Doubt,Loaded_Language,Name_Calling-Labeling
+26118	9	Doubt,Loaded_Language
+26118	11	Doubt,Loaded_Language
+26118	13	Doubt,Loaded_Language
+26118	15	Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+26118	17	Appeal_to_Time,Doubt
+26118	19	
+26118	21	Doubt,Loaded_Language,Questioning_the_Reputation
+26126	1	
+26126	3	Name_Calling-Labeling
+26126	5	Doubt
+26126	7	Doubt,Loaded_Language,Name_Calling-Labeling
+26126	9	Doubt,Loaded_Language,Name_Calling-Labeling
+26126	11	Loaded_Language
+26126	13	Doubt,Loaded_Language
+26126	15	Conversation_Killer
+26126	17	Doubt,Loaded_Language,Name_Calling-Labeling
+26245	1	
+26245	3	Conversation_Killer,Doubt,Name_Calling-Labeling
+26245	5	Doubt,Questioning_the_Reputation
+26251	1	
+26251	3	Name_Calling-Labeling
+26251	5	
+26251	7	Appeal_to_Fear-Prejudice
+26251	9	Name_Calling-Labeling
+26251	11	Name_Calling-Labeling
+26251	13	
+26251	15	Appeal_to_Fear-Prejudice,Loaded_Language
+2666	1	
+2666	3	Doubt
+2666	5	Doubt,Loaded_Language,Questioning_the_Reputation
+2666	7	
+2666	9	Doubt
+2666	11	Loaded_Language
+2666	13	Doubt
+2666	15	Conversation_Killer,Doubt
+2666	17	Conversation_Killer,Doubt
+2666	19	Doubt
+2666	21	Conversation_Killer,Doubt
+2666	23	
+2666	25	Name_Calling-Labeling
+2666	27	Doubt
+2666	29	Appeal_to_Fear-Prejudice,Conversation_Killer,Doubt,Loaded_Language,Questioning_the_Reputation
+2689	1	Loaded_Language,Questioning_the_Reputation
+2689	3	Doubt,Loaded_Language,Name_Calling-Labeling
+2689	5	Doubt,Loaded_Language
+2689	7	
+2689	9	Doubt,Loaded_Language
+2689	11	Doubt,Loaded_Language
+26296	1	Name_Calling-Labeling
+26296	3	Doubt,Loaded_Language
+26296	5	Doubt,Loaded_Language
+26296	7	Loaded_Language
+26296	9	
+26296	11	Doubt
+26296	13	Doubt,Loaded_Language
+26296	15	Loaded_Language
+26296	17	Appeal_to_Fear-Prejudice,Doubt
+26296	19	Doubt,Loaded_Language
+26296	21	Doubt,Loaded_Language,Name_Calling-Labeling
+26296	23	Doubt,Loaded_Language
+26296	25	Doubt
+26296	27	Doubt,Loaded_Language
+26122	1	
+26122	3	
+26122	5	Doubt
+26122	7	
+26122	9	
+26122	11	Loaded_Language
+26122	13	
+26122	15	Loaded_Language
+26134	1	
+26134	3	Conversation_Killer,Doubt,Loaded_Language
+26134	5	
+26134	7	Doubt,Loaded_Language,Name_Calling-Labeling
+26134	9	Doubt,Loaded_Language,Name_Calling-Labeling
+26134	11	Doubt,Loaded_Language,Name_Calling-Labeling
+26134	13	Loaded_Language
+26134	15	
+26134	17	Doubt,Loaded_Language
+26134	19	Doubt,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+26134	21	Doubt,Loaded_Language,Name_Calling-Labeling
+26134	23	Doubt,Loaded_Language,Name_Calling-Labeling
+26134	25	Conversation_Killer,Doubt,False_Dilemma-No_Choice
+2649	1	
+2649	3	
+2649	5	
+2649	7	Name_Calling-Labeling
+2649	9	Doubt,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+2649	11	Doubt,Loaded_Language,Questioning_the_Reputation
+2649	13	
+2649	15	Questioning_the_Reputation
+26108	1	
+26108	3	Doubt
+26108	5	Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+26108	7	
+26108	9	Doubt
+2648	1	
+2648	3	Appeal_to_Fear-Prejudice,Doubt
+2648	5	Doubt
+2648	7	Doubt,Loaded_Language,Questioning_the_Reputation
+2648	9	Loaded_Language
+2648	11	Loaded_Language,Questioning_the_Reputation
+2648	13	
+2648	15	
+2645	1	
+2645	3	Doubt,Name_Calling-Labeling
+2645	5	Doubt,Name_Calling-Labeling
+2645	6	
+2645	8	Loaded_Language
+2645	10	
+2645	12	
+2645	14	Loaded_Language
+26104	1	
+26104	3	Loaded_Language
+26104	5	Doubt
+26104	7	Doubt
+26104	9	Doubt
+26104	11	
+26104	13	Loaded_Language,Name_Calling-Labeling
+26104	15	
+26104	17	
+26104	19	
+26104	21	Doubt,Name_Calling-Labeling
+26104	23	Loaded_Language
+26104	25	
+26104	27	Appeal_to_Fear-Prejudice,Doubt,Loaded_Language,Questioning_the_Reputation
+26104	29	Appeal_to_Fear-Prejudice,Consequential_Oversimplification,Doubt
+26104	30	
+26104	32	Loaded_Language
+26104	34	Loaded_Language
+26104	36	Loaded_Language,Name_Calling-Labeling
+26104	38	
+2679	1	
+2679	3	Loaded_Language
+2679	5	
+2679	7	
+2679	9	Loaded_Language,Name_Calling-Labeling
+2679	11	Doubt,Loaded_Language,Name_Calling-Labeling
+2679	13	
+2679	15	Doubt,Loaded_Language
+2650	1	
+2650	3	Loaded_Language,Name_Calling-Labeling
+2650	5	Loaded_Language,Name_Calling-Labeling
+2650	7	Doubt,Loaded_Language
+2650	9	Loaded_Language
+2650	11	
+2650	13	
+2650	15	Loaded_Language
+2650	17	Doubt
+2650	19	
+2650	21	Loaded_Language
+2650	23	
+2650	25	Doubt
+2650	27	
+2650	29	
+2650	31	Doubt,Loaded_Language,Name_Calling-Labeling
+26107	1	Doubt
+26107	3	
+26107	5	Doubt
+26107	7	
+26107	9	Appeal_to_Popularity
+26107	11	Doubt
+26107	13	Loaded_Language
+26107	15	Doubt
+26107	17	
+26107	19	Doubt
+26107	21	Doubt,Loaded_Language
+26107	23	Loaded_Language
+26107	25	
+26107	27	Appeal_to_Hypocrisy,False_Dilemma-No_Choice,Questioning_the_Reputation
+2685	1	
+2685	3	Doubt
+2685	4	Name_Calling-Labeling
+2685	6	
+2685	8	Doubt
+2685	10	
+2685	12	Doubt
+2685	14	Doubt
+26265	1	Doubt
+26265	3	Doubt
+26265	5	Loaded_Language,Name_Calling-Labeling
+26265	7	Doubt,Loaded_Language
+26265	9	
+26265	11	Doubt
+26265	13	Loaded_Language
+26265	15	Loaded_Language
+26265	17	Doubt,Loaded_Language
+26265	19	
+26265	21	Loaded_Language
+26265	23	Loaded_Language
+26265	25	
+26265	27	Doubt
+26265	29	Doubt,Loaded_Language
+26264	1	
+26264	3	
+26264	5	
+26264	7	Doubt,Loaded_Language
+26264	9	Loaded_Language
+26264	11	
+26264	13	Doubt,Loaded_Language,Name_Calling-Labeling
+26264	15	
+26264	17	Appeal_to_Fear-Prejudice,Doubt
+2690	1	
+2690	3	Doubt,Loaded_Language
+2690	5	Doubt
+2690	7	Appeal_to_Fear-Prejudice,Doubt
+2690	9	Doubt
+2690	11	
+2690	13	Doubt
+2690	14	
+2690	15	Doubt
+2690	17	Doubt,Questioning_the_Reputation
+2690	19	Doubt
+2690	21	Doubt
+2690	23	
+2690	25	Doubt
+2684	1	
+2684	3	
+2684	5	Doubt,Loaded_Language,Name_Calling-Labeling
+2684	7	Doubt
+2684	9	Doubt,Loaded_Language,Name_Calling-Labeling
+2684	11	Loaded_Language,Name_Calling-Labeling
+2684	13	Doubt,Loaded_Language,Name_Calling-Labeling
+2684	15	Doubt,Loaded_Language,Name_Calling-Labeling
+2684	17	Doubt
+2684	19	Doubt
+2684	20	Conversation_Killer
+2684	22	Name_Calling-Labeling
+2684	24	Doubt,Loaded_Language
+2684	26	Doubt,Loaded_Language,Name_Calling-Labeling
+2684	28	Doubt,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+2684	30	Doubt,Loaded_Language,Name_Calling-Labeling
+2684	32	Loaded_Language,Name_Calling-Labeling
+2684	34	Doubt,Loaded_Language
+2684	36	Doubt
+26112	1	
+26112	3	Doubt,Loaded_Language
+26112	5	
+26112	6	Doubt,Loaded_Language
+26112	8	Doubt,Loaded_Language,Name_Calling-Labeling
+26112	10	
+26112	11	Doubt
+26112	12	Doubt,Loaded_Language
+26112	14	
+26112	15	Doubt,Loaded_Language
+26112	17	Doubt,Loaded_Language,Questioning_the_Reputation
+26112	19	
+26112	20	Doubt,Exaggeration-Minimisation
+26112	22	
+2647	1	Conversation_Killer
+2647	3	Doubt,Loaded_Language
+2647	5	Doubt,Loaded_Language
+2647	7	Questioning_the_Reputation
+2647	9	Doubt
+2647	11	Doubt,Loaded_Language
+2647	13	Name_Calling-Labeling
+2647	15	Doubt,Loaded_Language
+26300	1	Name_Calling-Labeling
+26300	3	Doubt,Loaded_Language,Name_Calling-Labeling
+26300	5	
+26300	6	Doubt,Loaded_Language,Name_Calling-Labeling
+26300	8	
+26300	9	Doubt,Loaded_Language,Name_Calling-Labeling
+26116	1	
+26116	3	
+26116	5	
+26116	7	Doubt,Questioning_the_Reputation
+26116	9	
+26116	11	
+26116	13	Doubt,Loaded_Language
+26116	15	
+2643	1	
+2643	3	Appeal_to_Fear-Prejudice,Doubt,Loaded_Language,Name_Calling-Labeling
+2643	5	Doubt
+2643	7	Loaded_Language,Name_Calling-Labeling
+2643	9	Doubt,Loaded_Language
+2643	11	Doubt,Loaded_Language
+2643	13	
+2643	15	
+2643	17	Doubt
+2643	19	Doubt,Loaded_Language
+2643	21	Doubt,Name_Calling-Labeling
+2643	23	Loaded_Language
+2643	25	
+2643	27	Doubt
+2643	29	Doubt,Loaded_Language,Questioning_the_Reputation
+2643	31	Loaded_Language
+2643	33	Loaded_Language,Name_Calling-Labeling
+2643	35	Doubt
+2643	37	Appeal_to_Values,Doubt,Loaded_Language,Questioning_the_Reputation
+2643	39	Doubt,Loaded_Language
+2643	41	Doubt
+2643	43	Doubt,Loaded_Language
+26260	1	Questioning_the_Reputation
+26260	3	Doubt,Name_Calling-Labeling
+26260	5	
+26260	7	Questioning_the_Reputation
+26260	9	Doubt,Loaded_Language,Questioning_the_Reputation
+26260	11	Doubt
+26260	13	Loaded_Language
+26260	15	
+26260	17	Loaded_Language,Name_Calling-Labeling
+26260	19	
+26260	21	
+26249	1	
+26249	3	Doubt
+26249	5	Loaded_Language
+26249	7	Loaded_Language,Name_Calling-Labeling
+26249	9	Doubt
+26249	11	Doubt,Loaded_Language,Name_Calling-Labeling
+26249	13	Loaded_Language
+26261	1	
+26261	3	Doubt
+26261	5	
+26261	7	Doubt,Loaded_Language
+26261	9	Loaded_Language
+26261	11	
+26261	13	Loaded_Language,Questioning_the_Reputation
+26261	15	
+26261	17	Loaded_Language,Name_Calling-Labeling
+26261	19	
+26261	21	Doubt,Loaded_Language
+26261	23	
+26261	25	Loaded_Language
+26261	27	
+26261	29	
+26261	31	Doubt,Loaded_Language,Name_Calling-Labeling
+26261	33	
+26261	35	
+2642	1	
+2642	3	
+2642	5	
+2642	7	
+2642	9	
+2642	11	
+2642	12	Doubt
+2642	14	
+2642	16	Doubt
+2642	18	
+2642	20	
+2668	1	
+2668	3	Name_Calling-Labeling,Questioning_the_Reputation
+2668	5	Conversation_Killer
+2668	7	Loaded_Language
+2668	9	Doubt,Name_Calling-Labeling
+2668	11	Doubt,Loaded_Language
+2668	13	
+2668	15	Loaded_Language
+2668	17	Doubt
+2668	19	Doubt
+2640	1	Doubt
+2640	3	Doubt,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+2640	4	
+2640	6	Doubt,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+2640	8	
+2640	10	Doubt,Loaded_Language,Questioning_the_Reputation
+26263	1	Loaded_Language
+26263	3	
+26263	5	Loaded_Language
+26263	7	Doubt
+26263	9	Doubt
+26263	11	Loaded_Language
+26263	13	Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+26263	15	Doubt,Loaded_Language,Questioning_the_Reputation
+26263	17	Doubt,Loaded_Language
+26263	19	Doubt,Loaded_Language
+26263	21	
+26128	1	
+26128	3	
+26128	5	Doubt,Loaded_Language
+26128	7	Appeal_to_Fear-Prejudice,Conversation_Killer,Doubt
+26128	9	Doubt,Loaded_Language,Questioning_the_Reputation
+26128	11	Doubt,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+26128	13	Doubt
+26100	1	Loaded_Language
+26100	3	Doubt,Loaded_Language,Questioning_the_Reputation
+26100	5	
+26100	7	Doubt,Loaded_Language,Name_Calling-Labeling
+26100	9	Loaded_Language,Name_Calling-Labeling
+26100	11	
+2632	1	Loaded_Language
+2632	3	Doubt,Loaded_Language,Name_Calling-Labeling
+2632	4	
+2632	6	Doubt,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+2632	8	
+2632	10	Doubt,Loaded_Language
+2632	11	
+2632	13	Doubt,Questioning_the_Reputation
+26205	1	
+26205	3	Loaded_Language
+26205	5	Loaded_Language
+26205	7	Loaded_Language,Questioning_the_Reputation
+26205	9	Loaded_Language
+26205	11	Doubt
+26205	13	Doubt,Loaded_Language,Questioning_the_Reputation
+26205	15	
+26205	17	Appeal_to_Fear-Prejudice,Doubt,Loaded_Language
+26205	19	Doubt,Loaded_Language
+26205	21	
+26205	23	Loaded_Language
+26205	25	
+26205	27	Doubt
+26205	29	Doubt
+26205	31	Doubt
+26205	33	Doubt
+26205	35	Doubt
+26205	37	Doubt,Loaded_Language
+26205	39	
+26205	41	Doubt
+26205	43	Doubt,Loaded_Language
+26205	45	Doubt,Loaded_Language
+26205	47	Doubt,Loaded_Language
+26205	49	Loaded_Language
+26205	51	Doubt,Loaded_Language,Name_Calling-Labeling
+26205	53	Doubt,Loaded_Language,Questioning_the_Reputation
+26205	55	Doubt
+26205	57	Appeal_to_Fear-Prejudice
+26210	1	
+26210	3	
+26210	5	Doubt,Loaded_Language
+26210	7	Doubt
+26210	9	Doubt,Questioning_the_Reputation
+26210	11	Appeal_to_Fear-Prejudice
+26210	13	Doubt
+26210	15	Appeal_to_Fear-Prejudice,Doubt,Name_Calling-Labeling
+26210	17	
+26210	19	Doubt,Loaded_Language
+26210	21	Appeal_to_Fear-Prejudice,Doubt
+26210	23	Appeal_to_Fear-Prejudice,Doubt
+26210	25	Appeal_to_Fear-Prejudice
+26210	27	Appeal_to_Fear-Prejudice,Doubt,Loaded_Language
+26210	29	Doubt
+26210	31	Doubt
+26199	1	Loaded_Language
+26199	3	Doubt
+26199	5	Doubt
+26166	1	
+26166	3	Doubt
+26166	5	Doubt,Loaded_Language,Questioning_the_Reputation
+26166	7	Doubt,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+26166	9	Doubt,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+26166	11	Appeal_to_Hypocrisy,Doubt,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+26166	13	Doubt,Loaded_Language,Name_Calling-Labeling
+26166	15	Doubt,Loaded_Language
+26166	17	
+26172	1	
+26172	3	Doubt
+26172	5	Doubt,Loaded_Language
+26172	7	
+26172	9	Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+26172	11	
+26172	13	Doubt,Loaded_Language,Questioning_the_Reputation
+26172	15	
+26172	17	Doubt,Loaded_Language
+2633	1	
+2633	3	Conversation_Killer,Doubt
+2633	5	Loaded_Language
+2633	7	
+2633	9	Name_Calling-Labeling
+2633	11	Doubt,Name_Calling-Labeling
+2633	13	Appeal_to_Fear-Prejudice,Doubt
+2633	15	
+2631	1	
+2631	3	Loaded_Language
+2631	5	
+2631	7	Name_Calling-Labeling
+2631	9	Loaded_Language
+2631	11	
+2619	1	
+2619	3	Appeal_to_Time,Conversation_Killer
+2619	5	Doubt,Loaded_Language
+2619	7	Loaded_Language
+2619	9	Doubt
+2619	11	
+2619	13	Doubt,Loaded_Language
+2619	15	Conversation_Killer
+2618	1	Loaded_Language
+2618	3	Doubt
+2618	5	Doubt
+2618	7	Doubt,Loaded_Language,Name_Calling-Labeling
+2618	9	
+2618	11	Doubt,Loaded_Language,Name_Calling-Labeling
+2618	13	Loaded_Language
+2618	15	Loaded_Language
+2618	17	Doubt,Loaded_Language,Name_Calling-Labeling
+2618	19	Doubt,Name_Calling-Labeling
+26160	1	Name_Calling-Labeling
+26160	3	Name_Calling-Labeling
+26160	5	Name_Calling-Labeling
+26160	7	Doubt,Loaded_Language
+26176	1	
+26176	3	Doubt,Loaded_Language
+26176	5	
+26176	7	Conversation_Killer,Loaded_Language
+26176	9	
+26176	11	Loaded_Language
+26176	13	
+26176	15	
+26176	17	
+26176	19	
+26176	21	
+26176	23	
+26176	25	
+26176	27	
+26176	29	
+26176	31	
+26176	33	
+26176	35	
+26176	37	
+26176	39	Doubt,Name_Calling-Labeling
+26176	41	
+26176	43	Doubt,Loaded_Language
+2623	1	
+2623	3	
+2623	5	Appeal_to_Fear-Prejudice
+2623	7	Loaded_Language,Name_Calling-Labeling
+2623	9	
+2623	11	
+2623	13	
+2623	15	Doubt
+2623	17	Doubt
+2623	19	Appeal_to_Fear-Prejudice
+2623	21	
+2623	23	
+2636	1	
+2636	3	Loaded_Language
+2636	5	Loaded_Language,Name_Calling-Labeling
+2636	7	
+2636	8	Doubt
+2636	10	Loaded_Language,Name_Calling-Labeling
+2636	12	Loaded_Language
+26177	1	Doubt,Loaded_Language
+26177	3	Doubt,Loaded_Language,Questioning_the_Reputation
+26177	5	
+26177	7	Conversation_Killer,Doubt
+26177	9	Doubt,Loaded_Language
+26177	11	
+26177	13	Loaded_Language,Name_Calling-Labeling
+26177	15	

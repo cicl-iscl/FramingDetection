@@ -1,0 +1,7 @@
+2218	1	Exaggeration-Minimisation,Questioning_the_Reputation
+2218	3	Name_Calling-Labeling,Slogans
+2218	5	Exaggeration-Minimisation,Name_Calling-Labeling,Slogans,Straw_Man
+2218	7	Appeal_to_Hypocrisy,Whataboutism
+2218	9	Doubt
+2218	11	Name_Calling-Labeling
+2218	13	Appeal_to_Authority,Doubt

@@ -1,0 +1,15 @@
+23156	2	
+23156	4	Loaded_Language
+23156	6	
+23156	8	Conversation_Killer,Loaded_Language,Red_Herring
+23156	10	Appeal_to_Values,Flag_Waving,Loaded_Language
+23156	12	Exaggeration-Minimisation
+23156	14	
+23156	16	
+23156	18	Doubt
+23156	20	
+23156	22	Loaded_Language
+23156	24	Exaggeration-Minimisation,Red_Herring
+23156	26	Loaded_Language
+23156	28	Doubt,Loaded_Language
+23156	30	Doubt

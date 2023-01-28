@@ -1,0 +1,13 @@
+2514	1	
+2514	3	Obfuscation-Vagueness-Confusion
+2514	5	
+2514	7	
+2514	9	Appeal_to_Popularity
+2514	11	
+2514	13	
+2514	15	
+2514	17	
+2514	19	Appeal_to_Authority
+2514	21	Appeal_to_Authority
+2514	23	Appeal_to_Time
+2514	25	Appeal_to_Authority,Appeal_to_Time,Exaggeration-Minimisation

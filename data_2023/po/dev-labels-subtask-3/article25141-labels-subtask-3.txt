@@ -1,0 +1,12 @@
+25141	1	
+25141	3	Exaggeration-Minimisation
+25141	5	Doubt
+25141	7	Doubt
+25141	9	Doubt,Questioning_the_Reputation
+25141	11	Doubt,Name_Calling-Labeling
+25141	13	Name_Calling-Labeling,Questioning_the_Reputation
+25141	15	
+25141	17	Exaggeration-Minimisation,Name_Calling-Labeling,Questioning_the_Reputation
+25141	19	Doubt,Loaded_Language
+25141	21	Loaded_Language
+25141	23	Doubt

@@ -1,0 +1,17 @@
+26202	1	Doubt
+26202	3	
+26202	5	Doubt
+26202	7	
+26202	9	Doubt
+26202	11	
+26202	13	Appeal_to_Popularity
+26202	15	
+26202	17	
+26202	19	Doubt
+26202	21	
+26202	23	Doubt
+26202	25	Doubt,Loaded_Language
+26202	27	Loaded_Language
+26202	29	
+26202	31	Appeal_to_Hypocrisy,False_Dilemma-No_Choice,Questioning_the_Reputation
+26202	33	

@@ -1,0 +1,10 @@
+26267	1	Appeal_to_Fear-Prejudice
+26267	3	Appeal_to_Fear-Prejudice,Exaggeration-Minimisation
+26267	5	Appeal_to_Fear-Prejudice,Loaded_Language
+26267	7	Appeal_to_Fear-Prejudice,Doubt
+26267	9	Appeal_to_Authority,Loaded_Language,Questioning_the_Reputation
+26267	11	Appeal_to_Fear-Prejudice,Doubt
+26267	13	
+26267	15	Appeal_to_Fear-Prejudice,Loaded_Language
+26267	17	Appeal_to_Values
+26267	19	Appeal_to_Values

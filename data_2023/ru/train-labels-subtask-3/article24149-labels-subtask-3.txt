@@ -1,0 +1,12 @@
+24149	1	
+24149	3	
+24149	5	
+24149	7	
+24149	9	
+24149	11	
+24149	13	
+24149	15	
+24149	17	
+24149	19	Appeal_to_Fear-Prejudice
+24149	21	Loaded_Language
+24149	23	Exaggeration-Minimisation

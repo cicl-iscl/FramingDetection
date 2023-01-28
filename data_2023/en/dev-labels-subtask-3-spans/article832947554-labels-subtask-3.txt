@@ -1,0 +1,5 @@
+832947554	Name_Calling-Labeling	154	164
+832947554	Loaded_Language	302	435
+832947554	Loaded_Language	860	883
+832947554	Doubt	1031	1053
+832947554	False_Dilemma-No_Choice	1121	1212

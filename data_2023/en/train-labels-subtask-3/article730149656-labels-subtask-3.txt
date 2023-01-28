@@ -1,0 +1,14 @@
+730149656	1	Name_Calling-Labeling
+730149656	3	Causal_Oversimplification,Loaded_Language
+730149656	4	
+730149656	5	Causal_Oversimplification
+730149656	6	Loaded_Language
+730149656	7	
+730149656	8	Name_Calling-Labeling
+730149656	9	Loaded_Language,Slogans
+730149656	10	Repetition
+730149656	11	Slogans
+730149656	12	
+730149656	13	False_Dilemma-No_Choice
+730149656	14	Appeal_to_Fear-Prejudice,Flag_Waving,Loaded_Language
+730149656	15	

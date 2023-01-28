@@ -1,0 +1,34 @@
+26214	1	Appeal_to_Authority
+26214	3	Exaggeration-Minimisation,Loaded_Language
+26214	5	Appeal_to_Authority
+26214	7	Conversation_Killer,Doubt,Loaded_Language
+26214	9	Doubt
+26214	11	Appeal_to_Fear-Prejudice,Exaggeration-Minimisation,Loaded_Language
+26214	13	Appeal_to_Fear-Prejudice,Doubt,Exaggeration-Minimisation,Loaded_Language
+26214	15	Loaded_Language,Name_Calling-Labeling
+26214	17	Loaded_Language
+26214	19	Doubt,Name_Calling-Labeling
+26214	21	Appeal_to_Fear-Prejudice
+26214	23	Appeal_to_Fear-Prejudice
+26214	25	
+26214	27	Appeal_to_Authority
+26214	29	Doubt
+26214	31	Name_Calling-Labeling
+26214	33	Appeal_to_Authority
+26214	35	Appeal_to_Fear-Prejudice
+26214	37	Doubt,Loaded_Language,Name_Calling-Labeling
+26214	39	Appeal_to_Authority,Doubt
+26214	41	
+26214	43	
+26214	45	
+26214	47	
+26214	49	Appeal_to_Fear-Prejudice,Loaded_Language,Name_Calling-Labeling
+26214	51	Questioning_the_Reputation
+26214	53	Doubt
+26214	55	
+26214	57	Appeal_to_Values
+26214	59	Doubt
+26214	61	
+26214	63	
+26214	65	Doubt
+26214	67	

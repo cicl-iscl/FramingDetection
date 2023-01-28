@@ -1,0 +1,40 @@
+111111131	1	
+111111131	3	Loaded_Language
+111111131	5	Loaded_Language,Name_Calling-Labeling
+111111131	6	Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling
+111111131	7	False_Dilemma-No_Choice
+111111131	8	Loaded_Language
+111111131	9	
+111111131	10	
+111111131	11	
+111111131	12	Name_Calling-Labeling
+111111131	13	
+111111131	14	
+111111131	15	
+111111131	16	Loaded_Language
+111111131	17	Loaded_Language
+111111131	18	Slogans
+111111131	19	
+111111131	20	Loaded_Language
+111111131	21	Loaded_Language
+111111131	22	
+111111131	23	Loaded_Language,Repetition
+111111131	24	Name_Calling-Labeling
+111111131	25	Loaded_Language
+111111131	26	Repetition
+111111131	27	Repetition
+111111131	28	Loaded_Language
+111111131	29	
+111111131	30	Exaggeration-Minimisation,Loaded_Language
+111111131	31	Exaggeration-Minimisation,Repetition
+111111131	32	
+111111131	33	
+111111131	34	Flag_Waving,Repetition
+111111131	35	
+111111131	36	
+111111131	37	
+111111131	38	
+111111131	39	Exaggeration-Minimisation,Name_Calling-Labeling
+111111131	40	
+111111131	41	Name_Calling-Labeling
+111111131	42	Repetition

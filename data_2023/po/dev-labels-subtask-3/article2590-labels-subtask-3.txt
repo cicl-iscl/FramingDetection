@@ -1,0 +1,6 @@
+2590	1	Flag_Waving
+2590	3	Flag_Waving,Name_Calling-Labeling
+2590	5	
+2590	7	Appeal_to_Hypocrisy,Conversation_Killer,Flag_Waving,Guilt_by_Association,Loaded_Language,Name_Calling-Labeling
+2590	9	
+2590	11	Appeal_to_Time,Flag_Waving,Guilt_by_Association

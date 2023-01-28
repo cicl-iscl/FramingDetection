@@ -1,0 +1,5 @@
+25116	1	Slogans
+25116	3	Loaded_Language,Name_Calling-Labeling
+25116	5	Appeal_to_Fear-Prejudice,Slogans
+25116	7	Appeal_to_Hypocrisy,Doubt,Flag_Waving,Name_Calling-Labeling
+25116	9	Appeal_to_Hypocrisy,Appeal_to_Values,Flag_Waving,Name_Calling-Labeling

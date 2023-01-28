@@ -1,0 +1,9 @@
+238	1	
+238	3	Appeal_to_Popularity,Doubt,Loaded_Language
+238	5	Slogans
+238	7	Whataboutism
+238	9	Conversation_Killer,Exaggeration-Minimisation,Loaded_Language
+238	11	Loaded_Language,Slogans
+238	13	Loaded_Language
+238	15	
+238	17	

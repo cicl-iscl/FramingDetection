@@ -1,0 +1,9 @@
+22148	1	Appeal_to_Authority,Name_Calling-Labeling
+22148	3	Doubt,Name_Calling-Labeling
+22148	5	Appeal_to_Authority,Name_Calling-Labeling
+22148	7	Appeal_to_Values,Name_Calling-Labeling
+22148	9	Appeal_to_Authority,Name_Calling-Labeling
+22148	11	Loaded_Language,Name_Calling-Labeling
+22148	13	Appeal_to_Authority,Appeal_to_Hypocrisy
+22148	15	Appeal_to_Authority,Doubt
+22148	17	Flag_Waving,Name_Calling-Labeling

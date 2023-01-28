@@ -1,0 +1,12 @@
+999000155	1	
+999000155	3	Conversation_Killer
+999000155	4	
+999000155	5	
+999000155	6	
+999000155	7	
+999000155	8	
+999000155	9	
+999000155	10	Guilt_by_Association
+999000155	11	Causal_Oversimplification,Guilt_by_Association
+999000155	12	Loaded_Language
+999000155	13	

@@ -1,0 +1,44 @@
+23163	1	Guilt_by_Association
+23163	3	
+23163	5	
+23163	7	Causal_Oversimplification,Questioning_the_Reputation
+23163	9	Exaggeration-Minimisation,Loaded_Language,Obfuscation-Vagueness-Confusion
+23163	11	Causal_Oversimplification,Loaded_Language,Straw_Man
+23163	13	
+23163	15	Appeal_to_Hypocrisy,Questioning_the_Reputation
+23163	17	Loaded_Language,Repetition
+23163	19	Doubt,Loaded_Language,Repetition
+23163	21	Loaded_Language,Questioning_the_Reputation,Slogans,Straw_Man
+23163	23	Loaded_Language,Name_Calling-Labeling,Obfuscation-Vagueness-Confusion,Whataboutism
+23163	25	Appeal_to_Fear-Prejudice,Loaded_Language
+23163	27	
+23163	29	Appeal_to_Values,Loaded_Language
+23163	31	Loaded_Language,Repetition
+23163	33	Consequential_Oversimplification
+23163	35	Loaded_Language,Obfuscation-Vagueness-Confusion
+23163	37	Causal_Oversimplification,Consequential_Oversimplification,Doubt,Loaded_Language
+23163	39	Loaded_Language,Slogans
+23163	41	Loaded_Language
+23163	43	
+23163	45	Loaded_Language
+23163	47	Appeal_to_Values,Causal_Oversimplification,Loaded_Language
+23163	49	Appeal_to_Popularity,Guilt_by_Association,Loaded_Language,Name_Calling-Labeling
+23163	51	Doubt
+23163	53	Conversation_Killer
+23163	55	Conversation_Killer,Loaded_Language,Obfuscation-Vagueness-Confusion
+23163	57	
+23163	59	Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+23163	61	Guilt_by_Association,Loaded_Language,Repetition
+23163	63	Guilt_by_Association
+23163	65	Loaded_Language,Name_Calling-Labeling,Straw_Man
+23163	67	Causal_Oversimplification
+23163	69	Causal_Oversimplification,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+23163	71	Appeal_to_Hypocrisy
+23163	73	Doubt,Guilt_by_Association,Straw_Man
+23163	75	
+23163	77	Guilt_by_Association,Loaded_Language,Straw_Man
+23163	79	False_Dilemma-No_Choice,Loaded_Language
+23163	81	Guilt_by_Association
+23163	83	Appeal_to_Authority
+23163	85	Slogans
+23163	87	Appeal_to_Fear-Prejudice,Exaggeration-Minimisation,Guilt_by_Association,Loaded_Language

@@ -1,0 +1,10 @@
+25189	1	
+25189	3	
+25189	5	Questioning_the_Reputation
+25189	7	
+25189	9	Appeal_to_Authority
+25189	11	
+25189	13	Appeal_to_Time,Appeal_to_Values
+25189	15	
+25189	17	Appeal_to_Values
+25189	19	Appeal_to_Time

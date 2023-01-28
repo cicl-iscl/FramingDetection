@@ -1,0 +1,8 @@
+26193	1	Name_Calling-Labeling
+26193	3	Appeal_to_Fear-Prejudice,Appeal_to_Values,Causal_Oversimplification
+26193	5	Loaded_Language
+26193	7	
+26193	9	Conversation_Killer
+26193	11	Appeal_to_Authority,Questioning_the_Reputation
+26193	13	
+26193	15	Name_Calling-Labeling

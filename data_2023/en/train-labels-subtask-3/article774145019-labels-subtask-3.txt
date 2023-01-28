@@ -1,0 +1,16 @@
+774145019	1	
+774145019	3	Loaded_Language
+774145019	4	Repetition
+774145019	5	Doubt,Loaded_Language
+774145019	6	
+774145019	7	
+774145019	8	
+774145019	9	
+774145019	10	
+774145019	11	Loaded_Language
+774145019	12	
+774145019	13	Repetition
+774145019	14	
+774145019	15	Exaggeration-Minimisation,Flag_Waving,Loaded_Language,Repetition
+774145019	16	Repetition
+774145019	17	

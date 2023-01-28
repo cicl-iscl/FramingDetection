@@ -1,0 +1,8 @@
+23111	1	Conversation_Killer,Slogans
+23111	3	Appeal_to_Authority,Exaggeration-Minimisation,Loaded_Language,Questioning_the_Reputation
+23111	5	Appeal_to_Hypocrisy,Appeal_to_Popularity,Name_Calling-Labeling
+23111	7	Exaggeration-Minimisation,Loaded_Language
+23111	9	
+23111	11	Appeal_to_Hypocrisy,Doubt,Loaded_Language,Questioning_the_Reputation
+23111	13	Appeal_to_Authority,Appeal_to_Hypocrisy,Appeal_to_Popularity,Appeal_to_Values,Consequential_Oversimplification,Loaded_Language,Name_Calling-Labeling
+23111	15	Consequential_Oversimplification,Loaded_Language,Questioning_the_Reputation,Slogans

@@ -1,0 +1,22 @@
+2637	1	
+2637	3	Doubt,Exaggeration-Minimisation,Loaded_Language
+2637	4	Doubt,Loaded_Language
+2637	6	Doubt
+2637	7	
+2637	8	Doubt,Loaded_Language
+2637	9	Appeal_to_Fear-Prejudice,Doubt
+2637	11	
+2637	13	Appeal_to_Hypocrisy,Appeal_to_Values,Doubt,Questioning_the_Reputation
+2637	15	
+2637	17	Appeal_to_Fear-Prejudice,Doubt,Loaded_Language
+2637	18	
+2637	20	Appeal_to_Fear-Prejudice,Doubt
+2637	22	Questioning_the_Reputation
+2637	24	Appeal_to_Hypocrisy,Appeal_to_Values,Doubt,Loaded_Language,Questioning_the_Reputation
+2637	26	Appeal_to_Hypocrisy,Doubt,Loaded_Language
+2637	28	Conversation_Killer
+2637	30	Doubt
+2637	31	Appeal_to_Fear-Prejudice,Appeal_to_Time,Appeal_to_Values
+2637	32	Appeal_to_Values,Loaded_Language,Questioning_the_Reputation
+2637	34	
+2637	36	Appeal_to_Hypocrisy,Doubt

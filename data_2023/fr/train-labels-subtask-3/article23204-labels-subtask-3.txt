@@ -1,0 +1,5 @@
+23204	1	
+23204	2	
+23204	4	Causal_Oversimplification
+23204	6	Whataboutism
+23204	8	Conversation_Killer

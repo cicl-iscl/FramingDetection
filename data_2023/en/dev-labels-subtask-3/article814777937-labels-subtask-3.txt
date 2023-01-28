@@ -1,0 +1,46 @@
+814777937	1	
+814777937	3	Name_Calling-Labeling
+814777937	4	Name_Calling-Labeling
+814777937	5	
+814777937	6	
+814777937	7	Appeal_to_Fear-Prejudice
+814777937	8	Name_Calling-Labeling
+814777937	9	Appeal_to_Fear-Prejudice,Name_Calling-Labeling
+814777937	10	
+814777937	11	Appeal_to_Fear-Prejudice
+814777937	12	Appeal_to_Fear-Prejudice,Name_Calling-Labeling
+814777937	13	
+814777937	14	
+814777937	15	
+814777937	16	
+814777937	17	
+814777937	18	Name_Calling-Labeling
+814777937	19	Slogans
+814777937	20	Name_Calling-Labeling
+814777937	21	
+814777937	22	
+814777937	23	Name_Calling-Labeling
+814777937	24	Loaded_Language,Slogans
+814777937	25	Name_Calling-Labeling
+814777937	26	Loaded_Language,Name_Calling-Labeling
+814777937	27	
+814777937	28	
+814777937	29	
+814777937	30	
+814777937	31	Appeal_to_Fear-Prejudice
+814777937	32	Appeal_to_Fear-Prejudice
+814777937	33	Appeal_to_Fear-Prejudice
+814777937	34	
+814777937	35	Name_Calling-Labeling
+814777937	36	
+814777937	37	Appeal_to_Fear-Prejudice,Doubt
+814777937	38	Appeal_to_Fear-Prejudice,Doubt
+814777937	39	
+814777937	40	
+814777937	41	
+814777937	42	Name_Calling-Labeling
+814777937	43	
+814777937	44	
+814777937	45	
+814777937	46	
+814777937	47	

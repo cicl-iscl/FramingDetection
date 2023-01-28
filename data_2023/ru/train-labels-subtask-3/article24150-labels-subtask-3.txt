@@ -1,0 +1,7 @@
+24150	1	Loaded_Language
+24150	3	Exaggeration-Minimisation,Loaded_Language
+24150	5	Exaggeration-Minimisation,Loaded_Language
+24150	7	Slogans
+24150	9	Appeal_to_Fear-Prejudice,Conversation_Killer,Loaded_Language
+24150	11	Conversation_Killer,Loaded_Language,Slogans
+24150	13	

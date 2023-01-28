@@ -1,0 +1,11 @@
+2563	1	Appeal_to_Fear-Prejudice,Loaded_Language
+2563	3	Loaded_Language
+2563	5	Name_Calling-Labeling
+2563	9	Appeal_to_Hypocrisy
+2563	13	Exaggeration-Minimisation,Guilt_by_Association,Name_Calling-Labeling
+2563	17	Appeal_to_Fear-Prejudice
+2563	21	Name_Calling-Labeling
+2563	25	Name_Calling-Labeling
+2563	29	Consequential_Oversimplification
+2563	33	Appeal_to_Fear-Prejudice
+2563	37	Doubt,Loaded_Language,Name_Calling-Labeling

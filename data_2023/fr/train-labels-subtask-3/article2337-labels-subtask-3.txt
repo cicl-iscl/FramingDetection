@@ -1,0 +1,11 @@
+2337	1	
+2337	3	Appeal_to_Values,Name_Calling-Labeling
+2337	5	Exaggeration-Minimisation,Loaded_Language,Questioning_the_Reputation,Straw_Man
+2337	7	Appeal_to_Fear-Prejudice,Loaded_Language,Name_Calling-Labeling
+2337	9	
+2337	11	
+2337	13	
+2337	15	
+2337	17	
+2337	19	Loaded_Language
+2337	21	Doubt,Loaded_Language

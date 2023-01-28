@@ -1,0 +1,15 @@
+23112	1	Conversation_Killer
+23112	3	Loaded_Language
+23112	5	
+23112	7	
+23112	9	Conversation_Killer
+23112	11	
+23112	13	Name_Calling-Labeling
+23112	15	Loaded_Language
+23112	17	Doubt,Questioning_the_Reputation
+23112	19	
+23112	21	
+23112	23	
+23112	25	
+23112	27	Loaded_Language
+23112	29	

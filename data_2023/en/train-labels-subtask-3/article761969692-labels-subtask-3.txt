@@ -1,0 +1,33 @@
+761969692	1	
+761969692	3	False_Dilemma-No_Choice,Name_Calling-Labeling
+761969692	4	
+761969692	5	
+761969692	6	
+761969692	7	
+761969692	8	
+761969692	9	
+761969692	10	
+761969692	11	
+761969692	12	Flag_Waving,Name_Calling-Labeling
+761969692	13	Loaded_Language,Name_Calling-Labeling
+761969692	14	False_Dilemma-No_Choice,Loaded_Language
+761969692	15	
+761969692	16	
+761969692	17	Loaded_Language
+761969692	18	Loaded_Language,Name_Calling-Labeling
+761969692	19	
+761969692	20	Exaggeration-Minimisation
+761969692	21	
+761969692	22	
+761969692	23	
+761969692	24	
+761969692	25	
+761969692	26	
+761969692	27	Loaded_Language
+761969692	28	Loaded_Language
+761969692	29	Loaded_Language
+761969692	30	
+761969692	31	Flag_Waving
+761969692	32	Loaded_Language
+761969692	33	
+761969692	34	

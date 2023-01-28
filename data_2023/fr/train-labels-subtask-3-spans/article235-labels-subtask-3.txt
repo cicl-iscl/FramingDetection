@@ -1,0 +1,6 @@
+235	Appeal_to_Popularity	1233	1355
+235	Doubt	22	125
+235	Doubt	129	332
+235	Doubt	865	1047
+235	Appeal_to_Authority	1119	1227
+235	Loaded_Language	1050	1079

@@ -1,0 +1,5 @@
+26296	Appeal_to_Hypocrisy	4090	4273
+26296	Doubt	1580	1639
+26296	Doubt	2758	2830
+26296	Appeal_to_Hypocrisy	146	304
+26296	Doubt	2498	2548

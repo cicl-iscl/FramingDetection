@@ -1,0 +1,13 @@
+25111	1	
+25111	3	
+25111	5	
+25111	7	Loaded_Language
+25111	9	
+25111	11	
+25111	13	Appeal_to_Fear-Prejudice,Name_Calling-Labeling
+25111	15	Name_Calling-Labeling
+25111	17	
+25111	19	Loaded_Language
+25111	21	
+25111	23	
+25111	25	Name_Calling-Labeling

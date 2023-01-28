@@ -1,0 +1,610 @@
+23116	1	
+23116	3	Conversation_Killer
+23116	5	
+23116	7	Conversation_Killer,Doubt,Loaded_Language
+23188	1	
+23188	3	
+23188	5	
+23188	7	
+23188	9	Loaded_Language
+23188	11	
+23188	13	Loaded_Language
+23188	15	Loaded_Language
+23188	17	
+23188	19	
+23188	21	Loaded_Language
+23188	23	
+23188	25	Loaded_Language
+23188	27	Appeal_to_Values,Exaggeration-Minimisation,Loaded_Language,Straw_Man
+23188	29	
+23188	31	Loaded_Language
+23188	33	Loaded_Language
+23188	35	
+23188	37	
+23188	39	
+23188	41	Loaded_Language
+23188	43	
+23188	45	Loaded_Language
+23188	47	
+23138	1	
+23138	3	
+23138	5	
+23138	7	
+23138	9	
+23138	11	
+23138	13	
+23138	15	
+23138	17	Loaded_Language
+23138	19	Name_Calling-Labeling,Questioning_the_Reputation
+23138	21	Loaded_Language
+23138	23	
+23138	25	
+23138	27	
+23138	29	
+23138	31	Loaded_Language
+23138	33	Appeal_to_Fear-Prejudice
+23138	35	Questioning_the_Reputation
+23138	37	
+23138	39	Loaded_Language
+23138	41	Loaded_Language
+23138	43	Loaded_Language
+23208	1	
+23208	3	
+23208	4	Name_Calling-Labeling
+23208	6	
+23208	8	
+23208	10	
+23208	12	Loaded_Language
+2328	1	Loaded_Language
+2328	3	Loaded_Language
+2328	5	Loaded_Language
+2328	7	Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+2328	9	
+2328	11	Doubt,Guilt_by_Association,Loaded_Language,Name_Calling-Labeling,Repetition
+2328	13	Loaded_Language
+23185	1	Loaded_Language
+23185	3	Doubt,Loaded_Language,Name_Calling-Labeling
+23185	5	Loaded_Language
+23185	7	
+23185	9	Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+23185	11	Exaggeration-Minimisation,Loaded_Language
+23185	13	Loaded_Language
+23185	15	Loaded_Language
+23185	17	
+23185	19	Slogans
+23185	21	Loaded_Language
+23185	23	Loaded_Language
+23185	25	Name_Calling-Labeling
+23104	1	
+23104	3	Loaded_Language
+23104	5	Loaded_Language
+23104	7	
+23104	9	
+23104	11	Loaded_Language
+23104	13	Loaded_Language
+23104	15	
+23105	1	
+23105	3	
+23105	5	
+23105	7	
+23105	9	Loaded_Language
+23105	11	Loaded_Language
+23105	13	
+23105	15	Loaded_Language
+23105	17	Questioning_the_Reputation
+23105	19	Loaded_Language,Name_Calling-Labeling
+23105	21	Loaded_Language
+23105	23	
+23105	25	
+23105	27	
+23105	29	Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling,Slogans
+23105	31	Doubt,Loaded_Language
+23105	33	Appeal_to_Fear-Prejudice
+23105	35	
+23105	37	Doubt,Exaggeration-Minimisation,Name_Calling-Labeling,Questioning_the_Reputation
+23105	39	Conversation_Killer,Loaded_Language
+23154	1	
+23154	3	Loaded_Language
+23154	5	Loaded_Language
+23154	7	
+23154	9	
+23160	1	
+23160	3	Appeal_to_Values,Causal_Oversimplification,False_Dilemma-No_Choice,Loaded_Language,Name_Calling-Labeling,Straw_Man
+23160	5	Appeal_to_Authority,Appeal_to_Fear-Prejudice,Appeal_to_Popularity,Appeal_to_Values,Causal_Oversimplification,Consequential_Oversimplification,Conversation_Killer,Exaggeration-Minimisation,False_Dilemma-No_Choice,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+23112	1	
+23112	3	
+23112	5	Loaded_Language
+23112	7	Loaded_Language
+23112	9	False_Dilemma-No_Choice
+23112	11	
+23112	13	Loaded_Language
+23112	15	Loaded_Language
+23112	17	Loaded_Language,Name_Calling-Labeling
+23112	19	
+23112	21	Loaded_Language
+23112	23	Loaded_Language
+23112	25	Loaded_Language
+23112	27	Loaded_Language
+23112	29	Loaded_Language
+2338	1	Loaded_Language
+2338	3	Loaded_Language,Questioning_the_Reputation
+2338	5	Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+2338	7	Conversation_Killer
+2338	9	Exaggeration-Minimisation,Name_Calling-Labeling,Slogans
+2338	11	Loaded_Language
+23127	1	
+23127	3	Loaded_Language
+23127	5	Loaded_Language
+23127	7	Loaded_Language
+23127	9	Loaded_Language
+23127	11	
+23127	13	Appeal_to_Fear-Prejudice,Loaded_Language
+23127	15	Loaded_Language
+23127	17	
+23127	19	
+23127	21	Loaded_Language
+23127	23	
+23127	25	
+23127	27	
+23127	29	
+23127	31	Loaded_Language
+23194	1	
+23194	3	Loaded_Language
+23194	5	
+23194	7	Questioning_the_Reputation
+23194	9	
+23194	11	Causal_Oversimplification,False_Dilemma-No_Choice,Loaded_Language
+23194	13	
+23194	15	Loaded_Language,Questioning_the_Reputation
+23194	17	Loaded_Language,Name_Calling-Labeling
+23194	19	
+23194	21	Name_Calling-Labeling,Questioning_the_Reputation
+23194	23	Loaded_Language,Name_Calling-Labeling
+23194	25	Conversation_Killer
+23194	27	Doubt,Loaded_Language
+23194	29	Appeal_to_Fear-Prejudice,Appeal_to_Values,False_Dilemma-No_Choice,Loaded_Language,Name_Calling-Labeling
+23194	31	
+23194	33	Loaded_Language,Name_Calling-Labeling
+23194	35	Doubt
+23194	37	Conversation_Killer,Loaded_Language,Questioning_the_Reputation
+2357	1	
+2357	3	Appeal_to_Fear-Prejudice,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+2357	5	Loaded_Language
+2357	7	Loaded_Language
+2357	9	Exaggeration-Minimisation,Loaded_Language
+2357	11	Loaded_Language
+2357	13	
+2357	15	Loaded_Language
+2357	17	Loaded_Language,Questioning_the_Reputation
+2357	19	Loaded_Language
+2357	21	Loaded_Language
+2357	23	Loaded_Language
+2357	25	Doubt
+2342	1	
+2342	3	Appeal_to_Fear-Prejudice,Exaggeration-Minimisation
+2342	5	Appeal_to_Fear-Prejudice,Loaded_Language
+2342	7	Conversation_Killer,Doubt,Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+2342	9	Causal_Oversimplification,Conversation_Killer,Doubt
+2342	11	Loaded_Language
+2342	13	Loaded_Language
+2342	15	Straw_Man
+2342	17	Conversation_Killer,Name_Calling-Labeling,Questioning_the_Reputation
+2342	19	
+2342	21	
+2342	23	
+2342	25	Conversation_Killer,Doubt
+2342	27	Doubt,Exaggeration-Minimisation,Loaded_Language
+2342	29	
+2342	31	
+2342	33	
+2342	35	
+2342	37	
+2342	39	Doubt,Exaggeration-Minimisation,Loaded_Language,Questioning_the_Reputation
+2342	41	Appeal_to_Fear-Prejudice,Guilt_by_Association,Loaded_Language,Questioning_the_Reputation
+2342	43	Conversation_Killer
+2312	1	
+2312	3	
+2312	5	Loaded_Language
+2312	6	Appeal_to_Fear-Prejudice,Causal_Oversimplification,Doubt,Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling,Obfuscation-Vagueness-Confusion,Questioning_the_Reputation
+23210	1	
+23210	3	Loaded_Language
+23210	5	Doubt,Loaded_Language
+23210	7	
+23210	9	
+23210	11	
+23210	13	Doubt,Loaded_Language,Name_Calling-Labeling
+23210	15	
+2356	1	
+2356	3	Loaded_Language
+2356	5	
+2356	7	Loaded_Language
+2356	9	
+2356	11	Loaded_Language
+2356	12	Loaded_Language
+2356	13	
+2356	15	
+2356	17	
+2356	19	
+2356	21	
+2356	22	
+2356	24	Doubt,Loaded_Language
+2356	26	Loaded_Language
+2356	28	Loaded_Language
+2356	30	
+2356	32	
+2356	34	Loaded_Language
+2356	36	Loaded_Language
+2356	38	Doubt
+2356	40	Loaded_Language
+2356	42	Loaded_Language,Questioning_the_Reputation
+2356	44	Exaggeration-Minimisation,Loaded_Language
+2356	46	Loaded_Language
+2356	48	Loaded_Language,Name_Calling-Labeling
+2356	50	
+2356	52	
+2356	54	Loaded_Language
+2356	56	Loaded_Language
+2356	57	Questioning_the_Reputation
+2356	59	
+2356	61	
+2356	62	Loaded_Language
+2356	64	
+23205	1	
+23205	2	
+23205	4	Exaggeration-Minimisation
+23205	6	
+23205	8	Doubt,Loaded_Language
+23205	10	Loaded_Language
+231	1	Loaded_Language
+231	3	Loaded_Language
+231	4	Loaded_Language
+231	5	Loaded_Language
+231	6	Loaded_Language
+231	7	Loaded_Language
+231	8	
+231	9	Loaded_Language
+231	10	
+231	11	
+231	12	
+231	13	
+231	14	Exaggeration-Minimisation
+231	15	
+231	16	
+231	17	Loaded_Language,Name_Calling-Labeling
+231	18	
+231	19	
+23146	1	
+23146	3	Loaded_Language
+23146	5	Loaded_Language
+23146	7	Loaded_Language
+23146	9	
+23146	11	
+23146	13	Loaded_Language
+23146	15	
+2319	1	
+2319	3	
+2319	5	
+2319	7	Appeal_to_Fear-Prejudice,Appeal_to_Time
+2319	9	
+2319	11	
+2363	1	
+2363	3	
+2363	5	
+2363	7	Loaded_Language,Name_Calling-Labeling
+2363	9	
+2363	11	
+2363	13	
+23148	1	
+23148	3	
+23148	5	Loaded_Language
+23148	7	
+23148	9	Doubt,Loaded_Language
+23148	11	
+23148	13	
+23157	1	
+23157	3	
+23157	5	Loaded_Language,Name_Calling-Labeling
+23157	7	
+23157	9	
+23157	11	
+23157	13	
+23157	15	
+23157	17	
+23157	19	Loaded_Language
+23157	21	Loaded_Language
+23172	1	Loaded_Language
+23172	3	Exaggeration-Minimisation
+23172	5	
+23172	7	
+23172	9	Loaded_Language
+23172	11	
+23172	13	Exaggeration-Minimisation,Loaded_Language,Straw_Man
+23172	15	
+23172	17	Causal_Oversimplification,Exaggeration-Minimisation
+23172	19	
+23172	21	Loaded_Language
+23172	23	Loaded_Language
+23172	25	
+23172	27	Slogans
+23171	1	
+23171	3	Loaded_Language,Name_Calling-Labeling
+23171	5	Loaded_Language
+23171	7	
+23171	9	Loaded_Language
+23171	11	
+23171	13	
+23171	15	
+23171	17	
+23171	19	Loaded_Language
+23171	21	
+23171	23	Doubt,Loaded_Language
+23171	25	Loaded_Language
+23171	27	Loaded_Language
+23190	1	
+23190	3	Appeal_to_Authority,Loaded_Language
+23190	5	
+23190	7	Doubt,Loaded_Language
+23190	9	
+23190	11	Doubt,Loaded_Language
+23190	13	Loaded_Language
+23190	15	Loaded_Language
+23190	17	
+23190	19	
+23190	21	Loaded_Language
+23190	23	
+23190	25	
+23190	27	Loaded_Language
+2344	1	
+2344	3	Loaded_Language,Name_Calling-Labeling
+2344	5	Loaded_Language,Questioning_the_Reputation
+2344	7	Doubt,Name_Calling-Labeling
+2344	9	Loaded_Language
+2344	11	Loaded_Language
+2344	13	Loaded_Language
+2344	15	Loaded_Language
+2331	1	
+2331	3	Loaded_Language
+2331	5	
+2331	7	Loaded_Language,Questioning_the_Reputation
+2331	9	
+2331	11	Appeal_to_Hypocrisy,Loaded_Language
+2331	12	
+2331	14	
+2331	16	Loaded_Language
+2331	18	
+2331	20	
+2331	22	
+2331	24	Loaded_Language
+2331	26	Loaded_Language,Name_Calling-Labeling
+23119	1	Loaded_Language
+23119	3	Loaded_Language
+23119	5	Questioning_the_Reputation
+23119	7	Name_Calling-Labeling,Questioning_the_Reputation
+23109	1	
+23109	3	Questioning_the_Reputation
+23109	5	Appeal_to_Values,Doubt
+23109	7	Conversation_Killer,Doubt,Name_Calling-Labeling
+23109	9	
+2327	1	
+2327	3	
+2327	5	
+2327	7	Repetition,Slogans
+2327	9	
+2327	11	Loaded_Language
+2322	1	
+2322	3	Appeal_to_Fear-Prejudice,Appeal_to_Time,Appeal_to_Values,Consequential_Oversimplification,Exaggeration-Minimisation,False_Dilemma-No_Choice,Name_Calling-Labeling,Repetition
+2322	5	Doubt,Loaded_Language,Obfuscation-Vagueness-Confusion
+2322	7	Appeal_to_Authority,Appeal_to_Fear-Prejudice,Appeal_to_Time,Causal_Oversimplification,False_Dilemma-No_Choice,Guilt_by_Association,Straw_Man
+2322	9	Doubt,Exaggeration-Minimisation,Loaded_Language,Repetition
+2322	11	Causal_Oversimplification,Conversation_Killer,Doubt,False_Dilemma-No_Choice,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation,Repetition
+2322	13	Causal_Oversimplification,Conversation_Killer,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+2322	15	Exaggeration-Minimisation,False_Dilemma-No_Choice,Repetition
+2386	1	Loaded_Language
+2386	3	Loaded_Language
+2386	5	
+2386	7	Loaded_Language,Name_Calling-Labeling
+2386	9	Loaded_Language
+2386	11	Appeal_to_Fear-Prejudice,Loaded_Language
+2386	13	
+2386	15	Doubt,Name_Calling-Labeling
+2386	17	Loaded_Language
+2386	19	Loaded_Language
+2386	21	
+2377	1	
+2377	3	
+2377	5	
+2377	7	
+2377	9	Loaded_Language,Questioning_the_Reputation
+2358	1	
+2358	3	Loaded_Language
+2358	4	Loaded_Language
+2358	5	Loaded_Language
+2358	6	Loaded_Language
+2358	8	Loaded_Language
+2358	9	
+2358	11	Loaded_Language
+2358	13	Loaded_Language
+2358	15	Loaded_Language
+2358	17	Loaded_Language
+2358	19	
+2358	20	
+2358	22	
+2358	23	Loaded_Language
+2358	25	Slogans
+2358	26	Loaded_Language
+2358	28	
+2358	30	
+2358	31	Appeal_to_Popularity,Appeal_to_Values,Name_Calling-Labeling
+23195	1	
+23195	3	
+23195	5	
+23195	7	Loaded_Language
+23195	9	
+23195	11	
+23195	13	Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling
+23195	15	
+23195	17	Loaded_Language
+23195	19	Loaded_Language
+23195	21	
+23195	23	
+23195	25	Repetition,Slogans
+23195	27	
+23195	29	
+23195	31	Loaded_Language
+23195	33	
+23195	35	Loaded_Language
+23195	37	Appeal_to_Time
+23195	39	
+23182	1	
+23182	3	Loaded_Language
+23182	5	Loaded_Language
+23182	7	Loaded_Language
+23182	9	Loaded_Language
+23182	11	
+23182	13	Loaded_Language
+23182	15	Loaded_Language
+23182	17	
+23182	19	Loaded_Language
+23182	21	Consequential_Oversimplification,Loaded_Language
+2360	1	Loaded_Language
+2360	3	Loaded_Language
+2360	5	Loaded_Language
+2360	7	Appeal_to_Hypocrisy,Conversation_Killer,Loaded_Language
+2374	1	
+2374	3	
+2374	5	Loaded_Language
+2374	7	Loaded_Language
+2374	9	Appeal_to_Time
+2374	11	Loaded_Language
+2374	13	Loaded_Language
+2374	15	Loaded_Language
+2374	17	Loaded_Language
+2374	19	Loaded_Language
+2374	21	Loaded_Language
+2374	23	Loaded_Language
+2374	25	Loaded_Language
+23203	1	
+23203	2	
+23203	6	Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling
+23203	8	
+23203	10	
+23183	1	
+23183	3	Loaded_Language
+23183	5	Loaded_Language,Name_Calling-Labeling
+23183	7	
+23183	9	
+23183	11	Exaggeration-Minimisation,Loaded_Language
+23161	1	
+23161	3	Loaded_Language,Name_Calling-Labeling
+23161	5	
+23161	7	
+23161	9	Loaded_Language
+23161	11	Doubt
+23161	13	
+23161	15	Loaded_Language
+23161	17	Doubt,Exaggeration-Minimisation,Loaded_Language
+2353	1	
+2353	3	Loaded_Language
+2353	5	Loaded_Language
+2353	7	
+2353	9	Loaded_Language
+2353	11	
+2353	13	
+2353	15	Loaded_Language
+2353	17	
+2353	19	Loaded_Language
+2353	21	
+2353	23	Loaded_Language
+2353	25	Loaded_Language
+2353	27	
+2353	29	Loaded_Language
+2353	31	
+2353	33	Conversation_Killer,Loaded_Language
+2353	35	
+2353	37	
+2353	39	Loaded_Language
+2353	41	
+2353	43	
+2353	45	
+2353	47	
+2353	49	Doubt
+2353	51	
+2353	53	
+2353	55	Loaded_Language
+2353	57	
+2353	59	
+2353	61	Loaded_Language
+2353	63	Loaded_Language
+2353	65	
+2353	67	
+2353	69	
+2353	71	Loaded_Language
+2353	73	Loaded_Language
+23192	1	
+23192	3	
+23192	5	Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling
+23192	7	Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling
+23192	9	Appeal_to_Authority,Appeal_to_Popularity,Doubt,Exaggeration-Minimisation,Guilt_by_Association,Loaded_Language
+23131	1	
+23131	3	Loaded_Language
+23131	5	Loaded_Language
+23131	7	Loaded_Language
+23131	9	Loaded_Language
+23131	11	
+23152	1	Loaded_Language
+23152	3	Loaded_Language
+23152	5	
+23152	7	Doubt,Guilt_by_Association,Loaded_Language,Questioning_the_Reputation
+23152	9	Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+23152	11	Doubt,Loaded_Language,Name_Calling-Labeling
+23152	13	Doubt,Guilt_by_Association,Loaded_Language,Name_Calling-Labeling
+23152	15	Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+23152	17	Loaded_Language
+23152	19	Exaggeration-Minimisation,Guilt_by_Association,Loaded_Language
+23152	21	Doubt,Loaded_Language,Name_Calling-Labeling
+23152	23	Appeal_to_Fear-Prejudice,Doubt,Loaded_Language
+23152	25	Loaded_Language,Questioning_the_Reputation
+23152	27	Loaded_Language,Name_Calling-Labeling
+23152	29	
+23152	31	Loaded_Language
+23152	33	False_Dilemma-No_Choice,Loaded_Language,Name_Calling-Labeling
+23152	35	Doubt,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+23152	37	Doubt,Loaded_Language
+23152	39	Loaded_Language
+23152	41	Appeal_to_Fear-Prejudice,Doubt,Loaded_Language
+23152	43	Doubt,Loaded_Language
+23152	45	Doubt,Loaded_Language
+23152	47	Doubt
+23152	49	Appeal_to_Hypocrisy,Doubt,Loaded_Language,Questioning_the_Reputation
+23152	51	Appeal_to_Hypocrisy,Doubt,Exaggeration-Minimisation
+23152	53	Appeal_to_Hypocrisy,Causal_Oversimplification
+23152	55	Conversation_Killer,False_Dilemma-No_Choice,Name_Calling-Labeling
+2311	1	
+2311	3	Doubt,Loaded_Language
+2311	5	Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling,Obfuscation-Vagueness-Confusion,Questioning_the_Reputation,Straw_Man
+2311	7	Exaggeration-Minimisation,Loaded_Language,Questioning_the_Reputation
+2379	1	
+2379	3	Doubt
+2379	5	Exaggeration-Minimisation,Loaded_Language
+2379	7	Exaggeration-Minimisation,Loaded_Language
+2385	1	
+2385	3	Loaded_Language
+2385	5	
+2385	7	Loaded_Language
+2385	9	Appeal_to_Fear-Prejudice
+2385	11	
+2385	13	
+2385	15	
+2385	17	Loaded_Language
+23135	1	
+23135	3	
+23135	5	
+23135	7	
+23135	9	Appeal_to_Popularity,Appeal_to_Values,Loaded_Language,Questioning_the_Reputation
+23135	11	
+23135	13	Loaded_Language,Name_Calling-Labeling
+23135	15	
+23135	17	
+23135	19	
+23135	21	
+23135	23	

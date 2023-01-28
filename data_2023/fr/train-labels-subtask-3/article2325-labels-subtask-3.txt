@@ -1,0 +1,12 @@
+2325	1	Name_Calling-Labeling
+2325	3	Consequential_Oversimplification
+2325	5	Loaded_Language
+2325	7	Loaded_Language,Obfuscation-Vagueness-Confusion,Questioning_the_Reputation,Straw_Man
+2325	9	Guilt_by_Association,Name_Calling-Labeling
+2325	11	
+2325	13	Appeal_to_Hypocrisy,Conversation_Killer,Doubt,Loaded_Language,Questioning_the_Reputation,Slogans
+2325	15	Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation,Slogans
+2325	17	Consequential_Oversimplification
+2325	19	Doubt,Loaded_Language
+2325	21	False_Dilemma-No_Choice,Loaded_Language,Repetition,Whataboutism
+2325	23	Conversation_Killer,Loaded_Language

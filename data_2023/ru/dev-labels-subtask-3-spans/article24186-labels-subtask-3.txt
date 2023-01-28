@@ -1,0 +1,7 @@
+24186	Loaded_Language	912	926
+24186	Loaded_Language	0	33
+24186	Doubt	616	767
+24186	False_Dilemma-No_Choice	1055	1099
+24186	Loaded_Language	1149	1171
+24186	Appeal_to_Popularity	1186	1216
+24186	Name_Calling-Labeling	631	640

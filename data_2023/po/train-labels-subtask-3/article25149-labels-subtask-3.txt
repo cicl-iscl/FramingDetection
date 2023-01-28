@@ -1,0 +1,10 @@
+25149	1	
+25149	3	
+25149	5	Loaded_Language
+25149	7	Conversation_Killer
+25149	9	Doubt,Exaggeration-Minimisation,Loaded_Language,Questioning_the_Reputation
+25149	11	Loaded_Language
+25149	13	Appeal_to_Hypocrisy
+25149	15	Questioning_the_Reputation
+25149	17	Guilt_by_Association
+25149	19	Loaded_Language

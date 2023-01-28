@@ -1,0 +1,16 @@
+738361208	1	Name_Calling-Labeling
+738361208	3	
+738361208	4	Appeal_to_Authority,Exaggeration-Minimisation
+738361208	5	Doubt,Exaggeration-Minimisation
+738361208	6	Causal_Oversimplification
+738361208	7	Loaded_Language,Red_Herring
+738361208	8	Appeal_to_Fear-Prejudice,Exaggeration-Minimisation,Loaded_Language
+738361208	9	Conversation_Killer,Loaded_Language
+738361208	10	Flag_Waving
+738361208	11	Name_Calling-Labeling
+738361208	12	Loaded_Language,Red_Herring
+738361208	13	
+738361208	14	Conversation_Killer
+738361208	15	Exaggeration-Minimisation,Name_Calling-Labeling
+738361208	16	Exaggeration-Minimisation,Loaded_Language,Slogans
+738361208	17	

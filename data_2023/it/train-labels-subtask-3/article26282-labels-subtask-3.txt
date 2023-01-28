@@ -1,0 +1,9 @@
+26282	1	
+26282	3	Conversation_Killer,Doubt,Name_Calling-Labeling
+26282	5	Doubt,Exaggeration-Minimisation
+26282	7	Doubt,Loaded_Language,Name_Calling-Labeling,Red_Herring
+26282	9	Loaded_Language
+26282	11	Doubt
+26282	13	Doubt,Loaded_Language,Questioning_the_Reputation
+26282	15	Doubt,Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling
+26282	17	Doubt,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation

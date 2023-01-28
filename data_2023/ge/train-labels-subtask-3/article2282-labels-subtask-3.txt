@@ -1,0 +1,19 @@
+2282	1	Appeal_to_Authority,Appeal_to_Fear-Prejudice,Name_Calling-Labeling
+2282	3	Appeal_to_Fear-Prejudice,Name_Calling-Labeling,Obfuscation-Vagueness-Confusion
+2282	5	Appeal_to_Authority,Appeal_to_Fear-Prejudice,Name_Calling-Labeling
+2282	7	Name_Calling-Labeling,Obfuscation-Vagueness-Confusion
+2282	9	Obfuscation-Vagueness-Confusion
+2282	11	
+2282	13	Loaded_Language,Questioning_the_Reputation
+2282	15	Obfuscation-Vagueness-Confusion
+2282	17	Name_Calling-Labeling
+2282	19	Appeal_to_Authority,Name_Calling-Labeling,Obfuscation-Vagueness-Confusion
+2282	21	Appeal_to_Fear-Prejudice,Name_Calling-Labeling,Obfuscation-Vagueness-Confusion
+2282	23	Appeal_to_Authority,Name_Calling-Labeling,Obfuscation-Vagueness-Confusion
+2282	25	
+2282	27	Appeal_to_Fear-Prejudice,Name_Calling-Labeling
+2282	29	
+2282	31	Appeal_to_Authority,Appeal_to_Fear-Prejudice,Name_Calling-Labeling
+2282	33	
+2282	35	Appeal_to_Fear-Prejudice,Loaded_Language,Name_Calling-Labeling
+2282	37	Appeal_to_Fear-Prejudice,Name_Calling-Labeling

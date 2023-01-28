@@ -1,0 +1,8 @@
+2552	1	Appeal_to_Fear-Prejudice,Exaggeration-Minimisation,Name_Calling-Labeling
+2552	3	Name_Calling-Labeling
+2552	5	Exaggeration-Minimisation,Flag_Waving,Name_Calling-Labeling
+2552	7	Appeal_to_Values,Flag_Waving,Name_Calling-Labeling
+2552	9	Doubt,Exaggeration-Minimisation,Flag_Waving,Guilt_by_Association,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+2552	11	Name_Calling-Labeling,Questioning_the_Reputation
+2552	13	Consequential_Oversimplification,Exaggeration-Minimisation,Flag_Waving,Name_Calling-Labeling
+2552	15	Appeal_to_Time,Consequential_Oversimplification,Doubt,Flag_Waving,Slogans

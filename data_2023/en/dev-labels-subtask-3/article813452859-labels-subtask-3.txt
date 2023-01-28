@@ -1,0 +1,19 @@
+813452859	1	
+813452859	3	
+813452859	4	
+813452859	5	
+813452859	6	
+813452859	7	False_Dilemma-No_Choice,Loaded_Language
+813452859	8	
+813452859	9	False_Dilemma-No_Choice,Loaded_Language,Name_Calling-Labeling
+813452859	10	
+813452859	11	Conversation_Killer
+813452859	12	Conversation_Killer,Red_Herring
+813452859	13	
+813452859	14	
+813452859	15	Obfuscation-Vagueness-Confusion
+813452859	16	
+813452859	17	
+813452859	18	
+813452859	19	Obfuscation-Vagueness-Confusion
+813452859	20	

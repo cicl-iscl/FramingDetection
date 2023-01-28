@@ -1,0 +1,41 @@
+814427361	1	Appeal_to_Fear-Prejudice,Repetition
+814427361	3	Appeal_to_Fear-Prejudice,Name_Calling-Labeling,Repetition
+814427361	4	
+814427361	5	
+814427361	6	
+814427361	7	
+814427361	8	
+814427361	9	Loaded_Language
+814427361	10	
+814427361	11	
+814427361	12	
+814427361	13	Loaded_Language
+814427361	14	Name_Calling-Labeling
+814427361	15	Loaded_Language
+814427361	16	False_Dilemma-No_Choice,Loaded_Language
+814427361	17	
+814427361	18	
+814427361	19	Doubt,Loaded_Language,Name_Calling-Labeling
+814427361	20	
+814427361	21	
+814427361	22	Loaded_Language
+814427361	23	Loaded_Language
+814427361	24	
+814427361	25	Loaded_Language
+814427361	26	
+814427361	27	
+814427361	28	
+814427361	29	Appeal_to_Fear-Prejudice,False_Dilemma-No_Choice
+814427361	30	False_Dilemma-No_Choice
+814427361	31	
+814427361	32	
+814427361	33	
+814427361	34	Appeal_to_Popularity
+814427361	35	Appeal_to_Popularity
+814427361	36	Appeal_to_Popularity
+814427361	37	Appeal_to_Popularity
+814427361	38	
+814427361	39	
+814427361	40	
+814427361	41	
+814427361	42	

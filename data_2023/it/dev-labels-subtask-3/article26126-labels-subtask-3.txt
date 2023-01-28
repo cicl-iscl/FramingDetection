@@ -1,0 +1,9 @@
+26126	1	
+26126	3	Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+26126	5	Appeal_to_Values,Doubt,Loaded_Language
+26126	7	Loaded_Language,Name_Calling-Labeling
+26126	9	Appeal_to_Values,Causal_Oversimplification,Doubt,Loaded_Language,Name_Calling-Labeling
+26126	11	Conversation_Killer,False_Dilemma-No_Choice,Loaded_Language
+26126	13	Loaded_Language,Name_Calling-Labeling,Red_Herring
+26126	15	Conversation_Killer,Doubt
+26126	17	Loaded_Language,Name_Calling-Labeling

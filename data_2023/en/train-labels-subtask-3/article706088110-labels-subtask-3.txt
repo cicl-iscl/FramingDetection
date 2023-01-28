@@ -1,0 +1,11 @@
+706088110	1	
+706088110	3	
+706088110	4	
+706088110	5	Causal_Oversimplification,Repetition
+706088110	6	
+706088110	7	Repetition
+706088110	8	
+706088110	9	Red_Herring,Repetition
+706088110	10	
+706088110	11	Repetition
+706088110	12	False_Dilemma-No_Choice

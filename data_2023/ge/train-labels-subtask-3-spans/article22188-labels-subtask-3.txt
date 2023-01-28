@@ -1,0 +1,7 @@
+22188	Obfuscation-Vagueness-Confusion	1	47
+22188	Obfuscation-Vagueness-Confusion	456	562
+22188	Appeal_to_Hypocrisy	569	690
+22188	Exaggeration-Minimisation	235	305
+22188	Name_Calling-Labeling	126	136
+22188	Name_Calling-Labeling	63	74
+22188	Name_Calling-Labeling	851	873

@@ -1,0 +1,4 @@
+2222	1	Name_Calling-Labeling
+2222	3	Appeal_to_Hypocrisy
+2222	5	Flag_Waving,Name_Calling-Labeling
+2222	7	

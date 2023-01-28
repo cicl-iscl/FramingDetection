@@ -1,0 +1,20 @@
+25105	1	Name_Calling-Labeling
+25105	3	
+25105	5	
+25105	7	
+25105	9	
+25105	11	
+25105	13	
+25105	15	Doubt,Name_Calling-Labeling
+25105	17	
+25105	19	
+25105	21	
+25105	23	Doubt,Loaded_Language
+25105	25	
+25105	27	
+25105	29	Doubt,Guilt_by_Association
+25105	31	Doubt
+25105	33	
+25105	35	Doubt
+25105	37	Doubt
+25105	39	

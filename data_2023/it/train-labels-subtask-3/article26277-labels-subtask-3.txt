@@ -1,0 +1,7 @@
+26277	1	
+26277	3	Loaded_Language
+26277	5	Appeal_to_Values,Doubt,Questioning_the_Reputation
+26277	7	Doubt,Questioning_the_Reputation
+26277	9	Appeal_to_Values,Name_Calling-Labeling,Questioning_the_Reputation
+26277	11	Doubt,Loaded_Language,Slogans
+26277	13	Questioning_the_Reputation

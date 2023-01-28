@@ -1,0 +1,5 @@
+23130	1	
+23130	3	Doubt,Exaggeration-Minimisation,Name_Calling-Labeling,Questioning_the_Reputation,Red_Herring
+23130	5	
+23130	7	Slogans
+23130	9	

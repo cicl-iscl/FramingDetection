@@ -1,0 +1,65 @@
+813552066	1	Loaded_Language
+813552066	3	Exaggeration-Minimisation,Loaded_Language
+813552066	4	
+813552066	5	Appeal_to_Fear-Prejudice,Exaggeration-Minimisation,False_Dilemma-No_Choice,Loaded_Language
+813552066	6	
+813552066	7	Exaggeration-Minimisation
+813552066	8	Name_Calling-Labeling,Repetition
+813552066	9	Appeal_to_Fear-Prejudice,Exaggeration-Minimisation,Name_Calling-Labeling
+813552066	10	Exaggeration-Minimisation,Loaded_Language
+813552066	11	Repetition
+813552066	12	Loaded_Language
+813552066	13	Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling
+813552066	14	Loaded_Language
+813552066	15	
+813552066	16	
+813552066	17	
+813552066	18	
+813552066	19	
+813552066	20	
+813552066	21	Doubt,Loaded_Language
+813552066	22	
+813552066	23	
+813552066	24	Loaded_Language,Name_Calling-Labeling
+813552066	25	Causal_Oversimplification
+813552066	26	Causal_Oversimplification,Doubt,Loaded_Language
+813552066	27	Doubt
+813552066	28	Doubt,Exaggeration-Minimisation,Loaded_Language,Repetition
+813552066	29	Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling
+813552066	30	Loaded_Language
+813552066	31	Name_Calling-Labeling
+813552066	32	
+813552066	33	Doubt
+813552066	34	Causal_Oversimplification,Doubt,Loaded_Language,Red_Herring
+813552066	35	
+813552066	36	Loaded_Language,Name_Calling-Labeling
+813552066	37	Doubt,Exaggeration-Minimisation
+813552066	38	Doubt,Name_Calling-Labeling
+813552066	39	Loaded_Language,Name_Calling-Labeling
+813552066	40	Appeal_to_Fear-Prejudice,Doubt,Exaggeration-Minimisation,Flag_Waving,Loaded_Language
+813552066	41	Flag_Waving
+813552066	42	Doubt
+813552066	43	Doubt,Exaggeration-Minimisation,Name_Calling-Labeling,Red_Herring
+813552066	44	Loaded_Language
+813552066	45	Doubt,Loaded_Language
+813552066	46	
+813552066	47	
+813552066	48	Flag_Waving
+813552066	49	Doubt,Flag_Waving
+813552066	50	Exaggeration-Minimisation
+813552066	51	Appeal_to_Hypocrisy
+813552066	52	
+813552066	53	Appeal_to_Hypocrisy,Exaggeration-Minimisation,Loaded_Language
+813552066	54	Appeal_to_Hypocrisy
+813552066	55	Loaded_Language
+813552066	56	Causal_Oversimplification,Doubt,Loaded_Language,Name_Calling-Labeling
+813552066	57	Doubt,Name_Calling-Labeling
+813552066	58	Exaggeration-Minimisation
+813552066	59	Loaded_Language
+813552066	60	Exaggeration-Minimisation,Loaded_Language
+813552066	61	Doubt
+813552066	62	Name_Calling-Labeling
+813552066	63	Doubt
+813552066	64	Doubt,Loaded_Language,Name_Calling-Labeling
+813552066	65	Loaded_Language
+813552066	66	False_Dilemma-No_Choice

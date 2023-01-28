@@ -1,0 +1,7 @@
+24178	1	
+24178	2	Flag_Waving
+24178	4	Flag_Waving
+24178	6	Flag_Waving
+24178	8	
+24178	10	
+24178	12	Questioning_the_Reputation

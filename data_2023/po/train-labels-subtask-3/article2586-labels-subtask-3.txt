@@ -1,0 +1,13 @@
+2586	1	Exaggeration-Minimisation
+2586	3	
+2586	5	Doubt,Exaggeration-Minimisation
+2586	7	
+2586	9	Appeal_to_Values,Loaded_Language
+2586	11	
+2586	13	Doubt,Exaggeration-Minimisation,Questioning_the_Reputation
+2586	15	
+2586	17	False_Dilemma-No_Choice
+2586	19	
+2586	21	Appeal_to_Fear-Prejudice,Appeal_to_Values,Name_Calling-Labeling
+2586	23	
+2586	25	

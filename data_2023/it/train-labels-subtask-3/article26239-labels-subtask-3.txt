@@ -1,0 +1,5 @@
+26239	1	Loaded_Language,Name_Calling-Labeling
+26239	3	Conversation_Killer,Name_Calling-Labeling,Questioning_the_Reputation
+26239	5	Appeal_to_Authority,Name_Calling-Labeling
+26239	7	Name_Calling-Labeling
+26239	9	Appeal_to_Fear-Prejudice,Conversation_Killer,Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling,Red_Herring

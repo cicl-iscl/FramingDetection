@@ -1,0 +1,54 @@
+790266787	1	Name_Calling-Labeling
+790266787	3	Loaded_Language
+790266787	4	Name_Calling-Labeling,Slogans
+790266787	5	Loaded_Language
+790266787	6	
+790266787	7	
+790266787	8	
+790266787	9	Name_Calling-Labeling
+790266787	10	Repetition
+790266787	11	Loaded_Language
+790266787	12	
+790266787	13	
+790266787	14	
+790266787	15	
+790266787	16	
+790266787	17	Name_Calling-Labeling
+790266787	18	
+790266787	19	Loaded_Language
+790266787	20	Doubt,Name_Calling-Labeling,Whataboutism
+790266787	21	Name_Calling-Labeling
+790266787	22	Name_Calling-Labeling
+790266787	23	
+790266787	24	
+790266787	25	
+790266787	26	
+790266787	27	
+790266787	28	
+790266787	29	
+790266787	30	
+790266787	31	Name_Calling-Labeling
+790266787	32	Loaded_Language
+790266787	33	
+790266787	34	
+790266787	35	
+790266787	36	Loaded_Language
+790266787	37	
+790266787	38	
+790266787	39	Loaded_Language
+790266787	40	Loaded_Language,Name_Calling-Labeling
+790266787	41	Doubt
+790266787	42	
+790266787	43	Name_Calling-Labeling
+790266787	44	Loaded_Language,Name_Calling-Labeling
+790266787	45	Causal_Oversimplification,Name_Calling-Labeling
+790266787	46	
+790266787	47	
+790266787	48	Name_Calling-Labeling
+790266787	49	
+790266787	50	
+790266787	51	
+790266787	52	
+790266787	53	
+790266787	54	Appeal_to_Fear-Prejudice,Loaded_Language
+790266787	55	

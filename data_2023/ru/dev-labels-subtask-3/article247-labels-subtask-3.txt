@@ -1,0 +1,6 @@
+247	1	Name_Calling-Labeling
+247	3	Loaded_Language
+247	5	Appeal_to_Hypocrisy,Name_Calling-Labeling
+247	7	Loaded_Language,Questioning_the_Reputation,Straw_Man
+247	9	Doubt,Loaded_Language,Questioning_the_Reputation
+247	11	Questioning_the_Reputation,Repetition

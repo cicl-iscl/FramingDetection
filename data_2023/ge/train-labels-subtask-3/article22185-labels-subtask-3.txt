@@ -1,0 +1,8 @@
+22185	1	Name_Calling-Labeling
+22185	3	Name_Calling-Labeling
+22185	5	
+22185	7	Repetition
+22185	9	Name_Calling-Labeling
+22185	11	
+22185	13	
+22185	15	Appeal_to_Fear-Prejudice

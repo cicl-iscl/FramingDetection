@@ -1,0 +1,17 @@
+26183	1	Loaded_Language
+26183	3	
+26183	5	
+26183	7	
+26183	9	
+26183	11	
+26183	13	Doubt
+26183	15	
+26183	17	
+26183	19	
+26183	21	Name_Calling-Labeling
+26183	23	
+26183	25	
+26183	27	
+26183	29	
+26183	31	Appeal_to_Fear-Prejudice,Flag_Waving
+26183	33	

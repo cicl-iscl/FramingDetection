@@ -1,0 +1,3 @@
+832920387	Loaded_Language	490	506
+832920387	Loaded_Language	1962	1966
+832920387	Flag_Waving	4342	4471

@@ -1,0 +1,9 @@
+26140	1	
+26140	3	Loaded_Language,Name_Calling-Labeling
+26140	5	Appeal_to_Fear-Prejudice,Appeal_to_Values,Doubt,Loaded_Language,Name_Calling-Labeling,Slogans
+26140	7	Appeal_to_Fear-Prejudice,Doubt,Loaded_Language,Name_Calling-Labeling
+26140	9	Appeal_to_Fear-Prejudice,Appeal_to_Values,Conversation_Killer,Doubt,Name_Calling-Labeling
+26140	11	Doubt,Name_Calling-Labeling
+26140	13	Conversation_Killer,Doubt,Loaded_Language,Name_Calling-Labeling
+26140	15	Loaded_Language
+26140	17	Appeal_to_Fear-Prejudice,Doubt

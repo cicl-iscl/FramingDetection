@@ -1,0 +1,9 @@
+25193	1	
+25193	3	
+25193	5	
+25193	7	
+25193	9	
+25193	11	Slogans
+25193	13	Straw_Man
+25193	15	Appeal_to_Hypocrisy,Name_Calling-Labeling
+25193	17	Appeal_to_Values,Red_Herring

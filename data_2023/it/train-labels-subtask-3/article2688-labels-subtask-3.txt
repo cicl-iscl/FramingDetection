@@ -1,0 +1,8 @@
+2688	1	
+2688	3	Doubt
+2688	4	
+2688	6	
+2688	8	
+2688	10	Doubt
+2688	11	Loaded_Language
+2688	13	Appeal_to_Values,Doubt,Name_Calling-Labeling,Repetition

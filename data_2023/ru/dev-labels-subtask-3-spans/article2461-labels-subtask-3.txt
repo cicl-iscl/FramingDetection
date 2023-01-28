@@ -1,0 +1,5 @@
+2461	Loaded_Language	521	540
+2461	Doubt	750	875
+2461	Questioning_the_Reputation	1030	1155
+2461	Doubt	0	75
+2461	Doubt	141	259

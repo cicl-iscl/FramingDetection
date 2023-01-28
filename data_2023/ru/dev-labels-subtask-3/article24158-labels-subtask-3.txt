@@ -1,0 +1,7 @@
+24158	1	Doubt,Loaded_Language
+24158	3	Appeal_to_Popularity,Loaded_Language,Questioning_the_Reputation
+24158	5	Exaggeration-Minimisation
+24158	7	Loaded_Language
+24158	9	
+24158	11	Exaggeration-Minimisation
+24158	13	

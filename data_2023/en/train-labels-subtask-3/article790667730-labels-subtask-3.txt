@@ -1,0 +1,10 @@
+790667730	1	Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling
+790667730	3	Exaggeration-Minimisation,Loaded_Language
+790667730	4	Loaded_Language
+790667730	5	Causal_Oversimplification,Exaggeration-Minimisation
+790667730	6	Exaggeration-Minimisation,Flag_Waving,Loaded_Language,Name_Calling-Labeling
+790667730	7	
+790667730	8	
+790667730	9	
+790667730	10	Loaded_Language
+790667730	11	Loaded_Language

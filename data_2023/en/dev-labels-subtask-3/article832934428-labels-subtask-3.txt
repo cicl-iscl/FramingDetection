@@ -1,0 +1,11 @@
+832934428	1	
+832934428	3	Name_Calling-Labeling,Obfuscation-Vagueness-Confusion
+832934428	4	
+832934428	5	Loaded_Language
+832934428	6	Name_Calling-Labeling
+832934428	7	Appeal_to_Fear-Prejudice
+832934428	8	Doubt
+832934428	9	
+832934428	10	Doubt
+832934428	11	
+832934428	12	

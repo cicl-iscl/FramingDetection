@@ -1,0 +1,10 @@
+2585	1	False_Dilemma-No_Choice
+2585	3	
+2585	5	Exaggeration-Minimisation,False_Dilemma-No_Choice
+2585	7	Appeal_to_Popularity
+2585	9	Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+2585	11	Appeal_to_Hypocrisy,Guilt_by_Association,Loaded_Language,Name_Calling-Labeling
+2585	13	
+2585	15	
+2585	17	Appeal_to_Popularity
+2585	19	

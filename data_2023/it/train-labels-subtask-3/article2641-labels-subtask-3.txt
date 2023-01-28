@@ -1,0 +1,28 @@
+2641	1	Doubt
+2641	3	Doubt,Loaded_Language,Questioning_the_Reputation
+2641	4	
+2641	6	Doubt
+2641	8	Doubt,Loaded_Language,Straw_Man
+2641	10	Doubt
+2641	11	Appeal_to_Fear-Prejudice,Causal_Oversimplification,Conversation_Killer,False_Dilemma-No_Choice,Loaded_Language,Questioning_the_Reputation,Straw_Man
+2641	12	Conversation_Killer,Doubt,Loaded_Language
+2641	13	Doubt,Loaded_Language,Questioning_the_Reputation
+2641	14	Appeal_to_Fear-Prejudice,Appeal_to_Hypocrisy,Doubt,Loaded_Language,Name_Calling-Labeling
+2641	16	Doubt,Loaded_Language,Straw_Man
+2641	18	Appeal_to_Hypocrisy,Causal_Oversimplification,Doubt,Loaded_Language
+2641	20	Causal_Oversimplification,Conversation_Killer,Doubt,Guilt_by_Association,Loaded_Language,Straw_Man
+2641	22	Conversation_Killer,Doubt
+2641	24	
+2641	26	
+2641	28	
+2641	30	Doubt,Loaded_Language,Name_Calling-Labeling
+2641	32	Appeal_to_Fear-Prejudice,Doubt,Loaded_Language
+2641	34	Doubt
+2641	36	Doubt,Loaded_Language
+2641	38	
+2641	39	Doubt
+2641	40	Conversation_Killer,Loaded_Language
+2641	42	Doubt
+2641	43	Appeal_to_Fear-Prejudice,Doubt,Loaded_Language,Obfuscation-Vagueness-Confusion,Questioning_the_Reputation,Repetition
+2641	45	Appeal_to_Values,Doubt,Loaded_Language
+2641	47	Causal_Oversimplification,Conversation_Killer

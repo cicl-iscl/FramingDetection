@@ -1,0 +1,12 @@
+26195	1	Name_Calling-Labeling
+26195	3	Appeal_to_Fear-Prejudice,Exaggeration-Minimisation,Loaded_Language
+26195	5	Conversation_Killer,Loaded_Language,Questioning_the_Reputation
+26195	7	Causal_Oversimplification,Conversation_Killer,Doubt,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+26195	9	Name_Calling-Labeling,Questioning_the_Reputation
+26195	11	Appeal_to_Values,Conversation_Killer,Loaded_Language,Name_Calling-Labeling
+26195	13	
+26195	15	Appeal_to_Values
+26195	17	
+26195	19	
+26195	21	Appeal_to_Values,Conversation_Killer,Doubt,Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+26195	23	Conversation_Killer,Loaded_Language,Name_Calling-Labeling

@@ -1,0 +1,9 @@
+773650987	1	
+773650987	3	Exaggeration-Minimisation,Loaded_Language
+773650987	4	Conversation_Killer,Name_Calling-Labeling
+773650987	5	Causal_Oversimplification,Flag_Waving
+773650987	6	Flag_Waving,Loaded_Language
+773650987	7	Appeal_to_Fear-Prejudice,Flag_Waving
+773650987	8	Doubt,Name_Calling-Labeling,Repetition
+773650987	9	False_Dilemma-No_Choice,Loaded_Language
+773650987	10	

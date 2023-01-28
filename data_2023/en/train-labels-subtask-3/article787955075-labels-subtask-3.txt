@@ -1,0 +1,8 @@
+787955075	1	
+787955075	3	Name_Calling-Labeling
+787955075	4	
+787955075	5	
+787955075	6	
+787955075	7	
+787955075	8	Doubt,Exaggeration-Minimisation,Flag_Waving,Loaded_Language
+787955075	9	Loaded_Language

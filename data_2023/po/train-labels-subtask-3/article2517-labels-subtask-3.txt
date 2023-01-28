@@ -1,0 +1,9 @@
+2517	2	Loaded_Language
+2517	4	
+2517	6	
+2517	8	
+2517	10	
+2517	12	Exaggeration-Minimisation,Loaded_Language
+2517	14	
+2517	16	Appeal_to_Hypocrisy,Loaded_Language
+2517	18	

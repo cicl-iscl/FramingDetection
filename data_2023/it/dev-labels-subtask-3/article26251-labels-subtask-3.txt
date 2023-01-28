@@ -1,0 +1,8 @@
+26251	1	Appeal_to_Fear-Prejudice
+26251	3	
+26251	5	
+26251	7	Appeal_to_Values,Conversation_Killer,Doubt
+26251	9	
+26251	11	
+26251	13	Guilt_by_Association,Loaded_Language,Name_Calling-Labeling
+26251	15	Appeal_to_Values,Flag_Waving,Guilt_by_Association,Loaded_Language

@@ -1,0 +1,5 @@
+2439	1	Appeal_to_Values
+2439	3	Appeal_to_Values,Slogans
+2439	5	Appeal_to_Values,Conversation_Killer,Slogans
+2439	7	Conversation_Killer,False_Dilemma-No_Choice
+2439	9	Appeal_to_Time,Flag_Waving,Loaded_Language,Slogans

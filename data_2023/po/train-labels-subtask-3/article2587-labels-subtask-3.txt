@@ -1,0 +1,14 @@
+2587	1	Flag_Waving
+2587	3	
+2587	5	
+2587	7	Exaggeration-Minimisation,Slogans
+2587	9	Flag_Waving,Repetition
+2587	11	Flag_Waving
+2587	13	Loaded_Language
+2587	15	Appeal_to_Hypocrisy,Name_Calling-Labeling
+2587	17	Flag_Waving,Loaded_Language,Name_Calling-Labeling
+2587	19	Flag_Waving
+2587	21	Name_Calling-Labeling
+2587	23	
+2587	25	Doubt,Name_Calling-Labeling
+2587	27	Conversation_Killer,Loaded_Language,Name_Calling-Labeling

@@ -1,0 +1,3 @@
+832933796	Loaded_Language	32	54
+832933796	Repetition	140	162
+832933796	Loaded_Language	140	162

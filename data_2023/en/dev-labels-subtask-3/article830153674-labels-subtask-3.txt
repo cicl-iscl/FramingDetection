@@ -1,0 +1,7 @@
+830153674	1	Repetition
+830153674	3	Loaded_Language,Repetition
+830153674	4	Loaded_Language
+830153674	5	
+830153674	6	Loaded_Language,Obfuscation-Vagueness-Confusion
+830153674	7	Loaded_Language,Repetition
+830153674	8	

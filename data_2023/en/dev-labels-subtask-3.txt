@@ -1,0 +1,3127 @@
+813452859	1	
+813452859	3	
+813452859	4	
+813452859	5	
+813452859	6	
+813452859	7	False_Dilemma-No_Choice,Loaded_Language
+813452859	8	
+813452859	9	False_Dilemma-No_Choice,Loaded_Language,Name_Calling-Labeling
+813452859	10	
+813452859	11	Conversation_Killer
+813452859	12	Conversation_Killer,Red_Herring
+813452859	13	
+813452859	14	
+813452859	15	Obfuscation-Vagueness-Confusion
+813452859	16	
+813452859	17	
+813452859	18	
+813452859	19	Obfuscation-Vagueness-Confusion
+813452859	20	
+813494037	1	Loaded_Language
+813494037	3	Loaded_Language
+813494037	4	Exaggeration-Minimisation,Loaded_Language
+813494037	5	Repetition
+813494037	6	Loaded_Language,Slogans
+813494037	7	Flag_Waving
+813494037	8	Repetition
+813494037	9	
+813494037	10	Doubt,Loaded_Language
+813494037	11	
+813494037	12	Loaded_Language
+813494037	13	Loaded_Language
+813494037	14	
+813494037	15	Exaggeration-Minimisation,Loaded_Language
+813494037	16	
+813494037	17	Loaded_Language
+813494037	18	
+813494037	19	
+813494037	20	Loaded_Language
+813494037	21	Exaggeration-Minimisation,Name_Calling-Labeling
+813494037	22	Loaded_Language,Repetition
+813494037	23	
+813494037	24	
+813494037	25	Red_Herring
+813494037	26	Conversation_Killer,Repetition,Whataboutism
+813494037	27	
+813494037	28	
+813494037	29	
+813494037	30	
+813494037	31	
+813494037	32	Name_Calling-Labeling
+813494037	33	Exaggeration-Minimisation,False_Dilemma-No_Choice,Flag_Waving,Loaded_Language
+813547724	1	Flag_Waving
+813547724	3	Flag_Waving
+813547724	4	Flag_Waving,Repetition
+813547724	5	Flag_Waving,Loaded_Language
+813547724	6	Flag_Waving,Obfuscation-Vagueness-Confusion
+813547724	7	Flag_Waving,Loaded_Language
+813547724	8	Repetition
+813547724	9	
+813547724	10	Flag_Waving
+813547724	11	Flag_Waving
+813547724	12	Flag_Waving,Repetition
+813547724	13	Appeal_to_Fear-Prejudice
+813547724	14	
+813552066	1	Loaded_Language
+813552066	3	Exaggeration-Minimisation,Loaded_Language
+813552066	4	
+813552066	5	Appeal_to_Fear-Prejudice,Exaggeration-Minimisation,False_Dilemma-No_Choice,Loaded_Language
+813552066	6	
+813552066	7	Exaggeration-Minimisation
+813552066	8	Name_Calling-Labeling,Repetition
+813552066	9	Appeal_to_Fear-Prejudice,Exaggeration-Minimisation,Name_Calling-Labeling
+813552066	10	Exaggeration-Minimisation,Loaded_Language
+813552066	11	Repetition
+813552066	12	Loaded_Language
+813552066	13	Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling
+813552066	14	Loaded_Language
+813552066	15	
+813552066	16	
+813552066	17	
+813552066	18	
+813552066	19	
+813552066	20	
+813552066	21	Doubt,Loaded_Language
+813552066	22	
+813552066	23	
+813552066	24	Loaded_Language,Name_Calling-Labeling
+813552066	25	Causal_Oversimplification
+813552066	26	Causal_Oversimplification,Doubt,Loaded_Language
+813552066	27	Doubt
+813552066	28	Doubt,Exaggeration-Minimisation,Loaded_Language,Repetition
+813552066	29	Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling
+813552066	30	Loaded_Language
+813552066	31	Name_Calling-Labeling
+813552066	32	
+813552066	33	Doubt
+813552066	34	Causal_Oversimplification,Doubt,Loaded_Language,Red_Herring
+813552066	35	
+813552066	36	Loaded_Language,Name_Calling-Labeling
+813552066	37	Doubt,Exaggeration-Minimisation
+813552066	38	Doubt,Name_Calling-Labeling
+813552066	39	Loaded_Language,Name_Calling-Labeling
+813552066	40	Appeal_to_Fear-Prejudice,Doubt,Exaggeration-Minimisation,Flag_Waving,Loaded_Language
+813552066	41	Flag_Waving
+813552066	42	Doubt
+813552066	43	Doubt,Exaggeration-Minimisation,Name_Calling-Labeling,Red_Herring
+813552066	44	Loaded_Language
+813552066	45	Doubt,Loaded_Language
+813552066	46	
+813552066	47	
+813552066	48	Flag_Waving
+813552066	49	Doubt,Flag_Waving
+813552066	50	Exaggeration-Minimisation
+813552066	51	Appeal_to_Hypocrisy
+813552066	52	
+813552066	53	Appeal_to_Hypocrisy,Exaggeration-Minimisation,Loaded_Language
+813552066	54	Appeal_to_Hypocrisy
+813552066	55	Loaded_Language
+813552066	56	Causal_Oversimplification,Doubt,Loaded_Language,Name_Calling-Labeling
+813552066	57	Doubt,Name_Calling-Labeling
+813552066	58	Exaggeration-Minimisation
+813552066	59	Loaded_Language
+813552066	60	Exaggeration-Minimisation,Loaded_Language
+813552066	61	Doubt
+813552066	62	Name_Calling-Labeling
+813552066	63	Doubt
+813552066	64	Doubt,Loaded_Language,Name_Calling-Labeling
+813552066	65	Loaded_Language
+813552066	66	False_Dilemma-No_Choice
+813601978	1	
+813601978	3	
+813601978	4	Loaded_Language
+813601978	5	
+813601978	6	
+813601978	7	
+813601978	8	Loaded_Language
+813601978	9	
+813601978	10	
+813601978	11	
+813601978	12	
+813601978	13	
+813601978	14	Loaded_Language
+813601978	15	
+813601978	16	
+813601978	17	
+813601978	18	
+813601978	19	
+813601978	20	
+813601978	21	
+813601978	22	
+813601978	23	
+813601978	24	
+813601978	25	
+813601978	26	
+813601978	27	
+813601978	28	
+813601978	29	
+813601978	30	
+813601978	31	
+813601978	32	Flag_Waving,Slogans
+813601978	33	
+813601978	34	
+813601978	35	
+813601978	36	
+813601978	37	
+813601978	38	
+813601978	39	
+813601978	40	
+813601978	41	
+813601978	42	
+813601978	43	
+813601978	44	
+813601978	45	
+813602345	1	
+813602345	3	Slogans
+813602345	4	
+813602345	5	
+813602345	6	Name_Calling-Labeling,Repetition
+813602345	7	Repetition
+813602345	8	
+813602345	9	
+813602345	10	
+813602345	11	Appeal_to_Popularity,Exaggeration-Minimisation,Flag_Waving,Name_Calling-Labeling,Repetition
+813602345	12	
+813602345	13	Loaded_Language
+813602345	14	
+813602345	15	Name_Calling-Labeling,Repetition
+813602345	16	
+813602345	17	
+813602345	18	Causal_Oversimplification,Flag_Waving
+813602345	19	Repetition,Slogans
+813602345	20	
+813603860	1	Loaded_Language
+813603860	3	
+813603860	4	Loaded_Language
+813603860	5	Loaded_Language
+813603860	6	
+813603860	7	
+813603860	8	Name_Calling-Labeling
+813603860	9	Loaded_Language
+813603860	10	
+813603860	11	Appeal_to_Popularity,Causal_Oversimplification
+813603860	12	
+813603860	13	
+813603860	14	Loaded_Language
+813603860	15	Loaded_Language,Repetition
+813603860	16	
+813603860	17	Loaded_Language
+813603860	18	Appeal_to_Fear-Prejudice,False_Dilemma-No_Choice
+813603860	19	Repetition
+813603860	20	
+813603860	21	
+813603860	22	
+813603860	23	
+813603860	24	
+813603860	25	
+813603860	26	
+813603860	27	Loaded_Language
+813603860	28	Loaded_Language
+813603860	29	
+813603860	30	Exaggeration-Minimisation,Loaded_Language
+813603860	31	Loaded_Language
+813603860	32	Loaded_Language
+813603860	33	Doubt
+813603860	34	
+813603860	35	Appeal_to_Fear-Prejudice,Exaggeration-Minimisation,False_Dilemma-No_Choice
+813603860	36	
+813603860	37	
+813623212	1	Loaded_Language
+813623212	3	Loaded_Language,Name_Calling-Labeling,Repetition
+813623212	4	Name_Calling-Labeling,Repetition
+813623212	5	Repetition
+813623212	6	Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling
+813623212	7	Exaggeration-Minimisation,Loaded_Language
+813623212	8	Conversation_Killer,Name_Calling-Labeling
+813623212	9	Conversation_Killer
+813623212	10	Exaggeration-Minimisation,False_Dilemma-No_Choice,Loaded_Language
+813623212	11	Exaggeration-Minimisation,Loaded_Language
+813623212	12	Conversation_Killer,Name_Calling-Labeling,Slogans
+813623212	13	
+813623212	14	Exaggeration-Minimisation
+813623212	15	
+813623212	16	
+813623212	17	Exaggeration-Minimisation,Repetition
+813623212	18	
+813623212	19	Repetition
+813623212	20	Repetition
+813623212	21	
+813623212	22	Loaded_Language
+813623212	23	Exaggeration-Minimisation,Loaded_Language
+813623212	24	Name_Calling-Labeling
+813623212	25	Loaded_Language
+813623212	26	
+813623212	27	
+813623212	28	
+813623212	29	
+813623212	30	Name_Calling-Labeling
+813623212	31	Loaded_Language
+813623212	32	
+813623212	33	Loaded_Language
+813623212	34	Loaded_Language
+813623212	35	
+813623212	36	
+813623212	37	Appeal_to_Popularity,Causal_Oversimplification,Doubt
+813623212	38	Loaded_Language
+813623212	39	
+813623212	40	Loaded_Language
+813623212	41	
+813623212	42	Loaded_Language
+813623212	43	
+813623212	44	
+813623212	45	
+813623212	46	Doubt
+813623212	47	Doubt
+813623212	48	Loaded_Language
+813623212	49	Loaded_Language
+813623212	50	
+813623212	51	Conversation_Killer,Repetition
+813623212	52	Loaded_Language
+813623212	53	
+813623212	54	
+813623212	55	
+813623212	56	
+813623212	57	
+813623212	58	
+813714967	1	Loaded_Language
+813714967	3	
+813714967	4	
+813714967	5	
+813714967	6	Loaded_Language
+813714967	8	
+813714967	9	Loaded_Language
+813714967	10	Exaggeration-Minimisation
+813714967	11	
+813714967	12	
+813714967	13	
+813714967	14	Name_Calling-Labeling
+813714967	15	
+813714967	16	
+813714967	17	Appeal_to_Fear-Prejudice,Exaggeration-Minimisation
+813714967	18	
+813714967	19	Exaggeration-Minimisation,Loaded_Language
+813714967	20	Loaded_Language
+813714967	21	False_Dilemma-No_Choice
+813714967	22	Appeal_to_Fear-Prejudice,False_Dilemma-No_Choice,Loaded_Language
+813714967	23	
+813714967	24	
+813714967	25	
+813714967	26	
+813714967	27	False_Dilemma-No_Choice,Loaded_Language
+813714967	28	Appeal_to_Fear-Prejudice,Exaggeration-Minimisation
+813714967	29	Name_Calling-Labeling
+813714967	30	
+813714967	31	
+813714967	32	
+813714967	33	Loaded_Language,Name_Calling-Labeling
+813714967	34	
+813714967	35	Loaded_Language
+813714967	36	
+813714967	37	
+813714967	38	
+813714967	39	
+813714967	40	
+813714967	41	
+813714967	42	
+813714967	43	Loaded_Language,Repetition
+813714967	44	
+813714967	45	
+813714967	46	Loaded_Language
+813714967	47	
+813714967	48	
+813714967	49	
+813714967	50	
+813714967	51	
+813714967	52	
+813714967	53	
+813714967	54	
+813714967	55	
+813714967	56	
+813714967	57	
+813714967	58	
+813714967	59	
+813714967	60	
+813714967	61	
+813714967	62	
+813714967	63	
+813714967	64	
+813714967	65	
+813714967	66	
+813714967	67	
+813949697	1	
+813949697	3	
+813949697	4	
+813949697	5	
+813949697	6	
+813949697	7	
+813949697	8	
+813949697	9	
+813949697	10	
+813949697	11	
+813949697	12	
+813949697	13	
+813949697	14	
+813949697	15	
+813949697	16	
+813949697	17	
+813949697	18	
+813949697	19	
+813949697	20	
+813949697	21	
+813949697	22	Loaded_Language
+813949697	23	
+813949697	24	False_Dilemma-No_Choice
+813949697	25	Appeal_to_Fear-Prejudice
+813949697	26	
+813949697	27	
+813949697	28	
+813949697	29	
+813949697	30	
+813949697	31	
+813949697	32	
+813949697	33	Loaded_Language
+813949697	34	
+813949697	35	Loaded_Language
+813949697	36	
+813949697	37	
+813949697	38	
+813949697	39	
+813949697	40	
+813949697	41	Loaded_Language
+813949697	42	
+813949697	43	
+813949697	44	
+813949697	45	False_Dilemma-No_Choice
+813949697	46	
+813949697	47	
+813949697	48	
+813949697	49	
+813949697	50	Appeal_to_Fear-Prejudice
+813949697	51	Appeal_to_Fear-Prejudice,Exaggeration-Minimisation
+813949697	52	Appeal_to_Fear-Prejudice
+813949697	53	
+813949697	54	
+813949697	55	
+813949697	56	
+813949697	57	Loaded_Language
+813949697	58	Appeal_to_Fear-Prejudice,Loaded_Language,Repetition
+813949697	59	Loaded_Language
+813949697	60	Appeal_to_Fear-Prejudice,Loaded_Language
+813949697	61	
+813949697	62	
+813949697	63	Loaded_Language
+813949697	64	Appeal_to_Fear-Prejudice,False_Dilemma-No_Choice,Loaded_Language
+813949697	65	
+813949697	66	Name_Calling-Labeling
+813949697	67	
+813949697	68	Loaded_Language
+813949697	69	Exaggeration-Minimisation
+813949697	70	Loaded_Language,Repetition
+813949697	71	
+813949697	72	
+813949697	73	
+813949697	74	
+813949697	75	Loaded_Language
+813949697	76	Loaded_Language
+813949697	77	
+813949697	78	
+813949697	79	
+813949697	80	
+813949697	81	False_Dilemma-No_Choice
+813949697	82	
+813949697	83	
+813949697	84	
+813953273	1	Appeal_to_Fear-Prejudice
+813953273	3	Appeal_to_Fear-Prejudice
+813953273	4	
+813953273	5	Exaggeration-Minimisation,Name_Calling-Labeling
+813953273	6	Appeal_to_Fear-Prejudice
+813953273	7	Loaded_Language,Name_Calling-Labeling
+813953273	8	Appeal_to_Fear-Prejudice
+813953273	9	
+813953273	10	Appeal_to_Fear-Prejudice
+813953273	11	Appeal_to_Fear-Prejudice,Name_Calling-Labeling
+813953273	12	
+813953273	13	Appeal_to_Fear-Prejudice
+813953273	14	
+813953273	15	Loaded_Language,Name_Calling-Labeling
+813953273	16	Appeal_to_Fear-Prejudice
+813953273	17	
+813953273	18	
+813953273	19	
+813953273	20	
+813953273	21	Name_Calling-Labeling
+813953273	22	Loaded_Language
+813953273	23	Doubt
+813953273	24	Appeal_to_Fear-Prejudice,Name_Calling-Labeling
+813953273	25	
+813953273	27	Appeal_to_Hypocrisy
+813953273	28	Causal_Oversimplification,Loaded_Language,Name_Calling-Labeling
+813953273	29	Causal_Oversimplification,Loaded_Language,Name_Calling-Labeling
+813953273	30	Loaded_Language,Red_Herring
+813953273	31	
+813953273	32	Loaded_Language
+813953273	33	Appeal_to_Popularity
+813953273	34	Appeal_to_Fear-Prejudice,Name_Calling-Labeling
+813953273	35	Appeal_to_Fear-Prejudice,Doubt,Loaded_Language
+813953273	36	Appeal_to_Fear-Prejudice
+813953273	37	Appeal_to_Fear-Prejudice
+813953273	38	Appeal_to_Fear-Prejudice
+813953273	39	Appeal_to_Fear-Prejudice
+813953273	40	Exaggeration-Minimisation,Loaded_Language,Whataboutism
+813953273	41	
+813953273	42	Causal_Oversimplification,Doubt,Loaded_Language
+813953273	43	Name_Calling-Labeling
+813953273	44	Doubt,Name_Calling-Labeling
+813953273	45	Repetition
+813953273	46	Appeal_to_Fear-Prejudice
+813953273	47	Flag_Waving,Loaded_Language
+813953435	1	
+813953435	3	
+813953435	4	Loaded_Language
+813953435	5	Doubt
+813953435	6	
+813953435	7	
+813953435	8	
+813953435	9	
+813953435	10	Appeal_to_Fear-Prejudice,Loaded_Language,Repetition
+813953435	11	Appeal_to_Fear-Prejudice,Loaded_Language
+813953435	12	Appeal_to_Fear-Prejudice,Exaggeration-Minimisation
+813953435	13	Exaggeration-Minimisation
+813953435	14	Loaded_Language,Repetition
+813953435	15	
+813953435	16	Loaded_Language
+813953435	17	Loaded_Language,Name_Calling-Labeling
+813953435	18	Loaded_Language
+813953435	19	Appeal_to_Popularity
+813953435	20	
+813953435	21	Loaded_Language
+813953435	22	
+813953435	23	Name_Calling-Labeling
+813953435	24	
+813953435	25	Exaggeration-Minimisation
+813953435	26	
+813953435	27	Name_Calling-Labeling
+813953435	28	
+813953435	29	Loaded_Language
+813953435	30	
+813953435	31	
+813992175	1	Loaded_Language
+813992175	3	Name_Calling-Labeling
+813992175	4	Loaded_Language
+813992175	5	Appeal_to_Fear-Prejudice,Loaded_Language
+813992175	6	Doubt
+813992175	7	Doubt,Loaded_Language
+813992175	8	
+813992175	9	Doubt
+813992175	10	Doubt
+813992175	11	Appeal_to_Authority,Appeal_to_Fear-Prejudice
+813992175	12	
+813992175	13	
+813992175	14	False_Dilemma-No_Choice
+813992175	15	False_Dilemma-No_Choice,Loaded_Language
+813992175	16	
+813992175	17	Appeal_to_Authority
+813992175	18	
+813992175	19	
+813992175	20	
+813992175	21	
+813992175	22	Exaggeration-Minimisation
+813992175	23	
+813992175	24	
+813992175	25	
+813992175	26	
+814251296	1	
+814251296	3	Appeal_to_Fear-Prejudice,Loaded_Language
+814251296	4	Loaded_Language
+814251296	5	
+814251296	6	
+814251296	7	
+814251296	8	
+814251296	9	
+814251296	10	
+814251296	11	
+814251296	12	
+814251296	13	
+814251296	14	
+814251296	15	
+814251296	16	
+814371058	1	
+814371058	3	Appeal_to_Fear-Prejudice,Exaggeration-Minimisation,False_Dilemma-No_Choice
+814371058	4	
+814371058	5	
+814371058	6	
+814403543	1	
+814403543	3	Name_Calling-Labeling
+814403543	4	
+814403543	5	
+814403543	6	
+814403543	7	
+814403543	8	False_Dilemma-No_Choice
+814403543	9	Doubt
+814403543	10	
+814403543	11	Appeal_to_Popularity,Loaded_Language,Name_Calling-Labeling
+814403543	12	
+814403543	13	Exaggeration-Minimisation,Name_Calling-Labeling
+814403543	14	
+814403543	15	Appeal_to_Fear-Prejudice,Doubt
+814403543	16	Appeal_to_Fear-Prejudice,False_Dilemma-No_Choice,Flag_Waving,Name_Calling-Labeling
+814403543	17	
+814403783	1	Appeal_to_Fear-Prejudice
+814403783	3	Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling,Repetition
+814403783	4	
+814403783	5	
+814403783	6	
+814403783	7	Exaggeration-Minimisation,Loaded_Language,Repetition
+814403783	8	
+814403783	9	
+814403783	10	False_Dilemma-No_Choice
+814403783	11	
+814403783	12	Name_Calling-Labeling
+814403783	13	Flag_Waving,Loaded_Language,Name_Calling-Labeling,Straw_Man
+814403783	14	
+814403783	15	False_Dilemma-No_Choice
+814403783	16	
+814403783	17	Doubt
+814403875	1	Appeal_to_Popularity,Loaded_Language
+814403875	3	Appeal_to_Popularity
+814403875	4	Appeal_to_Fear-Prejudice
+814403875	5	
+814403875	6	Appeal_to_Fear-Prejudice
+814403875	7	
+814403875	8	Appeal_to_Authority
+814403875	9	Appeal_to_Authority
+814403875	10	Appeal_to_Authority
+814403875	11	Appeal_to_Authority
+814403875	12	Appeal_to_Authority
+814403875	13	Appeal_to_Authority
+814403875	14	Loaded_Language
+814403875	15	Appeal_to_Popularity
+814403875	16	Appeal_to_Popularity
+814403875	17	
+814403875	18	
+814403875	19	
+814403875	20	Conversation_Killer,Slogans
+814403875	21	
+814404002	1	Loaded_Language,Name_Calling-Labeling
+814404002	3	Appeal_to_Fear-Prejudice,Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling
+814404002	4	Flag_Waving,Loaded_Language,Name_Calling-Labeling
+814404002	5	Appeal_to_Authority
+814404002	6	
+814404002	7	
+814404002	8	Doubt,Name_Calling-Labeling
+814404002	9	
+814404002	10	Doubt,Flag_Waving,Loaded_Language
+814404002	11	Exaggeration-Minimisation,Loaded_Language
+814404002	12	Straw_Man
+814404002	13	Appeal_to_Fear-Prejudice,Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling
+814404002	14	Appeal_to_Popularity,Doubt,Flag_Waving,Loaded_Language
+814404002	15	Exaggeration-Minimisation,Loaded_Language
+814404002	16	Exaggeration-Minimisation,Loaded_Language
+814404002	17	Exaggeration-Minimisation,Name_Calling-Labeling
+814404002	18	Appeal_to_Authority,Guilt_by_Association,Loaded_Language,Name_Calling-Labeling
+814404002	19	Name_Calling-Labeling
+814404002	20	Appeal_to_Fear-Prejudice,False_Dilemma-No_Choice,Loaded_Language,Name_Calling-Labeling
+814404002	21	Loaded_Language,Name_Calling-Labeling
+814404002	22	Causal_Oversimplification,Name_Calling-Labeling
+814404002	23	Appeal_to_Fear-Prejudice,Loaded_Language,Name_Calling-Labeling
+814404002	24	Doubt,Exaggeration-Minimisation,False_Dilemma-No_Choice,Loaded_Language,Name_Calling-Labeling
+814404002	25	Appeal_to_Popularity,Exaggeration-Minimisation
+814404002	26	Appeal_to_Popularity,Name_Calling-Labeling
+814404002	27	
+814404002	28	
+814404002	29	
+814404002	30	Appeal_to_Popularity,Name_Calling-Labeling
+814404002	31	
+814404002	32	Doubt,Name_Calling-Labeling
+814404002	33	Doubt,Exaggeration-Minimisation,Name_Calling-Labeling
+814404002	34	Exaggeration-Minimisation,Loaded_Language
+814427361	1	Appeal_to_Fear-Prejudice,Repetition
+814427361	3	Appeal_to_Fear-Prejudice,Name_Calling-Labeling,Repetition
+814427361	4	
+814427361	5	
+814427361	6	
+814427361	7	
+814427361	8	
+814427361	9	Loaded_Language
+814427361	10	
+814427361	11	
+814427361	12	
+814427361	13	Loaded_Language
+814427361	14	Name_Calling-Labeling
+814427361	15	Loaded_Language
+814427361	16	False_Dilemma-No_Choice,Loaded_Language
+814427361	17	
+814427361	18	
+814427361	19	Doubt,Loaded_Language,Name_Calling-Labeling
+814427361	20	
+814427361	21	
+814427361	22	Loaded_Language
+814427361	23	Loaded_Language
+814427361	24	
+814427361	25	Loaded_Language
+814427361	26	
+814427361	27	
+814427361	28	
+814427361	29	Appeal_to_Fear-Prejudice,False_Dilemma-No_Choice
+814427361	30	False_Dilemma-No_Choice
+814427361	31	
+814427361	32	
+814427361	33	
+814427361	34	Appeal_to_Popularity
+814427361	35	Appeal_to_Popularity
+814427361	36	Appeal_to_Popularity
+814427361	37	Appeal_to_Popularity
+814427361	38	
+814427361	39	
+814427361	40	
+814427361	41	
+814427361	42	
+814435435	1	Loaded_Language
+814435435	3	
+814435435	4	Doubt
+814435435	5	
+814435435	6	
+814435435	7	Name_Calling-Labeling
+814435435	8	Exaggeration-Minimisation
+814435435	9	Doubt,Loaded_Language
+814435435	10	
+814435435	11	Doubt,Slogans
+814435435	12	Doubt
+814435435	13	
+814435435	14	Doubt
+814435435	15	Doubt,Exaggeration-Minimisation
+814435435	16	
+814435435	17	
+814435435	18	Exaggeration-Minimisation,Name_Calling-Labeling
+814435435	19	
+814630609	1	Appeal_to_Fear-Prejudice,Loaded_Language,Repetition
+814630609	3	Appeal_to_Fear-Prejudice,Loaded_Language,Repetition
+814630609	4	
+814630609	5	
+814630609	6	Appeal_to_Fear-Prejudice,Loaded_Language,Name_Calling-Labeling
+814630609	7	
+814630609	8	Name_Calling-Labeling
+814630609	9	Appeal_to_Fear-Prejudice,Exaggeration-Minimisation,Loaded_Language,Repetition
+814630609	10	Appeal_to_Authority,Appeal_to_Fear-Prejudice,Name_Calling-Labeling
+814630609	11	
+814630609	12	Appeal_to_Fear-Prejudice
+814630609	13	
+814630609	14	Doubt,Loaded_Language
+814630609	15	Appeal_to_Fear-Prejudice,Doubt,Loaded_Language
+814630609	16	Doubt,Name_Calling-Labeling
+814630609	17	Doubt
+814630609	18	Appeal_to_Authority,Appeal_to_Popularity
+814630609	19	
+814777937	1	
+814777937	3	Name_Calling-Labeling
+814777937	4	Name_Calling-Labeling
+814777937	5	
+814777937	6	
+814777937	7	Appeal_to_Fear-Prejudice
+814777937	8	Name_Calling-Labeling
+814777937	9	Appeal_to_Fear-Prejudice,Name_Calling-Labeling
+814777937	10	
+814777937	11	Appeal_to_Fear-Prejudice
+814777937	12	Appeal_to_Fear-Prejudice,Name_Calling-Labeling
+814777937	13	
+814777937	14	
+814777937	15	
+814777937	16	
+814777937	17	
+814777937	18	Name_Calling-Labeling
+814777937	19	Slogans
+814777937	20	Name_Calling-Labeling
+814777937	21	
+814777937	22	
+814777937	23	Name_Calling-Labeling
+814777937	24	Loaded_Language,Slogans
+814777937	25	Name_Calling-Labeling
+814777937	26	Loaded_Language,Name_Calling-Labeling
+814777937	27	
+814777937	28	
+814777937	29	
+814777937	30	
+814777937	31	Appeal_to_Fear-Prejudice
+814777937	32	Appeal_to_Fear-Prejudice
+814777937	33	Appeal_to_Fear-Prejudice
+814777937	34	
+814777937	35	Name_Calling-Labeling
+814777937	36	
+814777937	37	Appeal_to_Fear-Prejudice,Doubt
+814777937	38	Appeal_to_Fear-Prejudice,Doubt
+814777937	39	
+814777937	40	
+814777937	41	
+814777937	42	Name_Calling-Labeling
+814777937	43	
+814777937	44	
+814777937	45	
+814777937	46	
+814777937	47	
+815412286	1	Appeal_to_Fear-Prejudice,Exaggeration-Minimisation,Flag_Waving
+815412286	3	Appeal_to_Fear-Prejudice,Exaggeration-Minimisation,Flag_Waving
+815412286	4	Doubt
+815412286	5	
+815412286	6	Flag_Waving
+815412286	7	Appeal_to_Fear-Prejudice,Doubt,Flag_Waving
+815412286	8	Name_Calling-Labeling
+815412286	9	
+815412286	10	
+815412286	11	Appeal_to_Authority
+815412286	12	Appeal_to_Authority
+815412286	13	Appeal_to_Authority,Appeal_to_Fear-Prejudice,Flag_Waving
+815412286	14	
+815412286	15	
+815412286	16	
+815412286	17	
+815412286	18	Doubt
+815412286	19	
+815412286	20	
+815412286	21	Loaded_Language
+815412286	22	
+815412286	23	False_Dilemma-No_Choice
+815412286	24	False_Dilemma-No_Choice
+815412286	25	False_Dilemma-No_Choice,Name_Calling-Labeling
+815858385	1	Name_Calling-Labeling,Repetition
+815858385	3	Loaded_Language,Name_Calling-Labeling
+815858385	4	Doubt,Guilt_by_Association,Name_Calling-Labeling,Repetition
+815858385	5	Exaggeration-Minimisation,Name_Calling-Labeling
+815858385	6	
+815858385	7	
+815858385	8	
+815858385	9	
+815858385	10	Doubt,Flag_Waving,Guilt_by_Association,Name_Calling-Labeling,Straw_Man
+815858385	11	Appeal_to_Fear-Prejudice
+815858385	12	Appeal_to_Hypocrisy,Guilt_by_Association,Name_Calling-Labeling,Repetition
+815858385	13	Appeal_to_Fear-Prejudice
+815858385	14	Appeal_to_Fear-Prejudice,Appeal_to_Hypocrisy
+815858385	15	
+815858385	16	
+815858385	17	
+816460196	1	Exaggeration-Minimisation,Loaded_Language,Repetition,Slogans
+816460196	3	Doubt,Exaggeration-Minimisation,Loaded_Language,Repetition,Slogans
+816460196	4	
+816460196	5	
+816460196	6	Doubt,Loaded_Language
+816460196	7	Appeal_to_Authority,Doubt,Name_Calling-Labeling
+816460196	8	Name_Calling-Labeling
+816460196	9	
+816460196	10	Doubt
+816460196	11	
+816460196	12	Doubt
+816460196	13	
+816460196	14	
+816460196	15	
+816460196	16	Doubt,Name_Calling-Labeling
+816460196	17	Loaded_Language
+816460196	18	Flag_Waving
+816460196	19	
+816460196	20	
+816460196	21	
+816460196	22	Appeal_to_Fear-Prejudice,Exaggeration-Minimisation,Flag_Waving,Loaded_Language,Repetition,Slogans
+816460196	23	Flag_Waving,Loaded_Language,Name_Calling-Labeling
+816460196	24	Appeal_to_Fear-Prejudice,False_Dilemma-No_Choice
+816460196	25	
+816460196	26	Loaded_Language
+816460196	27	
+816460196	28	
+816460196	29	
+816460196	30	
+816460196	31	
+816460196	32	
+816460196	33	
+816460196	34	Doubt,Loaded_Language,Name_Calling-Labeling
+816460196	35	False_Dilemma-No_Choice
+816460196	36	Appeal_to_Fear-Prejudice,Doubt,Loaded_Language
+816460196	37	
+816460196	38	False_Dilemma-No_Choice,Flag_Waving
+816460196	39	Flag_Waving
+816720060	1	Name_Calling-Labeling,Repetition
+816720060	3	
+816720060	4	Loaded_Language,Slogans
+816720060	5	Exaggeration-Minimisation,False_Dilemma-No_Choice,Repetition
+816720060	6	
+816720060	7	Name_Calling-Labeling
+816720060	8	
+816720060	9	Appeal_to_Fear-Prejudice
+816720060	10	Appeal_to_Fear-Prejudice,Loaded_Language
+816720060	11	Appeal_to_Fear-Prejudice
+816720060	12	
+816720060	13	
+816720060	14	
+816720060	15	
+816720060	16	
+816720060	17	
+816720060	18	
+816720060	19	
+816720060	20	
+816720060	21	
+816720060	22	
+816720060	23	
+816720060	24	Name_Calling-Labeling
+816720060	25	
+816720060	26	
+816720060	27	
+816720060	28	Name_Calling-Labeling
+816720060	29	Loaded_Language,Name_Calling-Labeling
+816720060	30	Appeal_to_Fear-Prejudice,Doubt,Name_Calling-Labeling
+816720060	31	Appeal_to_Fear-Prejudice
+816720060	32	False_Dilemma-No_Choice
+816720060	33	Loaded_Language
+816720060	34	
+816720060	35	
+816720060	36	Name_Calling-Labeling,Repetition
+816720060	37	Name_Calling-Labeling
+816720060	38	
+816720060	39	Doubt,Loaded_Language,Name_Calling-Labeling
+816720060	41	Doubt,Loaded_Language
+816720060	42	
+816720060	43	
+817147979	1	
+817147979	3	
+817147979	4	
+817147979	5	
+817147979	7	Loaded_Language
+817147979	8	Name_Calling-Labeling
+817147979	9	
+817147979	10	
+817147979	11	
+817147979	12	
+817147979	13	
+817147979	14	
+817147979	15	
+817147979	16	
+817147979	17	False_Dilemma-No_Choice,Loaded_Language
+817147979	18	Loaded_Language
+817147979	19	Loaded_Language
+817147979	20	Loaded_Language
+817147979	21	Repetition
+817147979	22	Loaded_Language
+817147979	23	
+817147979	24	Loaded_Language
+817147979	25	Loaded_Language
+817147979	26	
+817147979	27	Appeal_to_Fear-Prejudice
+817147979	28	
+817147979	29	
+817147979	30	
+817147979	31	
+817147979	32	
+817147979	33	
+817147979	34	Name_Calling-Labeling
+817147979	35	
+817147979	36	Appeal_to_Fear-Prejudice,Loaded_Language,Name_Calling-Labeling
+817147979	37	Loaded_Language,Repetition
+817147979	38	Loaded_Language
+817147979	39	
+817147979	40	
+817147979	41	Repetition
+817147979	42	
+817147979	43	
+817147979	44	
+817147979	45	
+817147979	46	Straw_Man
+817147979	47	
+817147979	48	Name_Calling-Labeling
+817147979	49	Repetition
+817147979	50	
+817147979	51	
+817147979	52	
+817147979	53	Loaded_Language
+817147979	54	Appeal_to_Fear-Prejudice,Loaded_Language
+817147979	55	Appeal_to_Fear-Prejudice,Loaded_Language
+817147979	56	
+817147979	57	
+817147979	58	
+817147979	59	
+817147979	60	
+817147979	61	Loaded_Language
+817147979	62	Causal_Oversimplification,Name_Calling-Labeling
+817147979	63	
+817147979	64	Appeal_to_Fear-Prejudice,Conversation_Killer,Doubt
+817147979	65	
+817147979	66	
+817176202	1	Appeal_to_Popularity
+817176202	3	
+817176202	4	
+817176202	5	False_Dilemma-No_Choice,Flag_Waving
+817176202	6	Doubt
+817176202	7	
+817176202	8	
+817176202	9	
+817176202	10	
+817176202	11	
+817176202	12	
+817176202	13	
+817176202	14	
+817176202	15	
+817176202	16	Loaded_Language
+817176202	17	
+817176202	18	
+817176202	19	Name_Calling-Labeling
+817176202	20	
+817176202	21	
+817176202	22	
+817176202	23	
+817176202	24	
+817176202	25	
+817176202	26	
+817176202	27	
+817176202	28	Repetition
+817176202	29	
+817176202	30	
+817176202	31	
+817176202	32	Repetition
+817176202	33	
+817176202	34	Exaggeration-Minimisation
+817176202	35	
+817176202	36	
+817176202	37	
+817176202	38	
+817176202	39	Loaded_Language
+817176202	40	Name_Calling-Labeling
+817190270	1	
+817190270	3	
+817190270	5	
+817190270	6	
+817190270	7	
+817190270	8	
+817190270	9	
+817190270	10	
+817190270	11	
+817190270	12	
+817190270	13	
+817190270	14	Loaded_Language
+817190270	15	
+817190270	16	
+817190270	17	
+817190270	18	
+817190270	19	
+817190270	20	
+817190270	21	
+817190270	22	
+817190270	23	
+817190270	24	
+817190270	25	
+817190270	26	
+817190270	27	
+817190270	28	Loaded_Language,Repetition
+817190270	29	
+817190270	30	
+817190270	31	
+817190270	32	Loaded_Language,Repetition
+817190270	33	
+817190270	34	
+817190270	35	
+817190270	36	
+817190270	37	
+817190270	38	Loaded_Language
+817190270	39	
+817190270	40	
+817190270	41	Loaded_Language,Repetition
+817190270	42	
+817190270	43	
+817190270	44	
+817190270	45	
+817190270	46	
+817190270	47	
+817190270	48	
+817190270	49	
+817190270	50	
+817190270	51	
+817190270	52	
+817190270	53	
+817190270	54	
+817190270	55	
+817190270	56	
+817190270	57	
+817190270	58	
+817190270	59	
+817190270	60	Loaded_Language
+817190270	61	Appeal_to_Popularity
+817190270	62	Appeal_to_Fear-Prejudice,Loaded_Language,Name_Calling-Labeling
+817190270	63	
+817190270	64	
+817190270	65	
+817190270	66	Appeal_to_Fear-Prejudice
+817190270	67	Name_Calling-Labeling
+817190270	68	
+817190270	69	
+817190270	70	Loaded_Language
+817190270	71	Appeal_to_Authority
+817190270	72	Loaded_Language
+817190270	73	Appeal_to_Fear-Prejudice,Loaded_Language
+817190270	74	
+817190270	75	
+817190270	76	
+817190270	77	Loaded_Language,Repetition
+817190270	78	
+817190270	79	
+817190270	80	
+817190270	81	Slogans
+817190270	82	
+817190270	83	
+817190270	84	
+817190270	85	
+817190270	86	
+817190270	87	Appeal_to_Fear-Prejudice,Conversation_Killer
+817190270	88	Flag_Waving
+817190270	89	
+817190270	90	
+817190270	91	
+817190270	92	
+817190270	93	
+817190270	94	Conversation_Killer
+817190270	95	Flag_Waving
+817190270	96	Flag_Waving,Loaded_Language
+817190270	97	Loaded_Language
+817190270	98	
+817190270	99	Conversation_Killer,Flag_Waving
+817190270	100	Flag_Waving,Name_Calling-Labeling
+817408115	1	Straw_Man
+817408115	3	
+817408115	4	
+817408115	5	
+817408115	6	
+817408115	7	
+817408115	8	
+817408115	9	Loaded_Language
+817408115	10	
+817408115	11	False_Dilemma-No_Choice
+817408115	12	False_Dilemma-No_Choice
+817408115	13	
+817408115	14	Loaded_Language
+817408115	15	
+817408115	16	
+817408115	17	
+817408115	18	
+817408115	19	
+817408115	20	
+817408115	21	Appeal_to_Popularity
+817408115	22	
+817408115	23	
+817408115	24	
+817408115	25	
+817408115	26	Causal_Oversimplification
+817408115	27	
+817408115	28	
+817408115	29	Name_Calling-Labeling
+817408115	30	Loaded_Language
+817408115	31	
+817408115	32	
+817408115	33	
+817408115	34	Flag_Waving
+817408115	35	Flag_Waving
+817408115	36	Flag_Waving
+817408115	37	False_Dilemma-No_Choice,Flag_Waving
+817408115	38	
+817408115	39	
+817408115	40	Loaded_Language
+817408115	41	
+817408115	42	Doubt
+817408115	43	
+817408115	44	Loaded_Language,Repetition
+817408115	45	Doubt,Loaded_Language,Repetition
+817408115	46	
+817408115	47	
+817408115	48	Loaded_Language,Repetition
+817408115	49	
+817408115	50	
+817408115	51	
+817408115	52	
+817408115	53	
+817408115	54	
+817408115	55	Repetition
+817408115	56	
+817408115	57	
+817408115	58	
+817408115	59	
+817408115	60	
+817408115	61	Doubt
+817408115	62	Appeal_to_Fear-Prejudice,Repetition
+817408115	63	
+817408115	64	
+817408115	65	
+817408115	66	
+817408115	67	
+817408115	68	Loaded_Language
+817408115	69	Loaded_Language
+817408115	70	
+817408115	71	
+817408115	73	
+817408115	74	
+817408115	75	
+817449755	1	
+817449755	3	
+817449755	4	
+817449755	5	Loaded_Language
+817449755	6	Loaded_Language
+817449755	7	
+817449755	8	
+817449755	9	
+817449755	10	
+817449755	11	Loaded_Language
+817449755	12	
+817449755	13	
+817449755	14	
+817449755	15	
+817449755	16	
+817449755	17	
+817449755	18	
+817449755	19	
+817449755	20	
+817449755	21	
+817449755	22	
+817449755	23	Exaggeration-Minimisation
+817449755	24	
+817449755	25	
+817449755	26	Appeal_to_Popularity
+817449755	27	
+817449755	28	
+817449755	29	
+817449755	30	
+817449755	31	
+817449755	32	
+817449755	33	
+817449755	34	
+817449755	36	
+817449755	37	
+817449755	39	False_Dilemma-No_Choice
+817449755	40	
+817449755	41	
+817449755	43	
+817449755	45	
+817449755	46	
+817449755	47	
+817449755	48	
+817449755	49	
+817449755	50	
+817449755	51	
+817449755	52	
+817449755	53	Appeal_to_Fear-Prejudice
+817449755	54	
+817449755	55	Appeal_to_Fear-Prejudice
+817449755	56	
+817449755	57	
+817449755	58	
+817449755	59	
+817449755	60	
+817449755	61	Doubt
+818141325	1	
+818141325	3	
+818141325	4	
+818141325	5	Loaded_Language
+818141325	6	
+818141325	7	
+818141325	8	
+818141325	9	
+818141325	10	
+818141325	11	
+818141325	12	Loaded_Language
+818141325	13	
+818141325	14	
+818141325	15	
+818141325	16	Appeal_to_Fear-Prejudice
+818141325	17	
+818141325	18	
+818141325	19	
+818141325	20	
+818141325	21	
+818141325	22	
+818141325	23	
+818141325	24	
+818141325	25	
+818141325	26	
+820419869	1	
+820419869	3	Loaded_Language
+820419869	4	
+820419869	5	
+820419869	6	
+820419869	7	
+820419869	8	
+820419869	9	
+820419869	10	Loaded_Language
+820419869	11	Obfuscation-Vagueness-Confusion
+820419869	12	
+820419869	13	
+820419869	14	Obfuscation-Vagueness-Confusion
+820419869	15	
+820419869	16	
+820419869	17	
+820419869	18	
+820419869	19	
+820419869	20	
+820419869	21	
+820419869	22	
+820419869	23	
+820419869	24	
+820419869	25	Loaded_Language
+820419869	26	
+820419869	27	
+820419869	28	Loaded_Language
+820419869	29	
+820419869	30	
+820419869	31	
+820419869	32	
+820419869	33	
+820419869	34	
+820419869	35	
+820419869	36	
+820419869	37	
+820419869	38	
+820419869	39	
+820791520	1	
+820791520	3	
+820791520	5	
+820791520	6	Name_Calling-Labeling
+820791520	7	
+820791520	8	
+820791520	9	Loaded_Language
+820791520	10	
+820791520	11	
+820791520	12	
+820791520	13	
+820791520	14	
+820791520	15	
+820791520	16	
+820791520	17	
+820791520	18	
+820791520	19	
+820791520	20	
+820791520	21	Exaggeration-Minimisation
+820791520	22	Conversation_Killer,Loaded_Language
+820791520	23	Conversation_Killer
+820791520	24	
+820791520	25	
+820791520	26	
+820791520	27	
+820791520	28	
+820791520	29	
+820791520	30	
+820791520	31	
+820791520	32	
+820791520	33	Appeal_to_Fear-Prejudice
+820791520	34	Appeal_to_Fear-Prejudice,Loaded_Language,Repetition
+820791520	35	
+820791520	36	
+820791520	37	Name_Calling-Labeling,Repetition
+820791520	38	Name_Calling-Labeling,Repetition
+820791520	39	Loaded_Language,Red_Herring
+820791520	40	
+820791520	41	
+820791520	42	Loaded_Language,Name_Calling-Labeling
+820791520	43	
+820791520	44	Straw_Man
+820791520	45	Loaded_Language
+820791520	46	Loaded_Language,Name_Calling-Labeling,Repetition
+820791520	47	Loaded_Language
+820791520	48	
+820791520	49	Loaded_Language
+820791520	50	Name_Calling-Labeling,Repetition
+820791520	51	Loaded_Language
+820791520	52	
+820791520	53	
+820791520	54	
+820791520	55	Flag_Waving,Loaded_Language
+820791520	56	
+820791520	57	
+820791520	58	
+820791520	59	Loaded_Language,Name_Calling-Labeling,Repetition
+820791520	60	
+820791520	61	Loaded_Language
+820791520	62	
+820791520	63	Exaggeration-Minimisation
+820791520	64	
+820791520	65	Appeal_to_Fear-Prejudice
+820791520	66	
+820791520	67	Appeal_to_Fear-Prejudice,Loaded_Language
+820791520	68	
+820791520	69	
+820791520	70	Appeal_to_Fear-Prejudice,Loaded_Language
+820791520	71	
+820791520	72	Name_Calling-Labeling
+820791520	73	
+820791520	74	
+820791520	75	
+820791520	76	Loaded_Language
+820791520	77	
+820791520	78	
+820791520	79	
+820791520	80	
+820791520	81	Appeal_to_Fear-Prejudice,Loaded_Language,Name_Calling-Labeling,Repetition
+820791520	82	
+820791520	83	
+820791520	84	
+820791520	85	Loaded_Language
+820791520	86	Red_Herring
+820791520	87	
+820791520	88	Appeal_to_Fear-Prejudice
+820791520	89	Exaggeration-Minimisation
+821040551	1	
+821040551	3	Appeal_to_Fear-Prejudice
+821040551	4	Appeal_to_Fear-Prejudice,Appeal_to_Popularity
+821040551	5	Loaded_Language
+821040551	6	
+821040551	7	
+821744708	1	Appeal_to_Fear-Prejudice,Loaded_Language,Repetition
+821744708	3	Appeal_to_Fear-Prejudice,Loaded_Language,Repetition
+821744708	4	
+821744708	5	Loaded_Language
+821744708	6	
+821744708	7	Loaded_Language
+821744708	8	Appeal_to_Fear-Prejudice,Loaded_Language,Repetition
+821744708	9	
+821744708	10	
+821744708	11	False_Dilemma-No_Choice
+821744708	12	Loaded_Language
+821744708	13	Doubt
+821744708	14	Loaded_Language,Name_Calling-Labeling,Repetition
+821744708	15	Name_Calling-Labeling,Repetition
+821744708	16	
+821744708	17	
+821744708	18	
+821744708	19	
+822220578	1	
+822220578	3	
+822220578	4	
+822220578	5	
+822220578	6	
+822220578	7	
+822220578	8	
+822220578	10	
+822220578	11	
+822220578	12	
+822220578	13	
+822220578	14	Appeal_to_Authority
+822220578	15	
+822220578	16	
+822220578	17	
+822220578	18	
+822220578	19	
+822220578	20	
+822220578	22	Appeal_to_Popularity
+822220578	23	
+822220578	24	
+822220578	25	Exaggeration-Minimisation,Loaded_Language
+822220578	26	
+822220578	27	
+822220578	28	
+822220578	29	
+822220578	30	False_Dilemma-No_Choice
+822220578	31	
+822220578	32	
+822220578	33	
+822220578	34	
+822220578	35	
+822220578	36	
+822220578	37	
+822295249	1	
+822295249	3	
+822295249	4	
+822295249	5	
+822295249	6	
+822295249	7	
+822942601	1	
+822942601	3	Loaded_Language
+822942601	4	
+822942601	5	Exaggeration-Minimisation
+822942601	6	
+822942601	7	
+822942601	8	
+822942601	9	Loaded_Language
+822942601	10	Doubt,Loaded_Language
+822942601	11	
+822942601	12	Loaded_Language,Name_Calling-Labeling
+822942601	13	
+822942601	14	Appeal_to_Fear-Prejudice,Exaggeration-Minimisation,Loaded_Language
+822942601	15	
+822942601	16	
+822942601	17	
+822942601	18	
+822942601	19	Loaded_Language
+822942601	20	Appeal_to_Fear-Prejudice,Loaded_Language
+822942601	21	
+822942601	22	Loaded_Language
+822942601	23	Appeal_to_Fear-Prejudice
+822942601	24	Appeal_to_Fear-Prejudice
+822942601	25	
+822942601	26	Loaded_Language
+822942601	27	Repetition
+822942601	28	
+822942601	29	Repetition
+822942601	30	Doubt,Loaded_Language
+822942601	31	Repetition
+822942601	32	Loaded_Language
+822942601	33	
+822942601	34	Loaded_Language
+822942601	35	Loaded_Language
+822942601	36	Flag_Waving
+822942601	37	Flag_Waving
+822942601	38	Appeal_to_Authority,Exaggeration-Minimisation
+822942601	39	
+822942601	40	Doubt
+822942601	41	Exaggeration-Minimisation,Loaded_Language
+822942601	42	Doubt
+822942601	43	Loaded_Language
+822942601	44	
+822942601	45	
+824256050	1	
+824256050	3	
+824256050	4	
+824256050	5	
+824256050	6	
+824256050	7	
+824256050	8	
+824256050	9	
+824256050	10	
+824256050	11	
+824256050	12	
+824256050	13	
+824256050	14	
+824256050	15	
+824256050	16	
+824256050	17	
+824256050	18	
+824256050	19	
+824256050	20	
+824256050	21	
+824256050	22	
+824256050	23	
+824256050	24	
+824256050	25	
+824256050	26	
+824256050	27	
+824256050	28	
+824256050	29	
+824256050	30	
+824256050	31	
+824256050	32	
+824256050	33	Loaded_Language
+824256050	34	
+824256050	35	
+824256050	36	
+824256050	37	
+824256050	38	
+824256050	39	
+824256050	40	
+824256050	41	
+824256050	42	
+824256050	43	
+824256050	44	
+824256050	45	
+824256050	46	Appeal_to_Fear-Prejudice,Repetition
+824256050	47	
+824256050	48	
+824256050	49	
+824256050	50	
+824256050	51	
+824256050	52	
+824256050	53	
+824256050	54	
+824256050	55	
+824256050	56	Appeal_to_Popularity
+824256050	57	Appeal_to_Popularity
+824256050	58	
+824256050	59	
+824256050	60	
+824256050	61	
+824350729	1	Loaded_Language,Name_Calling-Labeling
+824350729	3	Loaded_Language
+824350729	4	
+824350729	5	Name_Calling-Labeling
+824350729	6	
+824350729	7	
+824350729	8	
+824350729	9	
+824350729	10	Loaded_Language,Repetition
+824350729	11	False_Dilemma-No_Choice,Repetition
+824350729	12	
+824350729	13	
+824350729	14	Repetition
+824350729	15	
+824350729	16	
+824350729	17	
+824350729	18	Loaded_Language
+824350729	19	
+824350729	20	
+824350729	21	
+824350729	22	
+824350729	23	
+824658990	1	Loaded_Language
+824658990	3	Loaded_Language,Repetition
+824658990	4	
+824658990	5	Repetition
+824658990	6	
+824658990	7	Conversation_Killer,Loaded_Language
+824658990	8	Loaded_Language
+824658990	9	Loaded_Language
+824658990	10	Repetition
+824658990	11	Appeal_to_Authority,Loaded_Language,Name_Calling-Labeling
+824658990	12	
+824658990	13	
+824658990	15	
+824658990	16	Slogans
+824658990	17	
+824658990	18	
+824658990	19	
+824658990	20	
+824658990	21	Conversation_Killer
+824658990	22	Loaded_Language,Repetition
+824658990	23	
+824658990	24	Name_Calling-Labeling
+824658990	25	
+824658990	26	
+824658990	27	
+824658990	28	
+824658990	29	Loaded_Language
+824658990	30	Conversation_Killer
+824658990	31	
+824658990	32	
+824658990	33	
+824658990	34	Loaded_Language
+824658990	35	
+824658990	36	
+824658990	37	False_Dilemma-No_Choice
+824658990	38	
+824658990	39	
+824658990	40	
+824658990	41	
+824658990	42	Appeal_to_Fear-Prejudice
+824658990	43	Loaded_Language
+824658990	44	
+824658990	45	
+824658990	46	
+824684605	1	Repetition
+824684605	3	Loaded_Language
+824684605	4	
+824684605	5	Repetition
+824684605	6	Loaded_Language
+824684605	7	
+824684605	8	Loaded_Language
+824684605	9	
+824684605	10	Exaggeration-Minimisation
+824684605	11	Loaded_Language,Repetition
+824684605	12	Loaded_Language,Repetition
+824684605	13	Appeal_to_Authority,Appeal_to_Fear-Prejudice
+824684605	14	Loaded_Language,Repetition
+824684605	15	Loaded_Language
+824684605	16	
+824684605	17	
+824684605	18	Obfuscation-Vagueness-Confusion
+824684605	19	
+824684605	20	
+824684605	21	
+824684605	22	
+824684605	23	Appeal_to_Authority,Appeal_to_Fear-Prejudice
+824684605	24	
+824684605	25	Slogans
+824684605	26	Repetition
+824684605	27	
+828866387	1	
+828866387	3	
+828866387	4	
+828866387	5	
+828866387	6	
+828866387	7	
+828866387	8	
+828866387	9	
+829267754	1	
+829267754	3	
+829267754	4	Doubt
+829267754	5	
+829267754	6	
+829267754	7	Loaded_Language
+829267754	8	
+829267754	9	
+829267754	10	
+829267754	11	
+829267754	12	
+829267754	13	
+829267754	14	
+829267754	15	Loaded_Language
+829267754	16	
+829267754	17	
+829267754	18	
+829267754	19	
+829267754	20	
+829267754	21	
+829267754	22	
+829267754	23	
+829267754	24	
+829267754	25	Obfuscation-Vagueness-Confusion
+829267754	26	
+829267754	27	Slogans
+829267754	28	
+829267754	29	
+829267754	30	
+829267754	31	
+829267754	32	
+829267754	33	
+829267754	34	
+829267754	35	
+829267754	36	
+829267754	37	
+829267754	38	
+829267754	39	
+829267754	40	
+829267754	41	
+829267754	42	
+829267754	43	
+829267754	44	
+829267754	45	
+829267754	46	
+829267754	47	
+829267754	48	
+829267754	49	
+829267754	50	
+829267754	51	
+829267754	52	
+829267754	53	
+829267754	54	
+829267754	55	
+829267754	56	Loaded_Language
+829267754	57	
+829267754	58	Loaded_Language
+829267754	59	
+829267754	60	
+829267754	61	
+829267754	62	
+829267754	63	
+829267754	64	
+829267754	65	
+829267754	66	
+829267754	67	
+829267754	68	
+829267754	69	Loaded_Language
+829267754	70	
+829267754	71	
+829267754	72	
+829267754	73	
+829267754	74	
+829267754	75	Name_Calling-Labeling
+829267754	76	
+829267754	77	
+829267754	78	
+829267754	79	
+829267754	80	
+829815104	1	
+829815104	3	
+829815104	4	
+829815104	5	Obfuscation-Vagueness-Confusion,Repetition
+829815104	6	Obfuscation-Vagueness-Confusion,Repetition
+829815104	7	Loaded_Language
+829815104	8	
+829815104	9	
+829815104	10	
+829815104	11	
+829815104	12	
+829815104	13	Slogans
+829815104	14	Conversation_Killer
+829815104	15	
+829815104	16	Loaded_Language
+829815104	17	
+829815104	18	
+829815104	19	
+829815104	20	Red_Herring
+829815104	21	Name_Calling-Labeling,Red_Herring
+829815104	22	Loaded_Language
+829815104	23	
+829815104	24	
+829815104	25	
+829815104	26	
+829815104	27	
+829815104	28	
+829815104	29	
+829815104	30	Loaded_Language,Repetition
+829815104	31	Repetition
+829815104	32	
+829815104	33	
+829815104	34	
+829815104	35	
+829815104	36	
+829815104	37	
+829815104	38	
+829815104	39	
+829815104	40	
+829815104	41	
+829815104	42	
+829815104	43	
+829815104	44	
+829815104	45	
+829815104	46	
+829815104	47	Exaggeration-Minimisation
+829815104	48	
+829815104	49	
+830153674	1	Repetition
+830153674	3	Loaded_Language,Repetition
+830153674	4	Loaded_Language
+830153674	5	
+830153674	6	Loaded_Language,Obfuscation-Vagueness-Confusion
+830153674	7	Loaded_Language,Repetition
+830153674	8	
+830274102	1	Loaded_Language
+830274102	3	
+830274102	4	
+830274102	5	Appeal_to_Fear-Prejudice
+830274102	6	Appeal_to_Fear-Prejudice,Loaded_Language
+830274102	7	Loaded_Language
+830274102	8	
+830274102	9	
+830274102	10	Loaded_Language
+830274102	11	
+830274102	12	
+830274102	13	
+830274102	14	Name_Calling-Labeling
+830274102	15	
+830274102	16	
+830274102	17	Loaded_Language
+830274102	18	Loaded_Language
+830274102	19	Doubt
+830274102	20	
+830274102	21	
+830274102	22	
+830274102	23	
+830274102	24	
+830274102	25	
+830274102	26	
+830274102	27	Loaded_Language
+830274102	28	
+830274102	29	
+830274102	30	
+830274102	31	
+830274102	32	False_Dilemma-No_Choice
+830274102	33	
+830274102	34	False_Dilemma-No_Choice
+830274102	35	
+830274102	36	Loaded_Language
+830274102	37	
+830274102	38	
+830274102	39	
+830274102	40	
+830274102	41	
+830274102	42	
+830274102	43	
+830274102	44	Appeal_to_Fear-Prejudice,Loaded_Language
+830274102	45	Loaded_Language
+830274102	46	
+830274102	47	
+830274102	48	
+830274102	49	
+830274102	50	
+830274102	51	
+830274102	52	
+830274102	53	
+830274102	54	Slogans
+830359136	1	
+830359136	3	Repetition
+830359136	4	
+830359136	5	Repetition
+830359136	6	Loaded_Language
+830359136	7	
+830359136	8	Loaded_Language
+830359136	9	Loaded_Language
+830359136	10	Conversation_Killer
+830359136	11	Repetition
+830359136	12	Repetition
+830359136	13	Appeal_to_Fear-Prejudice,Loaded_Language,Name_Calling-Labeling,Repetition
+830359136	14	
+830359136	15	
+830359136	16	Loaded_Language,Name_Calling-Labeling
+830359136	17	Exaggeration-Minimisation
+830359136	18	Name_Calling-Labeling
+830359136	19	Repetition
+830359136	20	Flag_Waving,Repetition
+830359136	21	Loaded_Language,Repetition
+830359136	22	
+830359136	23	Repetition
+830359136	24	
+830359136	25	
+830359136	26	
+830359136	27	
+830359136	28	
+830359136	29	
+830359136	30	
+830359423	1	
+830359423	3	
+830359423	4	Conversation_Killer
+830359423	5	Appeal_to_Fear-Prejudice
+830359423	6	
+830359423	7	
+830359423	8	
+830359423	9	Doubt,Loaded_Language,Name_Calling-Labeling
+830359423	10	Appeal_to_Fear-Prejudice
+830359423	11	
+830359423	12	
+830359423	13	
+830359423	14	
+830359423	15	
+830359423	16	
+830359423	17	
+830359423	18	Appeal_to_Fear-Prejudice
+830359423	19	
+830359423	20	
+830359423	21	
+830359423	22	
+830359423	23	Appeal_to_Fear-Prejudice
+830359423	24	Loaded_Language
+830359423	25	
+830359423	26	
+830359423	27	Appeal_to_Fear-Prejudice
+830359423	28	Causal_Oversimplification,Doubt
+830359423	29	Flag_Waving
+830359423	30	Loaded_Language
+830359423	31	
+830359423	32	False_Dilemma-No_Choice,Loaded_Language
+830359423	33	
+830359423	34	
+830359423	35	
+830359423	36	
+830359423	37	
+830359423	38	
+830359423	39	
+830359423	40	
+830359423	41	Repetition
+830359423	42	
+830359423	43	Repetition
+830359423	44	
+830359423	45	Causal_Oversimplification
+830359423	46	
+830359423	47	
+830359423	48	
+830359423	49	
+830359423	50	
+830359423	51	
+830359423	52	
+830359423	53	
+830821478	1	
+830821478	3	Exaggeration-Minimisation,Loaded_Language
+830821478	4	
+830821478	5	Loaded_Language
+830821478	6	
+830821478	7	
+830821478	8	
+830821478	9	
+830821478	10	
+830821478	11	
+830821478	12	
+830821478	13	
+830821478	14	Loaded_Language
+830821478	15	
+830821478	16	
+830821478	17	
+830821478	18	
+830821478	19	
+830821478	20	
+830821478	21	
+830821478	22	Loaded_Language
+830821478	23	Exaggeration-Minimisation
+830821478	24	
+830821478	25	Loaded_Language
+830821478	26	Loaded_Language
+830821478	27	
+832269185	1	
+832269185	3	
+832269185	4	
+832269185	5	
+832269185	6	
+832918490	1	
+832918490	3	
+832918490	4	
+832918490	5	
+832918490	6	
+832918490	7	
+832918490	8	Exaggeration-Minimisation
+832918490	9	
+832918490	10	Repetition
+832918490	11	
+832920387	1	
+832920387	2	
+832920387	4	
+832920387	5	
+832920387	6	Loaded_Language
+832920387	7	
+832920387	8	
+832920387	9	
+832920387	10	
+832920387	11	
+832920387	12	
+832920387	13	
+832920387	14	
+832920387	15	
+832920387	16	
+832920387	17	Loaded_Language
+832920387	18	
+832920387	19	
+832920387	20	
+832920387	21	
+832920387	22	
+832920387	23	
+832920387	24	
+832920387	25	
+832920387	26	
+832920387	27	
+832920387	28	
+832920387	29	
+832920387	30	
+832920387	31	
+832920387	32	
+832920387	33	
+832920387	34	
+832920387	35	
+832920387	36	Flag_Waving
+832920387	37	
+832920387	38	
+832920387	39	
+832920387	40	
+832920387	41	
+832920387	42	
+832920387	43	
+832926076	1	Loaded_Language
+832926076	3	
+832926076	4	Loaded_Language
+832926076	5	Loaded_Language
+832926076	6	
+832926076	7	
+832926076	8	
+832926076	9	
+832926076	10	Loaded_Language
+832926076	11	
+832926076	12	Red_Herring
+832926076	13	Red_Herring
+832926076	14	Name_Calling-Labeling
+832926076	15	
+832926076	16	
+832926076	17	
+832926076	18	
+832926076	19	
+832926076	20	
+832926076	21	
+832926076	22	
+832926076	23	
+832926076	24	
+832926076	25	
+832926076	26	
+832926076	27	
+832926076	28	
+832926076	29	
+832926076	30	
+832926076	31	
+832926076	32	
+832926076	33	
+832926076	34	
+832926076	35	Doubt
+832926076	36	
+832926076	37	
+832926076	38	
+832931332	1	
+832931332	3	Appeal_to_Fear-Prejudice,False_Dilemma-No_Choice,Flag_Waving,Loaded_Language
+832931332	4	Repetition
+832931332	5	Doubt
+832931332	6	Exaggeration-Minimisation
+832931332	7	Name_Calling-Labeling
+832931332	8	
+832931332	9	
+832931332	10	Loaded_Language
+832931332	11	Loaded_Language
+832931332	12	Loaded_Language,Name_Calling-Labeling
+832931332	13	Red_Herring
+832931332	14	Loaded_Language,Name_Calling-Labeling
+832931332	15	Doubt,Flag_Waving
+832931332	16	
+832931332	17	
+832931332	18	Exaggeration-Minimisation,Loaded_Language
+832931332	19	Conversation_Killer
+832931332	20	Name_Calling-Labeling
+832931332	21	Loaded_Language
+832931332	22	Doubt,Exaggeration-Minimisation,Flag_Waving,Loaded_Language
+832931332	23	Doubt
+832931332	24	
+832931332	25	Doubt,Name_Calling-Labeling
+832931332	26	Doubt,Flag_Waving
+832931332	27	Repetition
+832931332	28	Loaded_Language
+832931332	29	Loaded_Language,Name_Calling-Labeling
+832931332	30	
+832931332	31	Conversation_Killer,Exaggeration-Minimisation
+832931332	32	Loaded_Language
+832931332	33	Appeal_to_Popularity,Doubt,Name_Calling-Labeling
+832931332	34	Loaded_Language
+832931332	35	Doubt
+832931332	36	
+832931332	37	Repetition
+832931332	38	
+832931332	39	
+832931332	40	Appeal_to_Fear-Prejudice,Flag_Waving,Loaded_Language
+832931332	41	Appeal_to_Fear-Prejudice
+832931332	42	False_Dilemma-No_Choice
+832931332	43	Loaded_Language,Name_Calling-Labeling,Repetition
+832931332	44	
+832931332	45	
+832931332	46	
+832931332	47	
+832931332	48	Red_Herring
+832931332	49	Red_Herring
+832931332	50	Red_Herring
+832931332	51	Loaded_Language,Name_Calling-Labeling,Slogans
+832931332	52	
+832931332	53	Exaggeration-Minimisation
+832931332	54	
+832931332	55	
+832931332	56	
+832931332	57	
+832931332	58	
+832931332	59	
+832931332	60	
+832931332	61	
+832933796	1	Loaded_Language
+832933796	3	Loaded_Language,Repetition
+832933796	4	
+832933796	5	
+832933796	6	
+832933796	7	
+832933796	8	
+832933796	9	
+832933796	10	
+832933796	11	
+832933796	12	
+832933796	13	
+832933796	14	
+832933796	15	
+832933796	16	
+832934428	1	
+832934428	3	Name_Calling-Labeling,Obfuscation-Vagueness-Confusion
+832934428	4	
+832934428	5	Loaded_Language
+832934428	6	Name_Calling-Labeling
+832934428	7	Appeal_to_Fear-Prejudice
+832934428	8	Doubt
+832934428	9	
+832934428	10	Doubt
+832934428	11	
+832934428	12	
+832940138	1	Name_Calling-Labeling
+832940138	3	
+832940138	4	Repetition
+832940138	5	Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling
+832940138	6	Loaded_Language,Name_Calling-Labeling
+832940138	7	Exaggeration-Minimisation
+832940138	8	Appeal_to_Authority
+832940138	9	
+832940138	10	
+832940138	11	
+832940138	12	
+832940138	13	
+832940138	14	
+832940138	15	
+832940138	16	Loaded_Language,Name_Calling-Labeling
+832940138	17	
+832940138	18	
+832940138	19	
+832940138	20	
+832940138	21	
+832940138	22	
+832940138	23	Loaded_Language
+832940138	24	Doubt
+832940138	25	
+832940138	26	
+832940138	27	
+832940138	28	
+832940138	29	Loaded_Language
+832940138	30	
+832940138	31	Appeal_to_Authority
+832940138	32	Doubt,Loaded_Language
+832940138	33	
+832940138	34	
+832940138	35	Doubt
+832940138	36	Loaded_Language
+832940138	37	
+832940138	38	
+832940138	39	
+832940138	40	Loaded_Language
+832940138	41	Doubt
+832940138	42	Exaggeration-Minimisation,Flag_Waving,Slogans
+832940138	43	Loaded_Language
+832940138	44	Conversation_Killer
+832940138	45	
+832940138	46	
+832940138	47	Conversation_Killer
+832940138	48	Name_Calling-Labeling
+832940138	49	Name_Calling-Labeling
+832940138	50	Appeal_to_Hypocrisy
+832940138	51	Red_Herring
+832940138	52	
+832940138	53	Straw_Man
+832940138	54	
+832940138	55	
+832940138	56	
+832940138	57	Loaded_Language
+832940138	58	
+832940138	59	
+832940138	60	Loaded_Language
+832940138	61	Red_Herring
+832940138	62	Red_Herring
+832940138	63	
+832940138	64	Loaded_Language
+832940138	65	
+832940138	66	
+832940138	67	
+832941978	1	
+832941978	3	
+832941978	4	
+832941978	5	
+832941978	6	
+832941978	7	
+832941978	8	
+832941978	9	Exaggeration-Minimisation
+832941978	10	Appeal_to_Popularity,Repetition
+832941978	11	
+832941978	12	Exaggeration-Minimisation,Name_Calling-Labeling
+832941978	13	
+832941978	14	Flag_Waving
+832941978	15	Doubt,Flag_Waving
+832941978	16	
+832941978	17	
+832941978	18	
+832941978	19	
+832941978	20	
+832941978	21	
+832941978	22	
+832941978	23	
+832941978	24	
+832941978	25	Loaded_Language
+832941978	26	
+832941978	27	
+832941978	28	
+832941978	29	Exaggeration-Minimisation,Loaded_Language
+832941978	30	
+832941978	31	
+832941978	32	Repetition
+832941978	33	Flag_Waving,Slogans
+832941978	34	
+832941978	35	
+832941978	36	Repetition,Slogans
+832941978	37	
+832941978	38	
+832941978	39	Exaggeration-Minimisation,Loaded_Language
+832941978	40	
+832941978	41	
+832941978	42	
+832941978	43	
+832941978	44	
+832941978	45	
+832941978	46	
+832941978	47	
+832941978	48	
+832941978	49	
+832941978	50	
+832941978	51	Name_Calling-Labeling
+832941978	52	
+832941978	53	
+832941978	54	
+832941978	55	Appeal_to_Popularity
+832941978	56	Appeal_to_Popularity,Repetition
+832941978	57	Doubt,Repetition
+832941978	58	
+832941978	59	
+832941978	60	
+832941978	61	
+832941978	62	Loaded_Language
+832941978	63	False_Dilemma-No_Choice,Loaded_Language
+832941978	64	Flag_Waving
+832941978	65	
+832941978	66	
+832941978	67	Doubt,Flag_Waving
+832941978	68	
+832941978	69	
+832941978	70	
+832941978	71	Repetition
+832941978	72	Repetition
+832941978	73	
+832941978	74	
+832941978	75	
+832941978	76	
+832941978	77	
+832941978	78	
+832941978	79	
+832941978	80	
+832947554	1	
+832947554	3	Name_Calling-Labeling
+832947554	4	Loaded_Language
+832947554	5	
+832947554	6	
+832947554	7	Loaded_Language
+832947554	8	Loaded_Language
+832947554	9	
+832947554	10	Doubt
+832947554	11	False_Dilemma-No_Choice
+832947554	12	
+832947554	13	
+832947554	14	
+832947600	1	Appeal_to_Fear-Prejudice,Flag_Waving
+832947600	3	
+832947600	4	Appeal_to_Fear-Prejudice,Flag_Waving
+832947600	5	Doubt,Exaggeration-Minimisation,Flag_Waving,Loaded_Language
+832947600	6	Flag_Waving,Straw_Man
+832947600	7	Exaggeration-Minimisation,Flag_Waving,Loaded_Language
+832947600	8	Loaded_Language
+832947600	9	
+832947600	10	Flag_Waving
+832947852	1	Name_Calling-Labeling
+832947852	3	
+832947852	4	Loaded_Language
+832947852	5	Exaggeration-Minimisation,Name_Calling-Labeling
+832947852	6	Doubt
+832947852	7	
+832947852	8	Name_Calling-Labeling
+832947852	9	
+832947852	10	Doubt
+832947852	11	Doubt,Name_Calling-Labeling,Repetition
+832947852	12	Doubt,Loaded_Language
+832947852	13	Doubt
+832947852	14	
+832947852	15	
+832947852	16	
+832947852	17	Loaded_Language
+832947852	18	
+832947852	19	Name_Calling-Labeling
+832947852	20	Doubt
+832947852	21	Name_Calling-Labeling
+832947852	22	Exaggeration-Minimisation
+832947852	23	Loaded_Language,Name_Calling-Labeling,Repetition
+832947852	24	Loaded_Language,Name_Calling-Labeling
+832947852	25	
+832947852	26	Doubt
+832947852	27	
+832947852	28	
+832948083	1	
+832948083	3	
+832948083	4	Loaded_Language
+832948083	5	Loaded_Language
+832948083	6	Loaded_Language
+832948083	7	
+832948083	8	Doubt
+832948083	9	
+832948083	10	
+832948083	11	
+832948083	12	
+832948083	13	Name_Calling-Labeling
+832948083	14	Doubt
+832948083	15	Doubt
+832948083	16	
+832948083	17	
+832948083	18	
+832948083	19	
+832948083	20	
+832948083	22	Loaded_Language
+832948083	23	
+832948083	24	
+832948083	25	
+832948083	26	
+832948083	27	
+832948083	28	
+832948083	29	
+832948083	30	
+832948083	31	Loaded_Language
+832948083	32	
+832948083	33	
+832948083	34	Flag_Waving
+832948083	35	
+832948083	36	Doubt
+832948083	37	
+832948083	38	
+832948083	39	
+832948083	40	
+832948083	41	
+832948083	42	
+832948083	44	
+832948083	45	
+832948083	46	Loaded_Language
+832948083	47	
+832948083	48	Loaded_Language
+832948083	49	Loaded_Language
+832948083	50	Doubt
+832948083	51	
+832948083	52	
+832948083	53	Doubt,Flag_Waving,Loaded_Language
+832948083	54	
+832948083	55	
+832948083	56	Doubt
+832948083	57	Doubt
+832948083	58	
+832948083	59	Loaded_Language,Name_Calling-Labeling
+832948083	60	Name_Calling-Labeling
+832956618	1	
+832956618	3	Doubt
+832956618	4	Doubt
+832956618	5	
+832956618	6	
+832956618	7	
+832956618	8	
+832956618	9	
+832956618	10	
+832956618	11	
+832956618	12	
+832956618	13	
+832956618	14	
+832956618	15	
+832956618	16	
+832956618	17	
+832956618	18	
+832956618	19	
+832956618	20	
+832956618	21	
+832956618	22	
+832956618	23	
+832956618	24	
+832956618	25	
+832956618	26	
+832956618	27	
+832956618	28	
+832956618	29	
+832956618	30	
+832956618	31	
+832956618	32	
+832956618	33	
+832956618	34	
+832956618	35	
+832956618	36	
+832956618	37	
+832956618	38	
+832956618	39	
+832959523	1	
+832959523	3	
+832959523	4	
+832959523	5	
+832959523	6	
+832959523	7	
+832959523	8	
+832959523	9	
+832959523	10	Obfuscation-Vagueness-Confusion
+832959523	11	
+832959523	12	Obfuscation-Vagueness-Confusion
+832959523	13	
+832959523	14	False_Dilemma-No_Choice
+832959523	15	
+832959523	16	
+832959523	17	Appeal_to_Fear-Prejudice,Loaded_Language
+832959523	18	Appeal_to_Fear-Prejudice,Loaded_Language
+832959523	19	
+832959523	20	
+832959523	21	Appeal_to_Authority
+832959523	22	Appeal_to_Authority
+832959523	23	Appeal_to_Authority
+832959523	24	
+832959523	25	
+832959523	26	
+832959523	27	
+832959523	28	
+832959523	29	
+832959523	30	
+832959523	31	
+832959523	32	
+832959523	33	
+832959523	34	
+832959523	35	
+832959523	36	
+832959523	37	
+832959523	38	Name_Calling-Labeling
+832959523	39	Name_Calling-Labeling
+832959523	40	Name_Calling-Labeling
+832959523	41	Name_Calling-Labeling
+832959523	42	
+832959523	43	
+832959523	44	
+832959523	45	Appeal_to_Fear-Prejudice
+832959523	46	Repetition
+832959523	47	
+832959523	48	Appeal_to_Fear-Prejudice,Repetition
+832959523	49	
+832959523	50	
+832959523	51	
+832959523	52	Doubt
+832959523	53	
+832959523	54	
+832971448	1	
+832971448	3	
+832971448	4	
+832971448	5	
+832971448	6	
+832971448	7	Name_Calling-Labeling
+832971448	8	
+832971448	9	
+832971448	10	
+832971448	11	
+832971448	12	
+832971448	13	
+832971448	14	
+832971448	15	
+832971448	16	
+832971448	17	
+832971448	18	
+832971448	19	
+832971448	20	
+832971448	21	
+832971448	22	
+832971448	23	
+832971448	24	Loaded_Language
+832971448	25	
+832971448	26	
+832971448	27	Loaded_Language
+832971448	28	
+832971448	29	Loaded_Language
+832971448	30	
+832971448	31	
+832971448	32	
+832971448	33	
+832971448	34	
+832971448	35	
+832971448	36	
+832971448	37	
+832971448	38	Loaded_Language
+832971448	39	Name_Calling-Labeling
+832971448	40	
+832971448	41	
+832971448	42	Name_Calling-Labeling
+832971448	43	Name_Calling-Labeling
+832971448	44	
+832971448	45	
+832971448	46	
+832971448	47	Loaded_Language
+832971448	48	
+832971448	49	Doubt,Loaded_Language
+832971448	50	
+832971448	51	
+832971448	52	Doubt,Loaded_Language,Repetition
+832971448	53	
+832971448	54	Loaded_Language
+832971448	55	Loaded_Language
+832971448	56	
+832971448	57	
+832971448	58	
+832971448	59	
+832971448	60	
+832971448	61	
+832971448	62	
+832971448	63	
+832971448	64	Loaded_Language
+832971448	65	
+832971448	66	
+832971448	67	
+832971448	68	
+832971448	69	
+832971448	70	Loaded_Language
+832971448	71	
+832971448	72	Name_Calling-Labeling
+832971448	73	
+832971448	74	
+832971448	75	
+832971448	76	
+832971448	77	
+832971448	78	
+832984694	1	
+832984694	3	
+832984694	4	
+832984694	5	
+832984694	6	
+832984694	7	Loaded_Language,Name_Calling-Labeling
+832984694	8	Loaded_Language,Name_Calling-Labeling
+832984694	9	
+832984694	10	
+832984694	11	Repetition
+832984694	12	
+832984694	13	
+832984694	14	
+832984694	15	Loaded_Language
+832984694	16	Exaggeration-Minimisation,Name_Calling-Labeling
+833013834	1	Loaded_Language
+833013834	3	Name_Calling-Labeling
+833013834	4	
+833013834	5	
+833013834	6	
+833013834	7	
+833013834	8	
+833013834	9	Loaded_Language,Name_Calling-Labeling
+833013834	10	Loaded_Language
+833013834	11	Name_Calling-Labeling
+833013834	12	
+833013834	13	Loaded_Language
+833013834	14	
+833013834	15	Flag_Waving
+833013834	16	
+833013834	17	
+833013834	18	
+833013834	19	Loaded_Language
+833013834	20	Appeal_to_Fear-Prejudice
+833013834	21	
+833013834	22	
+833013834	23	Exaggeration-Minimisation,Flag_Waving,Loaded_Language
+833013834	24	
+833013834	25	Name_Calling-Labeling
+833013834	26	Name_Calling-Labeling
+833013834	27	
+833013834	28	
+833013834	29	
+833013834	30	
+833013834	31	
+833013834	32	Doubt
+833013834	33	Loaded_Language
+833013834	34	
+833013834	35	
+833013834	36	
+833013834	37	
+833013834	38	
+833013834	39	Name_Calling-Labeling
+833013834	40	
+833013834	41	Doubt
+833013834	42	
+833013834	43	
+833013834	44	
+833018464	1	
+833018464	3	Name_Calling-Labeling
+833018464	4	Loaded_Language,Name_Calling-Labeling
+833018464	5	
+833018464	6	
+833018464	7	
+833018464	8	Doubt
+833018464	9	Doubt,Loaded_Language
+833018464	10	Name_Calling-Labeling
+833018464	11	Loaded_Language,Name_Calling-Labeling
+833018464	12	Doubt
+833018464	13	
+833018464	14	Loaded_Language,Name_Calling-Labeling
+833018464	15	Loaded_Language
+833018464	16	
+833018464	17	
+833018464	18	Loaded_Language
+833018464	19	Doubt
+833018464	20	Doubt
+833018464	21	
+833018464	22	
+833018464	23	Doubt
+833018464	24	
+833018464	25	
+833018464	26	Doubt,Loaded_Language
+833018464	27	
+833021113	1	Loaded_Language
+833021113	3	Name_Calling-Labeling
+833021113	4	
+833021113	5	
+833021113	6	Doubt
+833021113	7	
+833021113	8	
+833021113	9	
+833021113	10	
+833021113	11	Causal_Oversimplification
+833021113	12	
+833021113	13	Loaded_Language
+833021113	14	
+833021113	15	Causal_Oversimplification
+833021113	16	
+833021113	17	
+833021113	18	
+833021113	19	
+833021113	20	
+833021113	21	
+833024133	1	Doubt
+833024133	3	
+833024133	4	Doubt
+833024133	5	Doubt
+833024133	6	Doubt
+833024133	7	
+833024133	8	
+833024133	9	Name_Calling-Labeling
+833024133	10	Doubt
+833024133	11	
+833024133	12	
+833024133	13	Doubt,Flag_Waving
+833024133	14	
+833024133	15	Flag_Waving
+833024133	16	
+833024133	17	
+833024696	1	
+833024696	3	
+833024696	4	
+833024696	5	Loaded_Language
+833024696	6	
+833024696	7	Flag_Waving
+833024696	8	
+833024696	9	Flag_Waving
+833024696	10	
+833024696	11	
+833024696	12	
+833024696	13	
+833024696	14	
+833024696	15	
+833024696	16	
+833024696	17	
+833024696	18	
+833024696	19	Flag_Waving
+833024696	20	
+833024696	21	Flag_Waving
+833024696	22	
+833024696	23	
+833024696	24	
+833024696	25	Flag_Waving,Repetition
+833024696	26	
+833024696	27	Flag_Waving
+833024696	28	
+833024696	29	
+833024696	30	
+833024696	31	
+833024696	32	Flag_Waving,Repetition,Slogans
+833024696	33	Doubt
+833024696	34	
+833024696	35	
+833024696	36	
+833024696	37	Doubt,Loaded_Language
+833024696	38	Loaded_Language,Name_Calling-Labeling
+833024696	39	
+833024696	40	
+833024696	41	
+833024696	42	
+833028146	1	Slogans
+833028146	3	Loaded_Language
+833028146	4	
+833028146	5	
+833028146	6	Doubt,Loaded_Language,Repetition
+833028146	7	Loaded_Language
+833028146	8	
+833028146	9	Slogans
+833028146	10	Doubt,Loaded_Language,Name_Calling-Labeling
+833028146	11	Loaded_Language
+833028146	12	
+833028680	1	
+833028680	3	
+833028680	4	
+833028680	5	
+833028680	6	
+833028680	7	
+833028680	8	
+833028680	9	
+833028680	10	
+833028680	11	
+833028680	12	
+833028680	13	Doubt
+833028680	14	Doubt
+833028680	15	
+833028680	16	False_Dilemma-No_Choice
+833028680	17	
+833028680	18	
+833028680	19	Doubt
+833028680	20	
+833028680	21	
+833028932	1	
+833028932	3	
+833028932	4	
+833028932	5	
+833028932	6	
+833028932	7	
+833028932	8	
+833028932	9	
+833028932	10	Doubt,Name_Calling-Labeling
+833028932	11	Doubt
+833028932	12	
+833028932	13	
+833028932	14	
+833028932	15	
+833028932	16	
+833028932	17	
+833028932	18	
+833028932	19	Doubt
+833028932	20	
+833028932	21	
+833028932	22	
+833028932	23	Loaded_Language
+833028932	24	Loaded_Language,Name_Calling-Labeling
+833028932	25	
+833028932	26	
+833028932	27	
+833028932	28	
+833028932	29	
+833028932	30	
+833028932	31	
+833028932	32	False_Dilemma-No_Choice,Loaded_Language
+833028932	33	
+833028932	34	
+833028932	35	
+833028932	36	
+833028932	37	
+833028932	38	
+833028932	39	
+833028932	40	
+833028932	41	
+833028932	42	
+833028932	43	
+833032366	1	
+833032366	3	
+833032366	4	
+833032366	5	
+833032366	6	Name_Calling-Labeling
+833032366	7	
+833032366	8	Appeal_to_Authority
+833032366	9	
+833032366	10	
+833032366	11	
+833032366	12	
+833032366	13	
+833032366	14	
+833032366	15	
+833032366	16	False_Dilemma-No_Choice,Flag_Waving
+833032366	17	Flag_Waving
+833032366	18	
+833032366	19	
+833032366	20	
+833032367	1	
+833032367	3	Name_Calling-Labeling
+833032367	4	Name_Calling-Labeling
+833032367	5	Name_Calling-Labeling
+833032367	6	Causal_Oversimplification,Doubt,Name_Calling-Labeling
+833032367	7	
+833032367	8	
+833032367	9	
+833032367	10	
+833032367	11	Doubt
+833032367	12	
+833032367	13	
+833032367	14	Exaggeration-Minimisation
+833032367	15	
+833032367	16	
+833032367	17	
+833032367	18	
+833032367	19	
+833032367	20	
+833032367	21	
+833032367	22	
+833032367	23	
+833032367	24	
+833032367	25	
+833032367	26	
+833032367	27	
+833032367	28	
+833032367	29	
+833032367	30	
+833032367	31	
+833032367	32	
+833032367	33	
+833032367	34	Doubt
+833032367	35	
+833032367	36	Flag_Waving
+833032367	37	Appeal_to_Fear-Prejudice,False_Dilemma-No_Choice
+833036176	1	Doubt
+833036176	2	
+833036176	4	Loaded_Language
+833036176	5	
+833036176	6	
+833036176	7	
+833036176	8	
+833036176	9	
+833036176	10	Appeal_to_Popularity
+833036176	11	
+833036176	12	Causal_Oversimplification,Doubt,Loaded_Language
+833036176	13	
+833036176	14	Doubt
+833036176	15	
+833036176	16	
+833036176	17	
+833036176	18	
+833036176	19	Loaded_Language
+833036176	20	
+833036176	21	Causal_Oversimplification,Doubt
+833036176	22	Causal_Oversimplification
+833036176	23	Causal_Oversimplification
+833036176	24	Causal_Oversimplification
+833036176	25	
+833036489	1	Name_Calling-Labeling
+833036489	3	Name_Calling-Labeling
+833036489	4	
+833036489	5	
+833036489	6	
+833036489	7	Doubt
+833036489	8	Name_Calling-Labeling
+833036489	9	
+833036489	10	
+833036489	11	Appeal_to_Popularity,Name_Calling-Labeling,Repetition
+833036489	12	False_Dilemma-No_Choice
+833036489	13	
+833036489	14	
+833036489	15	
+833036489	16	
+833036489	17	
+833036489	18	Doubt
+833036489	19	
+833036489	20	
+833036489	21	Doubt,Loaded_Language
+833036489	22	False_Dilemma-No_Choice
+833036489	23	
+833036489	24	
+833036489	25	
+833036489	26	
+833039623	1	Loaded_Language
+833039623	3	Flag_Waving,Loaded_Language,Name_Calling-Labeling
+833039623	4	Loaded_Language
+833039623	5	Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling
+833039623	6	Loaded_Language
+833039623	7	Doubt,Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling,Red_Herring
+833039623	8	Doubt,Name_Calling-Labeling
+833039623	9	Flag_Waving,Name_Calling-Labeling,Repetition
+833039623	10	Appeal_to_Fear-Prejudice,Appeal_to_Hypocrisy,Repetition
+833039623	11	Causal_Oversimplification,Exaggeration-Minimisation,Flag_Waving,Loaded_Language,Name_Calling-Labeling,Repetition
+833039623	12	Doubt,Name_Calling-Labeling
+833039623	13	Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling
+833039623	14	Loaded_Language
+833039623	15	Doubt
+833039623	16	Doubt,False_Dilemma-No_Choice,Name_Calling-Labeling
+833039623	17	Exaggeration-Minimisation,Loaded_Language
+833039623	18	Doubt,Name_Calling-Labeling,Repetition
+833039623	19	Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling
+833039623	20	Loaded_Language,Name_Calling-Labeling
+833039623	21	Loaded_Language,Name_Calling-Labeling,Repetition
+833039623	22	
+833039623	23	Loaded_Language
+833039623	24	False_Dilemma-No_Choice
+833039623	25	Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling,Repetition,Straw_Man
+833039623	26	Flag_Waving,Loaded_Language,Name_Calling-Labeling,Repetition
+833039623	27	False_Dilemma-No_Choice,Name_Calling-Labeling
+833039623	28	
+833039623	29	
+833039623	30	
+833039623	31	
+833039623	32	
+833039623	33	
+833039623	34	
+833039623	35	
+833039623	36	
+833039623	37	
+833039623	38	
+833040400	1	
+833040400	3	
+833040400	4	
+833040400	5	
+833040400	6	
+833040400	7	
+833040400	8	
+833040400	9	
+833040400	10	
+833040400	11	Doubt
+833040400	12	Flag_Waving
+833040400	13	Flag_Waving
+833040400	14	Slogans
+833040400	15	
+833041409	1	Doubt
+833041409	3	Doubt
+833041409	4	
+833041409	5	Doubt,Exaggeration-Minimisation,Flag_Waving,Loaded_Language
+833041409	6	Doubt,Exaggeration-Minimisation
+833041409	7	
+833041409	8	
+833041409	9	
+833041409	10	
+833041409	11	
+833041409	12	
+833041409	13	
+833041409	14	
+833041409	15	Name_Calling-Labeling
+833041409	16	
+833041409	17	
+833041409	18	
+833042063	1	Loaded_Language
+833042063	3	Loaded_Language,Name_Calling-Labeling
+833042063	4	
+833042063	5	Name_Calling-Labeling
+833042063	6	Loaded_Language,Repetition
+833042063	7	
+833042063	8	Loaded_Language
+833042063	9	
+833042063	10	
+833042063	11	Name_Calling-Labeling
+833042063	12	
+833042063	13	
+833042063	14	
+833042063	15	
+833042063	16	
+833050243	1	
+833050243	3	
+833050243	4	
+833050243	5	
+833050243	6	
+833050243	7	
+833050243	8	
+833050243	9	Loaded_Language
+833050243	10	
+833050243	11	Doubt
+833050243	12	Doubt
+833050243	13	
+833050243	14	Name_Calling-Labeling
+833050243	15	
+833050243	16	
+833050243	17	
+833050243	18	
+833050243	19	
+833050243	20	
+833050243	21	
+833050243	22	Exaggeration-Minimisation
+833050243	23	
+833050243	24	
+833050243	25	
+833050243	26	
+833050243	27	Flag_Waving
+833050243	28	
+833050243	29	
+833050243	30	
+833050243	31	
+833050243	32	
+833050243	33	
+833050243	34	
+833050243	35	
+833050243	36	Doubt
+833050243	37	
+833050243	38	
+833050243	39	
+833052347	1	
+833052347	3	Doubt
+833052347	4	
+833052347	5	Flag_Waving,Loaded_Language,Name_Calling-Labeling
+833052347	6	Loaded_Language
+833052347	7	
+833052347	8	Name_Calling-Labeling
+833052347	9	
+833052347	10	Name_Calling-Labeling
+833052347	11	
+833052347	12	
+833052347	13	
+833052347	14	Doubt,Exaggeration-Minimisation
+833052347	15	
+833052347	16	
+833052347	17	Doubt
+833052347	18	
+833052347	19	
+833052347	20	Exaggeration-Minimisation,Name_Calling-Labeling
+833052347	21	Loaded_Language
+833052347	22	Loaded_Language
+833052347	23	
+833052347	24	Doubt
+833052347	25	
+833052347	26	Loaded_Language
+833052347	27	Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling,Slogans
+833052347	28	Loaded_Language,Name_Calling-Labeling
+833052347	29	Name_Calling-Labeling,Repetition
+833052347	30	
+833052347	31	Loaded_Language
+833052347	32	
+833052347	33	
+833052347	34	
+833052347	35	
+833052347	36	Flag_Waving
+833052347	37	
+833052347	38	
+833052347	39	
+833052347	40	
+833052347	41	Name_Calling-Labeling
+833052347	42	Doubt
+833052347	43	
+833052347	44	Conversation_Killer
+833052347	45	
+833052347	46	Name_Calling-Labeling
+833052347	47	
+833052347	48	
+833052347	49	
+833052347	50	
+833052347	51	
+833052347	52	
+833052347	53	
+833052347	54	
+833052347	55	
+833052347	56	
+833053628	1	
+833053628	3	
+833053628	4	
+833053628	5	
+833053628	6	Name_Calling-Labeling
+833053628	7	
+833053628	8	
+833053628	9	
+833053628	10	
+833053628	11	Loaded_Language
+833053628	12	
+833053628	13	
+833053628	14	
+833053628	15	
+833053628	16	
+833053628	17	
+833053628	18	
+833053628	19	
+833053628	20	
+833053628	21	
+833053628	22	
+833053628	23	Doubt
+833053628	24	Loaded_Language
+833053628	25	Name_Calling-Labeling
+833053628	26	
+833053628	27	
+833053628	28	Flag_Waving
+833053628	29	
+833053628	30	
+833053628	31	
+833053628	32	
+833053628	33	Doubt
+833053628	34	
+833053628	35	Doubt
+833053628	36	
+833053628	37	
+833053628	38	
+833053628	39	
+833053628	40	Appeal_to_Popularity
+833053628	41	
+833053628	42	
+833053628	43	Doubt,Loaded_Language
+833053628	44	
+833053628	45	
+833053628	46	
+833053628	47	
+833053628	48	
+833053628	49	
+833053628	50	
+833053628	51	False_Dilemma-No_Choice,Loaded_Language
+833053628	52	Loaded_Language
+833053628	53	Doubt
+833053628	54	
+833053628	55	
+833053628	56	Flag_Waving
+833053628	57	
+833053628	58	Doubt
+833053628	59	
+833053628	60	
+833053628	61	
+833053628	62	
+833053628	63	
+833053628	64	
+833053628	65	
+833053628	66	
+833053628	67	
+833053676	1	
+833053676	3	
+833053676	4	
+833053676	5	Exaggeration-Minimisation
+833053676	6	
+833053676	7	Doubt
+833053676	8	
+833053676	9	
+833053676	10	
+833067493	1	
+833067493	3	
+833067493	4	Loaded_Language
+833067493	5	Loaded_Language
+833067493	6	
+833067493	7	
+833067493	8	Loaded_Language
+833067493	9	Loaded_Language
+833067493	10	
+833067493	11	
+833067493	12	
+833067493	13	
+833067493	14	
+833067493	15	
+833067493	16	
+833067493	17	
+833067493	18	

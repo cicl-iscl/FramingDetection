@@ -1,0 +1,7 @@
+738028498	1	Appeal_to_Fear-Prejudice
+738028498	3	Appeal_to_Authority,Appeal_to_Fear-Prejudice,Loaded_Language
+738028498	4	Appeal_to_Fear-Prejudice
+738028498	5	
+738028498	6	Appeal_to_Authority,Appeal_to_Fear-Prejudice,Loaded_Language
+738028498	7	Doubt,Loaded_Language
+738028498	8	

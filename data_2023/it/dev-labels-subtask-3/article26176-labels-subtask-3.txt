@@ -1,0 +1,22 @@
+26176	1	Loaded_Language,Slogans
+26176	3	
+26176	5	Loaded_Language
+26176	7	Doubt,Loaded_Language,Slogans
+26176	9	Loaded_Language
+26176	11	
+26176	13	
+26176	15	
+26176	17	
+26176	19	
+26176	21	
+26176	23	
+26176	25	
+26176	27	
+26176	29	
+26176	31	
+26176	33	
+26176	35	
+26176	37	
+26176	39	Doubt
+26176	41	
+26176	43	Appeal_to_Fear-Prejudice,Doubt,Loaded_Language

@@ -1,0 +1,13 @@
+258	1	Name_Calling-Labeling
+258	3	Name_Calling-Labeling
+258	5	Loaded_Language
+258	7	Doubt,Loaded_Language
+258	9	Loaded_Language
+258	11	Loaded_Language
+258	13	Loaded_Language
+258	15	Name_Calling-Labeling
+258	17	Loaded_Language,Name_Calling-Labeling
+258	19	Loaded_Language,Name_Calling-Labeling
+258	21	Name_Calling-Labeling
+258	24	Loaded_Language,Name_Calling-Labeling
+258	26	Flag_Waving,Loaded_Language,Name_Calling-Labeling

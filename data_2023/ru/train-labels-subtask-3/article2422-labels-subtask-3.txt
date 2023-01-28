@@ -1,0 +1,8 @@
+2422	1	Slogans
+2422	2	
+2422	4	Loaded_Language,Slogans
+2422	6	Loaded_Language,Repetition
+2422	8	
+2422	10	
+2422	12	Doubt,Loaded_Language,Questioning_the_Reputation
+2422	14	Appeal_to_Hypocrisy

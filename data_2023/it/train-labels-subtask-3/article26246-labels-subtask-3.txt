@@ -1,0 +1,5 @@
+26246	1	
+26246	3	Appeal_to_Fear-Prejudice
+26246	5	Conversation_Killer
+26246	7	Appeal_to_Fear-Prejudice,Appeal_to_Popularity,Name_Calling-Labeling
+26246	9	Name_Calling-Labeling

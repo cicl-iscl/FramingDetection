@@ -1,0 +1,26 @@
+24115	2	Questioning_the_Reputation
+24115	4	Doubt,Loaded_Language
+24115	6	Doubt,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+24115	8	Questioning_the_Reputation
+24115	10	Questioning_the_Reputation
+24115	12	Causal_Oversimplification,Doubt,Questioning_the_Reputation
+24115	14	Doubt
+24115	16	Loaded_Language,Questioning_the_Reputation
+24115	18	Slogans
+24115	20	Questioning_the_Reputation
+24115	22	Doubt,Loaded_Language,Questioning_the_Reputation
+24115	24	Loaded_Language,Questioning_the_Reputation
+24115	26	Doubt,Loaded_Language,Questioning_the_Reputation
+24115	28	
+24115	30	Loaded_Language,Questioning_the_Reputation
+24115	32	Doubt
+24115	34	Doubt,Exaggeration-Minimisation,Loaded_Language
+24115	36	Doubt,Loaded_Language,Questioning_the_Reputation
+24115	38	Doubt
+24115	40	
+24115	42	Questioning_the_Reputation
+24115	44	
+24115	46	Doubt
+24115	48	Doubt,Exaggeration-Minimisation,Loaded_Language
+24115	50	Appeal_to_Hypocrisy,Loaded_Language,Slogans
+24115	52	Doubt,Loaded_Language,Questioning_the_Reputation

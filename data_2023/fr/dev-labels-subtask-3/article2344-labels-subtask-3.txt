@@ -1,0 +1,8 @@
+2344	1	
+2344	3	Doubt,Name_Calling-Labeling,Obfuscation-Vagueness-Confusion
+2344	5	Appeal_to_Authority,Doubt,Exaggeration-Minimisation,Loaded_Language
+2344	7	Causal_Oversimplification,Consequential_Oversimplification,Conversation_Killer,Doubt,Name_Calling-Labeling
+2344	9	
+2344	11	Doubt,Loaded_Language,Questioning_the_Reputation
+2344	13	Appeal_to_Values,Loaded_Language,Questioning_the_Reputation,Straw_Man
+2344	15	Appeal_to_Fear-Prejudice,Slogans

@@ -1,0 +1,14 @@
+24166	1	Loaded_Language,Questioning_the_Reputation
+24166	3	Appeal_to_Hypocrisy,Loaded_Language,Name_Calling-Labeling
+24166	4	Consequential_Oversimplification,Conversation_Killer,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+24166	6	
+24166	8	
+24166	9	Doubt,Loaded_Language,Questioning_the_Reputation
+24166	10	Loaded_Language
+24166	12	Appeal_to_Fear-Prejudice,Conversation_Killer,Exaggeration-Minimisation,Loaded_Language,Questioning_the_Reputation
+24166	13	Consequential_Oversimplification,Conversation_Killer,Doubt,Exaggeration-Minimisation,Name_Calling-Labeling,Questioning_the_Reputation,Slogans
+24166	14	Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+24166	15	Name_Calling-Labeling,Straw_Man
+24166	17	Exaggeration-Minimisation,Name_Calling-Labeling,Questioning_the_Reputation,Straw_Man
+24166	18	Conversation_Killer,Loaded_Language,Questioning_the_Reputation
+24166	19	Appeal_to_Fear-Prejudice,Conversation_Killer,Doubt,Loaded_Language,Name_Calling-Labeling,Straw_Man

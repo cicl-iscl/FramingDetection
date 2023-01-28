@@ -1,0 +1,20 @@
+2441	1	Loaded_Language
+2441	3	Conversation_Killer
+2441	4	Conversation_Killer
+2441	6	Doubt,Questioning_the_Reputation
+2441	8	
+2441	10	Repetition
+2441	12	Repetition
+2441	14	Doubt
+2441	16	
+2441	18	Questioning_the_Reputation
+2441	20	Appeal_to_Time,Doubt,Name_Calling-Labeling,Questioning_the_Reputation
+2441	22	Repetition
+2441	24	Consequential_Oversimplification
+2441	25	Causal_Oversimplification
+2441	27	Exaggeration-Minimisation
+2441	29	Exaggeration-Minimisation,Questioning_the_Reputation
+2441	31	Appeal_to_Hypocrisy
+2441	33	Questioning_the_Reputation,Repetition
+2441	35	Doubt,Questioning_the_Reputation,Repetition
+2441	37	Causal_Oversimplification,Conversation_Killer

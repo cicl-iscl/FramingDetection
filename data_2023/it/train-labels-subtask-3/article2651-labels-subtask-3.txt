@@ -1,0 +1,12 @@
+2651	1	Doubt
+2651	3	Doubt,Loaded_Language,Questioning_the_Reputation
+2651	5	Doubt
+2651	7	Appeal_to_Fear-Prejudice,Doubt,Flag_Waving
+2651	9	Doubt
+2651	11	Conversation_Killer,Doubt,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+2651	12	
+2651	14	Doubt,Loaded_Language
+2651	15	
+2651	17	Appeal_to_Fear-Prejudice,Doubt,Exaggeration-Minimisation,Loaded_Language
+2651	18	Loaded_Language
+2651	20	Appeal_to_Hypocrisy,Doubt,Loaded_Language,Name_Calling-Labeling

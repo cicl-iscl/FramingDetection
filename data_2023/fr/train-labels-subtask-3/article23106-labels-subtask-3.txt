@@ -1,0 +1,15 @@
+23106	1	
+23106	3	Appeal_to_Fear-Prejudice,Appeal_to_Time,Loaded_Language,Repetition
+23106	5	Name_Calling-Labeling,Questioning_the_Reputation,Repetition
+23106	7	Appeal_to_Time,Conversation_Killer,False_Dilemma-No_Choice
+23106	9	Appeal_to_Fear-Prejudice,Appeal_to_Time,Exaggeration-Minimisation
+23106	11	Appeal_to_Fear-Prejudice,Slogans
+23106	13	
+23106	15	
+23106	17	Loaded_Language
+23106	19	
+23106	21	
+23106	23	Obfuscation-Vagueness-Confusion
+23106	25	Exaggeration-Minimisation,Slogans
+23106	27	Conversation_Killer,Repetition
+23106	29	

@@ -1,0 +1,21 @@
+786344683	1	
+786344683	3	Loaded_Language,Name_Calling-Labeling
+786344683	4	
+786344683	5	Exaggeration-Minimisation,Loaded_Language
+786344683	6	Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling
+786344683	7	
+786344683	8	
+786344683	9	Doubt,Loaded_Language
+786344683	10	
+786344683	11	Loaded_Language
+786344683	12	
+786344683	13	
+786344683	14	
+786344683	15	
+786344683	16	Appeal_to_Authority
+786344683	17	Loaded_Language
+786344683	18	
+786344683	19	Doubt
+786344683	20	
+786344683	21	
+786344683	22	

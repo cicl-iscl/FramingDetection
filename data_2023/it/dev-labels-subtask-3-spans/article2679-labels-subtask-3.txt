@@ -1,0 +1,7 @@
+2679	Guilt_by_Association	106	147
+2679	Name_Calling-Labeling	234	258
+2679	Name_Calling-Labeling	7	33
+2679	Appeal_to_Values	1019	1168
+2679	Name_Calling-Labeling	467	505
+2679	Slogans	149	183
+2679	Doubt	149	181

@@ -1,0 +1,4 @@
+24185	Loaded_Language	889	1011
+24185	Appeal_to_Fear-Prejudice	1196	1320
+24185	Loaded_Language	836	854
+24185	Doubt	1016	1082

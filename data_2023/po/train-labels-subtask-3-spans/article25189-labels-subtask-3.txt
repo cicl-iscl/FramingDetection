@@ -1,0 +1,6 @@
+25189	Appeal_to_Time	1837	2119
+25189	Appeal_to_Time	3073	3176
+25189	Appeal_to_Values	2465	2643
+25189	Appeal_to_Values	1897	2058
+25189	Questioning_the_Reputation	675	881
+25189	Appeal_to_Authority	1205	1364

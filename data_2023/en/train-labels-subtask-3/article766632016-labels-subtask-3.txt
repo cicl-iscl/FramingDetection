@@ -1,0 +1,15 @@
+766632016	1	
+766632016	3	Appeal_to_Authority,Doubt
+766632016	4	Appeal_to_Fear-Prejudice,Loaded_Language
+766632016	5	Loaded_Language
+766632016	6	
+766632016	7	
+766632016	8	
+766632016	9	
+766632016	10	
+766632016	11	Appeal_to_Authority
+766632016	12	Loaded_Language
+766632016	13	Appeal_to_Authority
+766632016	14	
+766632016	15	Appeal_to_Fear-Prejudice,Causal_Oversimplification,Doubt,Exaggeration-Minimisation,Guilt_by_Association,Loaded_Language,Repetition,Straw_Man,Whataboutism
+766632016	16	

@@ -1,0 +1,13 @@
+23107	1	
+23107	3	Appeal_to_Fear-Prejudice,Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling,Repetition
+23107	5	Loaded_Language,Straw_Man
+23107	7	Appeal_to_Fear-Prejudice,Loaded_Language,Repetition
+23107	9	
+23107	11	Appeal_to_Values,Loaded_Language,Name_Calling-Labeling
+23107	13	Appeal_to_Authority,Appeal_to_Popularity,Appeal_to_Time,Appeal_to_Values,Conversation_Killer,Flag_Waving,Loaded_Language,Name_Calling-Labeling,Slogans
+23107	15	Appeal_to_Values,Flag_Waving,Loaded_Language,Slogans
+23107	17	
+23107	19	
+23107	21	
+23107	23	
+23107	25	

@@ -1,0 +1,6 @@
+2334	Whataboutism	1792	1840
+2334	Doubt	1563	1696
+2334	Doubt	1846	1882
+2334	Loaded_Language	19	34
+2334	Consequential_Oversimplification	2022	2224
+2334	Doubt	1724	1788

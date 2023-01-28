@@ -1,0 +1,17 @@
+2518	2	
+2518	4	Guilt_by_Association,Questioning_the_Reputation
+2518	6	Name_Calling-Labeling,Slogans
+2518	8	Appeal_to_Values
+2518	10	
+2518	12	
+2518	14	Doubt,Exaggeration-Minimisation,Guilt_by_Association
+2518	16	Doubt,Guilt_by_Association,Loaded_Language,Name_Calling-Labeling
+2518	18	Doubt
+2518	20	Flag_Waving,Guilt_by_Association,Name_Calling-Labeling
+2518	22	Appeal_to_Popularity,Name_Calling-Labeling,Repetition
+2518	24	Doubt,Flag_Waving,Repetition
+2518	26	Appeal_to_Hypocrisy,Doubt,Loaded_Language
+2518	28	Appeal_to_Values,Flag_Waving
+2518	30	
+2518	32	Appeal_to_Values,Flag_Waving
+2518	34	Appeal_to_Values,Flag_Waving

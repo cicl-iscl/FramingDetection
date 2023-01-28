@@ -1,0 +1,13 @@
+813547724	1	Flag_Waving
+813547724	3	Flag_Waving
+813547724	4	Flag_Waving,Repetition
+813547724	5	Flag_Waving,Loaded_Language
+813547724	6	Flag_Waving,Obfuscation-Vagueness-Confusion
+813547724	7	Flag_Waving,Loaded_Language
+813547724	8	Repetition
+813547724	9	
+813547724	10	Flag_Waving
+813547724	11	Flag_Waving
+813547724	12	Flag_Waving,Repetition
+813547724	13	Appeal_to_Fear-Prejudice
+813547724	14	

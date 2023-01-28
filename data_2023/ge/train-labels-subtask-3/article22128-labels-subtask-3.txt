@@ -1,0 +1,45 @@
+22128	1	
+22128	2	Name_Calling-Labeling
+22128	4	Doubt,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+22128	6	Doubt,Name_Calling-Labeling
+22128	8	Appeal_to_Fear-Prejudice,Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+22128	10	Appeal_to_Fear-Prejudice,Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling
+22128	12	Name_Calling-Labeling
+22128	14	Guilt_by_Association,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+22128	16	Appeal_to_Hypocrisy,Loaded_Language,Name_Calling-Labeling
+22128	18	Appeal_to_Hypocrisy,Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling
+22128	20	Appeal_to_Hypocrisy,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+22128	22	Name_Calling-Labeling
+22128	24	Exaggeration-Minimisation,Guilt_by_Association,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+22128	26	Guilt_by_Association,Loaded_Language,Questioning_the_Reputation
+22128	28	Appeal_to_Fear-Prejudice,Name_Calling-Labeling
+22128	30	Name_Calling-Labeling
+22128	32	Guilt_by_Association,Loaded_Language,Name_Calling-Labeling
+22128	34	Guilt_by_Association,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+22128	36	Guilt_by_Association
+22128	38	Appeal_to_Hypocrisy,Guilt_by_Association,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+22128	40	Flag_Waving,Guilt_by_Association,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation,Slogans
+22128	42	Conversation_Killer,Name_Calling-Labeling
+22128	44	Appeal_to_Popularity,Flag_Waving,Guilt_by_Association,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation,Slogans
+22128	46	
+22128	48	Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+22128	50	Guilt_by_Association,Name_Calling-Labeling,Questioning_the_Reputation
+22128	52	Appeal_to_Fear-Prejudice,Name_Calling-Labeling,Questioning_the_Reputation
+22128	54	Name_Calling-Labeling
+22128	56	Loaded_Language,Name_Calling-Labeling
+22128	58	Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+22128	60	Appeal_to_Popularity,Loaded_Language,Name_Calling-Labeling
+22128	62	
+22128	64	Guilt_by_Association,Name_Calling-Labeling,Questioning_the_Reputation
+22128	66	Name_Calling-Labeling
+22128	68	Appeal_to_Fear-Prejudice,Exaggeration-Minimisation,Guilt_by_Association,Name_Calling-Labeling
+22128	70	Name_Calling-Labeling,Questioning_the_Reputation
+22128	72	Name_Calling-Labeling,Questioning_the_Reputation
+22128	74	Slogans
+22128	76	Appeal_to_Authority
+22128	78	Appeal_to_Time,Flag_Waving,Loaded_Language,Name_Calling-Labeling
+22128	80	Appeal_to_Fear-Prejudice,Doubt,False_Dilemma-No_Choice,Loaded_Language,Name_Calling-Labeling
+22128	82	Flag_Waving,Loaded_Language,Name_Calling-Labeling
+22128	84	Appeal_to_Fear-Prejudice,Name_Calling-Labeling
+22128	86	Appeal_to_Fear-Prejudice,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+22128	88	Appeal_to_Fear-Prejudice,Appeal_to_Time,Appeal_to_Values,Loaded_Language,Name_Calling-Labeling

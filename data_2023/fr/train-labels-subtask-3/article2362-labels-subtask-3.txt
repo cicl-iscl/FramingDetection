@@ -1,0 +1,18 @@
+2362	1	Loaded_Language,Questioning_the_Reputation
+2362	3	Appeal_to_Authority,Loaded_Language,Questioning_the_Reputation
+2362	5	Straw_Man
+2362	7	Exaggeration-Minimisation,Loaded_Language,Whataboutism
+2362	9	Appeal_to_Values,False_Dilemma-No_Choice,Loaded_Language
+2362	10	
+2362	12	Appeal_to_Hypocrisy,Doubt,Loaded_Language,Questioning_the_Reputation
+2362	14	Appeal_to_Hypocrisy,Conversation_Killer,Loaded_Language,Obfuscation-Vagueness-Confusion
+2362	16	Questioning_the_Reputation
+2362	18	Appeal_to_Hypocrisy,Doubt,Loaded_Language
+2362	20	Exaggeration-Minimisation,Name_Calling-Labeling
+2362	22	Red_Herring
+2362	23	Consequential_Oversimplification,Doubt
+2362	25	Appeal_to_Fear-Prejudice,Whataboutism
+2362	27	Doubt,Name_Calling-Labeling
+2362	29	Appeal_to_Fear-Prejudice,Consequential_Oversimplification,Conversation_Killer,False_Dilemma-No_Choice,Obfuscation-Vagueness-Confusion
+2362	31	Appeal_to_Values,Loaded_Language
+2362	33	Appeal_to_Values,Exaggeration-Minimisation,Guilt_by_Association,Loaded_Language,Name_Calling-Labeling

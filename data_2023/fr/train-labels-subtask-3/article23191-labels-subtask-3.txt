@@ -1,0 +1,18 @@
+23191	1	Slogans
+23191	3	Doubt,Exaggeration-Minimisation,Loaded_Language
+23191	5	Causal_Oversimplification,Loaded_Language
+23191	7	Whataboutism
+23191	9	Exaggeration-Minimisation,Name_Calling-Labeling,Questioning_the_Reputation
+23191	11	Exaggeration-Minimisation,Loaded_Language
+23191	13	
+23191	15	Obfuscation-Vagueness-Confusion
+23191	17	Doubt
+23191	19	Doubt,Loaded_Language
+23191	21	Conversation_Killer,Loaded_Language,Obfuscation-Vagueness-Confusion
+23191	23	Doubt,Loaded_Language,Obfuscation-Vagueness-Confusion
+23191	25	Doubt,Loaded_Language,Questioning_the_Reputation
+23191	27	Doubt
+23191	29	Conversation_Killer,Red_Herring
+23191	31	Loaded_Language,Obfuscation-Vagueness-Confusion
+23191	33	Loaded_Language
+23191	35	Conversation_Killer,Loaded_Language

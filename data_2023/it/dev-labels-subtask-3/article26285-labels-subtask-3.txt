@@ -1,0 +1,8 @@
+26285	1	Appeal_to_Values
+26285	3	Appeal_to_Fear-Prejudice,Appeal_to_Values,Doubt,Slogans
+26285	5	Doubt
+26285	7	
+26285	9	
+26285	11	
+26285	13	
+26285	15	

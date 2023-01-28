@@ -1,0 +1,15 @@
+2299	1	
+2299	3	Appeal_to_Fear-Prejudice,Appeal_to_Hypocrisy,Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling
+2299	5	Appeal_to_Authority,Appeal_to_Fear-Prejudice,Loaded_Language,Name_Calling-Labeling
+2299	7	Appeal_to_Fear-Prejudice,Name_Calling-Labeling
+2299	9	Appeal_to_Hypocrisy,Doubt,Name_Calling-Labeling
+2299	11	
+2299	13	
+2299	15	Appeal_to_Fear-Prejudice,Appeal_to_Values
+2299	17	
+2299	19	
+2299	21	Name_Calling-Labeling
+2299	23	Name_Calling-Labeling
+2299	25	Loaded_Language
+2299	27	
+2299	29	

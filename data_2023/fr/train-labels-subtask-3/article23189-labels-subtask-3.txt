@@ -1,0 +1,12 @@
+23189	1	Flag_Waving,Loaded_Language,Straw_Man
+23189	3	Appeal_to_Popularity,Appeal_to_Values,Exaggeration-Minimisation,Loaded_Language,Questioning_the_Reputation,Straw_Man
+23189	5	Guilt_by_Association,Loaded_Language,Name_Calling-Labeling
+23189	7	Appeal_to_Fear-Prejudice,Appeal_to_Values,Doubt,Obfuscation-Vagueness-Confusion
+23189	9	Conversation_Killer,Loaded_Language
+23189	11	Straw_Man
+23189	13	Guilt_by_Association
+23189	15	Appeal_to_Fear-Prejudice,Exaggeration-Minimisation
+23189	17	
+23189	19	Appeal_to_Hypocrisy
+23189	21	Doubt,Questioning_the_Reputation
+23189	23	Appeal_to_Fear-Prejudice,Exaggeration-Minimisation,Loaded_Language,Straw_Man

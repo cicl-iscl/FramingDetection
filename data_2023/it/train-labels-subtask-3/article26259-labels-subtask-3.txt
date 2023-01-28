@@ -1,0 +1,4 @@
+26259	1	
+26259	3	Appeal_to_Fear-Prejudice,Causal_Oversimplification,Questioning_the_Reputation,Slogans
+26259	5	
+26259	7	Appeal_to_Fear-Prejudice,Loaded_Language,Slogans

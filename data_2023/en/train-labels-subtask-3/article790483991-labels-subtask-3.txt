@@ -1,0 +1,33 @@
+790483991	1	
+790483991	3	
+790483991	4	Exaggeration-Minimisation,Name_Calling-Labeling
+790483991	5	Loaded_Language,Name_Calling-Labeling
+790483991	6	Causal_Oversimplification,Exaggeration-Minimisation,Name_Calling-Labeling
+790483991	7	Exaggeration-Minimisation,Loaded_Language
+790483991	8	Exaggeration-Minimisation
+790483991	9	Appeal_to_Fear-Prejudice
+790483991	10	Loaded_Language
+790483991	11	
+790483991	12	
+790483991	13	
+790483991	14	
+790483991	15	
+790483991	16	
+790483991	17	
+790483991	18	
+790483991	19	
+790483991	20	
+790483991	21	
+790483991	22	
+790483991	23	
+790483991	24	
+790483991	25	Exaggeration-Minimisation,Loaded_Language
+790483991	26	Loaded_Language
+790483991	27	Doubt
+790483991	28	Doubt,Loaded_Language
+790483991	29	Doubt,Name_Calling-Labeling
+790483991	30	Doubt
+790483991	31	Doubt,Flag_Waving
+790483991	32	Causal_Oversimplification,Name_Calling-Labeling
+790483991	33	
+790483991	34	Flag_Waving,Name_Calling-Labeling

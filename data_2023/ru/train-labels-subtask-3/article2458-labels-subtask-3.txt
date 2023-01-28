@@ -1,0 +1,8 @@
+2458	1	Exaggeration-Minimisation,Questioning_the_Reputation
+2458	2	Exaggeration-Minimisation,Questioning_the_Reputation
+2458	4	Questioning_the_Reputation,Repetition
+2458	5	Questioning_the_Reputation
+2458	6	Appeal_to_Hypocrisy,Causal_Oversimplification,Exaggeration-Minimisation,Loaded_Language,Questioning_the_Reputation,Repetition
+2458	7	Questioning_the_Reputation
+2458	9	
+2458	11	Appeal_to_Hypocrisy,Causal_Oversimplification,Exaggeration-Minimisation,Questioning_the_Reputation,Straw_Man

@@ -1,0 +1,19 @@
+2455	1	
+2455	3	Name_Calling-Labeling
+2455	5	Doubt,Loaded_Language,Questioning_the_Reputation
+2455	7	Causal_Oversimplification,Loaded_Language,Questioning_the_Reputation
+2455	9	Appeal_to_Values,Doubt,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+2455	11	Causal_Oversimplification,Flag_Waving,Questioning_the_Reputation
+2455	13	Doubt,Loaded_Language,Questioning_the_Reputation
+2455	15	Name_Calling-Labeling,Questioning_the_Reputation
+2455	17	Conversation_Killer,Questioning_the_Reputation
+2455	19	Appeal_to_Hypocrisy
+2455	21	Doubt
+2455	23	Appeal_to_Values,Consequential_Oversimplification
+2455	25	Appeal_to_Values,Doubt
+2455	27	
+2455	29	
+2455	31	Doubt,Name_Calling-Labeling
+2455	33	Doubt
+2455	35	Loaded_Language
+2455	37	Loaded_Language,Name_Calling-Labeling

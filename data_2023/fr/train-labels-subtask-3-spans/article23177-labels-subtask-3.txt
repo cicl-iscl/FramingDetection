@@ -1,0 +1,6 @@
+23177	Straw_Man	457	539
+23177	Loaded_Language	468	539
+23177	Causal_Oversimplification	351	455
+23177	Straw_Man	237	300
+23177	Appeal_to_Popularity	156	235
+23177	Name_Calling-Labeling	482	511

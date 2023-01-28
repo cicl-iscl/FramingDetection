@@ -1,0 +1,6 @@
+24181	Name_Calling-Labeling	299	314
+24181	Name_Calling-Labeling	0	17
+24181	Name_Calling-Labeling	261	291
+24181	Loaded_Language	43	51
+24181	Name_Calling-Labeling	316	345
+24181	Flag_Waving	421	473

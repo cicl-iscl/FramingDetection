@@ -1,0 +1,42 @@
+22129	1	
+22129	3	Loaded_Language
+22129	5	Appeal_to_Authority,Loaded_Language
+22129	7	Appeal_to_Authority
+22129	9	Appeal_to_Hypocrisy,Loaded_Language,Name_Calling-Labeling
+22129	11	Appeal_to_Authority
+22129	13	Appeal_to_Authority
+22129	15	Doubt,Loaded_Language
+22129	17	Appeal_to_Fear-Prejudice,Appeal_to_Hypocrisy,Loaded_Language,Questioning_the_Reputation
+22129	19	Appeal_to_Authority,Doubt,Loaded_Language,Name_Calling-Labeling
+22129	21	Doubt
+22129	23	Appeal_to_Authority
+22129	25	Appeal_to_Authority
+22129	27	Appeal_to_Authority
+22129	29	
+22129	31	Appeal_to_Authority
+22129	33	Appeal_to_Authority
+22129	35	Appeal_to_Fear-Prejudice
+22129	37	Name_Calling-Labeling
+22129	39	Appeal_to_Authority,Conversation_Killer
+22129	41	Appeal_to_Authority
+22129	43	Appeal_to_Authority
+22129	45	
+22129	47	Name_Calling-Labeling
+22129	49	Appeal_to_Authority,Doubt,Exaggeration-Minimisation
+22129	51	Doubt,Loaded_Language,Questioning_the_Reputation
+22129	53	Conversation_Killer,Doubt,Loaded_Language,Name_Calling-Labeling
+22129	55	
+22129	57	Appeal_to_Authority,Consequential_Oversimplification
+22129	59	Causal_Oversimplification
+22129	61	Appeal_to_Authority,Name_Calling-Labeling
+22129	63	Appeal_to_Authority,Slogans
+22129	65	Appeal_to_Authority
+22129	67	Name_Calling-Labeling
+22129	69	Name_Calling-Labeling
+22129	71	Appeal_to_Authority
+22129	73	Appeal_to_Authority
+22129	75	
+22129	77	
+22129	79	Appeal_to_Values
+22129	81	Name_Calling-Labeling
+22129	83	Appeal_to_Fear-Prejudice,Appeal_to_Values,Name_Calling-Labeling,Questioning_the_Reputation

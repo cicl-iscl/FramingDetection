@@ -1,0 +1,7 @@
+23154	Doubt	642	707
+23154	Appeal_to_Values	726	807
+23154	Exaggeration-Minimisation	177	211
+23154	Appeal_to_Hypocrisy	810	952
+23154	Appeal_to_Popularity	1186	1202
+23154	Loaded_Language	273	282
+23154	Whataboutism	1279	1349

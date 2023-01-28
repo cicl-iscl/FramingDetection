@@ -1,0 +1,19 @@
+242	1	Conversation_Killer,Questioning_the_Reputation
+242	3	Conversation_Killer
+242	4	Conversation_Killer,Repetition
+242	6	
+242	8	Conversation_Killer,Repetition
+242	10	Loaded_Language
+242	12	Appeal_to_Time
+242	14	Appeal_to_Time
+242	16	Exaggeration-Minimisation,Loaded_Language
+242	18	Guilt_by_Association
+242	20	Loaded_Language,Name_Calling-Labeling
+242	22	Loaded_Language,Questioning_the_Reputation,Slogans
+242	24	Conversation_Killer,Doubt,Loaded_Language,Questioning_the_Reputation
+242	26	
+242	28	Appeal_to_Time,Conversation_Killer,Loaded_Language,Slogans
+242	30	Name_Calling-Labeling
+242	32	Doubt,Loaded_Language,Questioning_the_Reputation
+242	34	Name_Calling-Labeling
+242	36	Name_Calling-Labeling,Repetition

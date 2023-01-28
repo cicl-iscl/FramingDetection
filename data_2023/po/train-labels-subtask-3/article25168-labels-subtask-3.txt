@@ -1,0 +1,6 @@
+25168	1	
+25168	3	Name_Calling-Labeling
+25168	5	
+25168	7	Doubt
+25168	9	Appeal_to_Fear-Prejudice,Name_Calling-Labeling
+25168	11	

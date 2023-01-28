@@ -1,0 +1,15 @@
+787529309	1	Slogans
+787529309	3	Loaded_Language,Slogans
+787529309	4	Loaded_Language
+787529309	5	Loaded_Language,Name_Calling-Labeling
+787529309	6	Loaded_Language
+787529309	7	Loaded_Language
+787529309	8	
+787529309	9	Loaded_Language,Name_Calling-Labeling
+787529309	10	Doubt
+787529309	11	
+787529309	12	Appeal_to_Authority
+787529309	13	Loaded_Language,Slogans
+787529309	14	Causal_Oversimplification,Loaded_Language,Name_Calling-Labeling
+787529309	15	Causal_Oversimplification,Doubt
+787529309	16	Loaded_Language

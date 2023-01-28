@@ -1,0 +1,12 @@
+2442	1	Doubt
+2442	3	Exaggeration-Minimisation,Flag_Waving,Questioning_the_Reputation
+2442	4	Conversation_Killer,Questioning_the_Reputation,Straw_Man
+2442	6	Doubt
+2442	8	Doubt
+2442	10	Doubt,Repetition
+2442	12	
+2442	14	Doubt
+2442	15	Doubt
+2442	17	Consequential_Oversimplification
+2442	19	
+2442	21	Questioning_the_Reputation,Repetition

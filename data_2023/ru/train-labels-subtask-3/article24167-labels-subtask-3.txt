@@ -1,0 +1,26 @@
+24167	1	
+24167	2	
+24167	4	Doubt,Loaded_Language,Name_Calling-Labeling
+24167	5	Doubt,Loaded_Language
+24167	6	Appeal_to_Fear-Prejudice,Loaded_Language,Name_Calling-Labeling
+24167	8	Appeal_to_Authority,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+24167	10	Appeal_to_Values,Loaded_Language
+24167	11	Appeal_to_Hypocrisy,Loaded_Language
+24167	12	Doubt,Loaded_Language
+24167	14	Appeal_to_Authority,Loaded_Language,Name_Calling-Labeling
+24167	15	Appeal_to_Values,Loaded_Language,Obfuscation-Vagueness-Confusion,Questioning_the_Reputation
+24167	16	Doubt
+24167	17	Loaded_Language
+24167	19	Conversation_Killer,Doubt,Loaded_Language,Slogans
+24167	20	Loaded_Language,Slogans
+24167	21	Doubt,Loaded_Language,Repetition
+24167	22	Conversation_Killer,Doubt,Loaded_Language
+24167	24	Doubt,Loaded_Language,Questioning_the_Reputation
+24167	25	Doubt,Loaded_Language,Name_Calling-Labeling
+24167	26	Doubt,Exaggeration-Minimisation,Loaded_Language
+24167	27	Conversation_Killer,Doubt
+24167	29	
+24167	30	Doubt,Exaggeration-Minimisation,Questioning_the_Reputation
+24167	31	Conversation_Killer,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+24167	32	Loaded_Language
+24167	33	Doubt,Loaded_Language

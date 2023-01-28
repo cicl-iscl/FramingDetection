@@ -1,0 +1,7 @@
+22172	1	Conversation_Killer,Exaggeration-Minimisation
+22172	3	Conversation_Killer,Doubt,Exaggeration-Minimisation
+22172	5	Doubt,Exaggeration-Minimisation,Name_Calling-Labeling,Whataboutism
+22172	7	Doubt
+22172	9	Conversation_Killer,Name_Calling-Labeling
+22172	11	
+22172	13	Doubt,Name_Calling-Labeling

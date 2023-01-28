@@ -1,0 +1,17 @@
+2261	1	Exaggeration-Minimisation,Name_Calling-Labeling
+2261	3	Exaggeration-Minimisation
+2261	5	Exaggeration-Minimisation,Obfuscation-Vagueness-Confusion
+2261	7	Doubt,Red_Herring
+2261	9	
+2261	11	Name_Calling-Labeling
+2261	13	Conversation_Killer,Exaggeration-Minimisation,Obfuscation-Vagueness-Confusion
+2261	15	Conversation_Killer,Doubt
+2261	17	Exaggeration-Minimisation,Guilt_by_Association,Loaded_Language,Name_Calling-Labeling
+2261	19	Exaggeration-Minimisation,Name_Calling-Labeling,Questioning_the_Reputation
+2261	21	Doubt,Exaggeration-Minimisation,Name_Calling-Labeling
+2261	23	Conversation_Killer,Exaggeration-Minimisation,Name_Calling-Labeling,Red_Herring
+2261	25	Questioning_the_Reputation
+2261	27	
+2261	29	Doubt,Name_Calling-Labeling,Obfuscation-Vagueness-Confusion
+2261	31	
+2261	33	

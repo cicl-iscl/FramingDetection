@@ -1,0 +1,14 @@
+774007496	1	
+774007496	3	Obfuscation-Vagueness-Confusion
+774007496	4	Repetition,Slogans
+774007496	5	
+774007496	6	
+774007496	7	Loaded_Language
+774007496	8	Loaded_Language,Name_Calling-Labeling
+774007496	9	Conversation_Killer
+774007496	10	Loaded_Language,Name_Calling-Labeling,Repetition
+774007496	11	
+774007496	12	Loaded_Language,Repetition
+774007496	13	
+774007496	14	Repetition
+774007496	15	Doubt,Loaded_Language

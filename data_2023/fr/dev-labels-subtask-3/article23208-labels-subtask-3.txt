@@ -1,0 +1,7 @@
+23208	1	Loaded_Language
+23208	3	Name_Calling-Labeling
+23208	4	Guilt_by_Association,Name_Calling-Labeling
+23208	6	Straw_Man
+23208	8	Appeal_to_Popularity,Loaded_Language
+23208	10	Loaded_Language,Slogans
+23208	12	Appeal_to_Fear-Prejudice,Conversation_Killer,Loaded_Language

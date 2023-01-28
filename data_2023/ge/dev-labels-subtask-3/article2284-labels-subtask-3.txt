@@ -1,0 +1,6 @@
+2284	1	Guilt_by_Association,Name_Calling-Labeling
+2284	3	Guilt_by_Association,Name_Calling-Labeling
+2284	5	Guilt_by_Association
+2284	7	Appeal_to_Hypocrisy,Exaggeration-Minimisation
+2284	9	Guilt_by_Association,Name_Calling-Labeling
+2284	11	Guilt_by_Association

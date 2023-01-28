@@ -1,0 +1,12 @@
+2623	1	
+2623	3	Appeal_to_Time,Exaggeration-Minimisation
+2623	5	Appeal_to_Fear-Prejudice,Conversation_Killer
+2623	7	Loaded_Language
+2623	9	Loaded_Language
+2623	11	Questioning_the_Reputation
+2623	13	Appeal_to_Values
+2623	15	Doubt
+2623	17	
+2623	19	Appeal_to_Fear-Prejudice,Appeal_to_Values,Consequential_Oversimplification
+2623	21	Doubt
+2623	23	

@@ -1,0 +1,6 @@
+26245	Consequential_Oversimplification	1363	1548
+26245	Loaded_Language	1420	1436
+26245	Name_Calling-Labeling	1420	1436
+26245	Causal_Oversimplification	536	617
+26245	Questioning_the_Reputation	700	855
+26245	Questioning_the_Reputation	700	833

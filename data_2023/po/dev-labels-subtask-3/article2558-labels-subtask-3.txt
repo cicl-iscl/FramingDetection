@@ -1,0 +1,11 @@
+2558	1	
+2558	3	Name_Calling-Labeling
+2558	5	
+2558	7	
+2558	9	Appeal_to_Values
+2558	11	Guilt_by_Association,Name_Calling-Labeling
+2558	13	
+2558	15	
+2558	17	
+2558	19	Name_Calling-Labeling
+2558	21	Appeal_to_Time

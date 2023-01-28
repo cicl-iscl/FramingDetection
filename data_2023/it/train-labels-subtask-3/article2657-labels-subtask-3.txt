@@ -1,0 +1,8 @@
+2657	1	Doubt
+2657	3	Doubt,Loaded_Language,Name_Calling-Labeling,Straw_Man
+2657	5	Doubt
+2657	7	
+2657	9	Appeal_to_Fear-Prejudice,Doubt,Loaded_Language,Slogans
+2657	10	Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+2657	12	Doubt,Exaggeration-Minimisation,Loaded_Language,Questioning_the_Reputation,Straw_Man
+2657	14	Appeal_to_Fear-Prejudice,Doubt,Loaded_Language

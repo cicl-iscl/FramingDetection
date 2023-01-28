@@ -1,0 +1,4 @@
+26252	Appeal_to_Fear-Prejudice	108	137
+26252	Appeal_to_Time	281	321
+26252	Conversation_Killer	921	939
+26252	Appeal_to_Time	921	939

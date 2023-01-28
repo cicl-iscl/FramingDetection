@@ -1,0 +1,15 @@
+2589	1	Guilt_by_Association
+2589	3	
+2589	5	Guilt_by_Association,Loaded_Language
+2589	7	Name_Calling-Labeling
+2589	9	
+2589	11	Appeal_to_Hypocrisy,Doubt,Exaggeration-Minimisation,Guilt_by_Association,Name_Calling-Labeling,Repetition
+2589	13	Exaggeration-Minimisation
+2589	15	Exaggeration-Minimisation
+2589	17	Guilt_by_Association,Name_Calling-Labeling,Questioning_the_Reputation
+2589	19	
+2589	21	Guilt_by_Association,Repetition
+2589	23	Flag_Waving
+2589	25	Appeal_to_Values
+2589	27	
+2589	29	Guilt_by_Association

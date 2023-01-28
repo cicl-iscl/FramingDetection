@@ -1,0 +1,13 @@
+23170	1	Loaded_Language,Name_Calling-Labeling
+23170	3	Loaded_Language,Name_Calling-Labeling
+23170	5	Appeal_to_Time,Guilt_by_Association,Loaded_Language,Name_Calling-Labeling,Slogans
+23170	7	
+23170	9	Appeal_to_Fear-Prejudice
+23170	11	Loaded_Language,Name_Calling-Labeling
+23170	13	Name_Calling-Labeling
+23170	15	Exaggeration-Minimisation,Loaded_Language
+23170	17	Loaded_Language
+23170	19	Appeal_to_Fear-Prejudice,Conversation_Killer,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+23170	21	Appeal_to_Time,Loaded_Language
+23170	23	Loaded_Language
+23170	25	Loaded_Language

@@ -1,0 +1,60 @@
+832931332	1	
+832931332	3	Appeal_to_Fear-Prejudice,False_Dilemma-No_Choice,Flag_Waving,Loaded_Language
+832931332	4	Repetition
+832931332	5	Doubt
+832931332	6	Exaggeration-Minimisation
+832931332	7	Name_Calling-Labeling
+832931332	8	
+832931332	9	
+832931332	10	Loaded_Language
+832931332	11	Loaded_Language
+832931332	12	Loaded_Language,Name_Calling-Labeling
+832931332	13	Red_Herring
+832931332	14	Loaded_Language,Name_Calling-Labeling
+832931332	15	Doubt,Flag_Waving
+832931332	16	
+832931332	17	
+832931332	18	Exaggeration-Minimisation,Loaded_Language
+832931332	19	Conversation_Killer
+832931332	20	Name_Calling-Labeling
+832931332	21	Loaded_Language
+832931332	22	Doubt,Exaggeration-Minimisation,Flag_Waving,Loaded_Language
+832931332	23	Doubt
+832931332	24	
+832931332	25	Doubt,Name_Calling-Labeling
+832931332	26	Doubt,Flag_Waving
+832931332	27	Repetition
+832931332	28	Loaded_Language
+832931332	29	Loaded_Language,Name_Calling-Labeling
+832931332	30	
+832931332	31	Conversation_Killer,Exaggeration-Minimisation
+832931332	32	Loaded_Language
+832931332	33	Appeal_to_Popularity,Doubt,Name_Calling-Labeling
+832931332	34	Loaded_Language
+832931332	35	Doubt
+832931332	36	
+832931332	37	Repetition
+832931332	38	
+832931332	39	
+832931332	40	Appeal_to_Fear-Prejudice,Flag_Waving,Loaded_Language
+832931332	41	Appeal_to_Fear-Prejudice
+832931332	42	False_Dilemma-No_Choice
+832931332	43	Loaded_Language,Name_Calling-Labeling,Repetition
+832931332	44	
+832931332	45	
+832931332	46	
+832931332	47	
+832931332	48	Red_Herring
+832931332	49	Red_Herring
+832931332	50	Red_Herring
+832931332	51	Loaded_Language,Name_Calling-Labeling,Slogans
+832931332	52	
+832931332	53	Exaggeration-Minimisation
+832931332	54	
+832931332	55	
+832931332	56	
+832931332	57	
+832931332	58	
+832931332	59	
+832931332	60	
+832931332	61	

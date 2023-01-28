@@ -1,0 +1,10 @@
+26158	1	
+26158	3	Name_Calling-Labeling,Questioning_the_Reputation
+26158	5	Loaded_Language,Name_Calling-Labeling
+26158	7	Name_Calling-Labeling
+26158	9	Loaded_Language
+26158	11	
+26158	13	
+26158	15	
+26158	17	
+26158	19	

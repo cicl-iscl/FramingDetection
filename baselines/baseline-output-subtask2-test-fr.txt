@@ -1,0 +1,50 @@
+337	Economic,Morality,Political
+3317	Capacity_and_resources,Economic,Security_and_defense
+3333	
+3337	
+332	Capacity_and_resources
+3349	Security_and_defense
+3350	
+3312	
+3344	
+3324	
+3323	Economic
+3315	Political
+335	Economic,External_regulation_and_reputation,Political,Security_and_defense
+334	Morality,Political
+333	Legality_Constitutionality_and_jurisprudence,Morality
+3313	External_regulation_and_reputation,Political,Security_and_defense
+3339	
+338	Legality_Constitutionality_and_jurisprudence,Morality,Political,Public_opinion,Security_and_defense
+3310	
+3318	Security_and_defense
+3345	
+3331	Political
+3322	Health_and_safety
+3334	Capacity_and_resources,Economic,External_regulation_and_reputation,Security_and_defense
+3335	
+331	Capacity_and_resources
+3319	Political
+3325	Health_and_safety
+3326	
+3314	Capacity_and_resources,Economic
+3311	
+336	
+3328	Capacity_and_resources,Economic,Health_and_safety,Policy_prescription_and_evaluation,Quality_of_life
+3347	Health_and_safety
+3342	
+3330	
+3316	
+3341	
+3338	
+3321	Fairness_and_equality,Morality,Quality_of_life
+3336	Political
+3332	Economic,Political,Security_and_defense
+3327	
+3343	External_regulation_and_reputation
+3340	
+339	
+3329	
+3346	
+3348	
+3320	Health_and_safety,Morality

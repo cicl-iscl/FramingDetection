@@ -1,0 +1,14 @@
+26217	1	
+26217	3	Appeal_to_Fear-Prejudice,Consequential_Oversimplification,Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+26217	5	Appeal_to_Fear-Prejudice,Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation,Repetition
+26217	7	Questioning_the_Reputation
+26217	9	Conversation_Killer,Doubt,Loaded_Language
+26217	11	Appeal_to_Hypocrisy,Loaded_Language,Questioning_the_Reputation
+26217	13	Appeal_to_Values,Conversation_Killer,Doubt,False_Dilemma-No_Choice,Guilt_by_Association,Questioning_the_Reputation
+26217	15	Doubt,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+26217	17	Conversation_Killer,Questioning_the_Reputation,Straw_Man
+26217	19	Causal_Oversimplification,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+26217	21	Doubt
+26217	23	Questioning_the_Reputation
+26217	25	Appeal_to_Values,Loaded_Language,Name_Calling-Labeling
+26217	27	Doubt

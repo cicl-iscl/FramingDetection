@@ -1,0 +1,12 @@
+999001970	1	
+999001970	3	Loaded_Language
+999001970	4	Exaggeration-Minimisation,Slogans
+999001970	5	Exaggeration-Minimisation
+999001970	6	Name_Calling-Labeling
+999001970	7	
+999001970	8	Exaggeration-Minimisation,Name_Calling-Labeling
+999001970	9	
+999001970	10	
+999001970	11	
+999001970	12	
+999001970	13	Exaggeration-Minimisation

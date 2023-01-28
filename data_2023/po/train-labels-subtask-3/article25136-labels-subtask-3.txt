@@ -1,0 +1,24 @@
+25136	1	
+25136	3	
+25136	5	
+25136	7	
+25136	9	Doubt,Obfuscation-Vagueness-Confusion
+25136	12	
+25136	14	Doubt
+25136	16	Doubt
+25136	19	
+25136	21	
+25136	23	Appeal_to_Hypocrisy,Questioning_the_Reputation
+25136	26	
+25136	28	
+25136	30	Exaggeration-Minimisation,Questioning_the_Reputation
+25136	33	
+25136	35	Name_Calling-Labeling
+25136	37	Doubt
+25136	40	
+25136	42	
+25136	44	Doubt
+25136	47	
+25136	49	
+25136	51	
+25136	53	Name_Calling-Labeling

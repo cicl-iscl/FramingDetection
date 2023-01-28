@@ -1,0 +1,11 @@
+24154	1	
+24154	3	False_Dilemma-No_Choice
+24154	5	Conversation_Killer,Obfuscation-Vagueness-Confusion
+24154	7	Appeal_to_Fear-Prejudice,Questioning_the_Reputation,Straw_Man
+24154	9	Doubt
+24154	11	Slogans
+24154	13	Loaded_Language,Name_Calling-Labeling
+24154	15	Whataboutism
+24154	17	Appeal_to_Hypocrisy
+24154	19	Doubt
+24154	21	

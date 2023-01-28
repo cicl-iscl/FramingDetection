@@ -1,0 +1,7 @@
+24165	1	
+24165	3	
+24165	4	Appeal_to_Fear-Prejudice,Loaded_Language
+24165	5	Conversation_Killer,Loaded_Language
+24165	7	Appeal_to_Popularity,Questioning_the_Reputation
+24165	9	Appeal_to_Popularity,Conversation_Killer,Name_Calling-Labeling
+24165	11	

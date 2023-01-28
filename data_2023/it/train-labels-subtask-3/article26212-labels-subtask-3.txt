@@ -1,0 +1,15 @@
+26212	1	
+26212	3	
+26212	5	
+26212	7	
+26212	9	
+26212	11	
+26212	13	
+26212	15	Doubt
+26212	17	
+26212	19	Doubt
+26212	21	Doubt
+26212	23	Appeal_to_Fear-Prejudice,Loaded_Language
+26212	25	Doubt
+26212	27	Doubt
+26212	29	Loaded_Language

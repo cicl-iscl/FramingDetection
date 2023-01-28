@@ -1,0 +1,7 @@
+2288	1	Loaded_Language
+2288	3	Doubt,Obfuscation-Vagueness-Confusion
+2288	5	Doubt,Name_Calling-Labeling
+2288	7	Conversation_Killer,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation,Red_Herring
+2288	9	Conversation_Killer,Name_Calling-Labeling,Obfuscation-Vagueness-Confusion,Slogans
+2288	11	Loaded_Language,Name_Calling-Labeling
+2288	13	Conversation_Killer,Questioning_the_Reputation,Red_Herring,Straw_Man

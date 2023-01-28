@@ -1,0 +1,5 @@
+232	1	Loaded_Language,Name_Calling-Labeling
+232	3	Repetition
+232	4	Name_Calling-Labeling
+232	5	Appeal_to_Values,Causal_Oversimplification,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation,Repetition,Straw_Man
+232	6	Conversation_Killer,Red_Herring

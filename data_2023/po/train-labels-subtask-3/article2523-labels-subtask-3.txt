@@ -1,0 +1,16 @@
+2523	2	Name_Calling-Labeling
+2523	4	Loaded_Language,Name_Calling-Labeling
+2523	6	Loaded_Language
+2523	8	Loaded_Language
+2523	10	
+2523	12	Loaded_Language
+2523	14	
+2523	16	
+2523	18	Loaded_Language
+2523	20	Guilt_by_Association,Name_Calling-Labeling
+2523	22	Appeal_to_Values,Doubt,False_Dilemma-No_Choice,Loaded_Language,Name_Calling-Labeling
+2523	24	Guilt_by_Association,Loaded_Language,Name_Calling-Labeling
+2523	26	
+2523	28	Appeal_to_Hypocrisy,Loaded_Language,Name_Calling-Labeling
+2523	30	Doubt,Name_Calling-Labeling
+2523	32	Appeal_to_Fear-Prejudice,Guilt_by_Association,Loaded_Language,Name_Calling-Labeling

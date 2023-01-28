@@ -1,0 +1,22 @@
+2643	1	Name_Calling-Labeling
+2643	3	Appeal_to_Fear-Prejudice,Guilt_by_Association,Loaded_Language,Name_Calling-Labeling
+2643	5	Conversation_Killer,Doubt,Name_Calling-Labeling
+2643	7	Doubt,Guilt_by_Association,Name_Calling-Labeling,Questioning_the_Reputation
+2643	9	Appeal_to_Fear-Prejudice,Doubt,Exaggeration-Minimisation,Guilt_by_Association,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+2643	11	Appeal_to_Fear-Prejudice,Conversation_Killer,Doubt,Loaded_Language,Questioning_the_Reputation
+2643	13	Doubt
+2643	15	Guilt_by_Association,Loaded_Language
+2643	17	
+2643	19	Appeal_to_Fear-Prejudice,Doubt,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+2643	21	Name_Calling-Labeling,Questioning_the_Reputation
+2643	23	Doubt,Loaded_Language,Questioning_the_Reputation
+2643	25	Exaggeration-Minimisation,Questioning_the_Reputation
+2643	27	Appeal_to_Hypocrisy,Doubt,Guilt_by_Association,Loaded_Language,Questioning_the_Reputation
+2643	29	Doubt
+2643	31	Appeal_to_Fear-Prejudice,Doubt,Loaded_Language
+2643	33	Appeal_to_Values,Doubt,Loaded_Language,Name_Calling-Labeling
+2643	35	Doubt,Name_Calling-Labeling
+2643	37	Appeal_to_Values,Doubt,Loaded_Language,Questioning_the_Reputation
+2643	39	Appeal_to_Values,Doubt,Loaded_Language
+2643	41	
+2643	43	Appeal_to_Fear-Prejudice,Doubt,Loaded_Language

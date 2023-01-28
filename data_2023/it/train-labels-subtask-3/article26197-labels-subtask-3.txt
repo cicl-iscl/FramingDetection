@@ -1,0 +1,5 @@
+26197	1	Appeal_to_Hypocrisy,Loaded_Language,Questioning_the_Reputation
+26197	3	
+26197	5	
+26197	7	Loaded_Language
+26197	9	Doubt,Name_Calling-Labeling

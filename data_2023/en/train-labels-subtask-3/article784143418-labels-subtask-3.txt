@@ -1,0 +1,10 @@
+784143418	1	Loaded_Language
+784143418	3	Loaded_Language,Name_Calling-Labeling
+784143418	4	Loaded_Language
+784143418	5	
+784143418	6	
+784143418	7	
+784143418	8	Loaded_Language,Name_Calling-Labeling
+784143418	9	
+784143418	10	Appeal_to_Fear-Prejudice,Loaded_Language,Name_Calling-Labeling,Repetition
+784143418	11	

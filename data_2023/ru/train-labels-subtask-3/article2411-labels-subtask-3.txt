@@ -1,0 +1,8 @@
+2411	1	False_Dilemma-No_Choice
+2411	3	Name_Calling-Labeling
+2411	5	Conversation_Killer,False_Dilemma-No_Choice
+2411	7	Consequential_Oversimplification,Loaded_Language,Name_Calling-Labeling,Repetition
+2411	9	Loaded_Language
+2411	11	Name_Calling-Labeling,Repetition
+2411	13	Doubt
+2411	15	Conversation_Killer

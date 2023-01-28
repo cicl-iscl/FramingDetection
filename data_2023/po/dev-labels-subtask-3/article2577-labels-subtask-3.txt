@@ -1,0 +1,68 @@
+2577	1	
+2577	3	
+2577	5	
+2577	7	Conversation_Killer
+2577	9	Doubt
+2577	11	
+2577	13	
+2577	15	Exaggeration-Minimisation
+2577	17	
+2577	19	
+2577	21	
+2577	23	Appeal_to_Fear-Prejudice,Loaded_Language,Questioning_the_Reputation
+2577	25	
+2577	27	
+2577	29	
+2577	31	
+2577	33	
+2577	35	
+2577	37	
+2577	39	Questioning_the_Reputation
+2577	41	
+2577	43	
+2577	45	
+2577	47	Name_Calling-Labeling
+2577	49	
+2577	51	Doubt,Questioning_the_Reputation
+2577	53	
+2577	55	
+2577	57	
+2577	59	Appeal_to_Values
+2577	61	
+2577	63	
+2577	65	
+2577	67	Appeal_to_Hypocrisy,Conversation_Killer,Red_Herring
+2577	69	Appeal_to_Hypocrisy
+2577	71	Appeal_to_Fear-Prejudice
+2577	73	
+2577	75	Conversation_Killer,False_Dilemma-No_Choice
+2577	77	Doubt
+2577	79	
+2577	81	
+2577	83	
+2577	85	
+2577	87	Appeal_to_Popularity
+2577	89	
+2577	91	
+2577	93	
+2577	95	Doubt,Guilt_by_Association,Questioning_the_Reputation
+2577	97	
+2577	99	
+2577	101	
+2577	103	
+2577	105	
+2577	107	
+2577	109	
+2577	111	
+2577	113	
+2577	115	Appeal_to_Values,Conversation_Killer,Doubt,Name_Calling-Labeling,Slogans
+2577	117	
+2577	119	
+2577	121	
+2577	123	
+2577	125	
+2577	127	Consequential_Oversimplification,Doubt
+2577	129	
+2577	131	Appeal_to_Values,Name_Calling-Labeling,Questioning_the_Reputation
+2577	133	
+2577	135	

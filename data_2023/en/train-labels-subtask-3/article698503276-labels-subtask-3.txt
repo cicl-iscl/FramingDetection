@@ -1,0 +1,15 @@
+698503276	1	
+698503276	3	Loaded_Language
+698503276	4	Appeal_to_Hypocrisy,Flag_Waving,Loaded_Language,Repetition
+698503276	5	
+698503276	6	Slogans
+698503276	7	
+698503276	8	Loaded_Language,Repetition
+698503276	9	
+698503276	10	
+698503276	11	
+698503276	12	Repetition
+698503276	13	Loaded_Language
+698503276	14	Appeal_to_Fear-Prejudice,Loaded_Language
+698503276	15	Appeal_to_Fear-Prejudice
+698503276	16	Guilt_by_Association,Loaded_Language

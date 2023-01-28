@@ -1,0 +1,3 @@
+23158	1	
+23158	3	Loaded_Language
+23158	5	Appeal_to_Authority,Appeal_to_Time,Causal_Oversimplification,Conversation_Killer,Loaded_Language,Obfuscation-Vagueness-Confusion,Repetition,Slogans

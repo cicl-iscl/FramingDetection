@@ -1,0 +1,15 @@
+2329	1	Doubt
+2329	3	Appeal_to_Hypocrisy,Name_Calling-Labeling
+2329	5	Doubt,Guilt_by_Association,Loaded_Language,Name_Calling-Labeling
+2329	7	Doubt,Whataboutism
+2329	9	Appeal_to_Time
+2329	11	Appeal_to_Values,Doubt
+2329	13	Doubt,Name_Calling-Labeling
+2329	15	
+2329	17	Loaded_Language,Questioning_the_Reputation
+2329	19	Conversation_Killer,Doubt,Straw_Man
+2329	21	Guilt_by_Association,Questioning_the_Reputation,Straw_Man
+2329	23	Conversation_Killer,Guilt_by_Association,Loaded_Language,Questioning_the_Reputation,Straw_Man
+2329	25	Guilt_by_Association,Questioning_the_Reputation
+2329	27	Appeal_to_Popularity,Loaded_Language,Red_Herring
+2329	29	Guilt_by_Association,Loaded_Language,Straw_Man

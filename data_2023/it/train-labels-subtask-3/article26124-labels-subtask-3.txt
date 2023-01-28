@@ -1,0 +1,18 @@
+26124	1	
+26124	3	Exaggeration-Minimisation,Loaded_Language
+26124	5	Doubt,Loaded_Language
+26124	7	Loaded_Language
+26124	9	
+26124	11	
+26124	13	
+26124	15	
+26124	17	
+26124	19	
+26124	21	Whataboutism
+26124	23	Loaded_Language,Whataboutism
+26124	25	
+26124	27	Doubt,Loaded_Language
+26124	29	
+26124	31	Exaggeration-Minimisation,Loaded_Language
+26124	33	Name_Calling-Labeling
+26124	35	Doubt,Exaggeration-Minimisation

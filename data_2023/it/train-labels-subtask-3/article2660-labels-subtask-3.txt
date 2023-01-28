@@ -1,0 +1,9 @@
+2660	1	Doubt
+2660	2	Appeal_to_Fear-Prejudice,Name_Calling-Labeling,Questioning_the_Reputation
+2660	4	Appeal_to_Fear-Prejudice,Doubt,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+2660	6	Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+2660	8	Appeal_to_Hypocrisy,Doubt,Name_Calling-Labeling
+2660	10	Doubt,Name_Calling-Labeling
+2660	12	Name_Calling-Labeling
+2660	14	Doubt
+2660	16	Consequential_Oversimplification,Doubt

@@ -1,0 +1,7 @@
+23175	1	Obfuscation-Vagueness-Confusion
+23175	3	Obfuscation-Vagueness-Confusion
+23175	5	Appeal_to_Fear-Prejudice,Obfuscation-Vagueness-Confusion
+23175	7	Obfuscation-Vagueness-Confusion
+23175	9	Appeal_to_Authority,Appeal_to_Fear-Prejudice,Causal_Oversimplification,Doubt,Obfuscation-Vagueness-Confusion
+23175	11	Obfuscation-Vagueness-Confusion,Red_Herring
+23175	13	Appeal_to_Fear-Prejudice

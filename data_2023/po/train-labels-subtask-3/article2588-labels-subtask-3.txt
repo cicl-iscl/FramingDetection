@@ -1,0 +1,15 @@
+2588	1	Loaded_Language,Questioning_the_Reputation
+2588	3	Appeal_to_Hypocrisy,Name_Calling-Labeling
+2588	5	Guilt_by_Association
+2588	7	Appeal_to_Fear-Prejudice
+2588	9	Guilt_by_Association
+2588	11	Exaggeration-Minimisation
+2588	13	Guilt_by_Association,Loaded_Language,Name_Calling-Labeling
+2588	15	Guilt_by_Association,Name_Calling-Labeling
+2588	17	Exaggeration-Minimisation,Loaded_Language
+2588	19	Name_Calling-Labeling
+2588	21	Doubt
+2588	23	Appeal_to_Hypocrisy
+2588	25	Appeal_to_Hypocrisy,Guilt_by_Association,Name_Calling-Labeling
+2588	27	Guilt_by_Association,Name_Calling-Labeling
+2588	29	

@@ -1,0 +1,8 @@
+22103	1	Name_Calling-Labeling
+22103	3	Appeal_to_Popularity,Name_Calling-Labeling
+22103	5	Consequential_Oversimplification
+22103	7	Appeal_to_Fear-Prejudice,Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+22103	9	
+22103	11	Appeal_to_Values,Doubt,Loaded_Language,Name_Calling-Labeling
+22103	13	Appeal_to_Hypocrisy,Loaded_Language,Name_Calling-Labeling
+22103	15	Appeal_to_Fear-Prejudice

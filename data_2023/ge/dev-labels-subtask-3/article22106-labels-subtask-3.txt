@@ -1,0 +1,25 @@
+22106	1	Conversation_Killer,Slogans
+22106	2	
+22106	4	Appeal_to_Popularity,Doubt,Name_Calling-Labeling
+22106	6	
+22106	8	Appeal_to_Popularity
+22106	10	
+22106	12	Appeal_to_Values,Doubt,Obfuscation-Vagueness-Confusion
+22106	14	Doubt,Name_Calling-Labeling
+22106	16	
+22106	18	Causal_Oversimplification
+22106	20	Causal_Oversimplification,Doubt,Loaded_Language
+22106	22	Name_Calling-Labeling
+22106	24	Consequential_Oversimplification,Questioning_the_Reputation
+22106	26	
+22106	28	Name_Calling-Labeling
+22106	30	
+22106	32	Doubt
+22106	34	Name_Calling-Labeling
+22106	36	
+22106	38	Appeal_to_Hypocrisy,Name_Calling-Labeling
+22106	40	Conversation_Killer,Slogans,Whataboutism
+22106	42	
+22106	44	Consequential_Oversimplification,Loaded_Language
+22106	46	Doubt,Name_Calling-Labeling
+22106	48	

@@ -1,0 +1,11 @@
+25125	1	Obfuscation-Vagueness-Confusion
+25125	3	Obfuscation-Vagueness-Confusion
+25125	5	Name_Calling-Labeling
+25125	7	
+25125	9	
+25125	11	Name_Calling-Labeling,Obfuscation-Vagueness-Confusion
+25125	13	
+25125	15	Appeal_to_Hypocrisy,Flag_Waving,Name_Calling-Labeling
+25125	17	Name_Calling-Labeling
+25125	19	
+25125	21	Appeal_to_Hypocrisy,Doubt,Loaded_Language,Name_Calling-Labeling

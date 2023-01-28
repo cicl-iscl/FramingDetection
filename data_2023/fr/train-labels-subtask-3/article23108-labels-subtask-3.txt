@@ -1,0 +1,3 @@
+23108	1	Loaded_Language
+23108	3	Appeal_to_Values,Loaded_Language,Name_Calling-Labeling
+23108	5	Appeal_to_Values,Consequential_Oversimplification,Doubt,Guilt_by_Association,Loaded_Language,Name_Calling-Labeling,Straw_Man

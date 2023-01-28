@@ -1,0 +1,11 @@
+757964238	1	
+757964238	3	Causal_Oversimplification
+757964238	4	
+757964238	5	Loaded_Language,Repetition
+757964238	6	
+757964238	7	
+757964238	8	Loaded_Language,Repetition
+757964238	9	Appeal_to_Authority,Exaggeration-Minimisation,Name_Calling-Labeling
+757964238	10	
+757964238	11	
+757964238	12	

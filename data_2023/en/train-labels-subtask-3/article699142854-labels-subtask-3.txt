@@ -1,0 +1,35 @@
+699142854	1	
+699142854	3	
+699142854	4	
+699142854	6	
+699142854	7	
+699142854	9	Loaded_Language
+699142854	11	Flag_Waving
+699142854	13	Flag_Waving,Loaded_Language
+699142854	15	
+699142854	17	Name_Calling-Labeling
+699142854	19	Appeal_to_Fear-Prejudice
+699142854	21	Appeal_to_Fear-Prejudice
+699142854	23	Loaded_Language
+699142854	25	Repetition
+699142854	27	
+699142854	29	Obfuscation-Vagueness-Confusion
+699142854	31	
+699142854	33	Doubt
+699142854	35	
+699142854	37	
+699142854	39	Loaded_Language
+699142854	41	
+699142854	43	Obfuscation-Vagueness-Confusion
+699142854	45	
+699142854	47	
+699142854	49	
+699142854	51	
+699142854	53	
+699142854	55	Repetition
+699142854	57	Appeal_to_Fear-Prejudice,Repetition
+699142854	59	Name_Calling-Labeling
+699142854	61	
+699142854	63	
+699142854	65	
+699142854	67	Causal_Oversimplification

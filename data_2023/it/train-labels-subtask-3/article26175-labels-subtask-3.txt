@@ -1,0 +1,16 @@
+26175	1	
+26175	3	Doubt,Loaded_Language
+26175	5	Doubt,Loaded_Language
+26175	7	Doubt,Loaded_Language,Questioning_the_Reputation
+26175	9	
+26175	11	Doubt,Loaded_Language
+26175	13	
+26175	15	Doubt
+26175	17	
+26175	19	Doubt
+26175	21	
+26175	23	Doubt
+26175	25	
+26175	27	Name_Calling-Labeling
+26175	29	
+26175	31	Appeal_to_Fear-Prejudice,Doubt,Loaded_Language

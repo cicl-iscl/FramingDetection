@@ -1,0 +1,12 @@
+2531	1	Questioning_the_Reputation
+2531	3	Exaggeration-Minimisation,Loaded_Language
+2531	5	Loaded_Language
+2531	7	
+2531	9	Loaded_Language
+2531	11	Name_Calling-Labeling,Straw_Man
+2531	13	Obfuscation-Vagueness-Confusion
+2531	15	
+2531	17	
+2531	19	Flag_Waving
+2531	21	Exaggeration-Minimisation
+2531	23	Questioning_the_Reputation,Red_Herring

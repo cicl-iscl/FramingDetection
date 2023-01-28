@@ -1,0 +1,6 @@
+821040551	1	
+821040551	3	Appeal_to_Fear-Prejudice
+821040551	4	Appeal_to_Fear-Prejudice,Appeal_to_Popularity
+821040551	5	Loaded_Language
+821040551	6	
+821040551	7	

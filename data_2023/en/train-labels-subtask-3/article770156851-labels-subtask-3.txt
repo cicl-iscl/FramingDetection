@@ -1,0 +1,30 @@
+770156851	1	Name_Calling-Labeling
+770156851	3	
+770156851	4	Loaded_Language,Name_Calling-Labeling
+770156851	5	False_Dilemma-No_Choice,Loaded_Language
+770156851	6	Conversation_Killer,Loaded_Language,Repetition
+770156851	7	Conversation_Killer
+770156851	8	Loaded_Language
+770156851	9	
+770156851	10	Loaded_Language
+770156851	11	
+770156851	12	
+770156851	13	
+770156851	14	
+770156851	15	Flag_Waving
+770156851	16	Loaded_Language
+770156851	17	Loaded_Language
+770156851	18	Doubt
+770156851	19	Loaded_Language
+770156851	20	
+770156851	21	
+770156851	22	Loaded_Language
+770156851	23	Loaded_Language
+770156851	24	
+770156851	25	
+770156851	26	
+770156851	27	
+770156851	28	
+770156851	29	Loaded_Language
+770156851	30	
+770156851	31	

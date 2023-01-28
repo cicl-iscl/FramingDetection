@@ -1,0 +1,7 @@
+2232	Loaded_Language	987	1044
+2232	Loaded_Language	12	28
+2232	Guilt_by_Association	800	862
+2232	Guilt_by_Association	577	642
+2232	Doubt	361	460
+2232	Name_Calling-Labeling	306	325
+2232	Name_Calling-Labeling	95	115

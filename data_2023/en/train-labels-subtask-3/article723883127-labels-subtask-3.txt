@@ -1,0 +1,8 @@
+723883127	1	Loaded_Language
+723883127	3	Loaded_Language
+723883127	4	
+723883127	5	Loaded_Language
+723883127	6	Loaded_Language,Repetition
+723883127	7	
+723883127	8	Loaded_Language,Name_Calling-Labeling
+723883127	9	

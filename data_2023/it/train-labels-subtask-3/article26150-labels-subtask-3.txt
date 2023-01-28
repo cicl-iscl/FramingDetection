@@ -1,0 +1,5 @@
+26150	1	Doubt,Loaded_Language,Name_Calling-Labeling
+26150	3	Name_Calling-Labeling
+26150	5	Appeal_to_Fear-Prejudice,Doubt
+26150	7	Doubt,Exaggeration-Minimisation,Loaded_Language
+26150	9	Doubt,Loaded_Language,Name_Calling-Labeling

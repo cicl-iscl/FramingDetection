@@ -1,0 +1,12 @@
+2584	1	Loaded_Language
+2584	3	Loaded_Language,Name_Calling-Labeling
+2584	5	Doubt,Name_Calling-Labeling
+2584	7	Name_Calling-Labeling
+2584	9	Appeal_to_Hypocrisy,Loaded_Language,Name_Calling-Labeling,Slogans
+2584	11	Name_Calling-Labeling
+2584	13	Loaded_Language,Name_Calling-Labeling,Slogans
+2584	15	Name_Calling-Labeling,Questioning_the_Reputation
+2584	17	
+2584	19	Loaded_Language
+2584	21	
+2584	23	

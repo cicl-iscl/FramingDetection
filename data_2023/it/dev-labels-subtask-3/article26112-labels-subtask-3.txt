@@ -1,0 +1,14 @@
+26112	1	
+26112	3	Doubt,Loaded_Language
+26112	5	
+26112	6	Consequential_Oversimplification,Conversation_Killer,Doubt,Loaded_Language,Name_Calling-Labeling
+26112	8	Doubt,Loaded_Language
+26112	10	Slogans
+26112	11	Doubt,Loaded_Language
+26112	12	Doubt,Loaded_Language,Name_Calling-Labeling
+26112	14	Loaded_Language
+26112	15	Doubt,Loaded_Language,Name_Calling-Labeling
+26112	17	Doubt,Loaded_Language
+26112	19	
+26112	20	Doubt,Loaded_Language
+26112	22	Conversation_Killer,Doubt,Loaded_Language

@@ -1,0 +1,7 @@
+2421	1	Loaded_Language,Name_Calling-Labeling
+2421	3	Loaded_Language
+2421	5	
+2421	7	Doubt
+2421	9	Consequential_Oversimplification
+2421	11	Doubt
+2421	13	Name_Calling-Labeling

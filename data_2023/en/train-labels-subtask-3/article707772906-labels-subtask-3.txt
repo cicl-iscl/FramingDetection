@@ -1,0 +1,30 @@
+707772906	1	
+707772906	3	
+707772906	4	
+707772906	5	Loaded_Language
+707772906	6	
+707772906	7	Exaggeration-Minimisation
+707772906	8	
+707772906	9	Exaggeration-Minimisation,Loaded_Language,Slogans
+707772906	10	
+707772906	11	
+707772906	12	Exaggeration-Minimisation
+707772906	13	Exaggeration-Minimisation
+707772906	14	Appeal_to_Fear-Prejudice
+707772906	15	Loaded_Language
+707772906	16	
+707772906	17	Loaded_Language
+707772906	18	
+707772906	19	
+707772906	20	
+707772906	21	
+707772906	22	Loaded_Language
+707772906	23	Whataboutism
+707772906	24	
+707772906	25	
+707772906	26	Appeal_to_Fear-Prejudice
+707772906	27	Name_Calling-Labeling
+707772906	28	Appeal_to_Fear-Prejudice
+707772906	29	False_Dilemma-No_Choice
+707772906	30	Loaded_Language
+707772906	31	

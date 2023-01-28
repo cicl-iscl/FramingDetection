@@ -1,0 +1,12 @@
+740356006	1	
+740356006	3	
+740356006	4	Appeal_to_Authority,Exaggeration-Minimisation,Slogans
+740356006	5	
+740356006	6	Conversation_Killer
+740356006	7	
+740356006	8	Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling
+740356006	9	
+740356006	10	Name_Calling-Labeling,Red_Herring
+740356006	11	Doubt,Red_Herring
+740356006	12	Name_Calling-Labeling
+740356006	13	Name_Calling-Labeling

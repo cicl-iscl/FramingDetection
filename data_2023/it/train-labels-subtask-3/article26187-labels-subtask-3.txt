@@ -1,0 +1,12 @@
+26187	1	Causal_Oversimplification,False_Dilemma-No_Choice
+26187	3	
+26187	5	
+26187	7	Doubt,Exaggeration-Minimisation
+26187	9	
+26187	11	Loaded_Language
+26187	13	
+26187	15	Name_Calling-Labeling
+26187	17	Doubt,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+26187	19	
+26187	21	
+26187	23	Name_Calling-Labeling

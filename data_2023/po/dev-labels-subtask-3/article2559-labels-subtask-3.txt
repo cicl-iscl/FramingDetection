@@ -1,0 +1,6 @@
+2559	1	Exaggeration-Minimisation
+2559	3	
+2559	5	Name_Calling-Labeling
+2559	7	
+2559	9	Name_Calling-Labeling
+2559	11	Guilt_by_Association,Loaded_Language,Name_Calling-Labeling

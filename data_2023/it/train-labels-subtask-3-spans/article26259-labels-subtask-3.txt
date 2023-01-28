@@ -1,0 +1,7 @@
+26259	Slogans	335	354
+26259	Appeal_to_Fear-Prejudice	613	661
+26259	Questioning_the_Reputation	56	131
+26259	Appeal_to_Fear-Prejudice	293	355
+26259	Causal_Oversimplification	258	355
+26259	Loaded_Language	481	598
+26259	Slogans	641	660

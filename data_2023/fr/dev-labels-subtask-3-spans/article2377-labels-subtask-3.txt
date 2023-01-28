@@ -1,0 +1,6 @@
+2377	Exaggeration-Minimisation	1188	1248
+2377	Slogans	430	517
+2377	Loaded_Language	730	752
+2377	Red_Herring	1282	1310
+2377	Exaggeration-Minimisation	1122	1185
+2377	Obfuscation-Vagueness-Confusion	1188	1386

@@ -1,0 +1,14 @@
+25109	1	Appeal_to_Fear-Prejudice
+25109	3	Appeal_to_Fear-Prejudice,Appeal_to_Time
+25109	5	
+25109	7	Doubt
+25109	9	Appeal_to_Time,Questioning_the_Reputation
+25109	11	Name_Calling-Labeling
+25109	13	Appeal_to_Fear-Prejudice,Questioning_the_Reputation
+25109	15	Appeal_to_Hypocrisy,Questioning_the_Reputation
+25109	17	
+25109	19	
+25109	21	
+25109	23	Name_Calling-Labeling
+25109	25	
+25109	27	Questioning_the_Reputation

@@ -1,0 +1,9 @@
+737255982	1	Slogans
+737255982	3	Loaded_Language,Name_Calling-Labeling
+737255982	4	Name_Calling-Labeling,Slogans
+737255982	5	Exaggeration-Minimisation,Loaded_Language,Slogans
+737255982	6	
+737255982	7	Loaded_Language
+737255982	8	False_Dilemma-No_Choice
+737255982	9	
+737255982	10	Doubt,Name_Calling-Labeling

@@ -1,0 +1,4 @@
+26230	1	Slogans
+26230	3	Appeal_to_Values,Exaggeration-Minimisation,Flag_Waving
+26230	5	
+26230	7	Appeal_to_Hypocrisy,Conversation_Killer,Doubt,False_Dilemma-No_Choice,Name_Calling-Labeling

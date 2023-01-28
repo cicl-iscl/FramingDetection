@@ -1,0 +1,40 @@
+999001032	1	Doubt
+999001032	3	
+999001032	4	
+999001032	5	
+999001032	6	
+999001032	7	
+999001032	8	
+999001032	9	Name_Calling-Labeling
+999001032	10	Exaggeration-Minimisation,Loaded_Language,Repetition
+999001032	11	Name_Calling-Labeling
+999001032	12	Loaded_Language,Name_Calling-Labeling
+999001032	13	
+999001032	14	
+999001032	15	
+999001032	16	Doubt
+999001032	17	Doubt
+999001032	18	Appeal_to_Authority,Doubt
+999001032	19	Doubt
+999001032	20	
+999001032	21	Doubt
+999001032	22	Doubt,Repetition
+999001032	23	Loaded_Language,Name_Calling-Labeling
+999001032	24	Exaggeration-Minimisation,Loaded_Language
+999001032	25	Name_Calling-Labeling,Repetition
+999001032	26	Exaggeration-Minimisation,Loaded_Language
+999001032	27	Loaded_Language
+999001032	28	Conversation_Killer,Repetition
+999001032	29	
+999001032	30	Appeal_to_Fear-Prejudice,Loaded_Language
+999001032	31	Name_Calling-Labeling
+999001032	32	Name_Calling-Labeling,Repetition
+999001032	33	Doubt
+999001032	34	Name_Calling-Labeling,Repetition
+999001032	35	
+999001032	36	
+999001032	37	
+999001032	38	Doubt,Name_Calling-Labeling
+999001032	39	
+999001032	40	
+999001032	41	

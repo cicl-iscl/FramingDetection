@@ -1,0 +1,38 @@
+785801366	1	
+785801366	3	
+785801366	4	Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling
+785801366	5	
+785801366	6	
+785801366	7	
+785801366	8	
+785801366	9	Loaded_Language,Name_Calling-Labeling
+785801366	10	Appeal_to_Fear-Prejudice,Flag_Waving
+785801366	11	
+785801366	12	Doubt,Name_Calling-Labeling,Repetition
+785801366	13	Slogans
+785801366	14	Exaggeration-Minimisation,Flag_Waving,Loaded_Language,Name_Calling-Labeling,Red_Herring,Slogans
+785801366	15	Causal_Oversimplification,Name_Calling-Labeling,Repetition
+785801366	16	Loaded_Language,Slogans
+785801366	17	
+785801366	18	Appeal_to_Authority,Loaded_Language
+785801366	19	Name_Calling-Labeling
+785801366	20	Loaded_Language,Name_Calling-Labeling,Slogans
+785801366	21	Appeal_to_Authority,Loaded_Language
+785801366	22	
+785801366	23	Loaded_Language
+785801366	24	Appeal_to_Authority,Loaded_Language,Name_Calling-Labeling
+785801366	25	Name_Calling-Labeling
+785801366	26	Repetition
+785801366	27	
+785801366	28	Name_Calling-Labeling,Repetition
+785801366	29	
+785801366	30	Appeal_to_Authority,Loaded_Language,Name_Calling-Labeling
+785801366	31	Loaded_Language
+785801366	32	Name_Calling-Labeling
+785801366	33	Flag_Waving,Name_Calling-Labeling
+785801366	34	False_Dilemma-No_Choice
+785801366	35	
+785801366	36	Exaggeration-Minimisation,Loaded_Language
+785801366	37	Loaded_Language,Name_Calling-Labeling
+785801366	38	Loaded_Language,Name_Calling-Labeling
+785801366	39	

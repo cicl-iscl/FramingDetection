@@ -1,0 +1,22 @@
+758512204	1	
+758512204	3	Exaggeration-Minimisation,Name_Calling-Labeling
+758512204	4	Loaded_Language
+758512204	5	Loaded_Language,Name_Calling-Labeling
+758512204	6	
+758512204	7	
+758512204	8	
+758512204	9	
+758512204	10	
+758512204	11	Name_Calling-Labeling
+758512204	12	Name_Calling-Labeling,Repetition
+758512204	13	
+758512204	14	Loaded_Language,Name_Calling-Labeling
+758512204	15	Appeal_to_Fear-Prejudice
+758512204	16	
+758512204	17	Doubt,Loaded_Language,Name_Calling-Labeling
+758512204	18	
+758512204	19	Doubt,Name_Calling-Labeling,Repetition
+758512204	20	Conversation_Killer
+758512204	21	Loaded_Language
+758512204	22	
+758512204	23	

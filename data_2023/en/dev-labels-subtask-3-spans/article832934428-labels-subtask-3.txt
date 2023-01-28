@@ -1,0 +1,7 @@
+832934428	Name_Calling-Labeling	106	115
+832934428	Obfuscation-Vagueness-Confusion	213	228
+832934428	Loaded_Language	312	344
+832934428	Name_Calling-Labeling	391	405
+832934428	Appeal_to_Fear-Prejudice	541	561
+832934428	Doubt	563	604
+832934428	Doubt	755	867

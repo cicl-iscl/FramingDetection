@@ -1,0 +1,57 @@
+813623212	1	Loaded_Language
+813623212	3	Loaded_Language,Name_Calling-Labeling,Repetition
+813623212	4	Name_Calling-Labeling,Repetition
+813623212	5	Repetition
+813623212	6	Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling
+813623212	7	Exaggeration-Minimisation,Loaded_Language
+813623212	8	Conversation_Killer,Name_Calling-Labeling
+813623212	9	Conversation_Killer
+813623212	10	Exaggeration-Minimisation,False_Dilemma-No_Choice,Loaded_Language
+813623212	11	Exaggeration-Minimisation,Loaded_Language
+813623212	12	Conversation_Killer,Name_Calling-Labeling,Slogans
+813623212	13	
+813623212	14	Exaggeration-Minimisation
+813623212	15	
+813623212	16	
+813623212	17	Exaggeration-Minimisation,Repetition
+813623212	18	
+813623212	19	Repetition
+813623212	20	Repetition
+813623212	21	
+813623212	22	Loaded_Language
+813623212	23	Exaggeration-Minimisation,Loaded_Language
+813623212	24	Name_Calling-Labeling
+813623212	25	Loaded_Language
+813623212	26	
+813623212	27	
+813623212	28	
+813623212	29	
+813623212	30	Name_Calling-Labeling
+813623212	31	Loaded_Language
+813623212	32	
+813623212	33	Loaded_Language
+813623212	34	Loaded_Language
+813623212	35	
+813623212	36	
+813623212	37	Appeal_to_Popularity,Causal_Oversimplification,Doubt
+813623212	38	Loaded_Language
+813623212	39	
+813623212	40	Loaded_Language
+813623212	41	
+813623212	42	Loaded_Language
+813623212	43	
+813623212	44	
+813623212	45	
+813623212	46	Doubt
+813623212	47	Doubt
+813623212	48	Loaded_Language
+813623212	49	Loaded_Language
+813623212	50	
+813623212	51	Conversation_Killer,Repetition
+813623212	52	Loaded_Language
+813623212	53	
+813623212	54	
+813623212	55	
+813623212	56	
+813623212	57	
+813623212	58	

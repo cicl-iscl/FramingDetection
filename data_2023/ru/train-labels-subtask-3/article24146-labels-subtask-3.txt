@@ -1,0 +1,19 @@
+24146	1	Conversation_Killer
+24146	3	Slogans
+24146	5	Appeal_to_Time,Causal_Oversimplification
+24146	7	
+24146	9	Slogans
+24146	11	False_Dilemma-No_Choice
+24146	13	
+24146	15	
+24146	17	Consequential_Oversimplification
+24146	19	
+24146	21	Consequential_Oversimplification,Loaded_Language
+24146	23	
+24146	25	
+24146	27	
+24146	29	
+24146	31	Loaded_Language
+24146	33	
+24146	35	
+24146	37	Consequential_Oversimplification

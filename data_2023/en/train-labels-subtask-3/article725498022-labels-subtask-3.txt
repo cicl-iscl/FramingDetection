@@ -1,0 +1,55 @@
+725498022	1	
+725498022	3	Loaded_Language
+725498022	4	Loaded_Language
+725498022	5	Name_Calling-Labeling
+725498022	6	Loaded_Language,Name_Calling-Labeling
+725498022	7	
+725498022	8	
+725498022	9	Loaded_Language,Obfuscation-Vagueness-Confusion
+725498022	10	
+725498022	11	Loaded_Language
+725498022	12	
+725498022	13	
+725498022	14	Loaded_Language,Name_Calling-Labeling
+725498022	15	
+725498022	16	
+725498022	17	Conversation_Killer,Name_Calling-Labeling
+725498022	18	Loaded_Language
+725498022	19	Slogans
+725498022	20	Loaded_Language
+725498022	21	Loaded_Language
+725498022	22	Loaded_Language
+725498022	23	
+725498022	24	Exaggeration-Minimisation
+725498022	25	
+725498022	26	Name_Calling-Labeling
+725498022	27	
+725498022	28	
+725498022	29	
+725498022	30	Name_Calling-Labeling
+725498022	31	
+725498022	32	Name_Calling-Labeling
+725498022	33	
+725498022	34	Name_Calling-Labeling
+725498022	35	
+725498022	36	
+725498022	37	
+725498022	38	
+725498022	39	Loaded_Language
+725498022	40	
+725498022	41	
+725498022	42	
+725498022	43	
+725498022	44	Name_Calling-Labeling
+725498022	45	Conversation_Killer,Loaded_Language
+725498022	46	Loaded_Language,Name_Calling-Labeling
+725498022	47	
+725498022	48	Appeal_to_Hypocrisy
+725498022	49	
+725498022	50	Name_Calling-Labeling
+725498022	51	Loaded_Language
+725498022	52	Doubt
+725498022	53	Loaded_Language
+725498022	54	Appeal_to_Fear-Prejudice
+725498022	55	
+725498022	56	

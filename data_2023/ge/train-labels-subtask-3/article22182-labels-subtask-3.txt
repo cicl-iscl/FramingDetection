@@ -1,0 +1,12 @@
+22182	1	
+22182	3	
+22182	5	Appeal_to_Authority
+22182	7	
+22182	9	
+22182	11	
+22182	13	Appeal_to_Authority
+22182	15	Appeal_to_Fear-Prejudice
+22182	17	Appeal_to_Values,Name_Calling-Labeling
+22182	19	Name_Calling-Labeling
+22182	21	
+22182	23	Name_Calling-Labeling

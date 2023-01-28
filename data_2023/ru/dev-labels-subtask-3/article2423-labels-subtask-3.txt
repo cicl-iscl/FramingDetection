@@ -1,0 +1,4 @@
+2423	1	Guilt_by_Association
+2423	3	Guilt_by_Association,Loaded_Language
+2423	5	Doubt,Guilt_by_Association
+2423	7	Appeal_to_Hypocrisy,Conversation_Killer,Guilt_by_Association,Questioning_the_Reputation

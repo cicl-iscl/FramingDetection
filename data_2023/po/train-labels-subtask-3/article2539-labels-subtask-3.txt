@@ -1,0 +1,42 @@
+2539	1	Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+2539	3	Loaded_Language,Name_Calling-Labeling
+2539	5	Name_Calling-Labeling
+2539	7	Guilt_by_Association,Loaded_Language
+2539	9	Loaded_Language,Name_Calling-Labeling
+2539	11	Loaded_Language,Name_Calling-Labeling
+2539	13	Appeal_to_Values,Loaded_Language,Name_Calling-Labeling
+2539	15	
+2539	17	Loaded_Language,Name_Calling-Labeling
+2539	19	Loaded_Language
+2539	21	
+2539	23	
+2539	25	Name_Calling-Labeling
+2539	27	Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+2539	29	
+2539	31	Appeal_to_Fear-Prejudice
+2539	33	Appeal_to_Fear-Prejudice,Appeal_to_Values
+2539	35	Name_Calling-Labeling
+2539	37	Name_Calling-Labeling
+2539	39	Guilt_by_Association,Loaded_Language
+2539	41	Name_Calling-Labeling
+2539	43	Name_Calling-Labeling
+2539	45	Name_Calling-Labeling
+2539	47	Name_Calling-Labeling
+2539	49	
+2539	51	
+2539	53	Loaded_Language,Name_Calling-Labeling
+2539	55	Loaded_Language,Name_Calling-Labeling
+2539	57	Appeal_to_Fear-Prejudice,Name_Calling-Labeling
+2539	59	Guilt_by_Association
+2539	61	Name_Calling-Labeling
+2539	63	
+2539	65	
+2539	66	
+2539	68	
+2539	69	
+2539	70	
+2539	71	
+2539	72	
+2539	74	Loaded_Language
+2539	76	Appeal_to_Values,Guilt_by_Association,Name_Calling-Labeling
+2539	77	Appeal_to_Values,Flag_Waving

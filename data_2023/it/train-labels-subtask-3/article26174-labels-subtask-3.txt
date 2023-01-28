@@ -1,0 +1,4 @@
+26174	1	Straw_Man
+26174	3	Appeal_to_Fear-Prejudice,Doubt,Loaded_Language,Questioning_the_Reputation
+26174	5	Appeal_to_Values,Doubt,Flag_Waving
+26174	7	Doubt,Loaded_Language

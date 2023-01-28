@@ -1,0 +1,16 @@
+111111122	1	Loaded_Language
+111111122	3	
+111111122	4	Doubt,Exaggeration-Minimisation,Loaded_Language
+111111122	6	
+111111122	8	Doubt,Name_Calling-Labeling
+111111122	10	Doubt,Loaded_Language
+111111122	12	
+111111122	15	
+111111122	17	Doubt,Loaded_Language
+111111122	19	Exaggeration-Minimisation
+111111122	21	Doubt
+111111122	23	Loaded_Language,Name_Calling-Labeling
+111111122	25	Appeal_to_Authority
+111111122	27	Causal_Oversimplification,Loaded_Language
+111111122	29	Loaded_Language
+111111122	31	Name_Calling-Labeling

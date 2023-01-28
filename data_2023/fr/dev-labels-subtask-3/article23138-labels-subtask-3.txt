@@ -1,0 +1,22 @@
+23138	1	Questioning_the_Reputation
+23138	3	
+23138	5	
+23138	7	
+23138	9	
+23138	11	
+23138	13	Appeal_to_Fear-Prejudice
+23138	15	Loaded_Language
+23138	17	Appeal_to_Time,Doubt,Loaded_Language
+23138	19	Appeal_to_Authority,Appeal_to_Values,Questioning_the_Reputation
+23138	21	Appeal_to_Hypocrisy,Causal_Oversimplification,Exaggeration-Minimisation,Loaded_Language
+23138	23	Exaggeration-Minimisation,Questioning_the_Reputation
+23138	25	Causal_Oversimplification
+23138	27	Causal_Oversimplification,Loaded_Language
+23138	29	Loaded_Language,Questioning_the_Reputation
+23138	31	Causal_Oversimplification,Loaded_Language,Questioning_the_Reputation
+23138	33	Appeal_to_Authority
+23138	35	Conversation_Killer,Obfuscation-Vagueness-Confusion
+23138	37	Causal_Oversimplification,Loaded_Language
+23138	39	Appeal_to_Authority,Causal_Oversimplification,Loaded_Language
+23138	41	Causal_Oversimplification,Doubt,Exaggeration-Minimisation,Flag_Waving,Loaded_Language
+23138	43	Appeal_to_Values,Flag_Waving

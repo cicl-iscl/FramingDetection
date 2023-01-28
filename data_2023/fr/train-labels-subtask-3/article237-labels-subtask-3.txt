@@ -1,0 +1,6 @@
+237	1	
+237	3	Flag_Waving,Loaded_Language,Name_Calling-Labeling,Straw_Man
+237	5	Appeal_to_Popularity,Doubt,Questioning_the_Reputation
+237	7	Conversation_Killer,Loaded_Language,Name_Calling-Labeling,Straw_Man
+237	9	Appeal_to_Popularity,Causal_Oversimplification,Exaggeration-Minimisation,Loaded_Language
+237	11	Flag_Waving,Slogans

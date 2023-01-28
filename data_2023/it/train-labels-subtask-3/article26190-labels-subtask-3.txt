@@ -1,0 +1,14 @@
+26190	1	
+26190	3	Doubt
+26190	5	Loaded_Language,Name_Calling-Labeling
+26190	7	Appeal_to_Authority,Conversation_Killer,Exaggeration-Minimisation,Loaded_Language
+26190	9	
+26190	11	Guilt_by_Association
+26190	13	Appeal_to_Fear-Prejudice,Conversation_Killer,Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+26190	15	
+26190	17	
+26190	19	Appeal_to_Authority,Appeal_to_Fear-Prejudice,Appeal_to_Popularity
+26190	21	Loaded_Language,Name_Calling-Labeling
+26190	23	
+26190	25	Conversation_Killer
+26190	27	

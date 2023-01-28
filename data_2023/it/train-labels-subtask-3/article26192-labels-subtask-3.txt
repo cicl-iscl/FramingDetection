@@ -1,0 +1,10 @@
+26192	1	
+26192	3	Causal_Oversimplification
+26192	5	
+26192	7	Name_Calling-Labeling
+26192	9	Exaggeration-Minimisation
+26192	11	Causal_Oversimplification
+26192	13	
+26192	15	Appeal_to_Popularity,Loaded_Language,Name_Calling-Labeling
+26192	17	Name_Calling-Labeling,Slogans
+26192	19	Loaded_Language,Name_Calling-Labeling

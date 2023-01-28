@@ -1,0 +1,6 @@
+833021113	Loaded_Language	73	81
+833021113	Name_Calling-Labeling	210	232
+833021113	Doubt	522	580
+833021113	Causal_Oversimplification	1081	1171
+833021113	Loaded_Language	1303	1318
+833021113	Causal_Oversimplification	1341	1469

@@ -1,0 +1,5 @@
+23199	1	
+23199	3	Loaded_Language,Questioning_the_Reputation
+23199	6	Exaggeration-Minimisation,Loaded_Language,Straw_Man
+23199	8	Appeal_to_Popularity,Doubt,Loaded_Language,Name_Calling-Labeling
+23199	10	Loaded_Language,Questioning_the_Reputation

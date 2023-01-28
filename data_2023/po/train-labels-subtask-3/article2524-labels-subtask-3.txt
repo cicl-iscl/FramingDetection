@@ -1,0 +1,26 @@
+2524	2	Obfuscation-Vagueness-Confusion
+2524	4	Loaded_Language,Name_Calling-Labeling
+2524	6	
+2524	8	Doubt,Name_Calling-Labeling
+2524	10	Name_Calling-Labeling
+2524	12	
+2524	14	Appeal_to_Authority,Loaded_Language
+2524	16	Name_Calling-Labeling
+2524	18	
+2524	20	Doubt
+2524	22	
+2524	24	Doubt
+2524	26	Doubt
+2524	28	Doubt
+2524	30	
+2524	32	
+2524	34	Doubt
+2524	36	Doubt
+2524	38	Doubt,Loaded_Language
+2524	40	
+2524	42	
+2524	44	
+2524	46	Appeal_to_Fear-Prejudice
+2524	48	Appeal_to_Fear-Prejudice,Loaded_Language
+2524	50	Doubt,Guilt_by_Association,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+2524	52	Doubt

@@ -1,0 +1,25 @@
+2314	1	Slogans
+2314	3	Appeal_to_Authority,Conversation_Killer
+2314	5	Doubt
+2314	7	Slogans
+2314	9	Appeal_to_Authority,Doubt,Name_Calling-Labeling
+2314	11	
+2314	13	
+2314	15	
+2314	17	Appeal_to_Time
+2314	19	
+2314	21	Loaded_Language
+2314	23	Whataboutism
+2314	25	Repetition
+2314	27	Appeal_to_Values,False_Dilemma-No_Choice
+2314	29	Loaded_Language
+2314	30	
+2314	32	Slogans
+2314	34	
+2314	36	False_Dilemma-No_Choice,Loaded_Language
+2314	38	
+2314	40	
+2314	42	Appeal_to_Popularity,Exaggeration-Minimisation
+2314	44	Appeal_to_Time
+2314	46	Appeal_to_Popularity,Slogans
+2314	48	Appeal_to_Authority,Doubt,False_Dilemma-No_Choice,Questioning_the_Reputation,Straw_Man

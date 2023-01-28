@@ -1,0 +1,12 @@
+793467906	1	
+793467906	3	Loaded_Language
+793467906	4	Flag_Waving
+793467906	5	
+793467906	6	Loaded_Language,Name_Calling-Labeling
+793467906	7	
+793467906	8	
+793467906	9	Loaded_Language
+793467906	10	Loaded_Language
+793467906	11	Repetition
+793467906	12	False_Dilemma-No_Choice
+793467906	13	Exaggeration-Minimisation,Loaded_Language,Repetition

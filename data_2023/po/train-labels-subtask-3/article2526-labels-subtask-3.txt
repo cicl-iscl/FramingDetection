@@ -1,0 +1,16 @@
+2526	1	Loaded_Language
+2526	3	Exaggeration-Minimisation,Loaded_Language
+2526	5	Exaggeration-Minimisation,Loaded_Language
+2526	7	Loaded_Language
+2526	9	
+2526	11	Exaggeration-Minimisation,Loaded_Language
+2526	13	Appeal_to_Hypocrisy,Loaded_Language,Obfuscation-Vagueness-Confusion
+2526	15	
+2526	17	Loaded_Language
+2526	19	
+2526	21	Name_Calling-Labeling
+2526	23	Appeal_to_Fear-Prejudice,Loaded_Language
+2526	25	
+2526	27	
+2526	29	Guilt_by_Association
+2526	31	

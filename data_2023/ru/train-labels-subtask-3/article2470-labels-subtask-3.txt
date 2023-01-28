@@ -1,0 +1,9 @@
+2470	1	
+2470	3	
+2470	5	
+2470	6	
+2470	8	Doubt
+2470	10	Appeal_to_Hypocrisy,Doubt,Name_Calling-Labeling
+2470	11	Doubt
+2470	12	Appeal_to_Hypocrisy,Doubt
+2470	13	Doubt

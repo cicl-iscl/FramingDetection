@@ -1,0 +1,16 @@
+26279	1	
+26279	3	Appeal_to_Values,Doubt,Loaded_Language
+26279	5	Loaded_Language
+26279	7	
+26279	9	Loaded_Language
+26279	11	Appeal_to_Fear-Prejudice,Loaded_Language
+26279	13	Appeal_to_Popularity,Appeal_to_Values
+26279	15	Appeal_to_Values,Loaded_Language
+26279	17	
+26279	19	
+26279	21	
+26279	23	
+26279	25	
+26279	27	
+26279	29	Doubt
+26279	31	

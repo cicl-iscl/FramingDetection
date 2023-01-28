@@ -1,0 +1,26 @@
+2497	1	Questioning_the_Reputation
+2497	3	Doubt,Exaggeration-Minimisation
+2497	5	Questioning_the_Reputation
+2497	7	
+2497	9	Doubt
+2497	11	
+2497	13	
+2497	15	
+2497	17	Doubt,Exaggeration-Minimisation,Loaded_Language
+2497	19	Doubt
+2497	21	Doubt
+2497	23	
+2497	25	Appeal_to_Hypocrisy
+2497	27	Doubt,Questioning_the_Reputation,Repetition
+2497	29	
+2497	31	Doubt
+2497	33	Doubt,Loaded_Language
+2497	35	
+2497	37	Doubt,Loaded_Language
+2497	39	Doubt,Loaded_Language,Questioning_the_Reputation,Straw_Man
+2497	41	
+2497	43	
+2497	45	Causal_Oversimplification,Loaded_Language,Repetition
+2497	47	Causal_Oversimplification
+2497	49	Consequential_Oversimplification,Doubt
+2497	51	Doubt

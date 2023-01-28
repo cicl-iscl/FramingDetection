@@ -1,0 +1,21 @@
+721890296	1	Appeal_to_Authority,Loaded_Language,Name_Calling-Labeling,Repetition
+721890296	3	Repetition
+721890296	4	Repetition
+721890296	5	Loaded_Language
+721890296	6	Loaded_Language
+721890296	7	
+721890296	8	Appeal_to_Authority,Repetition
+721890296	9	Loaded_Language
+721890296	10	
+721890296	11	Exaggeration-Minimisation,False_Dilemma-No_Choice,Loaded_Language,Repetition
+721890296	12	Appeal_to_Authority
+721890296	13	Appeal_to_Fear-Prejudice,Exaggeration-Minimisation,Flag_Waving,Repetition
+721890296	14	
+721890296	15	Flag_Waving,Repetition
+721890296	16	Flag_Waving
+721890296	17	
+721890296	18	Flag_Waving
+721890296	19	Name_Calling-Labeling,Repetition
+721890296	20	Repetition
+721890296	21	Appeal_to_Fear-Prejudice,Loaded_Language,Name_Calling-Labeling,Repetition
+721890296	22	Conversation_Killer,Loaded_Language

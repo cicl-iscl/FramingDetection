@@ -1,0 +1,7 @@
+24172	1	
+24172	2	
+24172	4	
+24172	6	Loaded_Language,Straw_Man
+24172	8	Consequential_Oversimplification,Loaded_Language
+24172	10	Consequential_Oversimplification,Conversation_Killer,Loaded_Language
+24172	12	Consequential_Oversimplification

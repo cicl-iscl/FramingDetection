@@ -1,0 +1,8 @@
+2632	1	Doubt,Loaded_Language,Questioning_the_Reputation
+2632	3	Doubt,Exaggeration-Minimisation,Loaded_Language,Obfuscation-Vagueness-Confusion
+2632	4	Exaggeration-Minimisation
+2632	6	Exaggeration-Minimisation,Loaded_Language
+2632	8	
+2632	10	Exaggeration-Minimisation,Loaded_Language,Repetition
+2632	11	Causal_Oversimplification,Doubt,Loaded_Language
+2632	13	Consequential_Oversimplification,Conversation_Killer,Doubt,Loaded_Language,Name_Calling-Labeling,Whataboutism

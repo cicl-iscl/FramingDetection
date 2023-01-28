@@ -1,0 +1,16 @@
+24159	1	
+24159	3	Appeal_to_Values,Loaded_Language
+24159	5	
+24159	7	Loaded_Language
+24159	9	
+24159	11	
+24159	13	
+24159	15	
+24159	17	
+24159	19	
+24159	21	Appeal_to_Values,Loaded_Language
+24159	23	
+24159	25	
+24159	27	
+24159	29	
+24159	31	

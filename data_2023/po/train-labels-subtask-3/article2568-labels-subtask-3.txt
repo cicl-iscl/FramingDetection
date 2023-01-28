@@ -1,0 +1,19 @@
+2568	1	
+2568	3	
+2568	5	Appeal_to_Fear-Prejudice
+2568	6	
+2568	8	
+2568	10	Questioning_the_Reputation
+2568	12	Doubt,Name_Calling-Labeling
+2568	14	
+2568	16	Appeal_to_Values
+2568	18	Doubt
+2568	19	Red_Herring
+2568	21	
+2568	23	Red_Herring
+2568	25	Questioning_the_Reputation
+2568	26	
+2568	28	
+2568	30	Appeal_to_Fear-Prejudice
+2568	32	
+2568	34	Doubt

@@ -1,0 +1,7 @@
+26301	Appeal_to_Fear-Prejudice	1193	1293
+26301	Doubt	183	303
+26301	Questioning_the_Reputation	608	713
+26301	Doubt	1323	1476
+26301	Doubt	10	78
+26301	Doubt	343	421
+26301	Doubt	1897	2015

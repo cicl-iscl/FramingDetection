@@ -1,0 +1,19 @@
+789454337	1	Loaded_Language
+789454337	3	Flag_Waving,Name_Calling-Labeling,Obfuscation-Vagueness-Confusion
+789454337	4	Name_Calling-Labeling
+789454337	5	Causal_Oversimplification
+789454337	6	
+789454337	7	
+789454337	8	
+789454337	9	
+789454337	10	
+789454337	11	
+789454337	12	
+789454337	13	Repetition
+789454337	14	Appeal_to_Hypocrisy
+789454337	15	
+789454337	16	Loaded_Language
+789454337	17	
+789454337	18	
+789454337	19	Doubt,Loaded_Language
+789454337	20	

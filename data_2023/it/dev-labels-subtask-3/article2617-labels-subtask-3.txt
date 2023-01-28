@@ -1,0 +1,6 @@
+2617	1	Appeal_to_Values,Name_Calling-Labeling
+2617	3	Guilt_by_Association,Loaded_Language,Name_Calling-Labeling
+2617	5	Appeal_to_Fear-Prejudice,Appeal_to_Values,Name_Calling-Labeling,Questioning_the_Reputation
+2617	7	Exaggeration-Minimisation,Name_Calling-Labeling
+2617	9	Questioning_the_Reputation
+2617	11	Conversation_Killer,Doubt,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation

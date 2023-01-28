@@ -1,0 +1,24 @@
+833036176	1	Doubt
+833036176	2	
+833036176	4	Loaded_Language
+833036176	5	
+833036176	6	
+833036176	7	
+833036176	8	
+833036176	9	
+833036176	10	Appeal_to_Popularity
+833036176	11	
+833036176	12	Causal_Oversimplification,Doubt,Loaded_Language
+833036176	13	
+833036176	14	Doubt
+833036176	15	
+833036176	16	
+833036176	17	
+833036176	18	
+833036176	19	Loaded_Language
+833036176	20	
+833036176	21	Causal_Oversimplification,Doubt
+833036176	22	Causal_Oversimplification
+833036176	23	Causal_Oversimplification
+833036176	24	Causal_Oversimplification
+833036176	25	

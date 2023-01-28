@@ -1,0 +1,6 @@
+26100	1	Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling
+26100	3	Causal_Oversimplification,Doubt,Loaded_Language,Questioning_the_Reputation
+26100	5	
+26100	7	Conversation_Killer
+26100	9	
+26100	11	Appeal_to_Hypocrisy,Loaded_Language,Name_Calling-Labeling

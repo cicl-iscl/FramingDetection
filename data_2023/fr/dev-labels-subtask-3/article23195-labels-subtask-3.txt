@@ -1,0 +1,20 @@
+23195	1	
+23195	3	
+23195	5	Exaggeration-Minimisation,Loaded_Language
+23195	7	Appeal_to_Values
+23195	9	
+23195	11	
+23195	13	Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling
+23195	15	
+23195	17	Name_Calling-Labeling
+23195	19	Loaded_Language
+23195	21	
+23195	23	
+23195	25	Loaded_Language,Slogans
+23195	27	
+23195	29	
+23195	31	
+23195	33	
+23195	35	
+23195	37	
+23195	39	

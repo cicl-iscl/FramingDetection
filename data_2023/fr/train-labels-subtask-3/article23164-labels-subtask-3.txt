@@ -1,0 +1,75 @@
+23164	1	Name_Calling-Labeling
+23164	3	Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation,Straw_Man
+23164	5	Questioning_the_Reputation
+23164	7	Repetition,Slogans
+23164	9	Repetition,Slogans
+23164	11	Appeal_to_Hypocrisy,Causal_Oversimplification,Guilt_by_Association,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+23164	13	Doubt,Loaded_Language
+23164	15	Appeal_to_Fear-Prejudice,Loaded_Language
+23164	17	Appeal_to_Time
+23164	19	
+23164	21	Loaded_Language
+23164	23	Loaded_Language
+23164	25	Loaded_Language
+23164	27	Appeal_to_Fear-Prejudice,Appeal_to_Values,Exaggeration-Minimisation,Loaded_Language,Straw_Man
+23164	29	
+23164	31	
+23164	33	
+23164	35	Doubt
+23164	37	Loaded_Language
+23164	39	
+23164	41	Straw_Man
+23164	43	Appeal_to_Popularity
+23164	45	Loaded_Language
+23164	47	Appeal_to_Hypocrisy,Name_Calling-Labeling
+23164	49	Loaded_Language,Slogans
+23164	51	Straw_Man
+23164	53	Appeal_to_Hypocrisy,Conversation_Killer,Loaded_Language
+23164	55	
+23164	57	Appeal_to_Hypocrisy,Appeal_to_Values,Slogans
+23164	59	
+23164	61	
+23164	63	
+23164	65	
+23164	67	Appeal_to_Fear-Prejudice,Consequential_Oversimplification,Conversation_Killer,Exaggeration-Minimisation,Loaded_Language,Slogans
+23164	69	Appeal_to_Hypocrisy,Loaded_Language,Name_Calling-Labeling
+23164	71	Appeal_to_Hypocrisy,Conversation_Killer,Guilt_by_Association,Loaded_Language
+23164	73	Flag_Waving,Loaded_Language
+23164	75	Flag_Waving
+23164	77	
+23164	79	
+23164	81	Loaded_Language
+23164	83	
+23164	85	Loaded_Language
+23164	87	
+23164	89	Appeal_to_Values,Doubt,Flag_Waving,Loaded_Language,Whataboutism
+23164	91	
+23164	93	
+23164	95	Name_Calling-Labeling
+23164	97	
+23164	99	
+23164	101	
+23164	103	Loaded_Language
+23164	105	
+23164	107	Appeal_to_Values
+23164	109	
+23164	111	Appeal_to_Popularity,Loaded_Language
+23164	113	Appeal_to_Fear-Prejudice,Causal_Oversimplification,Exaggeration-Minimisation
+23164	115	Name_Calling-Labeling,Slogans
+23164	117	
+23164	119	
+23164	121	
+23164	123	Consequential_Oversimplification
+23164	125	Appeal_to_Fear-Prejudice
+23164	127	Appeal_to_Fear-Prejudice,Consequential_Oversimplification
+23164	129	Loaded_Language
+23164	131	
+23164	133	
+23164	135	Causal_Oversimplification
+23164	137	Appeal_to_Popularity,Appeal_to_Values
+23164	139	
+23164	141	False_Dilemma-No_Choice,Straw_Man
+23164	143	Appeal_to_Fear-Prejudice,Loaded_Language
+23164	145	
+23164	147	Appeal_to_Hypocrisy,Name_Calling-Labeling,Questioning_the_Reputation
+23164	149	Name_Calling-Labeling,Questioning_the_Reputation

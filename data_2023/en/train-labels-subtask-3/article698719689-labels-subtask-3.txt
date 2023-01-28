@@ -1,0 +1,8 @@
+698719689	1	
+698719689	3	Appeal_to_Fear-Prejudice,Appeal_to_Popularity,Loaded_Language
+698719689	4	
+698719689	5	Appeal_to_Fear-Prejudice,Loaded_Language
+698719689	6	
+698719689	7	Name_Calling-Labeling
+698719689	8	
+698719689	9	

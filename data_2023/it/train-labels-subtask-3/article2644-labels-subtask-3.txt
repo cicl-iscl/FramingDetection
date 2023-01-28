@@ -1,0 +1,4 @@
+2644	1	Doubt
+2644	3	Doubt,Loaded_Language
+2644	5	Doubt,Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+2644	7	Doubt,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation

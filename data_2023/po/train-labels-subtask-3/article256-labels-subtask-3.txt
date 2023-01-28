@@ -1,0 +1,8 @@
+256	1	
+256	3	Appeal_to_Time,Flag_Waving,Loaded_Language,Name_Calling-Labeling
+256	5	
+256	7	Flag_Waving
+256	9	
+256	11	Doubt,Flag_Waving,Loaded_Language,Name_Calling-Labeling
+256	13	Loaded_Language
+256	15	Doubt,Exaggeration-Minimisation,Flag_Waving,Repetition

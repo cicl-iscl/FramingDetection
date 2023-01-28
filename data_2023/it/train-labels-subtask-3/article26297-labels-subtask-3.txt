@@ -1,0 +1,17 @@
+26297	1	
+26297	3	
+26297	5	Loaded_Language
+26297	7	
+26297	9	
+26297	10	Loaded_Language
+26297	12	
+26297	14	
+26297	16	
+26297	18	
+26297	19	Name_Calling-Labeling
+26297	21	
+26297	22	Conversation_Killer
+26297	24	
+26297	25	
+26297	27	
+26297	28	

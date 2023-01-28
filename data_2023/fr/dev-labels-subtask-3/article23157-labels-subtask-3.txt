@@ -1,0 +1,11 @@
+23157	1	
+23157	3	
+23157	5	Repetition
+23157	7	
+23157	9	
+23157	11	
+23157	13	Doubt
+23157	15	Questioning_the_Reputation
+23157	17	Appeal_to_Authority,Doubt
+23157	19	Causal_Oversimplification,Doubt,Loaded_Language
+23157	21	Conversation_Killer,Red_Herring

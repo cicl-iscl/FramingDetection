@@ -1,0 +1,6 @@
+24106	1	Doubt
+24106	3	Doubt
+24106	5	Doubt
+24106	7	Doubt
+24106	9	Loaded_Language
+24106	11	

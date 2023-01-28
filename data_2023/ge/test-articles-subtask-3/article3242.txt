@@ -1,0 +1,21 @@
+Studie aus Italien untersucht mögliche Gesundheitsgefahren durch Phthalate in Gesichtsmasken bei Verwendung während der COVID-19-Pandemie
+
+In einer kürzlich in Italien durchgeführten Studie untersuchten Forscher das Vorhandensein von Phthalsäureestern (PAEs) oder Phthalaten in handelsüblichen Gesichtsmasken, um die Gesundheitsrisiken im Zusammenhang mit der verstärkten Verwendung von Gesichtsmasken während der COVID-19-Pandemie zu bewerten. Die Ergebnisse wurden im Journal of Hazardous Materials veröffentlicht.
+
+Bei den während der Pandemie am häufigsten verwendeten Gesichtsmasken handelte es sich um chirurgische Masken, nicht-chirurgische Masken und Atemschutzmasken mit Filtereinsatz (FFP). Die Schichten all dieser Gesichtsmasken bestehen aus Polypropylen, Polyester, Polycarbonat, Polystyrol oder Polyethylen, die alle gefährliche Chemikalien wie Phthalate enthalten, die zur Verbesserung der Flexibilität des Materials verwendet werden.
+
+Phthalate werden mit Störungen des Hormonsystems und potenziell krebserregenden Wirkungen in Verbindung gebracht und unterliegen strengen Vorschriften. Die EU hat die Verwendung einiger Phthalate in Kosmetika verboten, und die Verwendung der meisten PAEs ist nur mit spezieller Genehmigung erlaubt. Da die Verwendung von Gesichtsmasken mit dem Ausbruch der COVID-19-Pandemie erheblich zugenommen hat, wollten die Forscher die mit ihrer längeren Verwendung verbundenen Risiken ermitteln.
+
+In der vorliegenden Studie wurden die Konzentrationen von 11 PAEs in 35 handelsüblichen Gesichtsmasken in Italien mithilfe einer in dieser Studie entwickelten Gaschromatographie-Massenspektrometrie (GC/MS)-Methode bewertet. Die auf den GC/MS-Ergebnissen basierende Risikobewertung umfasste die karzinogenen und nicht karzinogenen Gesundheitsauswirkungen.
+
+Von den 35 untersuchten Masken waren 31 % FFP2-Masken mit vier oder fünf Schichten, 63 % waren dreischichtige chirurgische Masken und 6 % waren nicht-chirurgische dreischichtige Masken. Die in die Studie einbezogenen Masken umfassten 24 Masken für Erwachsene und 11 Masken für Kinder.
+
+Der Gefahrenquotient (HQ) wurde berechnet, um das nicht karzinogene Risiko der Phthalatexposition abzuschätzen, und der Gefahrenindex (HI) wurde verwendet, um die kumulativen nicht karzinogenen Risiken zu verstehen. Abgeleitete No-Effect-Levels (DNELs) wurden aus NOAELs (no observed adverse effect levels) oder LOAELs (lowest observed adverse effect levels) berechnet. Sie wurden mit der Exposition korreliert, um das Risiko für die menschliche Gesundheit zu bewerten. Zur Bewertung der karzinogenen Risiken der Phthalatexposition wurden Risikocharakterisierungsquotienten (RCRs) verwendet und abgeleitete minimale Effektstärken (DMELs) berechnet.
+
+Die Ergebnisse der GC/MS-Auswertung zeigten, dass vier Phthalate in allen untersuchten Gesichtsmasken nachgewiesen wurden, und zwar in Konzentrationen, die weit über der Nachweisgrenze lagen. Die anderen Phthalate lagen unterhalb der Nachweisgrenze (LoD).
+
+Die Expositionsdosen für die vier nachgewiesenen Phthalate schwankten zwischen 6,43 x 10-5 mg/kg Körpergewicht/Tag und 1,43 x 10-2 mg/kg Körpergewicht/Tag. Das Phalat mit dem höchsten Expositionswert (74,32 %) war Bis(2-ethylhexyl)phthalat (DEHP), während der Wert für DIBP bei 22,15 % lag und DBP (2,40 %) und BBP (1,12 %) einen wesentlich geringeren Anteil hatten.
+
+Die mittleren HI-Werte der Phthalatexposition für Erwachsene und Kinder lagen nicht über den zulässigen Werten und deuteten auf keine nicht karzinogenen schädlichen Auswirkungen hin. Bei sieben der 35 Gesichtsmasken, d. h. 20 %, überstiegen die kumulativen RCR-Werte jedoch die zulässigen Grenzwerte für krebserregende Gesundheitsrisiken.
+
+Die Autoren kamen zu dem Schluss, dass die meisten der untersuchten Gesichtsmasken zwar als sicher in der Anwendung gelten, die Gesamtergebnisse jedoch darauf hindeuten, dass die potenziellen karzinogenen Risiken von Gesichtsmasken weiter untersucht werden müssen.

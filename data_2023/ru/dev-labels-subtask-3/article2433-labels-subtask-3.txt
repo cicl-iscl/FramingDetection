@@ -1,0 +1,19 @@
+2433	1	Doubt
+2433	2	Doubt
+2433	4	Flag_Waving,Loaded_Language,Name_Calling-Labeling
+2433	5	
+2433	7	
+2433	8	
+2433	10	
+2433	12	
+2433	14	
+2433	16	Exaggeration-Minimisation
+2433	17	
+2433	19	Exaggeration-Minimisation
+2433	21	
+2433	23	Conversation_Killer,Doubt,Questioning_the_Reputation
+2433	24	
+2433	26	Exaggeration-Minimisation
+2433	28	Flag_Waving
+2433	30	Doubt,Exaggeration-Minimisation
+2433	32	Appeal_to_Hypocrisy,Doubt,Exaggeration-Minimisation

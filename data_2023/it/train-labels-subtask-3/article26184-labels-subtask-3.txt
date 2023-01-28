@@ -1,0 +1,16 @@
+26184	1	
+26184	3	
+26184	5	
+26184	7	
+26184	9	Doubt,Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling
+26184	11	Appeal_to_Values,Loaded_Language,Questioning_the_Reputation
+26184	13	Loaded_Language,Questioning_the_Reputation
+26184	15	Flag_Waving,Loaded_Language,Red_Herring
+26184	17	
+26184	19	Appeal_to_Values,Loaded_Language
+26184	21	
+26184	23	Name_Calling-Labeling
+26184	25	Guilt_by_Association,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+26184	27	Loaded_Language
+26184	29	Exaggeration-Minimisation,Questioning_the_Reputation
+26184	31	Conversation_Killer

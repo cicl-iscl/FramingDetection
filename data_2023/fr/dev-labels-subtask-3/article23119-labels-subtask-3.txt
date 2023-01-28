@@ -1,0 +1,4 @@
+23119	1	False_Dilemma-No_Choice,Loaded_Language
+23119	3	Appeal_to_Fear-Prejudice,Exaggeration-Minimisation,Loaded_Language,Slogans
+23119	5	Doubt,Loaded_Language,Obfuscation-Vagueness-Confusion
+23119	7	Appeal_to_Fear-Prejudice,Appeal_to_Popularity,Appeal_to_Time,Conversation_Killer,Doubt,Loaded_Language,Questioning_the_Reputation,Slogans

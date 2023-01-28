@@ -1,0 +1,4 @@
+2610	Exaggeration-Minimisation	3170	3224
+2610	Doubt	112	236
+2610	Questioning_the_Reputation	1993	2079
+2610	Appeal_to_Authority	3226	3261

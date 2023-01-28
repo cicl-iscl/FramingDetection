@@ -1,0 +1,6 @@
+23136	1	Loaded_Language
+23136	3	Appeal_to_Fear-Prejudice
+23136	5	Loaded_Language,Obfuscation-Vagueness-Confusion,Slogans
+23136	7	Appeal_to_Hypocrisy,Consequential_Oversimplification,Conversation_Killer,Doubt,Exaggeration-Minimisation,Loaded_Language,Obfuscation-Vagueness-Confusion
+23136	9	Doubt
+23136	11	Consequential_Oversimplification,Loaded_Language,Name_Calling-Labeling,Whataboutism

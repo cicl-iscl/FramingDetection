@@ -1,0 +1,26 @@
+778139122	1	
+778139122	3	
+778139122	4	Doubt,Exaggeration-Minimisation,Flag_Waving
+778139122	5	
+778139122	6	Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling
+778139122	7	Appeal_to_Fear-Prejudice,Loaded_Language
+778139122	8	Loaded_Language,Name_Calling-Labeling
+778139122	9	Exaggeration-Minimisation
+778139122	10	
+778139122	11	Exaggeration-Minimisation,Loaded_Language
+778139122	12	
+778139122	13	Loaded_Language,Name_Calling-Labeling
+778139122	14	Appeal_to_Fear-Prejudice,Loaded_Language,Name_Calling-Labeling
+778139122	15	
+778139122	16	Loaded_Language,Name_Calling-Labeling
+778139122	17	Doubt,Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling
+778139122	18	
+778139122	19	Exaggeration-Minimisation
+778139122	20	Exaggeration-Minimisation,Guilt_by_Association,Loaded_Language,Name_Calling-Labeling,Red_Herring
+778139122	21	Causal_Oversimplification,Loaded_Language,Name_Calling-Labeling
+778139122	22	
+778139122	23	Slogans
+778139122	24	
+778139122	25	Appeal_to_Fear-Prejudice,Loaded_Language
+778139122	26	Appeal_to_Fear-Prejudice,Slogans
+778139122	27	

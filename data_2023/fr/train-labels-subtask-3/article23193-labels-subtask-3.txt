@@ -1,0 +1,5 @@
+23193	1	
+23193	3	Name_Calling-Labeling
+23193	5	Appeal_to_Values,Exaggeration-Minimisation,Slogans
+23193	7	Name_Calling-Labeling
+23193	9	Slogans

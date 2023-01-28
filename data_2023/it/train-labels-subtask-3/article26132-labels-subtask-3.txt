@@ -1,0 +1,5 @@
+26132	1	
+26132	3	Appeal_to_Popularity,Conversation_Killer,Doubt,Name_Calling-Labeling,Questioning_the_Reputation
+26132	5	Name_Calling-Labeling
+26132	7	Doubt,Name_Calling-Labeling,Questioning_the_Reputation
+26132	9	Doubt,Loaded_Language

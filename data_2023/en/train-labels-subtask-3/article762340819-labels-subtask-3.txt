@@ -1,0 +1,15 @@
+762340819	1	Exaggeration-Minimisation,Loaded_Language
+762340819	3	
+762340819	4	Exaggeration-Minimisation
+762340819	5	
+762340819	6	Repetition
+762340819	7	Repetition
+762340819	8	Exaggeration-Minimisation,Name_Calling-Labeling
+762340819	9	Repetition
+762340819	10	
+762340819	11	
+762340819	12	Repetition,Slogans
+762340819	13	Loaded_Language,Repetition
+762340819	14	Appeal_to_Fear-Prejudice,Flag_Waving,Loaded_Language
+762340819	15	
+762340819	16	Loaded_Language

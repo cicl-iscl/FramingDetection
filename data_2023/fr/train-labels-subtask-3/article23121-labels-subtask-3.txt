@@ -1,0 +1,11 @@
+23121	1	Slogans
+23121	3	Appeal_to_Fear-Prejudice,Causal_Oversimplification,Exaggeration-Minimisation,Loaded_Language
+23121	5	Appeal_to_Time,Appeal_to_Values,Causal_Oversimplification,Exaggeration-Minimisation
+23121	7	
+23121	9	Appeal_to_Time,Causal_Oversimplification,Exaggeration-Minimisation,Guilt_by_Association,Questioning_the_Reputation
+23121	11	Appeal_to_Fear-Prejudice,Causal_Oversimplification
+23121	13	
+23121	15	Appeal_to_Fear-Prejudice,Consequential_Oversimplification,Exaggeration-Minimisation,Loaded_Language
+23121	17	Loaded_Language,Red_Herring,Slogans
+23121	19	Appeal_to_Time,Loaded_Language
+23121	21	Appeal_to_Time

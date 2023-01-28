@@ -1,0 +1,14 @@
+2296	1	
+2296	3	Name_Calling-Labeling,Slogans
+2296	5	
+2296	7	Appeal_to_Hypocrisy,Questioning_the_Reputation
+2296	9	Appeal_to_Hypocrisy,Name_Calling-Labeling
+2296	11	Appeal_to_Popularity,Doubt,Exaggeration-Minimisation,Name_Calling-Labeling
+2296	13	Name_Calling-Labeling
+2296	15	Name_Calling-Labeling
+2296	17	
+2296	19	
+2296	21	Appeal_to_Fear-Prejudice,Appeal_to_Values
+2296	23	
+2296	25	
+2296	27	

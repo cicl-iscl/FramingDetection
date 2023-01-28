@@ -1,0 +1,5 @@
+266	1	
+266	3	Doubt,Questioning_the_Reputation
+266	5	Appeal_to_Time,Appeal_to_Values,Conversation_Killer,Flag_Waving,Name_Calling-Labeling
+266	7	Appeal_to_Fear-Prejudice,Appeal_to_Hypocrisy,Flag_Waving
+266	9	Appeal_to_Hypocrisy

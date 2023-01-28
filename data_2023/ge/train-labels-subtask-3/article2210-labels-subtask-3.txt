@@ -1,0 +1,12 @@
+2210	1	
+2210	3	Guilt_by_Association,Questioning_the_Reputation
+2210	5	Name_Calling-Labeling,Questioning_the_Reputation
+2210	7	Guilt_by_Association,Name_Calling-Labeling,Questioning_the_Reputation
+2210	9	Consequential_Oversimplification,Exaggeration-Minimisation,Guilt_by_Association
+2210	11	Loaded_Language,Name_Calling-Labeling,Obfuscation-Vagueness-Confusion,Questioning_the_Reputation
+2210	13	Loaded_Language
+2210	15	
+2210	17	Conversation_Killer,Guilt_by_Association,Name_Calling-Labeling
+2210	19	
+2210	21	Name_Calling-Labeling
+2210	23	Appeal_to_Fear-Prejudice,False_Dilemma-No_Choice,Name_Calling-Labeling
