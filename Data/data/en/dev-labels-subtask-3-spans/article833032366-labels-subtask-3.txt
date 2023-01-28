@@ -1,0 +1,5 @@
+833032366	Name_Calling-Labeling	859	869
+833032366	Name_Calling-Labeling	878	882
+833032366	Appeal_to_Authority	947	1032
+833032366	False_Dilemma-No_Choice	1959	2015
+833032366	Flag_Waving	1959	2082

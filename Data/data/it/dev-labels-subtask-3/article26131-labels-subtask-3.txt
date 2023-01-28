@@ -1,0 +1,7 @@
+26131	1	
+26131	3	Loaded_Language
+26131	5	Conversation_Killer,Slogans
+26131	7	Conversation_Killer,Doubt
+26131	9	
+26131	11	
+26131	13	Exaggeration-Minimisation,Loaded_Language,Questioning_the_Reputation

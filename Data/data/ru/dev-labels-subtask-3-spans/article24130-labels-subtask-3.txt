@@ -1,0 +1,7 @@
+24130	Conversation_Killer	317	409
+24130	Conversation_Killer	82	208
+24130	Doubt	569	753
+24130	Loaded_Language	138	171
+24130	Appeal_to_Fear-Prejudice	82	210
+24130	Appeal_to_Fear-Prejudice	318	408
+24130	Loaded_Language	26	46

@@ -1,0 +1,16 @@
+26210	1	
+26210	3	
+26210	5	Doubt,Loaded_Language
+26210	7	Doubt
+26210	9	Doubt
+26210	11	
+26210	13	Doubt
+26210	15	Appeal_to_Fear-Prejudice,Doubt,Questioning_the_Reputation
+26210	17	Appeal_to_Fear-Prejudice
+26210	19	Doubt,Loaded_Language
+26210	21	Appeal_to_Fear-Prejudice,Doubt
+26210	23	Appeal_to_Fear-Prejudice,Doubt
+26210	25	Appeal_to_Fear-Prejudice
+26210	27	Appeal_to_Fear-Prejudice,Doubt
+26210	29	
+26210	31	Doubt

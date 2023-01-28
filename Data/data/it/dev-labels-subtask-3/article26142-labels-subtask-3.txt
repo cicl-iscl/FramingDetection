@@ -1,0 +1,8 @@
+26142	1	Conversation_Killer
+26142	3	
+26142	5	Conversation_Killer
+26142	7	Conversation_Killer
+26142	9	Consequential_Oversimplification
+26142	11	Appeal_to_Fear-Prejudice,Slogans
+26142	13	
+26142	15	Appeal_to_Time

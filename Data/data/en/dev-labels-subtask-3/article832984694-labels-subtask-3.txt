@@ -1,0 +1,15 @@
+832984694	1	
+832984694	3	
+832984694	4	
+832984694	5	
+832984694	6	
+832984694	7	Loaded_Language,Name_Calling-Labeling
+832984694	8	Loaded_Language,Name_Calling-Labeling
+832984694	9	
+832984694	10	
+832984694	11	Repetition
+832984694	12	
+832984694	13	
+832984694	14	
+832984694	15	Loaded_Language
+832984694	16	Exaggeration-Minimisation,Name_Calling-Labeling

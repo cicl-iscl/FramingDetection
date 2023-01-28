@@ -1,0 +1,33 @@
+Crise énergétique et innovation
+
+Innover, innover, innover ?
+
+Dans l’analyse de Schumpeter, l’innovation est le vecteur par lequel une économie est en capacité de rebondir après une crise. Son analyse rejoint en cela une vision cyclique de l’économie au sens où les acteurs de l’économie s’ingénient à trouver des solutions aux problèmes posés suite à un choc de demande ou d’offre ayant provoqué une crise.
+
+Pour autant le passage de l’analyse à la pratique n’est pas aussi évident et limpide. Si dans le système capitaliste il est communément admis que l’innovation est une source d’opportunité nouvelle, les difficultés et les moyens de mise en œuvre pour favoriser l’émergence de ces innovations ressemblent davantage à un véritable parcours du combattant qu’à une réalisation coulant de source, pour répondre à une problématique économique identifiée. En cela, il paraît très clair que le système dit capitaliste n’est en rien un système pratique dont les moyens sont facilement accessibles et mobilisables.
+
+Prenons l’exemple suivant pour illustrer plus à même cette analyse. Nous allons traverser une crise énergétique dans les mois à venir. Les premiers effets se font déjà ressentir sur les tarifications et bientôt sur l’insuffisance des quantités énergétiques mobilisables pour répondre à nos besoins. Cela s’apparente, dans le jargon économique, à un choc d’offre.
+
+Pour répondre à cette question, quelles solutions se présentent à nous ?
+
+Consommer moins ? Les gouvernements n’ont jamais rien trouvé mieux comme solution. Déjà les premières mesures de rationnement ont été votées par la Première Ministre, avec des coupures possibles d’électricité pendant deux heures par jour… N’est ce que le début ? A ce rythme certainement.
+
+Optimiser les moyens de productions énergétiques déjà existants en utilisant les capacités maximales de nos moyens de production ? centrales électriques, barrages, solaires… et autres. Bien sûr, ce serait la réponse immédiate la plus évidente. La difficulté réside dans l’inadéquation du calibrage de ces modes de production énergétiques avec les besoins réels en énergie de la population Française. D’autre part, un redimensionnement de ces réseaux nécessiteraient des coûts d’infrastructures colossaux et des délais de mise en œuvre trop longs dans le temps pour répondre à des besoins à court et moyen terme de la population.
+
+Reste la solution de l’innovation. Les idées pour créer de l’énergie ne manquent pas. Les inventeurs dans leur garage sont nombreux, il suffit de voir sur Youtube, l’ingéniosité de « bricoleurs du dimanche » pour réduire leur consommation d’énergie pour leur voiture ou les consommations énergétiques de leur maison.
+
+Le problème est que ces inventeurs n’ont pas nécessairement de fibre entrepreneuriale pour mettre sur le marché leurs inventions, et que même lorsqu’ils l’ont, les difficultés de financement pour le développement et la commercialisation de ces innovations sont colossales. Et je ne parle même pas ici des difficultés administratives et réglementaires.
+
+En effet, on nous a fait longtemps croire que pour développer une activité économique, il suffisait d’identifier une opportunité et de proposer un produit qui réponde à cette opportunité pour pouvoir le commercialiser. Je simplifie ici à but pédagogique.
+
+Mais, dans le cas présent, proposer une solution énergétique viable, ce serait remettre en place tout une économie industrielle en place, établie, avec ses barons, osons le mot, ses mafias, ou apparentées qui verraient d’un très mauvais œil que l’on vienne perturber leur chasse gardée, avec leurs prix réglementés, leurs abonnements mensualisés tout cela comme le dit le slogan EDF parce « qu’ils nous doivent plus que la lumière ».
+
+Dès lors, si votre innovation est viable et faisable, votre dossier solide et votre équipe compétente, il ne suffit pas de se présenter devant le banquier, le fond d’investissement, ou encore BPI France ou la région pour des financements publics.
+
+L’innovation est le mot tarte à la crème promu par les institutions publiques et également du monde des affaires mais il ne faut pas qu’elle bouscule trop.
+
+Et en plus si votre innovation permet de créer de l’énergie sans avoir à payer d’abonnement mensuel pouvant assurer des revenus fiscaux aux administrations et aux actionnaires de manière récurrente, alors là, vous n’avez rien compris au sens du mot « Innover ».
+
+Une innovation possible : Le moteur à eau
+
+Le principe consiste à créer de la vapeur dans une cuve en créant le vide dans celle-ci. Vous faites marcher un piston comme sur un moteur à vapeur classique permettant de produire de l’énergie mécanique. Par la suite, vous récupérez la vapeur pour la transformer en eau dans une colonne à distillation. Et ainsi de suite.

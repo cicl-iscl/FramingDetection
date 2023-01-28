@@ -1,0 +1,18 @@
+26261	1	Appeal_to_Fear-Prejudice,Doubt
+26261	3	Appeal_to_Fear-Prejudice,Doubt,False_Dilemma-No_Choice
+26261	5	
+26261	7	
+26261	9	Loaded_Language
+26261	11	
+26261	13	Appeal_to_Fear-Prejudice,Loaded_Language
+26261	15	
+26261	17	Appeal_to_Fear-Prejudice
+26261	19	Appeal_to_Fear-Prejudice,Loaded_Language
+26261	21	Doubt,Loaded_Language
+26261	23	
+26261	25	
+26261	27	Appeal_to_Fear-Prejudice
+26261	29	Doubt,Loaded_Language
+26261	31	Doubt,Loaded_Language
+26261	33	
+26261	35	Name_Calling-Labeling

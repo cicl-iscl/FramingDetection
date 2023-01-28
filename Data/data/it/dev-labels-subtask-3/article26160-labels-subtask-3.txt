@@ -1,0 +1,4 @@
+26160	1	Loaded_Language
+26160	3	Appeal_to_Time,Exaggeration-Minimisation,Loaded_Language
+26160	5	Appeal_to_Values,Conversation_Killer,Straw_Man
+26160	7	Appeal_to_Values,Loaded_Language

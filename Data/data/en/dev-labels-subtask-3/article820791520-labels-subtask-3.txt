@@ -1,0 +1,87 @@
+820791520	1	
+820791520	3	
+820791520	5	
+820791520	6	Name_Calling-Labeling
+820791520	7	
+820791520	8	
+820791520	9	Loaded_Language
+820791520	10	
+820791520	11	
+820791520	12	
+820791520	13	
+820791520	14	
+820791520	15	
+820791520	16	
+820791520	17	
+820791520	18	
+820791520	19	
+820791520	20	
+820791520	21	Exaggeration-Minimisation
+820791520	22	Conversation_Killer,Loaded_Language
+820791520	23	Conversation_Killer
+820791520	24	
+820791520	25	
+820791520	26	
+820791520	27	
+820791520	28	
+820791520	29	
+820791520	30	
+820791520	31	
+820791520	32	
+820791520	33	Appeal_to_Fear-Prejudice
+820791520	34	Appeal_to_Fear-Prejudice,Loaded_Language,Repetition
+820791520	35	
+820791520	36	
+820791520	37	Name_Calling-Labeling,Repetition
+820791520	38	Name_Calling-Labeling,Repetition
+820791520	39	Loaded_Language,Red_Herring
+820791520	40	
+820791520	41	
+820791520	42	Loaded_Language,Name_Calling-Labeling
+820791520	43	
+820791520	44	Straw_Man
+820791520	45	Loaded_Language
+820791520	46	Loaded_Language,Name_Calling-Labeling,Repetition
+820791520	47	Loaded_Language
+820791520	48	
+820791520	49	Loaded_Language
+820791520	50	Name_Calling-Labeling,Repetition
+820791520	51	Loaded_Language
+820791520	52	
+820791520	53	
+820791520	54	
+820791520	55	Flag_Waving,Loaded_Language
+820791520	56	
+820791520	57	
+820791520	58	
+820791520	59	Loaded_Language,Name_Calling-Labeling,Repetition
+820791520	60	
+820791520	61	Loaded_Language
+820791520	62	
+820791520	63	Exaggeration-Minimisation
+820791520	64	
+820791520	65	Appeal_to_Fear-Prejudice
+820791520	66	
+820791520	67	Appeal_to_Fear-Prejudice,Loaded_Language
+820791520	68	
+820791520	69	
+820791520	70	Appeal_to_Fear-Prejudice,Loaded_Language
+820791520	71	
+820791520	72	Name_Calling-Labeling
+820791520	73	
+820791520	74	
+820791520	75	
+820791520	76	Loaded_Language
+820791520	77	
+820791520	78	
+820791520	79	
+820791520	80	
+820791520	81	Appeal_to_Fear-Prejudice,Loaded_Language,Name_Calling-Labeling,Repetition
+820791520	82	
+820791520	83	
+820791520	84	
+820791520	85	Loaded_Language
+820791520	86	Red_Herring
+820791520	87	
+820791520	88	Appeal_to_Fear-Prejudice
+820791520	89	Exaggeration-Minimisation

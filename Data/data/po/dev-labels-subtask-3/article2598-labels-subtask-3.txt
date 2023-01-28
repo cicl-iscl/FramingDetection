@@ -1,0 +1,16 @@
+2598	1	
+2598	3	Appeal_to_Authority,Exaggeration-Minimisation
+2598	5	
+2598	7	Conversation_Killer
+2598	9	
+2598	11	Appeal_to_Authority,Loaded_Language
+2598	13	Appeal_to_Authority,Obfuscation-Vagueness-Confusion
+2598	15	Appeal_to_Authority
+2598	17	
+2598	19	Questioning_the_Reputation
+2598	21	Appeal_to_Hypocrisy
+2598	23	Appeal_to_Hypocrisy
+2598	25	Appeal_to_Fear-Prejudice,Appeal_to_Hypocrisy,Name_Calling-Labeling
+2598	27	Appeal_to_Hypocrisy,Doubt,Questioning_the_Reputation
+2598	29	Appeal_to_Hypocrisy
+2598	31	Name_Calling-Labeling

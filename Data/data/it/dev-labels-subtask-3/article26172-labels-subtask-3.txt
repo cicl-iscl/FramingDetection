@@ -1,0 +1,9 @@
+26172	1	Doubt,Name_Calling-Labeling
+26172	3	Doubt,Loaded_Language
+26172	5	Doubt
+26172	7	Name_Calling-Labeling
+26172	9	Doubt,Loaded_Language
+26172	11	
+26172	13	Appeal_to_Popularity,Doubt
+26172	15	Doubt
+26172	17	Conversation_Killer,Doubt,Loaded_Language

@@ -1,0 +1,7 @@
+2636	1	
+2636	3	Appeal_to_Authority,Appeal_to_Fear-Prejudice,Conversation_Killer,Loaded_Language,Name_Calling-Labeling,Slogans
+2636	5	Appeal_to_Values,Conversation_Killer,Doubt,Red_Herring
+2636	7	Appeal_to_Hypocrisy,Loaded_Language
+2636	8	Questioning_the_Reputation
+2636	10	Appeal_to_Hypocrisy,Conversation_Killer,Doubt,Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling,Straw_Man
+2636	12	Loaded_Language,Name_Calling-Labeling

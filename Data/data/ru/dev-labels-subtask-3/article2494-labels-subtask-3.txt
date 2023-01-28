@@ -1,0 +1,6 @@
+2494	1	Doubt,Loaded_Language
+2494	3	Questioning_the_Reputation
+2494	4	Causal_Oversimplification,Doubt
+2494	5	Doubt,Red_Herring
+2494	7	Doubt
+2494	9	Doubt,Loaded_Language

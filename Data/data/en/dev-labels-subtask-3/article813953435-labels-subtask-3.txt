@@ -1,0 +1,30 @@
+813953435	1	
+813953435	3	
+813953435	4	Loaded_Language
+813953435	5	Doubt
+813953435	6	
+813953435	7	
+813953435	8	
+813953435	9	
+813953435	10	Appeal_to_Fear-Prejudice,Loaded_Language,Repetition
+813953435	11	Appeal_to_Fear-Prejudice,Loaded_Language
+813953435	12	Appeal_to_Fear-Prejudice,Exaggeration-Minimisation
+813953435	13	Exaggeration-Minimisation
+813953435	14	Loaded_Language,Repetition
+813953435	15	
+813953435	16	Loaded_Language
+813953435	17	Loaded_Language,Name_Calling-Labeling
+813953435	18	Loaded_Language
+813953435	19	Appeal_to_Popularity
+813953435	20	
+813953435	21	Loaded_Language
+813953435	22	
+813953435	23	Name_Calling-Labeling
+813953435	24	
+813953435	25	Exaggeration-Minimisation
+813953435	26	
+813953435	27	Name_Calling-Labeling
+813953435	28	
+813953435	29	Loaded_Language
+813953435	30	
+813953435	31	

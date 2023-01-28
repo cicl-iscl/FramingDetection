@@ -1,0 +1,19 @@
+813602345	1	
+813602345	3	Slogans
+813602345	4	
+813602345	5	
+813602345	6	Name_Calling-Labeling,Repetition
+813602345	7	Repetition
+813602345	8	
+813602345	9	
+813602345	10	
+813602345	11	Appeal_to_Popularity,Exaggeration-Minimisation,Flag_Waving,Name_Calling-Labeling,Repetition
+813602345	12	
+813602345	13	Loaded_Language
+813602345	14	
+813602345	15	Name_Calling-Labeling,Repetition
+813602345	16	
+813602345	17	
+813602345	18	Causal_Oversimplification,Flag_Waving
+813602345	19	Repetition,Slogans
+813602345	20	

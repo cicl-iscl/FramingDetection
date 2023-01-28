@@ -1,0 +1,9 @@
+26236	1	Name_Calling-Labeling
+26236	3	Loaded_Language,Questioning_the_Reputation
+26236	5	
+26236	7	Loaded_Language,Name_Calling-Labeling
+26236	9	Loaded_Language,Name_Calling-Labeling
+26236	11	Appeal_to_Time,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+26236	13	
+26236	15	Doubt,Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+26236	17	Conversation_Killer,Questioning_the_Reputation

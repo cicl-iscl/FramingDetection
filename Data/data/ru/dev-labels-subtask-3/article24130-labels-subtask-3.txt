@@ -1,0 +1,6 @@
+24130	1	Loaded_Language
+24130	3	Appeal_to_Fear-Prejudice,Conversation_Killer,Loaded_Language
+24130	5	Appeal_to_Fear-Prejudice,Conversation_Killer
+24130	7	
+24130	9	Doubt
+24130	11	

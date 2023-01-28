@@ -1,0 +1,5 @@
+26185	1	Conversation_Killer,Name_Calling-Labeling
+26185	3	Conversation_Killer,Name_Calling-Labeling
+26185	5	Loaded_Language,Name_Calling-Labeling
+26185	7	Conversation_Killer,Doubt,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+26185	9	Appeal_to_Popularity,Consequential_Oversimplification,Questioning_the_Reputation

@@ -1,0 +1,8 @@
+24117	1	Consequential_Oversimplification,False_Dilemma-No_Choice
+24117	3	
+24117	5	
+24117	7	Doubt
+24117	9	Conversation_Killer
+24117	11	Exaggeration-Minimisation,Questioning_the_Reputation
+24117	13	Conversation_Killer
+24117	15	

@@ -1,0 +1,26 @@
+824684605	1	Repetition
+824684605	3	Loaded_Language
+824684605	4	
+824684605	5	Repetition
+824684605	6	Loaded_Language
+824684605	7	
+824684605	8	Loaded_Language
+824684605	9	
+824684605	10	Exaggeration-Minimisation
+824684605	11	Loaded_Language,Repetition
+824684605	12	Loaded_Language,Repetition
+824684605	13	Appeal_to_Authority,Appeal_to_Fear-Prejudice
+824684605	14	Loaded_Language,Repetition
+824684605	15	Loaded_Language
+824684605	16	
+824684605	17	
+824684605	18	Obfuscation-Vagueness-Confusion
+824684605	19	
+824684605	20	
+824684605	21	
+824684605	22	
+824684605	23	Appeal_to_Authority,Appeal_to_Fear-Prejudice
+824684605	24	
+824684605	25	Slogans
+824684605	26	Repetition
+824684605	27	

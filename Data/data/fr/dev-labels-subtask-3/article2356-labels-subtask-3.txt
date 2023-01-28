@@ -1,0 +1,35 @@
+2356	1	Doubt,Name_Calling-Labeling
+2356	3	Appeal_to_Values,Conversation_Killer,Doubt,Exaggeration-Minimisation
+2356	5	Appeal_to_Fear-Prejudice
+2356	7	Appeal_to_Time
+2356	9	Doubt
+2356	11	Appeal_to_Time,Doubt,Loaded_Language,Name_Calling-Labeling
+2356	12	Appeal_to_Fear-Prejudice,Doubt
+2356	13	Doubt,Name_Calling-Labeling
+2356	15	Appeal_to_Values,Causal_Oversimplification,Doubt
+2356	17	Whataboutism
+2356	19	Consequential_Oversimplification,Name_Calling-Labeling
+2356	21	Appeal_to_Values,Consequential_Oversimplification,Loaded_Language,Name_Calling-Labeling,Obfuscation-Vagueness-Confusion
+2356	22	Conversation_Killer,Doubt
+2356	24	Loaded_Language,Questioning_the_Reputation
+2356	26	Loaded_Language
+2356	28	Loaded_Language,Questioning_the_Reputation
+2356	30	
+2356	32	
+2356	34	Loaded_Language
+2356	36	Appeal_to_Values,Loaded_Language
+2356	38	False_Dilemma-No_Choice,Name_Calling-Labeling,Obfuscation-Vagueness-Confusion
+2356	40	Doubt
+2356	42	False_Dilemma-No_Choice
+2356	44	Appeal_to_Hypocrisy
+2356	46	
+2356	48	Appeal_to_Hypocrisy,Exaggeration-Minimisation,Obfuscation-Vagueness-Confusion
+2356	50	Loaded_Language,Name_Calling-Labeling,Obfuscation-Vagueness-Confusion
+2356	52	Conversation_Killer,Whataboutism
+2356	54	Doubt,Loaded_Language
+2356	56	Appeal_to_Hypocrisy,Questioning_the_Reputation
+2356	57	Appeal_to_Hypocrisy,Conversation_Killer,Loaded_Language
+2356	59	Appeal_to_Authority,Appeal_to_Hypocrisy
+2356	61	Appeal_to_Time,Doubt,Loaded_Language,Name_Calling-Labeling
+2356	62	
+2356	64	Consequential_Oversimplification

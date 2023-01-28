@@ -1,0 +1,8 @@
+2619	1	Loaded_Language,Name_Calling-Labeling
+2619	3	
+2619	5	Exaggeration-Minimisation
+2619	7	Flag_Waving,Loaded_Language
+2619	9	
+2619	11	
+2619	13	Doubt,Guilt_by_Association,Loaded_Language
+2619	15	Doubt,Name_Calling-Labeling

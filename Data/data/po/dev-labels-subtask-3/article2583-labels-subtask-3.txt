@@ -1,0 +1,65 @@
+2583	1	
+2583	3	Name_Calling-Labeling
+2583	5	
+2583	7	Name_Calling-Labeling
+2583	9	
+2583	11	Appeal_to_Popularity
+2583	13	
+2583	15	Appeal_to_Values,Conversation_Killer,Slogans
+2583	17	Appeal_to_Values
+2583	19	Appeal_to_Authority,Appeal_to_Values,Conversation_Killer
+2583	21	Appeal_to_Authority,Conversation_Killer,Doubt,Loaded_Language
+2583	23	Appeal_to_Values
+2583	25	
+2583	27	Appeal_to_Authority
+2583	29	Appeal_to_Authority
+2583	31	Appeal_to_Authority
+2583	33	
+2583	35	Appeal_to_Popularity
+2583	37	
+2583	39	Appeal_to_Authority
+2583	41	Appeal_to_Authority
+2583	43	
+2583	45	Appeal_to_Authority
+2583	47	
+2583	49	Appeal_to_Authority,Appeal_to_Values,Name_Calling-Labeling
+2583	51	
+2583	53	Appeal_to_Popularity,Appeal_to_Values
+2583	55	
+2583	57	
+2583	59	
+2583	61	
+2583	63	Appeal_to_Values
+2583	65	Conversation_Killer
+2583	67	
+2583	69	Appeal_to_Values,Loaded_Language,Name_Calling-Labeling
+2583	71	
+2583	73	Appeal_to_Values,Conversation_Killer,Doubt,Loaded_Language,Name_Calling-Labeling,Whataboutism
+2583	75	
+2583	77	Appeal_to_Popularity
+2583	79	Appeal_to_Popularity
+2583	81	Appeal_to_Popularity
+2583	83	Appeal_to_Popularity,Appeal_to_Values
+2583	85	
+2583	87	Appeal_to_Hypocrisy,Consequential_Oversimplification,Guilt_by_Association
+2583	89	
+2583	91	
+2583	93	Appeal_to_Values,Consequential_Oversimplification,Name_Calling-Labeling
+2583	95	
+2583	97	Appeal_to_Popularity,Red_Herring,Whataboutism
+2583	99	
+2583	101	Conversation_Killer,Exaggeration-Minimisation,Name_Calling-Labeling,Obfuscation-Vagueness-Confusion
+2583	103	
+2583	105	Appeal_to_Authority,Name_Calling-Labeling
+2583	107	Appeal_to_Popularity,Exaggeration-Minimisation,Loaded_Language
+2583	109	
+2583	111	
+2583	113	Appeal_to_Authority,Appeal_to_Popularity
+2583	115	
+2583	117	Questioning_the_Reputation
+2583	119	
+2583	121	Appeal_to_Authority,Conversation_Killer,Doubt
+2583	123	
+2583	125	Conversation_Killer,Exaggeration-Minimisation
+2583	127	
+2583	129	Guilt_by_Association

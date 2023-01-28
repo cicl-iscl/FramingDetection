@@ -1,0 +1,6 @@
+23205	1	
+23205	2	Exaggeration-Minimisation
+23205	4	Exaggeration-Minimisation
+23205	6	Loaded_Language
+23205	8	Loaded_Language,Obfuscation-Vagueness-Confusion
+23205	10	

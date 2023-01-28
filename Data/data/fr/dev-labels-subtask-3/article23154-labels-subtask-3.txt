@@ -1,0 +1,5 @@
+23154	1	
+23154	3	Exaggeration-Minimisation,Loaded_Language
+23154	5	Doubt
+23154	7	Appeal_to_Hypocrisy,Appeal_to_Values
+23154	9	Appeal_to_Popularity,Whataboutism

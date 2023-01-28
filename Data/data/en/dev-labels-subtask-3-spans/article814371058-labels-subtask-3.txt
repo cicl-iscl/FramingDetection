@@ -1,0 +1,3 @@
+814371058	Appeal_to_Fear-Prejudice	83	131
+814371058	False_Dilemma-No_Choice	90	174
+814371058	Exaggeration-Minimisation	106	131

@@ -1,0 +1,8 @@
+26177	1	Loaded_Language
+26177	3	Appeal_to_Fear-Prejudice,Doubt,Loaded_Language
+26177	5	
+26177	7	Loaded_Language,Name_Calling-Labeling
+26177	9	Conversation_Killer,Doubt,Loaded_Language,Name_Calling-Labeling
+26177	11	
+26177	13	Loaded_Language
+26177	15	Conversation_Killer,Doubt,Loaded_Language

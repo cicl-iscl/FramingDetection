@@ -1,0 +1,8 @@
+26122	1	
+26122	3	Doubt
+26122	5	Doubt
+26122	7	Appeal_to_Fear-Prejudice,Doubt,Name_Calling-Labeling
+26122	9	Doubt,Loaded_Language
+26122	11	Appeal_to_Fear-Prejudice
+26122	13	
+26122	15	Appeal_to_Fear-Prejudice,Doubt,Loaded_Language,Name_Calling-Labeling

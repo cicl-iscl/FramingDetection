@@ -1,0 +1,11 @@
+2414	1	Loaded_Language,Questioning_the_Reputation
+2414	3	Exaggeration-Minimisation
+2414	5	Appeal_to_Hypocrisy,Loaded_Language,Questioning_the_Reputation
+2414	7	Loaded_Language
+2414	9	Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+2414	11	
+2414	13	
+2414	15	Appeal_to_Hypocrisy
+2414	17	Doubt,Questioning_the_Reputation,Straw_Man
+2414	19	Loaded_Language,Questioning_the_Reputation
+2414	21	

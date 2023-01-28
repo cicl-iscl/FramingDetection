@@ -1,0 +1,16 @@
+25106	1	
+25106	3	
+25106	5	
+25106	7	
+25106	9	Doubt
+25106	11	Doubt
+25106	13	Appeal_to_Hypocrisy,Conversation_Killer
+25106	15	Name_Calling-Labeling
+25106	17	Appeal_to_Hypocrisy,Conversation_Killer,Repetition
+25106	19	Repetition
+25106	21	
+25106	23	Repetition
+25106	25	Doubt
+25106	27	Loaded_Language
+25106	29	Repetition
+25106	31	Doubt

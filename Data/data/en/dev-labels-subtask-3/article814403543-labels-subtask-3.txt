@@ -1,0 +1,16 @@
+814403543	1	
+814403543	3	Name_Calling-Labeling
+814403543	4	
+814403543	5	
+814403543	6	
+814403543	7	
+814403543	8	False_Dilemma-No_Choice
+814403543	9	Doubt
+814403543	10	
+814403543	11	Appeal_to_Popularity,Loaded_Language,Name_Calling-Labeling
+814403543	12	
+814403543	13	Exaggeration-Minimisation,Name_Calling-Labeling
+814403543	14	
+814403543	15	Appeal_to_Fear-Prejudice,Doubt
+814403543	16	Appeal_to_Fear-Prejudice,False_Dilemma-No_Choice,Flag_Waving,Name_Calling-Labeling
+814403543	17	

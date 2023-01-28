@@ -1,0 +1,45 @@
+813953273	1	Appeal_to_Fear-Prejudice
+813953273	3	Appeal_to_Fear-Prejudice
+813953273	4	
+813953273	5	Exaggeration-Minimisation,Name_Calling-Labeling
+813953273	6	Appeal_to_Fear-Prejudice
+813953273	7	Loaded_Language,Name_Calling-Labeling
+813953273	8	Appeal_to_Fear-Prejudice
+813953273	9	
+813953273	10	Appeal_to_Fear-Prejudice
+813953273	11	Appeal_to_Fear-Prejudice,Name_Calling-Labeling
+813953273	12	
+813953273	13	Appeal_to_Fear-Prejudice
+813953273	14	
+813953273	15	Loaded_Language,Name_Calling-Labeling
+813953273	16	Appeal_to_Fear-Prejudice
+813953273	17	
+813953273	18	
+813953273	19	
+813953273	20	
+813953273	21	Name_Calling-Labeling
+813953273	22	Loaded_Language
+813953273	23	Doubt
+813953273	24	Appeal_to_Fear-Prejudice,Name_Calling-Labeling
+813953273	25	
+813953273	27	Appeal_to_Hypocrisy
+813953273	28	Causal_Oversimplification,Loaded_Language,Name_Calling-Labeling
+813953273	29	Causal_Oversimplification,Loaded_Language,Name_Calling-Labeling
+813953273	30	Loaded_Language,Red_Herring
+813953273	31	
+813953273	32	Loaded_Language
+813953273	33	Appeal_to_Popularity
+813953273	34	Appeal_to_Fear-Prejudice,Name_Calling-Labeling
+813953273	35	Appeal_to_Fear-Prejudice,Doubt,Loaded_Language
+813953273	36	Appeal_to_Fear-Prejudice
+813953273	37	Appeal_to_Fear-Prejudice
+813953273	38	Appeal_to_Fear-Prejudice
+813953273	39	Appeal_to_Fear-Prejudice
+813953273	40	Exaggeration-Minimisation,Loaded_Language,Whataboutism
+813953273	41	
+813953273	42	Causal_Oversimplification,Doubt,Loaded_Language
+813953273	43	Name_Calling-Labeling
+813953273	44	Doubt,Name_Calling-Labeling
+813953273	45	Repetition
+813953273	46	Appeal_to_Fear-Prejudice
+813953273	47	Flag_Waving,Loaded_Language

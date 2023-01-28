@@ -1,0 +1,24 @@
+23188	1	
+23188	3	Consequential_Oversimplification
+23188	5	
+23188	7	Appeal_to_Time,False_Dilemma-No_Choice
+23188	9	
+23188	11	
+23188	13	Loaded_Language
+23188	15	Conversation_Killer,Loaded_Language,Questioning_the_Reputation
+23188	17	
+23188	19	
+23188	21	
+23188	23	
+23188	25	
+23188	27	Conversation_Killer,False_Dilemma-No_Choice,Loaded_Language
+23188	29	
+23188	31	Appeal_to_Popularity
+23188	33	Doubt,Loaded_Language
+23188	35	Guilt_by_Association,Loaded_Language
+23188	37	
+23188	39	Conversation_Killer,Questioning_the_Reputation
+23188	41	Guilt_by_Association
+23188	43	Consequential_Oversimplification
+23188	45	
+23188	47	Doubt

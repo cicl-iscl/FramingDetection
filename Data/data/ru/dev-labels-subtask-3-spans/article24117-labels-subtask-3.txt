@@ -1,0 +1,7 @@
+24117	Conversation_Killer	959	989
+24117	Doubt	754	809
+24117	Consequential_Oversimplification	26	89
+24117	Exaggeration-Minimisation	1065	1095
+24117	Questioning_the_Reputation	1032	1047
+24117	Conversation_Killer	1283	1337
+24117	False_Dilemma-No_Choice	26	89

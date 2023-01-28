@@ -1,0 +1,5 @@
+822220578	Appeal_to_Authority	1874	2114
+822220578	Appeal_to_Popularity	3014	3137
+822220578	Loaded_Language	3462	3479
+822220578	Exaggeration-Minimisation	3462	3479
+822220578	False_Dilemma-No_Choice	4010	4061

@@ -1,0 +1,11 @@
+23182	1	Loaded_Language
+23182	3	Appeal_to_Authority,Loaded_Language
+23182	5	Exaggeration-Minimisation,Loaded_Language
+23182	7	
+23182	9	
+23182	11	
+23182	13	Appeal_to_Authority
+23182	15	Loaded_Language
+23182	17	Appeal_to_Authority
+23182	19	
+23182	21	Appeal_to_Authority,Doubt,Loaded_Language

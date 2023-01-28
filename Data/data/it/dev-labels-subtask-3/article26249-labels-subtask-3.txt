@@ -1,0 +1,7 @@
+26249	1	
+26249	3	Doubt
+26249	5	
+26249	7	False_Dilemma-No_Choice
+26249	9	
+26249	11	Appeal_to_Fear-Prejudice,Appeal_to_Time,Conversation_Killer,Loaded_Language,Name_Calling-Labeling
+26249	13	

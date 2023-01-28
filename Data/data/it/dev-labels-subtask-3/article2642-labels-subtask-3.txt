@@ -1,0 +1,11 @@
+2642	1	
+2642	3	Appeal_to_Authority,Conversation_Killer,Doubt,Repetition
+2642	5	
+2642	7	
+2642	9	Questioning_the_Reputation
+2642	11	Questioning_the_Reputation
+2642	12	Doubt
+2642	14	Doubt,Questioning_the_Reputation
+2642	16	Name_Calling-Labeling,Questioning_the_Reputation
+2642	18	Doubt
+2642	20	Conversation_Killer,Doubt,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation

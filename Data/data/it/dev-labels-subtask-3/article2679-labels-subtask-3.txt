@@ -1,0 +1,8 @@
+2679	1	Name_Calling-Labeling
+2679	3	Doubt,Guilt_by_Association,Name_Calling-Labeling,Slogans
+2679	5	Name_Calling-Labeling
+2679	7	
+2679	9	Appeal_to_Values
+2679	11	
+2679	13	
+2679	15	

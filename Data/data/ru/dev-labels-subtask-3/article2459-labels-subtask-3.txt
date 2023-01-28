@@ -1,0 +1,22 @@
+2459	1	Appeal_to_Values,Questioning_the_Reputation
+2459	2	Obfuscation-Vagueness-Confusion
+2459	4	Doubt,Loaded_Language,Questioning_the_Reputation
+2459	6	Questioning_the_Reputation
+2459	8	Questioning_the_Reputation
+2459	10	Questioning_the_Reputation
+2459	12	Questioning_the_Reputation
+2459	14	Repetition
+2459	16	Repetition
+2459	18	Questioning_the_Reputation,Repetition
+2459	20	Loaded_Language,Questioning_the_Reputation
+2459	22	Loaded_Language,Questioning_the_Reputation
+2459	24	Loaded_Language,Repetition
+2459	26	Causal_Oversimplification,Doubt
+2459	28	
+2459	30	Whataboutism
+2459	32	Doubt,Loaded_Language
+2459	34	
+2459	36	Slogans
+2459	38	Questioning_the_Reputation
+2459	40	Questioning_the_Reputation
+2459	42	Doubt,Loaded_Language,Questioning_the_Reputation

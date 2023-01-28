@@ -1,0 +1,8 @@
+23146	1	
+23146	3	Consequential_Oversimplification
+23146	5	Consequential_Oversimplification,Exaggeration-Minimisation
+23146	7	
+23146	9	Loaded_Language
+23146	11	Appeal_to_Time
+23146	13	Consequential_Oversimplification,Exaggeration-Minimisation
+23146	15	Loaded_Language

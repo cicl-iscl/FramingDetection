@@ -1,0 +1,8 @@
+26178	1	Loaded_Language
+26178	3	Doubt,Loaded_Language
+26178	5	Appeal_to_Fear-Prejudice,Loaded_Language
+26178	7	Appeal_to_Fear-Prejudice,Doubt,Loaded_Language
+26178	9	Doubt,Loaded_Language,Red_Herring
+26178	11	Appeal_to_Values,Doubt,Loaded_Language,Name_Calling-Labeling
+26178	13	Appeal_to_Values,Doubt
+26178	15	Doubt,Loaded_Language

@@ -1,0 +1,5 @@
+2377	1	
+2377	3	
+2377	5	Slogans
+2377	7	Loaded_Language
+2377	9	Exaggeration-Minimisation,Obfuscation-Vagueness-Confusion,Red_Herring

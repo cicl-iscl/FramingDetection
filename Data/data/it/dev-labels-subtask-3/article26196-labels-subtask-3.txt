@@ -1,0 +1,6 @@
+26196	1	
+26196	3	Loaded_Language,Name_Calling-Labeling
+26196	5	Questioning_the_Reputation
+26196	7	Name_Calling-Labeling
+26196	9	Appeal_to_Values,Name_Calling-Labeling
+26196	11	Appeal_to_Popularity,Conversation_Killer,Doubt,Obfuscation-Vagueness-Confusion

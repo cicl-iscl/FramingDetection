@@ -1,0 +1,7 @@
+25186	1	Name_Calling-Labeling
+25186	3	
+25186	5	Exaggeration-Minimisation
+25186	7	
+25186	9	Doubt
+25186	11	Exaggeration-Minimisation
+25186	13	

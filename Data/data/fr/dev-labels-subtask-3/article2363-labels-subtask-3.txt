@@ -1,0 +1,7 @@
+2363	1	Name_Calling-Labeling
+2363	3	Guilt_by_Association
+2363	5	
+2363	7	Guilt_by_Association,Loaded_Language,Name_Calling-Labeling
+2363	9	
+2363	11	Appeal_to_Authority,Loaded_Language,Questioning_the_Reputation
+2363	13	Appeal_to_Authority

@@ -1,0 +1,7 @@
+24124	1	
+24124	3	Exaggeration-Minimisation
+24124	5	Conversation_Killer,Doubt,Repetition
+24124	7	
+24124	9	Conversation_Killer,Doubt,False_Dilemma-No_Choice,Loaded_Language,Repetition
+24124	11	Name_Calling-Labeling
+24124	13	

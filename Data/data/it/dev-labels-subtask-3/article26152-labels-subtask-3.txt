@@ -1,0 +1,12 @@
+26152	1	Appeal_to_Fear-Prejudice
+26152	3	
+26152	5	Doubt,False_Dilemma-No_Choice
+26152	7	Conversation_Killer
+26152	9	Appeal_to_Hypocrisy,Doubt,Loaded_Language
+26152	11	
+26152	13	Appeal_to_Authority,Doubt
+26152	15	
+26152	17	Appeal_to_Fear-Prejudice,Doubt,Exaggeration-Minimisation
+26152	19	
+26152	21	Doubt
+26152	23	Exaggeration-Minimisation,Loaded_Language

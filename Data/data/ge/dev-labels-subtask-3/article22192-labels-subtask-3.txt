@@ -1,0 +1,23 @@
+22192	1	Name_Calling-Labeling
+22192	3	Name_Calling-Labeling
+22192	5	Guilt_by_Association,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+22192	7	Guilt_by_Association,Name_Calling-Labeling,Questioning_the_Reputation
+22192	9	Obfuscation-Vagueness-Confusion
+22192	11	Loaded_Language,Name_Calling-Labeling
+22192	13	Name_Calling-Labeling
+22192	15	Name_Calling-Labeling
+22192	17	Appeal_to_Popularity
+22192	19	Appeal_to_Hypocrisy,Questioning_the_Reputation
+22192	21	Conversation_Killer
+22192	23	
+22192	25	Name_Calling-Labeling
+22192	27	Name_Calling-Labeling
+22192	29	Consequential_Oversimplification
+22192	31	
+22192	33	Red_Herring
+22192	35	Loaded_Language,Name_Calling-Labeling
+22192	37	Loaded_Language,Name_Calling-Labeling
+22192	39	
+22192	41	Name_Calling-Labeling
+22192	43	Doubt
+22192	45	

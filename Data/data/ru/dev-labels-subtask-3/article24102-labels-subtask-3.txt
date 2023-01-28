@@ -1,0 +1,14 @@
+24102	1	
+24102	3	Loaded_Language
+24102	5	Doubt
+24102	7	Loaded_Language,Questioning_the_Reputation
+24102	9	
+24102	11	
+24102	13	
+24102	15	
+24102	17	
+24102	19	Questioning_the_Reputation
+24102	21	Questioning_the_Reputation
+24102	23	
+24102	25	Repetition
+24102	27	Doubt,Questioning_the_Reputation

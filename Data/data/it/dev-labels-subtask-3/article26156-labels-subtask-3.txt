@@ -1,0 +1,18 @@
+26156	1	Name_Calling-Labeling
+26156	3	
+26156	5	
+26156	7	Name_Calling-Labeling
+26156	9	Conversation_Killer,Name_Calling-Labeling
+26156	11	Appeal_to_Popularity,Loaded_Language,Name_Calling-Labeling
+26156	13	Appeal_to_Popularity,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+26156	15	Doubt,Questioning_the_Reputation
+26156	17	
+26156	19	Conversation_Killer,Doubt
+26156	21	
+26156	23	
+26156	25	
+26156	27	
+26156	29	
+26156	31	
+26156	33	Name_Calling-Labeling
+26156	35	

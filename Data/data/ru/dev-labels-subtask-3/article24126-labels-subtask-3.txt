@@ -1,0 +1,7 @@
+24126	1	
+24126	3	
+24126	5	Conversation_Killer,Doubt,Loaded_Language
+24126	7	Conversation_Killer,Loaded_Language,Questioning_the_Reputation
+24126	9	
+24126	11	Flag_Waving,Loaded_Language,Slogans
+24126	13	Flag_Waving

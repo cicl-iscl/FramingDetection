@@ -1,0 +1,6 @@
+2631	1	
+2631	3	Conversation_Killer,Doubt,Exaggeration-Minimisation,Questioning_the_Reputation
+2631	5	Doubt
+2631	7	Appeal_to_Hypocrisy,Conversation_Killer,Doubt,Loaded_Language,Name_Calling-Labeling
+2631	9	
+2631	11	Loaded_Language,Name_Calling-Labeling

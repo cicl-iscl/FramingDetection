@@ -1,0 +1,22 @@
+2342	1	Doubt
+2342	3	Doubt,Loaded_Language,Questioning_the_Reputation
+2342	5	Consequential_Oversimplification,Straw_Man
+2342	7	Appeal_to_Values,Consequential_Oversimplification,Doubt,Exaggeration-Minimisation,Loaded_Language,Questioning_the_Reputation,Whataboutism
+2342	9	Appeal_to_Fear-Prejudice,Appeal_to_Hypocrisy,Doubt,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation,Slogans,Whataboutism
+2342	11	Consequential_Oversimplification,Loaded_Language,Straw_Man,Whataboutism
+2342	13	
+2342	15	Consequential_Oversimplification,Conversation_Killer,Exaggeration-Minimisation,False_Dilemma-No_Choice,Guilt_by_Association,Loaded_Language,Straw_Man
+2342	17	Appeal_to_Popularity,Loaded_Language
+2342	19	
+2342	21	Appeal_to_Popularity,Name_Calling-Labeling
+2342	23	
+2342	25	Appeal_to_Popularity,Doubt,Loaded_Language,Slogans
+2342	27	Appeal_to_Authority,Conversation_Killer,Doubt,Exaggeration-Minimisation,Loaded_Language,Questioning_the_Reputation
+2342	29	Doubt
+2342	31	Conversation_Killer,Loaded_Language
+2342	33	
+2342	35	
+2342	37	Loaded_Language
+2342	39	Appeal_to_Fear-Prejudice,Doubt,Name_Calling-Labeling
+2342	41	Doubt,Loaded_Language,Questioning_the_Reputation
+2342	43	Conversation_Killer

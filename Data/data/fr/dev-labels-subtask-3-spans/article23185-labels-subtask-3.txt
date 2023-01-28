@@ -1,0 +1,7 @@
+23185	Doubt	107	143
+23185	Loaded_Language	1919	1940
+23185	Loaded_Language	150	175
+23185	Loaded_Language	2015	2037
+23185	Loaded_Language	2783	2800
+23185	Loaded_Language	1397	1408
+23185	Loaded_Language	4544	4561

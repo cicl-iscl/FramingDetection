@@ -1,0 +1,11 @@
+26263	1	Doubt,Name_Calling-Labeling
+26263	3	Doubt,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+26263	5	Conversation_Killer,Doubt,Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling
+26263	7	Conversation_Killer,Doubt,Loaded_Language
+26263	9	Appeal_to_Fear-Prejudice,Appeal_to_Hypocrisy,Doubt,Name_Calling-Labeling
+26263	11	Conversation_Killer,Doubt,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation,Slogans
+26263	13	Loaded_Language,Questioning_the_Reputation,Repetition
+26263	15	Appeal_to_Hypocrisy,Doubt,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+26263	17	Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+26263	19	Conversation_Killer,Doubt,Loaded_Language,Name_Calling-Labeling
+26263	21	Loaded_Language,Questioning_the_Reputation

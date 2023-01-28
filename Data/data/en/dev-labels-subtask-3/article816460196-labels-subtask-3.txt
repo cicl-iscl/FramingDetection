@@ -1,0 +1,38 @@
+816460196	1	Exaggeration-Minimisation,Loaded_Language,Repetition,Slogans
+816460196	3	Doubt,Exaggeration-Minimisation,Loaded_Language,Repetition,Slogans
+816460196	4	
+816460196	5	
+816460196	6	Doubt,Loaded_Language
+816460196	7	Appeal_to_Authority,Doubt,Name_Calling-Labeling
+816460196	8	Name_Calling-Labeling
+816460196	9	
+816460196	10	Doubt
+816460196	11	
+816460196	12	Doubt
+816460196	13	
+816460196	14	
+816460196	15	
+816460196	16	Doubt,Name_Calling-Labeling
+816460196	17	Loaded_Language
+816460196	18	Flag_Waving
+816460196	19	
+816460196	20	
+816460196	21	
+816460196	22	Appeal_to_Fear-Prejudice,Exaggeration-Minimisation,Flag_Waving,Loaded_Language,Repetition,Slogans
+816460196	23	Flag_Waving,Loaded_Language,Name_Calling-Labeling
+816460196	24	Appeal_to_Fear-Prejudice,False_Dilemma-No_Choice
+816460196	25	
+816460196	26	Loaded_Language
+816460196	27	
+816460196	28	
+816460196	29	
+816460196	30	
+816460196	31	
+816460196	32	
+816460196	33	
+816460196	34	Doubt,Loaded_Language,Name_Calling-Labeling
+816460196	35	False_Dilemma-No_Choice
+816460196	36	Appeal_to_Fear-Prejudice,Doubt,Loaded_Language
+816460196	37	
+816460196	38	False_Dilemma-No_Choice,Flag_Waving
+816460196	39	Flag_Waving

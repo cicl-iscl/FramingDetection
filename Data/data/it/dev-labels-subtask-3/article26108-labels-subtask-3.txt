@@ -1,0 +1,5 @@
+26108	1	
+26108	3	Name_Calling-Labeling
+26108	5	Appeal_to_Time,Guilt_by_Association,Loaded_Language,Name_Calling-Labeling
+26108	7	Appeal_to_Authority,Loaded_Language
+26108	9	Name_Calling-Labeling

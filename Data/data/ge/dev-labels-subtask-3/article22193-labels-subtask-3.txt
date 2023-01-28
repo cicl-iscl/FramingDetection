@@ -1,0 +1,6 @@
+22193	1	Doubt
+22193	3	Doubt,Loaded_Language,Obfuscation-Vagueness-Confusion
+22193	5	Conversation_Killer,Doubt,Exaggeration-Minimisation,Obfuscation-Vagueness-Confusion
+22193	7	Obfuscation-Vagueness-Confusion
+22193	9	Appeal_to_Time,Appeal_to_Values,Obfuscation-Vagueness-Confusion
+22193	11	

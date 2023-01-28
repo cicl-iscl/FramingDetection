@@ -1,0 +1,45 @@
+2537	1	Slogans
+2537	3	
+2537	5	
+2537	7	Appeal_to_Hypocrisy
+2537	9	
+2537	11	Loaded_Language,Name_Calling-Labeling
+2537	13	Exaggeration-Minimisation
+2537	15	
+2537	17	
+2537	19	Appeal_to_Values
+2537	21	Appeal_to_Values
+2537	23	Appeal_to_Values
+2537	25	
+2537	27	
+2537	29	
+2537	31	
+2537	33	
+2537	35	
+2537	37	
+2537	39	Appeal_to_Values,Conversation_Killer
+2537	41	
+2537	43	
+2537	45	Appeal_to_Popularity
+2537	47	
+2537	49	Appeal_to_Authority,Appeal_to_Popularity,Conversation_Killer
+2537	51	
+2537	53	
+2537	55	Appeal_to_Authority
+2537	57	Appeal_to_Authority
+2537	59	
+2537	61	
+2537	63	
+2537	65	
+2537	67	Obfuscation-Vagueness-Confusion
+2537	69	Appeal_to_Hypocrisy
+2537	71	Doubt
+2537	73	Guilt_by_Association
+2537	75	
+2537	77	
+2537	79	
+2537	81	
+2537	83	
+2537	85	
+2537	87	
+2537	89	

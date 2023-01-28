@@ -1,0 +1,35 @@
+2569	1	Causal_Oversimplification
+2569	3	Appeal_to_Authority
+2569	5	Appeal_to_Fear-Prejudice,Exaggeration-Minimisation
+2569	7	
+2569	9	Appeal_to_Values
+2569	11	Appeal_to_Popularity,Flag_Waving
+2569	13	Appeal_to_Fear-Prejudice
+2569	15	Questioning_the_Reputation
+2569	17	Appeal_to_Hypocrisy,Flag_Waving
+2569	19	Appeal_to_Hypocrisy,Questioning_the_Reputation
+2569	21	Appeal_to_Hypocrisy,Loaded_Language
+2569	23	Appeal_to_Fear-Prejudice
+2569	25	Appeal_to_Fear-Prejudice
+2569	27	Appeal_to_Fear-Prejudice,Exaggeration-Minimisation
+2569	29	Exaggeration-Minimisation,Questioning_the_Reputation
+2569	31	Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+2569	33	Causal_Oversimplification,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+2569	35	Doubt
+2569	37	
+2569	39	Appeal_to_Hypocrisy,Loaded_Language,Name_Calling-Labeling
+2569	41	Loaded_Language,Questioning_the_Reputation
+2569	43	Doubt,Loaded_Language
+2569	45	Appeal_to_Values,Loaded_Language,Name_Calling-Labeling
+2569	47	Appeal_to_Authority,Loaded_Language
+2569	49	Appeal_to_Fear-Prejudice,Guilt_by_Association
+2569	51	Loaded_Language,Questioning_the_Reputation
+2569	53	Appeal_to_Values
+2569	55	
+2569	57	Appeal_to_Hypocrisy,False_Dilemma-No_Choice,Loaded_Language
+2569	59	Loaded_Language,Repetition
+2569	61	Exaggeration-Minimisation,Loaded_Language,Repetition
+2569	63	Appeal_to_Fear-Prejudice,Appeal_to_Values,False_Dilemma-No_Choice
+2569	65	Doubt
+2569	67	Appeal_to_Values,False_Dilemma-No_Choice
+2569	69	Appeal_to_Values,Conversation_Killer,False_Dilemma-No_Choice

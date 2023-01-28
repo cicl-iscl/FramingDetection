@@ -1,0 +1,25 @@
+813992175	1	Loaded_Language
+813992175	3	Name_Calling-Labeling
+813992175	4	Loaded_Language
+813992175	5	Appeal_to_Fear-Prejudice,Loaded_Language
+813992175	6	Doubt
+813992175	7	Doubt,Loaded_Language
+813992175	8	
+813992175	9	Doubt
+813992175	10	Doubt
+813992175	11	Appeal_to_Authority,Appeal_to_Fear-Prejudice
+813992175	12	
+813992175	13	
+813992175	14	False_Dilemma-No_Choice
+813992175	15	False_Dilemma-No_Choice,Loaded_Language
+813992175	16	
+813992175	17	Appeal_to_Authority
+813992175	18	
+813992175	19	
+813992175	20	
+813992175	21	
+813992175	22	Exaggeration-Minimisation
+813992175	23	
+813992175	24	
+813992175	25	
+813992175	26	

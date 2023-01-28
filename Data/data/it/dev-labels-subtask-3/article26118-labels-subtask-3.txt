@@ -1,0 +1,11 @@
+26118	1	Loaded_Language
+26118	3	Doubt
+26118	5	
+26118	7	Appeal_to_Popularity,Doubt,Loaded_Language,Name_Calling-Labeling
+26118	9	Doubt,Loaded_Language
+26118	11	Doubt
+26118	13	Doubt,Straw_Man
+26118	15	Doubt,Loaded_Language
+26118	17	Doubt,Loaded_Language
+26118	19	Appeal_to_Fear-Prejudice,Consequential_Oversimplification,Doubt
+26118	21	Appeal_to_Fear-Prejudice,Doubt,Loaded_Language

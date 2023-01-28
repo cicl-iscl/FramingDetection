@@ -1,0 +1,5 @@
+23203	1	
+23203	2	Appeal_to_Popularity
+23203	6	Appeal_to_Values,Causal_Oversimplification,Name_Calling-Labeling,Questioning_the_Reputation
+23203	8	Loaded_Language,Name_Calling-Labeling,Obfuscation-Vagueness-Confusion
+23203	10	Exaggeration-Minimisation,Loaded_Language

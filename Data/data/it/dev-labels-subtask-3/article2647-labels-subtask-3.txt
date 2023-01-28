@@ -1,0 +1,8 @@
+2647	1	Appeal_to_Time
+2647	3	Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling
+2647	5	Doubt,Questioning_the_Reputation
+2647	7	Appeal_to_Fear-Prejudice,False_Dilemma-No_Choice,Loaded_Language,Questioning_the_Reputation
+2647	9	Appeal_to_Authority,Doubt,Guilt_by_Association,Loaded_Language,Questioning_the_Reputation
+2647	11	Doubt,Loaded_Language,Name_Calling-Labeling
+2647	13	Appeal_to_Authority,Appeal_to_Hypocrisy,Doubt,Loaded_Language,Questioning_the_Reputation
+2647	15	Consequential_Oversimplification,Conversation_Killer,Doubt,Loaded_Language,Questioning_the_Reputation

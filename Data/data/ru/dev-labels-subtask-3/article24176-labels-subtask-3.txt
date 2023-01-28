@@ -1,0 +1,6 @@
+24176	1	
+24176	3	Doubt,False_Dilemma-No_Choice
+24176	5	Consequential_Oversimplification,Doubt,Loaded_Language
+24176	7	Appeal_to_Values,False_Dilemma-No_Choice,Loaded_Language
+24176	9	Loaded_Language
+24176	11	

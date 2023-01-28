@@ -1,0 +1,7 @@
+24106	Doubt	16	74
+24106	Doubt	213	271
+24106	Doubt	0	14
+24106	Doubt	117	164
+24106	Doubt	276	353
+24106	Loaded_Language	405	489
+24106	Doubt	0	74

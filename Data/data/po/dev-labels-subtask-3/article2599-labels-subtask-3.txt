@@ -1,0 +1,21 @@
+2599	1	Conversation_Killer
+2599	3	Exaggeration-Minimisation,Loaded_Language,Questioning_the_Reputation,Red_Herring
+2599	5	Name_Calling-Labeling,Red_Herring
+2599	7	Doubt
+2599	9	Appeal_to_Hypocrisy
+2599	11	Appeal_to_Authority
+2599	13	
+2599	15	
+2599	17	
+2599	19	Appeal_to_Authority,Appeal_to_Fear-Prejudice
+2599	21	
+2599	23	
+2599	25	Appeal_to_Authority
+2599	27	
+2599	29	
+2599	31	Appeal_to_Authority,Conversation_Killer
+2599	33	
+2599	35	Appeal_to_Authority
+2599	37	
+2599	39	
+2599	41	Appeal_to_Authority

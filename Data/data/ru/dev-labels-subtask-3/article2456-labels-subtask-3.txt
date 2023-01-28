@@ -1,0 +1,28 @@
+2456	1	Questioning_the_Reputation
+2456	3	
+2456	5	Exaggeration-Minimisation,Loaded_Language,Questioning_the_Reputation
+2456	7	Loaded_Language
+2456	8	
+2456	10	
+2456	12	
+2456	14	
+2456	16	
+2456	18	Loaded_Language,Questioning_the_Reputation
+2456	19	
+2456	21	Doubt
+2456	23	Doubt,Loaded_Language
+2456	25	
+2456	27	
+2456	29	Appeal_to_Time,Consequential_Oversimplification,Guilt_by_Association,Loaded_Language
+2456	31	
+2456	33	
+2456	35	
+2456	37	
+2456	39	
+2456	41	
+2456	42	
+2456	44	
+2456	46	Doubt
+2456	48	Loaded_Language,Slogans
+2456	50	Guilt_by_Association,Loaded_Language,Questioning_the_Reputation,Repetition
+2456	52	Loaded_Language,Slogans

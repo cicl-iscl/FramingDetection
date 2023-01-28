@@ -1,0 +1,12 @@
+23135	1	
+23135	3	
+23135	5	Loaded_Language
+23135	7	Appeal_to_Values,Name_Calling-Labeling
+23135	9	Appeal_to_Values,Loaded_Language,Straw_Man
+23135	11	Appeal_to_Hypocrisy
+23135	13	Appeal_to_Hypocrisy,Appeal_to_Values,Loaded_Language
+23135	15	
+23135	17	
+23135	19	Loaded_Language,Red_Herring
+23135	21	Loaded_Language
+23135	23	

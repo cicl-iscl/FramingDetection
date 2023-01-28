@@ -1,0 +1,21 @@
+2561	1	
+2561	3	
+2561	5	
+2561	7	
+2561	9	Exaggeration-Minimisation,Questioning_the_Reputation
+2561	11	Appeal_to_Hypocrisy,Loaded_Language
+2561	13	Appeal_to_Hypocrisy,Doubt
+2561	15	Appeal_to_Hypocrisy,Doubt
+2561	17	Conversation_Killer
+2561	19	Doubt
+2561	21	Conversation_Killer,Doubt,False_Dilemma-No_Choice
+2561	23	Conversation_Killer,Flag_Waving
+2561	25	Name_Calling-Labeling
+2561	27	Appeal_to_Fear-Prejudice,Flag_Waving
+2561	29	Doubt,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+2561	31	Doubt
+2561	33	Exaggeration-Minimisation
+2561	35	Flag_Waving
+2561	37	Guilt_by_Association
+2561	38	
+2561	40	Guilt_by_Association,Questioning_the_Reputation

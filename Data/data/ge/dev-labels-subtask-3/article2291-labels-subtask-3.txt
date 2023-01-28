@@ -1,0 +1,27 @@
+2291	1	
+2291	3	Loaded_Language
+2291	5	
+2291	7	
+2291	9	
+2291	11	Appeal_to_Hypocrisy,Questioning_the_Reputation
+2291	13	
+2291	15	Name_Calling-Labeling
+2291	17	Causal_Oversimplification
+2291	19	Causal_Oversimplification
+2291	21	Causal_Oversimplification
+2291	23	Causal_Oversimplification
+2291	25	
+2291	27	Name_Calling-Labeling,Questioning_the_Reputation
+2291	29	
+2291	31	Obfuscation-Vagueness-Confusion
+2291	33	
+2291	35	Obfuscation-Vagueness-Confusion
+2291	37	
+2291	39	Appeal_to_Hypocrisy,Loaded_Language
+2291	41	Questioning_the_Reputation
+2291	43	
+2291	45	
+2291	47	
+2291	49	Flag_Waving,Loaded_Language,Name_Calling-Labeling
+2291	51	
+2291	53	Appeal_to_Fear-Prejudice,Name_Calling-Labeling

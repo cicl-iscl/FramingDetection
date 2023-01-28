@@ -1,0 +1,8 @@
+2685	1	Slogans
+2685	3	Appeal_to_Authority,Appeal_to_Values,Doubt,Questioning_the_Reputation
+2685	4	
+2685	6	
+2685	8	Appeal_to_Values,Doubt
+2685	10	Slogans
+2685	12	Appeal_to_Values,Loaded_Language
+2685	14	Appeal_to_Values,Exaggeration-Minimisation,Name_Calling-Labeling

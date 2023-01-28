@@ -1,0 +1,14 @@
+23190	1	Appeal_to_Fear-Prejudice
+23190	3	Appeal_to_Fear-Prejudice,Doubt,Exaggeration-Minimisation,Loaded_Language
+23190	5	Consequential_Oversimplification
+23190	7	
+23190	9	
+23190	11	
+23190	13	
+23190	15	
+23190	17	
+23190	19	
+23190	21	
+23190	23	
+23190	25	
+23190	27	

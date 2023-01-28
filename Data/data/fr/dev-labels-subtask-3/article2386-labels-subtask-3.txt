@@ -1,0 +1,11 @@
+2386	1	Appeal_to_Fear-Prejudice,Doubt
+2386	3	Appeal_to_Fear-Prejudice,Appeal_to_Values,Loaded_Language
+2386	5	Consequential_Oversimplification,Exaggeration-Minimisation,Loaded_Language,Obfuscation-Vagueness-Confusion
+2386	7	Appeal_to_Fear-Prejudice,Loaded_Language,Questioning_the_Reputation,Straw_Man
+2386	9	Appeal_to_Fear-Prejudice,Exaggeration-Minimisation,Loaded_Language
+2386	11	Appeal_to_Fear-Prejudice,Consequential_Oversimplification
+2386	13	Appeal_to_Fear-Prejudice,Exaggeration-Minimisation,Loaded_Language,Questioning_the_Reputation
+2386	15	Appeal_to_Values,Conversation_Killer
+2386	17	False_Dilemma-No_Choice,Loaded_Language,Straw_Man
+2386	19	Appeal_to_Fear-Prejudice,Exaggeration-Minimisation,Loaded_Language
+2386	21	Loaded_Language

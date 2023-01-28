@@ -1,0 +1,4 @@
+26143	1	Appeal_to_Fear-Prejudice
+26143	3	Appeal_to_Authority,Doubt,Slogans
+26143	5	Loaded_Language
+26143	7	Conversation_Killer,False_Dilemma-No_Choice,Loaded_Language

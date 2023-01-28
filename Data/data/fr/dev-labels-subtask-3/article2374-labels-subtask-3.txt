@@ -1,0 +1,13 @@
+2374	1	Loaded_Language,Name_Calling-Labeling
+2374	3	Appeal_to_Fear-Prejudice,Exaggeration-Minimisation,Loaded_Language
+2374	5	Appeal_to_Authority,Doubt,Loaded_Language,Name_Calling-Labeling
+2374	7	Appeal_to_Authority,Conversation_Killer,Doubt,Name_Calling-Labeling,Obfuscation-Vagueness-Confusion,Questioning_the_Reputation
+2374	9	Appeal_to_Authority,Appeal_to_Values,Causal_Oversimplification,Doubt,Loaded_Language
+2374	11	Appeal_to_Authority,Appeal_to_Fear-Prejudice,Causal_Oversimplification,Loaded_Language,Slogans
+2374	13	Doubt,Exaggeration-Minimisation,Loaded_Language,Obfuscation-Vagueness-Confusion
+2374	15	Doubt,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+2374	17	Causal_Oversimplification,Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling,Obfuscation-Vagueness-Confusion
+2374	19	Doubt,Name_Calling-Labeling,Questioning_the_Reputation
+2374	21	Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+2374	23	Appeal_to_Fear-Prejudice,Consequential_Oversimplification,Conversation_Killer,False_Dilemma-No_Choice,Loaded_Language,Name_Calling-Labeling
+2374	25	Loaded_Language,Name_Calling-Labeling

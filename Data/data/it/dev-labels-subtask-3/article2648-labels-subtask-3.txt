@@ -1,0 +1,8 @@
+2648	1	Appeal_to_Fear-Prejudice
+2648	3	Appeal_to_Fear-Prejudice
+2648	5	
+2648	7	Appeal_to_Fear-Prejudice,Doubt,Loaded_Language
+2648	9	Appeal_to_Fear-Prejudice
+2648	11	Doubt,Loaded_Language,Questioning_the_Reputation
+2648	13	
+2648	15	Loaded_Language,Questioning_the_Reputation

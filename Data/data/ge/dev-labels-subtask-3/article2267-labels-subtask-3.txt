@@ -1,0 +1,12 @@
+2267	1	Doubt,Exaggeration-Minimisation
+2267	3	Appeal_to_Fear-Prejudice,Exaggeration-Minimisation,Name_Calling-Labeling
+2267	5	Name_Calling-Labeling
+2267	7	
+2267	9	
+2267	11	
+2267	13	
+2267	15	Questioning_the_Reputation
+2267	17	
+2267	19	Guilt_by_Association
+2267	21	Name_Calling-Labeling,Questioning_the_Reputation
+2267	23	Loaded_Language

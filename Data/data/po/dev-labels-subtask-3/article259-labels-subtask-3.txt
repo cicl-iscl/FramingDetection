@@ -1,0 +1,15 @@
+259	1	Loaded_Language,Name_Calling-Labeling
+259	3	Loaded_Language,Name_Calling-Labeling
+259	5	Loaded_Language,Name_Calling-Labeling
+259	9	Name_Calling-Labeling
+259	11	
+259	13	Loaded_Language,Name_Calling-Labeling
+259	15	Conversation_Killer,Loaded_Language
+259	17	
+259	19	Name_Calling-Labeling
+259	21	Appeal_to_Hypocrisy,Loaded_Language
+259	23	
+259	25	Appeal_to_Authority,Doubt
+259	27	Name_Calling-Labeling
+259	29	Name_Calling-Labeling
+259	31	Loaded_Language,Name_Calling-Labeling

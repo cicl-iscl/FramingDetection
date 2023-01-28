@@ -1,0 +1,36 @@
+813603860	1	Loaded_Language
+813603860	3	
+813603860	4	Loaded_Language
+813603860	5	Loaded_Language
+813603860	6	
+813603860	7	
+813603860	8	Name_Calling-Labeling
+813603860	9	Loaded_Language
+813603860	10	
+813603860	11	Appeal_to_Popularity,Causal_Oversimplification
+813603860	12	
+813603860	13	
+813603860	14	Loaded_Language
+813603860	15	Loaded_Language,Repetition
+813603860	16	
+813603860	17	Loaded_Language
+813603860	18	Appeal_to_Fear-Prejudice,False_Dilemma-No_Choice
+813603860	19	Repetition
+813603860	20	
+813603860	21	
+813603860	22	
+813603860	23	
+813603860	24	
+813603860	25	
+813603860	26	
+813603860	27	Loaded_Language
+813603860	28	Loaded_Language
+813603860	29	
+813603860	30	Exaggeration-Minimisation,Loaded_Language
+813603860	31	Loaded_Language
+813603860	32	Loaded_Language
+813603860	33	Doubt
+813603860	34	
+813603860	35	Appeal_to_Fear-Prejudice,Exaggeration-Minimisation,False_Dilemma-No_Choice
+813603860	36	
+813603860	37	

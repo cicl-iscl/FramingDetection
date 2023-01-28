@@ -1,0 +1,44 @@
+822942601	1	
+822942601	3	Loaded_Language
+822942601	4	
+822942601	5	Exaggeration-Minimisation
+822942601	6	
+822942601	7	
+822942601	8	
+822942601	9	Loaded_Language
+822942601	10	Doubt,Loaded_Language
+822942601	11	
+822942601	12	Loaded_Language,Name_Calling-Labeling
+822942601	13	
+822942601	14	Appeal_to_Fear-Prejudice,Exaggeration-Minimisation,Loaded_Language
+822942601	15	
+822942601	16	
+822942601	17	
+822942601	18	
+822942601	19	Loaded_Language
+822942601	20	Appeal_to_Fear-Prejudice,Loaded_Language
+822942601	21	
+822942601	22	Loaded_Language
+822942601	23	Appeal_to_Fear-Prejudice
+822942601	24	Appeal_to_Fear-Prejudice
+822942601	25	
+822942601	26	Loaded_Language
+822942601	27	Repetition
+822942601	28	
+822942601	29	Repetition
+822942601	30	Doubt,Loaded_Language
+822942601	31	Repetition
+822942601	32	Loaded_Language
+822942601	33	
+822942601	34	Loaded_Language
+822942601	35	Loaded_Language
+822942601	36	Flag_Waving
+822942601	37	Flag_Waving
+822942601	38	Appeal_to_Authority,Exaggeration-Minimisation
+822942601	39	
+822942601	40	Doubt
+822942601	41	Exaggeration-Minimisation,Loaded_Language
+822942601	42	Doubt
+822942601	43	Loaded_Language
+822942601	44	
+822942601	45	

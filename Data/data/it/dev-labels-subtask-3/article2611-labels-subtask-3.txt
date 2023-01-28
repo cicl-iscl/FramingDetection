@@ -1,0 +1,10 @@
+2611	1	Exaggeration-Minimisation,Name_Calling-Labeling
+2611	3	Appeal_to_Fear-Prejudice
+2611	4	Loaded_Language
+2611	5	
+2611	6	Appeal_to_Fear-Prejudice,Doubt,Loaded_Language,Straw_Man
+2611	7	Loaded_Language
+2611	8	Doubt,Straw_Man
+2611	9	Name_Calling-Labeling
+2611	10	Doubt
+2611	11	Exaggeration-Minimisation,Name_Calling-Labeling,Questioning_the_Reputation

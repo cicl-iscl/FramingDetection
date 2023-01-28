@@ -1,0 +1,4 @@
+23116	1	
+23116	3	Causal_Oversimplification,Loaded_Language,Name_Calling-Labeling,Slogans
+23116	5	Appeal_to_Hypocrisy,Doubt,Loaded_Language,Name_Calling-Labeling
+23116	7	Appeal_to_Fear-Prejudice,Appeal_to_Hypocrisy,Appeal_to_Values,Flag_Waving,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation,Slogans

@@ -1,0 +1,36 @@
+25173	1	Appeal_to_Hypocrisy,Obfuscation-Vagueness-Confusion
+25173	3	Appeal_to_Hypocrisy
+25173	5	
+25173	7	Loaded_Language
+25173	9	Obfuscation-Vagueness-Confusion
+25173	11	
+25173	13	
+25173	15	Doubt,Loaded_Language,Name_Calling-Labeling
+25173	17	
+25173	19	Name_Calling-Labeling
+25173	21	
+25173	23	
+25173	25	
+25173	27	Doubt
+25173	29	Doubt
+25173	31	Conversation_Killer
+25173	33	Doubt
+25173	35	
+25173	37	Loaded_Language
+25173	39	Appeal_to_Hypocrisy
+25173	41	
+25173	43	Appeal_to_Hypocrisy,Doubt
+25173	45	
+25173	47	
+25173	49	Doubt
+25173	51	
+25173	53	
+25173	55	
+25173	57	
+25173	59	
+25173	61	
+25173	63	
+25173	65	
+25173	67	
+25173	69	Doubt
+25173	71	Doubt

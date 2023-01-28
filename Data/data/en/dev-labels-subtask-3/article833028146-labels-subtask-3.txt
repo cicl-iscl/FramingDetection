@@ -1,0 +1,11 @@
+833028146	1	Slogans
+833028146	3	Loaded_Language
+833028146	4	
+833028146	5	
+833028146	6	Doubt,Loaded_Language,Repetition
+833028146	7	Loaded_Language
+833028146	8	
+833028146	9	Slogans
+833028146	10	Doubt,Loaded_Language,Name_Calling-Labeling
+833028146	11	Loaded_Language
+833028146	12	

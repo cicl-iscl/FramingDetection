@@ -1,0 +1,515 @@
+24100	1	Questioning_the_Reputation
+24100	3	
+24100	5	Questioning_the_Reputation
+24100	7	Questioning_the_Reputation
+24100	9	Doubt,Loaded_Language,Name_Calling-Labeling
+24100	11	Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+24100	13	Appeal_to_Hypocrisy,Loaded_Language,Questioning_the_Reputation
+24100	15	Loaded_Language,Name_Calling-Labeling
+24100	17	Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+24100	19	Loaded_Language
+24100	21	
+24100	23	
+24100	25	
+24100	27	
+24100	29	Loaded_Language
+24100	31	
+24100	33	
+24100	35	Loaded_Language,Name_Calling-Labeling
+24102	1	
+24102	3	Loaded_Language
+24102	5	Doubt
+24102	7	Loaded_Language,Questioning_the_Reputation
+24102	9	
+24102	11	
+24102	13	
+24102	15	
+24102	17	
+24102	19	Questioning_the_Reputation
+24102	21	Questioning_the_Reputation
+24102	23	
+24102	25	Repetition
+24102	27	Doubt,Questioning_the_Reputation
+24106	1	Doubt
+24106	3	Doubt
+24106	5	Doubt
+24106	7	Doubt
+24106	9	Loaded_Language
+24106	11	
+24112	1	Questioning_the_Reputation
+24112	3	Doubt
+24112	5	Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+24112	7	Consequential_Oversimplification,Doubt,Loaded_Language,Questioning_the_Reputation,Repetition
+24112	9	
+24116	1	Doubt,Loaded_Language
+24116	3	Doubt
+24116	5	Repetition
+24116	7	Repetition
+24116	9	Doubt,Loaded_Language
+24116	11	
+24116	13	Doubt
+24116	15	
+24116	17	Doubt,Exaggeration-Minimisation
+24116	19	
+24116	21	Appeal_to_Hypocrisy,Doubt,Loaded_Language,Questioning_the_Reputation
+24116	23	Doubt,False_Dilemma-No_Choice
+24116	25	
+24116	27	Doubt,Loaded_Language
+24117	1	Consequential_Oversimplification,False_Dilemma-No_Choice
+24117	3	
+24117	5	
+24117	7	Doubt
+24117	9	Conversation_Killer
+24117	11	Exaggeration-Minimisation,Questioning_the_Reputation
+24117	13	Conversation_Killer
+24117	15	
+24118	1	Loaded_Language,Slogans
+24118	3	
+24118	5	Questioning_the_Reputation
+24118	7	Doubt
+24118	9	
+24118	11	Doubt,Whataboutism
+24118	13	
+24118	15	
+24118	17	
+24118	19	Loaded_Language
+24118	21	
+24118	23	
+24118	25	
+24118	27	
+24118	29	
+24118	31	Questioning_the_Reputation
+24118	33	
+24118	35	Name_Calling-Labeling,Questioning_the_Reputation
+24124	1	
+24124	3	Exaggeration-Minimisation
+24124	5	Conversation_Killer,Doubt,Repetition
+24124	7	
+24124	9	Conversation_Killer,Doubt,False_Dilemma-No_Choice,Loaded_Language,Repetition
+24124	11	Name_Calling-Labeling
+24124	13	
+24126	1	
+24126	3	
+24126	5	Conversation_Killer,Doubt,Loaded_Language
+24126	7	Conversation_Killer,Loaded_Language,Questioning_the_Reputation
+24126	9	
+24126	11	Flag_Waving,Loaded_Language,Slogans
+24126	13	Flag_Waving
+24127	1	Loaded_Language
+24127	3	
+24127	5	Loaded_Language,Name_Calling-Labeling
+24127	7	Doubt,Exaggeration-Minimisation,Loaded_Language
+24127	9	Loaded_Language,Questioning_the_Reputation
+24127	11	Loaded_Language
+24127	13	Doubt,Loaded_Language,Questioning_the_Reputation
+24127	15	Loaded_Language
+24127	17	
+24127	19	
+24127	21	
+24127	23	Doubt,Guilt_by_Association,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+24127	25	Doubt,Loaded_Language,Questioning_the_Reputation
+24127	27	Consequential_Oversimplification,False_Dilemma-No_Choice,Loaded_Language,Repetition
+24127	29	Doubt,Loaded_Language
+24127	31	Loaded_Language,Questioning_the_Reputation
+24127	33	Doubt,Loaded_Language
+24127	35	Doubt,Loaded_Language
+24127	37	Loaded_Language
+24127	39	Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation,Repetition
+24127	41	Loaded_Language,Questioning_the_Reputation
+24127	43	Appeal_to_Fear-Prejudice,Conversation_Killer,Flag_Waving,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation,Repetition
+24127	45	Conversation_Killer,Doubt,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation,Slogans
+24130	1	Loaded_Language
+24130	3	Appeal_to_Fear-Prejudice,Conversation_Killer,Loaded_Language
+24130	5	Appeal_to_Fear-Prejudice,Conversation_Killer
+24130	7	
+24130	9	Doubt
+24130	11	
+24135	1	Loaded_Language
+24135	3	Exaggeration-Minimisation,Loaded_Language,Obfuscation-Vagueness-Confusion
+24135	5	
+24135	7	Flag_Waving
+24135	9	Flag_Waving,Loaded_Language,Obfuscation-Vagueness-Confusion
+24135	11	Slogans
+24138	1	
+24138	3	
+24138	5	
+24138	7	Appeal_to_Fear-Prejudice,Exaggeration-Minimisation,Loaded_Language
+24138	9	Loaded_Language
+24138	11	Loaded_Language
+24138	13	Slogans
+24138	15	Loaded_Language
+24138	17	
+2414	1	Loaded_Language,Questioning_the_Reputation
+2414	3	Exaggeration-Minimisation
+2414	5	Appeal_to_Hypocrisy,Loaded_Language,Questioning_the_Reputation
+2414	7	Loaded_Language
+2414	9	Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+2414	11	
+2414	13	
+2414	15	Appeal_to_Hypocrisy
+2414	17	Doubt,Questioning_the_Reputation,Straw_Man
+2414	19	Loaded_Language,Questioning_the_Reputation
+2414	21	
+24140	1	Questioning_the_Reputation
+24140	3	Questioning_the_Reputation
+24140	5	Doubt,Loaded_Language,Obfuscation-Vagueness-Confusion
+24140	7	Questioning_the_Reputation
+24140	9	Doubt,Loaded_Language
+24140	11	
+24141	1	Questioning_the_Reputation
+24141	3	Questioning_the_Reputation
+24141	5	Questioning_the_Reputation
+24141	7	Appeal_to_Fear-Prejudice,Causal_Oversimplification,Exaggeration-Minimisation
+24141	9	Doubt,Questioning_the_Reputation
+24141	11	Doubt
+24141	13	Consequential_Oversimplification,Loaded_Language
+24154	1	
+24154	3	False_Dilemma-No_Choice
+24154	5	Conversation_Killer,Obfuscation-Vagueness-Confusion
+24154	7	Appeal_to_Fear-Prejudice,Questioning_the_Reputation,Straw_Man
+24154	9	Doubt
+24154	11	Slogans
+24154	13	Loaded_Language,Name_Calling-Labeling
+24154	15	Whataboutism
+24154	17	Appeal_to_Hypocrisy
+24154	19	Doubt
+24154	21	
+24156	1	
+24156	3	
+24156	5	Appeal_to_Values,Loaded_Language
+24156	7	Loaded_Language,Obfuscation-Vagueness-Confusion
+24156	9	
+24156	11	Appeal_to_Hypocrisy,Doubt,Loaded_Language,Name_Calling-Labeling,Obfuscation-Vagueness-Confusion
+24156	13	Appeal_to_Values,Doubt,Obfuscation-Vagueness-Confusion
+24156	15	Doubt,Exaggeration-Minimisation
+24156	17	
+24156	19	
+24156	21	Exaggeration-Minimisation
+24156	23	Causal_Oversimplification
+24157	1	Loaded_Language
+24157	3	Appeal_to_Hypocrisy,Loaded_Language
+24157	5	Appeal_to_Hypocrisy,Loaded_Language
+24157	7	Loaded_Language
+24157	9	Loaded_Language
+24158	1	Doubt,Loaded_Language
+24158	3	Appeal_to_Popularity,Loaded_Language,Questioning_the_Reputation
+24158	5	Exaggeration-Minimisation
+24158	7	Loaded_Language
+24158	9	
+24158	11	Exaggeration-Minimisation
+24158	13	
+24160	1	
+24160	3	
+24160	5	
+24160	7	
+24160	9	Exaggeration-Minimisation,Loaded_Language
+24162	1	
+24162	2	Loaded_Language
+24162	4	Loaded_Language
+24162	5	Doubt,Loaded_Language
+24162	7	Doubt
+24162	9	Appeal_to_Fear-Prejudice
+24162	10	Appeal_to_Fear-Prejudice
+24166	1	Loaded_Language,Questioning_the_Reputation
+24166	3	Appeal_to_Hypocrisy,Loaded_Language,Name_Calling-Labeling
+24166	4	Consequential_Oversimplification,Conversation_Killer,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+24166	6	
+24166	8	
+24166	9	Doubt,Loaded_Language,Questioning_the_Reputation
+24166	10	Loaded_Language
+24166	12	Appeal_to_Fear-Prejudice,Conversation_Killer,Exaggeration-Minimisation,Loaded_Language,Questioning_the_Reputation
+24166	13	Consequential_Oversimplification,Conversation_Killer,Doubt,Exaggeration-Minimisation,Name_Calling-Labeling,Questioning_the_Reputation,Slogans
+24166	14	Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+24166	15	Name_Calling-Labeling,Straw_Man
+24166	17	Exaggeration-Minimisation,Name_Calling-Labeling,Questioning_the_Reputation,Straw_Man
+24166	18	Conversation_Killer,Loaded_Language,Questioning_the_Reputation
+24166	19	Appeal_to_Fear-Prejudice,Conversation_Killer,Doubt,Loaded_Language,Name_Calling-Labeling,Straw_Man
+24169	1	Questioning_the_Reputation
+24169	2	Questioning_the_Reputation
+24169	4	Questioning_the_Reputation
+24169	6	Consequential_Oversimplification,Loaded_Language,Obfuscation-Vagueness-Confusion,Questioning_the_Reputation
+24169	8	Appeal_to_Values,Questioning_the_Reputation
+24169	10	Appeal_to_Hypocrisy,Name_Calling-Labeling,Questioning_the_Reputation,Straw_Man
+24171	1	Appeal_to_Authority,Appeal_to_Fear-Prejudice
+24171	3	Appeal_to_Authority,Obfuscation-Vagueness-Confusion
+24171	5	Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+24171	7	
+24171	9	Conversation_Killer
+24171	11	Loaded_Language,Whataboutism
+24176	1	
+24176	3	Doubt,False_Dilemma-No_Choice
+24176	5	Consequential_Oversimplification,Doubt,Loaded_Language
+24176	7	Appeal_to_Values,False_Dilemma-No_Choice,Loaded_Language
+24176	9	Loaded_Language
+24176	11	
+24183	1	
+24183	3	
+24183	5	Loaded_Language
+24183	7	
+24185	1	
+24185	3	
+24185	5	
+24185	7	Appeal_to_Fear-Prejudice,Doubt,Loaded_Language
+24186	1	Loaded_Language
+24186	3	
+24186	5	
+24186	7	Doubt,Loaded_Language,Name_Calling-Labeling
+24186	9	Appeal_to_Popularity,False_Dilemma-No_Choice,Loaded_Language
+24189	1	
+24189	3	Conversation_Killer
+24189	5	
+24189	7	
+2423	1	Guilt_by_Association
+2423	3	Guilt_by_Association,Loaded_Language
+2423	5	Doubt,Guilt_by_Association
+2423	7	Appeal_to_Hypocrisy,Conversation_Killer,Guilt_by_Association,Questioning_the_Reputation
+2433	1	Doubt
+2433	2	Doubt
+2433	4	Flag_Waving,Loaded_Language,Name_Calling-Labeling
+2433	5	
+2433	7	
+2433	8	
+2433	10	
+2433	12	
+2433	14	
+2433	16	Exaggeration-Minimisation
+2433	17	
+2433	19	Exaggeration-Minimisation
+2433	21	
+2433	23	Conversation_Killer,Doubt,Questioning_the_Reputation
+2433	24	
+2433	26	Exaggeration-Minimisation
+2433	28	Flag_Waving
+2433	30	Doubt,Exaggeration-Minimisation
+2433	32	Appeal_to_Hypocrisy,Doubt,Exaggeration-Minimisation
+2437	1	Appeal_to_Hypocrisy,Straw_Man
+2437	3	Doubt,Straw_Man
+2437	4	
+2437	6	
+2437	7	Repetition
+2437	9	Repetition
+2437	11	Doubt,Loaded_Language,Questioning_the_Reputation,Repetition
+2455	1	
+2455	3	Name_Calling-Labeling
+2455	5	Doubt,Loaded_Language,Questioning_the_Reputation
+2455	7	Causal_Oversimplification,Loaded_Language,Questioning_the_Reputation
+2455	9	Appeal_to_Values,Doubt,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+2455	11	Causal_Oversimplification,Flag_Waving,Questioning_the_Reputation
+2455	13	Doubt,Loaded_Language,Questioning_the_Reputation
+2455	15	Name_Calling-Labeling,Questioning_the_Reputation
+2455	17	Conversation_Killer,Questioning_the_Reputation
+2455	19	Appeal_to_Hypocrisy
+2455	21	Doubt
+2455	23	Appeal_to_Values,Consequential_Oversimplification
+2455	25	Appeal_to_Values,Doubt
+2455	27	
+2455	29	
+2455	31	Doubt,Name_Calling-Labeling
+2455	33	Doubt
+2455	35	Loaded_Language
+2455	37	Loaded_Language,Name_Calling-Labeling
+2456	1	Questioning_the_Reputation
+2456	3	
+2456	5	Exaggeration-Minimisation,Loaded_Language,Questioning_the_Reputation
+2456	7	Loaded_Language
+2456	8	
+2456	10	
+2456	12	
+2456	14	
+2456	16	
+2456	18	Loaded_Language,Questioning_the_Reputation
+2456	19	
+2456	21	Doubt
+2456	23	Doubt,Loaded_Language
+2456	25	
+2456	27	
+2456	29	Appeal_to_Time,Consequential_Oversimplification,Guilt_by_Association,Loaded_Language
+2456	31	
+2456	33	
+2456	35	
+2456	37	
+2456	39	
+2456	41	
+2456	42	
+2456	44	
+2456	46	Doubt
+2456	48	Loaded_Language,Slogans
+2456	50	Guilt_by_Association,Loaded_Language,Questioning_the_Reputation,Repetition
+2456	52	Loaded_Language,Slogans
+2459	1	Appeal_to_Values,Questioning_the_Reputation
+2459	2	Obfuscation-Vagueness-Confusion
+2459	4	Doubt,Loaded_Language,Questioning_the_Reputation
+2459	6	Questioning_the_Reputation
+2459	8	Questioning_the_Reputation
+2459	10	Questioning_the_Reputation
+2459	12	Questioning_the_Reputation
+2459	14	Repetition
+2459	16	Repetition
+2459	18	Questioning_the_Reputation,Repetition
+2459	20	Loaded_Language,Questioning_the_Reputation
+2459	22	Loaded_Language,Questioning_the_Reputation
+2459	24	Loaded_Language,Repetition
+2459	26	Causal_Oversimplification,Doubt
+2459	28	
+2459	30	Whataboutism
+2459	32	Doubt,Loaded_Language
+2459	34	
+2459	36	Slogans
+2459	38	Questioning_the_Reputation
+2459	40	Questioning_the_Reputation
+2459	42	Doubt,Loaded_Language,Questioning_the_Reputation
+2461	1	Doubt
+2461	3	Doubt
+2461	5	
+2461	7	Loaded_Language
+2461	8	Doubt
+2461	10	
+2461	11	Questioning_the_Reputation
+2469	1	
+2469	3	
+2469	5	
+2469	7	
+2469	9	Doubt,Loaded_Language,Name_Calling-Labeling
+2469	11	
+2469	13	Appeal_to_Hypocrisy,Loaded_Language
+2469	15	Flag_Waving
+2469	17	
+2469	19	
+2469	21	
+247	1	Name_Calling-Labeling
+247	3	Loaded_Language
+247	5	Appeal_to_Hypocrisy,Name_Calling-Labeling
+247	7	Loaded_Language,Questioning_the_Reputation,Straw_Man
+247	9	Doubt,Loaded_Language,Questioning_the_Reputation
+247	11	Questioning_the_Reputation,Repetition
+2473	1	
+2473	3	
+2473	5	Appeal_to_Hypocrisy,Doubt,Loaded_Language
+2473	7	
+2473	9	
+2473	11	
+2475	1	
+2475	3	
+2475	4	
+2475	5	Loaded_Language
+2475	6	
+2475	7	
+2479	1	Name_Calling-Labeling
+2479	3	Repetition,Slogans
+2479	5	
+2479	7	
+2479	10	Doubt
+2479	12	Consequential_Oversimplification
+2479	14	
+2479	16	
+2479	18	
+2479	20	
+2479	22	Doubt
+2479	24	Doubt,Loaded_Language
+2479	26	
+2479	28	Exaggeration-Minimisation,Name_Calling-Labeling,Questioning_the_Reputation
+2482	1	
+2482	3	False_Dilemma-No_Choice
+2482	5	Exaggeration-Minimisation
+2482	7	Consequential_Oversimplification,Doubt,Loaded_Language
+2482	9	
+2482	11	
+2482	13	
+2482	15	
+2482	17	
+2482	19	
+2482	21	
+2482	23	
+2482	25	Conversation_Killer,Loaded_Language
+2482	27	Loaded_Language
+2482	29	
+2482	31	
+2482	33	
+2482	35	
+2482	37	
+2482	39	
+2482	41	
+2482	43	
+2482	45	
+2482	47	Flag_Waving,Loaded_Language
+2482	49	Loaded_Language
+2482	51	
+2482	53	
+2482	55	
+2482	57	
+2482	59	
+2482	61	
+2482	63	
+2482	65	Doubt,Loaded_Language,Name_Calling-Labeling
+2482	67	
+2482	69	
+2482	71	Loaded_Language
+2482	73	
+2482	75	Loaded_Language,Name_Calling-Labeling
+2482	77	Exaggeration-Minimisation
+2482	79	
+2482	81	Loaded_Language,Questioning_the_Reputation
+2482	83	Loaded_Language,Questioning_the_Reputation
+2482	85	
+2482	87	
+2482	89	Name_Calling-Labeling
+2482	91	
+2482	93	
+2482	95	Loaded_Language
+2482	97	
+2492	1	Questioning_the_Reputation
+2492	3	Doubt
+2492	4	
+2492	6	Doubt,Name_Calling-Labeling,Repetition
+2492	8	
+2492	10	Doubt,Name_Calling-Labeling
+2492	11	Doubt
+2492	13	Doubt,Loaded_Language
+2492	14	Doubt
+2492	15	
+2492	17	
+2494	1	Doubt,Loaded_Language
+2494	3	Questioning_the_Reputation
+2494	4	Causal_Oversimplification,Doubt
+2494	5	Doubt,Red_Herring
+2494	7	Doubt
+2494	9	Doubt,Loaded_Language
+2495	1	Loaded_Language,Questioning_the_Reputation
+2495	3	
+2495	5	
+2495	7	Loaded_Language
+2495	9	Doubt,Loaded_Language,Name_Calling-Labeling
+2495	11	
+2495	13	Conversation_Killer,Doubt,False_Dilemma-No_Choice,Loaded_Language,Questioning_the_Reputation
+2496	1	
+2496	3	
+2496	5	Conversation_Killer,Doubt,Loaded_Language
+2496	7	Doubt
+2496	9	Doubt,Exaggeration-Minimisation,Loaded_Language
+2496	11	
+2498	1	
+2498	3	Appeal_to_Fear-Prejudice,Consequential_Oversimplification
+2498	5	False_Dilemma-No_Choice
+2498	7	Doubt
+2498	9	
+2498	11	
+2498	13	
+2498	15	
+2498	17	
+2498	19	Loaded_Language
+2498	21	Doubt
+2498	23	
+2498	25	
+2498	27	
+2498	29	Doubt
+2498	31	Doubt
+2498	33	
+2498	35	
+2498	37	
+2498	39	
+2498	41	
+2498	43	
+2498	45	Doubt
+2498	47	Loaded_Language
+2498	49	
+2498	51	Doubt,Loaded_Language

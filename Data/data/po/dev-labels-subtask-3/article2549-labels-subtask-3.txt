@@ -1,0 +1,9 @@
+2549	1	Name_Calling-Labeling
+2549	3	
+2549	5	Appeal_to_Hypocrisy
+2549	7	Appeal_to_Hypocrisy,Flag_Waving,Loaded_Language
+2549	9	Name_Calling-Labeling
+2549	11	Appeal_to_Hypocrisy
+2549	13	Name_Calling-Labeling
+2549	15	
+2549	17	Appeal_to_Hypocrisy

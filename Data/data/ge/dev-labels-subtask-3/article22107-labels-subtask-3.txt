@@ -1,0 +1,17 @@
+22107	1	Name_Calling-Labeling
+22107	3	Name_Calling-Labeling
+22107	5	Causal_Oversimplification,Name_Calling-Labeling
+22107	7	Appeal_to_Hypocrisy,Appeal_to_Values,Doubt,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation,Slogans
+22107	9	Appeal_to_Fear-Prejudice,Appeal_to_Popularity,Consequential_Oversimplification
+22107	11	Name_Calling-Labeling
+22107	13	Appeal_to_Time,Doubt,Exaggeration-Minimisation,False_Dilemma-No_Choice,Name_Calling-Labeling
+22107	15	
+22107	17	Appeal_to_Fear-Prejudice,Appeal_to_Values
+22107	19	
+22107	21	Causal_Oversimplification,Doubt,Exaggeration-Minimisation,Name_Calling-Labeling,Questioning_the_Reputation
+22107	23	
+22107	25	Loaded_Language
+22107	27	
+22107	29	Name_Calling-Labeling
+22107	31	
+22107	33	
