@@ -1,0 +1,593 @@
+3634	1	
+3634	3	
+3634	5	Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+3634	7	Appeal_to_Fear-Prejudice,Doubt,Loaded_Language,Questioning_the_Reputation
+3661	1	Doubt,Loaded_Language,Name_Calling-Labeling
+3661	3	Doubt,Loaded_Language,Name_Calling-Labeling
+3661	5	Doubt,Loaded_Language,Name_Calling-Labeling
+3661	7	
+3661	9	Appeal_to_Values,Doubt,Loaded_Language,Name_Calling-Labeling
+3661	11	Conversation_Killer,Doubt,Name_Calling-Labeling
+3658	1	Doubt
+3658	3	Doubt,Loaded_Language,Name_Calling-Labeling
+3658	5	Loaded_Language,Name_Calling-Labeling
+3658	7	
+3658	9	
+3658	11	
+3658	13	
+3658	15	
+3658	17	
+3658	19	Doubt,Loaded_Language,Name_Calling-Labeling
+3658	21	Doubt,Loaded_Language,Name_Calling-Labeling
+3658	23	
+3622	1	
+3622	3	Appeal_to_Fear-Prejudice,Doubt,Loaded_Language
+3622	5	
+3622	7	Doubt
+3622	9	
+3622	11	Doubt
+3622	13	
+3621	1	Doubt
+3621	3	Doubt
+3621	5	Doubt,Loaded_Language
+3621	7	Loaded_Language,Name_Calling-Labeling
+3621	9	Loaded_Language
+3621	11	Loaded_Language,Questioning_the_Reputation
+3621	13	Doubt,Loaded_Language
+3652	1	
+3652	3	Doubt,Loaded_Language,Name_Calling-Labeling
+3652	5	
+3652	7	Doubt,Loaded_Language
+3652	9	Appeal_to_Fear-Prejudice,Loaded_Language
+3652	11	Appeal_to_Fear-Prejudice,Doubt,Loaded_Language,Questioning_the_Reputation
+3652	13	
+3652	15	Doubt,Loaded_Language
+3652	17	
+3652	19	Appeal_to_Fear-Prejudice,Doubt
+3653	1	
+3653	3	Conversation_Killer
+3653	5	
+3653	7	
+3653	9	
+3653	11	Loaded_Language
+3653	13	Doubt,Loaded_Language
+3653	15	Doubt
+3653	17	Doubt
+3628	1	
+3628	3	Doubt,Loaded_Language
+3628	5	Loaded_Language
+3628	7	Appeal_to_Fear-Prejudice,Conversation_Killer,Loaded_Language,Questioning_the_Reputation
+3628	9	Loaded_Language
+3628	11	Doubt,Loaded_Language
+3619	1	
+3619	3	Doubt
+3619	5	
+3619	7	
+3619	9	
+3619	11	Doubt,Loaded_Language
+3619	13	Loaded_Language
+3619	15	
+3619	17	
+3619	19	Loaded_Language
+3619	21	Doubt
+3619	23	Loaded_Language
+3619	25	Doubt
+3619	27	Doubt
+3619	29	
+3619	31	Loaded_Language
+3619	33	Loaded_Language
+3619	35	
+3619	37	Loaded_Language
+3610	1	
+3610	3	Doubt,Loaded_Language
+3610	5	Doubt,Loaded_Language
+3610	7	Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling
+3610	9	Appeal_to_Fear-Prejudice,Loaded_Language
+3610	11	Doubt,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+3610	13	Loaded_Language
+3610	15	Appeal_to_Fear-Prejudice,Conversation_Killer,Doubt,Loaded_Language,Questioning_the_Reputation
+3610	17	Appeal_to_Fear-Prejudice,Loaded_Language
+3632	1	Loaded_Language
+3632	3	Doubt,Loaded_Language
+3632	5	Doubt,Loaded_Language
+3632	7	
+3632	9	Appeal_to_Hypocrisy,Loaded_Language
+3632	11	Doubt,Loaded_Language
+3632	13	Appeal_to_Time,Doubt,Loaded_Language,Name_Calling-Labeling
+3646	1	
+3646	3	
+3646	5	
+3646	7	
+3646	9	
+3646	11	Loaded_Language
+3646	13	Loaded_Language
+3646	15	
+3646	17	Loaded_Language
+3646	19	
+3646	21	
+3646	23	
+3646	25	
+3643	1	
+3643	3	Questioning_the_Reputation
+3643	5	
+3643	7	Doubt,Loaded_Language,Name_Calling-Labeling
+3643	9	Name_Calling-Labeling
+3643	11	
+3643	13	
+3643	15	Doubt,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+3643	17	
+3643	19	Doubt,Exaggeration-Minimisation,Loaded_Language,Questioning_the_Reputation
+3643	21	
+3643	23	
+3643	25	Doubt
+3643	27	Doubt,Loaded_Language
+3643	29	
+3643	31	Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+3643	33	Doubt,Loaded_Language
+3643	35	
+3643	37	Doubt,Loaded_Language,Name_Calling-Labeling
+3648	1	
+3648	3	Doubt,Loaded_Language
+3648	5	
+3648	7	Doubt,Loaded_Language
+3648	9	
+3648	11	Doubt
+3648	13	Loaded_Language,Name_Calling-Labeling
+3648	15	
+3648	17	Loaded_Language
+3625	1	
+3625	3	
+3625	5	Loaded_Language,Questioning_the_Reputation
+3625	7	Appeal_to_Values,Doubt,Loaded_Language
+3625	9	
+3625	11	Doubt,Loaded_Language,Questioning_the_Reputation
+3625	13	
+369	1	
+369	3	Doubt
+369	5	Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+369	7	Doubt,Loaded_Language
+369	9	Doubt
+369	11	Doubt
+369	13	Doubt,Name_Calling-Labeling
+369	15	Doubt,Loaded_Language
+3637	1	
+3637	3	
+3637	5	Doubt,Loaded_Language,Name_Calling-Labeling
+3637	7	Doubt,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+3637	9	Conversation_Killer,Doubt,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+3637	11	Doubt,Loaded_Language,Name_Calling-Labeling
+3637	13	Doubt,Loaded_Language
+3637	15	Doubt,Name_Calling-Labeling
+3637	17	Doubt,Loaded_Language
+3637	19	
+3637	21	Appeal_to_Values,Doubt,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+3637	23	Loaded_Language
+3637	25	Doubt,Name_Calling-Labeling
+3637	27	
+3638	1	
+3638	3	Doubt,Loaded_Language
+3638	5	Appeal_to_Values,Doubt,Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+3638	7	Doubt,Loaded_Language,Name_Calling-Labeling
+3644	1	
+3644	3	
+3644	5	
+3644	7	Loaded_Language
+3644	9	Doubt,Loaded_Language
+3644	11	Doubt,Loaded_Language
+3641	1	
+3641	3	Appeal_to_Fear-Prejudice,Doubt
+3641	5	Doubt
+3641	7	
+3641	9	
+3641	11	
+3641	13	Doubt,Loaded_Language
+3641	15	Doubt
+3641	17	Name_Calling-Labeling
+3641	19	Doubt
+3641	21	Doubt
+3641	23	Doubt
+3641	25	
+3641	27	Doubt,Name_Calling-Labeling
+3641	29	Loaded_Language
+3641	31	Conversation_Killer,Doubt,Name_Calling-Labeling
+3641	33	Doubt,Loaded_Language
+3641	35	Loaded_Language
+3641	37	Doubt,Loaded_Language
+3641	39	Loaded_Language
+3641	41	Loaded_Language
+3641	43	Doubt,Loaded_Language
+3612	1	
+3612	3	Appeal_to_Fear-Prejudice,Conversation_Killer,Doubt,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+3612	4	Appeal_to_Fear-Prejudice,Doubt,Loaded_Language
+3612	5	Doubt
+3620	1	Loaded_Language
+3620	3	
+3620	5	Name_Calling-Labeling
+3620	7	Doubt,Loaded_Language
+3620	9	Appeal_to_Fear-Prejudice,Doubt
+3620	11	Appeal_to_Fear-Prejudice
+3620	13	Appeal_to_Values,Doubt
+3620	15	Doubt
+3649	1	
+3649	3	Loaded_Language
+3649	5	Doubt,Loaded_Language
+3649	7	
+3649	9	Appeal_to_Fear-Prejudice,Loaded_Language
+3649	11	Doubt,Loaded_Language
+3649	13	
+3649	15	Doubt
+368	1	
+368	3	Appeal_to_Fear-Prejudice,Doubt,Loaded_Language
+368	5	Doubt,Loaded_Language
+368	7	
+368	9	Loaded_Language,Name_Calling-Labeling
+368	11	
+368	13	Appeal_to_Fear-Prejudice,Doubt,Questioning_the_Reputation
+368	15	Appeal_to_Fear-Prejudice,Doubt,Loaded_Language
+3655	1	
+3655	3	
+3655	5	
+3655	7	Doubt,Loaded_Language,Name_Calling-Labeling
+3655	9	Doubt
+3655	11	Conversation_Killer,Doubt,Name_Calling-Labeling
+3655	13	Conversation_Killer
+3655	15	Doubt
+3655	17	Loaded_Language
+3655	19	
+3655	21	Appeal_to_Fear-Prejudice,Name_Calling-Labeling
+3655	23	Conversation_Killer,Loaded_Language
+3655	25	Doubt,Loaded_Language
+3655	27	Doubt,Loaded_Language,Name_Calling-Labeling
+3655	29	
+3655	31	Doubt
+3655	33	
+3655	35	
+3655	37	Doubt,Loaded_Language
+3655	39	Appeal_to_Fear-Prejudice,Doubt
+3615	1	
+3615	3	
+3615	5	
+3615	7	Loaded_Language,Name_Calling-Labeling
+3615	9	Doubt,Loaded_Language
+3615	11	
+3615	13	Doubt,Loaded_Language,Name_Calling-Labeling
+3615	15	
+3615	17	Appeal_to_Fear-Prejudice,Doubt,Loaded_Language,Name_Calling-Labeling
+3615	19	Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling
+3615	21	Doubt,Questioning_the_Reputation
+3615	23	
+3615	25	Doubt
+3615	27	Doubt,Loaded_Language
+3618	1	
+3618	3	Appeal_to_Fear-Prejudice,Doubt,Loaded_Language
+3618	5	
+3618	7	Doubt,Loaded_Language
+3618	9	
+3618	11	
+3618	13	Doubt
+3618	15	
+366	1	
+366	3	Appeal_to_Fear-Prejudice
+366	5	Name_Calling-Labeling
+366	7	Appeal_to_Fear-Prejudice,Doubt,Loaded_Language,Questioning_the_Reputation
+3660	1	
+3660	3	Doubt
+3660	5	
+3660	7	Doubt,Loaded_Language
+3660	9	
+3660	11	
+3660	13	Loaded_Language
+3660	15	Name_Calling-Labeling
+3660	17	
+3660	19	
+3660	21	Doubt
+3660	23	Doubt
+3660	25	
+3660	27	
+3660	29	Doubt
+3660	31	Doubt
+3660	33	
+3660	35	
+3660	37	
+3660	39	
+3660	41	
+3660	43	
+3660	45	Name_Calling-Labeling
+3660	47	
+3630	1	
+3630	3	Doubt,Loaded_Language
+3630	5	
+3630	7	Doubt
+3630	9	Doubt
+3630	11	
+3630	13	Loaded_Language
+3630	15	
+3630	17	
+3630	19	Appeal_to_Fear-Prejudice
+3630	21	
+3630	23	Doubt
+3630	25	
+3611	1	
+3611	3	Loaded_Language
+3611	5	Doubt,Loaded_Language,Questioning_the_Reputation
+3611	7	Doubt,Loaded_Language,Name_Calling-Labeling
+3611	9	Doubt,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+3611	11	Doubt,Loaded_Language,Name_Calling-Labeling
+3645	1	
+3645	3	
+3645	5	
+3645	7	
+3645	9	
+3645	11	
+3645	13	
+3645	15	Exaggeration-Minimisation
+3650	1	
+3650	3	
+3650	5	Doubt,Loaded_Language
+3650	7	Loaded_Language
+3650	9	Loaded_Language,Name_Calling-Labeling
+3650	11	
+3650	13	Loaded_Language
+3651	1	
+3651	3	
+3651	5	Doubt
+3651	7	
+3651	9	Doubt
+3626	1	
+3626	3	Doubt,Loaded_Language
+3626	5	Doubt
+3626	7	
+3626	9	Doubt,Loaded_Language
+3626	11	Appeal_to_Values,Doubt,Loaded_Language,Questioning_the_Reputation
+367	1	
+367	3	Loaded_Language
+367	5	Conversation_Killer,Doubt,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+367	8	Conversation_Killer,Doubt,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+367	12	Doubt,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+367	16	Loaded_Language,Name_Calling-Labeling
+367	20	Doubt,Loaded_Language
+367	24	Appeal_to_Values,Doubt,Loaded_Language,Name_Calling-Labeling
+367	26	Doubt,Loaded_Language
+3657	1	
+3657	3	Doubt
+3657	5	Doubt,Loaded_Language,Name_Calling-Labeling
+3657	7	Doubt
+3657	9	Doubt,Questioning_the_Reputation
+3657	11	Doubt,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+3657	13	Doubt
+3617	1	
+3617	3	Loaded_Language
+3617	5	
+3617	7	Loaded_Language
+3617	9	Doubt
+3617	11	Doubt,Questioning_the_Reputation
+3617	13	
+3617	15	Doubt,Loaded_Language
+3617	17	Name_Calling-Labeling
+3617	19	Loaded_Language
+3617	21	
+3617	23	Name_Calling-Labeling
+3617	25	Appeal_to_Fear-Prejudice
+3617	27	Appeal_to_Fear-Prejudice,Loaded_Language
+363	1	
+363	3	Doubt,Name_Calling-Labeling
+363	5	
+363	7	Doubt
+363	9	Doubt
+363	11	Loaded_Language,Name_Calling-Labeling
+363	13	Doubt,Loaded_Language
+363	15	Doubt
+363	17	Doubt
+363	19	
+3639	1	
+3639	3	
+3639	5	Appeal_to_Fear-Prejudice,Doubt,Loaded_Language,Questioning_the_Reputation
+3639	7	Appeal_to_Fear-Prejudice,Consequential_Oversimplification,Doubt,Loaded_Language,Questioning_the_Reputation
+3639	9	Appeal_to_Authority,Appeal_to_Fear-Prejudice,Doubt,Loaded_Language,Questioning_the_Reputation
+3639	11	Doubt,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+3639	13	Doubt,Guilt_by_Association,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+3635	1	
+3635	3	
+3635	5	Doubt,Loaded_Language,Name_Calling-Labeling
+3635	7	Loaded_Language,Questioning_the_Reputation
+3635	9	Doubt
+3635	11	
+3635	13	
+3659	1	Appeal_to_Fear-Prejudice,Doubt,Loaded_Language,Name_Calling-Labeling
+3659	3	Doubt,Loaded_Language,Name_Calling-Labeling
+3659	5	Doubt,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+3613	1	
+3613	3	
+3613	5	Loaded_Language
+3613	7	Doubt
+3613	9	
+3613	11	
+3613	13	Appeal_to_Values,Loaded_Language
+3613	15	
+3613	17	
+3613	19	Doubt,Loaded_Language
+3613	21	Doubt
+3613	23	Doubt,Loaded_Language
+3656	1	
+3656	3	
+3656	5	Doubt
+3656	7	Doubt
+3656	9	Loaded_Language,Name_Calling-Labeling
+3656	11	
+3656	13	Loaded_Language
+3656	15	Loaded_Language,Name_Calling-Labeling
+3656	17	Doubt
+3656	19	Doubt,Loaded_Language
+3656	21	Doubt,Loaded_Language
+3656	23	Doubt,Name_Calling-Labeling,Questioning_the_Reputation
+3627	1	
+3627	3	
+3627	5	Appeal_to_Fear-Prejudice,Doubt,Loaded_Language
+3627	7	
+3627	9	Doubt
+3627	11	
+3627	13	
+3627	15	Doubt,Loaded_Language
+3627	17	Name_Calling-Labeling
+3627	19	Loaded_Language
+3627	21	Doubt
+3627	23	Loaded_Language
+3627	25	
+3627	27	Loaded_Language,Questioning_the_Reputation
+3627	29	Loaded_Language,Questioning_the_Reputation
+3627	31	Appeal_to_Fear-Prejudice,Loaded_Language,Name_Calling-Labeling
+3627	33	Loaded_Language,Name_Calling-Labeling
+361	1	
+361	3	Doubt,Loaded_Language,Name_Calling-Labeling
+361	5	Loaded_Language
+361	7	Doubt,Loaded_Language,Name_Calling-Labeling
+361	9	
+361	11	Doubt,Loaded_Language
+361	13	Doubt,Loaded_Language
+361	15	
+361	17	Loaded_Language
+361	19	Doubt,Loaded_Language
+361	21	Doubt
+361	23	Appeal_to_Fear-Prejudice,Conversation_Killer,Doubt
+3631	1	
+3631	3	Name_Calling-Labeling
+3631	5	
+3631	7	Doubt,Loaded_Language
+3631	9	Doubt,Loaded_Language
+3631	11	
+3631	13	Loaded_Language,Questioning_the_Reputation
+3631	15	Doubt,Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling
+365	1	
+365	3	Doubt,Loaded_Language
+365	5	Appeal_to_Fear-Prejudice,Doubt
+365	7	Doubt
+365	9	Appeal_to_Fear-Prejudice,Doubt,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+3629	1	
+3629	3	
+3629	5	Doubt,Loaded_Language
+3629	7	Loaded_Language
+3629	9	Loaded_Language
+3629	11	Doubt,Loaded_Language
+3629	13	Appeal_to_Authority,Appeal_to_Values,Doubt,Loaded_Language
+3629	15	
+3640	1	
+3640	3	Doubt,Loaded_Language
+3640	5	Doubt,Name_Calling-Labeling
+3640	7	Appeal_to_Fear-Prejudice,Loaded_Language,Name_Calling-Labeling
+3640	9	Loaded_Language
+3640	11	
+3640	13	
+3640	15	
+3640	17	Conversation_Killer
+3640	19	Doubt,Loaded_Language,Questioning_the_Reputation
+3640	21	Loaded_Language
+3640	23	Appeal_to_Hypocrisy,Doubt,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+3640	25	Doubt,Loaded_Language
+3642	1	
+3642	3	Doubt
+3642	5	
+3642	7	
+3642	9	
+3642	11	Doubt
+3642	13	
+3642	15	
+3642	17	Doubt
+3642	19	Loaded_Language
+3642	21	
+3642	23	
+3642	25	
+3642	27	
+3642	29	
+3642	31	Loaded_Language
+3642	33	
+3642	35	
+3642	37	
+3642	39	
+3642	41	
+3642	43	Loaded_Language
+3642	45	
+3642	47	
+3642	49	
+3642	51	
+3642	53	
+3642	55	Doubt
+3642	57	
+3642	59	
+3642	61	Loaded_Language
+3642	63	Doubt
+3642	65	
+3633	1	
+3633	3	Doubt,Loaded_Language
+3633	5	
+3633	7	
+3633	9	Appeal_to_Values,Causal_Oversimplification,Doubt
+3633	11	
+3633	13	Appeal_to_Values,Doubt,Name_Calling-Labeling
+3623	1	
+3623	3	Loaded_Language,Name_Calling-Labeling
+3623	5	Appeal_to_Fear-Prejudice,Doubt,Loaded_Language,Name_Calling-Labeling
+3623	7	
+3623	9	
+3647	1	
+3647	3	Loaded_Language,Name_Calling-Labeling
+3647	5	
+3647	7	Appeal_to_Fear-Prejudice,Loaded_Language
+3647	9	Loaded_Language
+362	1	
+362	3	Doubt,Loaded_Language
+362	5	Appeal_to_Fear-Prejudice
+362	7	Loaded_Language,Name_Calling-Labeling
+3624	1	
+3624	3	Doubt,Loaded_Language
+3624	5	
+3624	7	Doubt,Loaded_Language,Name_Calling-Labeling
+3624	9	Doubt
+3624	11	
+3624	13	
+3624	15	Doubt,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+3624	17	Loaded_Language
+3624	19	Doubt,Loaded_Language
+3624	21	
+3624	23	Doubt,Loaded_Language
+3624	25	
+3624	27	Appeal_to_Fear-Prejudice,Loaded_Language
+3624	29	Loaded_Language,Name_Calling-Labeling
+3624	31	Doubt
+3624	33	Doubt
+364	1	
+364	3	Appeal_to_Fear-Prejudice,Doubt,Loaded_Language
+364	5	
+364	7	
+364	9	Doubt
+3614	1	
+3614	3	Appeal_to_Fear-Prejudice,Doubt,Exaggeration-Minimisation,Name_Calling-Labeling
+3616	1	
+3616	3	Doubt,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+3616	5	Appeal_to_Fear-Prejudice,Questioning_the_Reputation
+3616	7	Doubt
+3616	9	Appeal_to_Fear-Prejudice,Loaded_Language,Questioning_the_Reputation
+3616	11	Doubt,Loaded_Language,Questioning_the_Reputation
+3616	13	Questioning_the_Reputation
+3616	15	Loaded_Language,Name_Calling-Labeling
+3616	17	Appeal_to_Fear-Prejudice,Doubt,Loaded_Language
+3616	19	Doubt
+3636	1	
+3636	3	
+3636	5	
+3636	7	Doubt
+3636	9	
+3636	11	
+3636	13	
+3636	15	
+3636	17	
+3636	19	
+3636	21	
+3636	23	
+3636	25	
+3654	1	
+3654	3	
+3654	5	Loaded_Language
+3654	7	Loaded_Language
+3654	9	Loaded_Language
+3654	11	Loaded_Language
+3654	13	Loaded_Language

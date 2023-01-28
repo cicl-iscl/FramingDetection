@@ -1,0 +1,72 @@
+344	Economic,Security_and_defense
+3416	
+3444	
+3411	Economic,Political
+3457	
+3448	
+3451	
+3441	
+3412	Economic,Political
+3413	
+3435	Crime_and_punishment
+346	
+3436	
+3430	
+3429	Crime_and_punishment
+3426	Security_and_defense
+3414	
+3464	
+3427	
+3452	Health_and_safety
+3422	
+3454	
+3469	Economic,Fairness_and_equality,Legality_Constitutionality_and_jurisprudence,Quality_of_life
+3471	Security_and_defense
+3455	
+3421	Security_and_defense
+345	
+3418	
+3438	
+3431	Security_and_defense
+3470	Economic,Fairness_and_equality,Legality_Constitutionality_and_jurisprudence,Quality_of_life
+3459	Security_and_defense
+3466	
+3420	
+3472	
+3439	
+343	Economic
+3467	Security_and_defense
+3410	
+3415	
+3468	Economic,Fairness_and_equality,Legality_Constitutionality_and_jurisprudence,Quality_of_life
+3423	
+349	
+3442	
+3447	
+3437	
+3453	
+3443	
+3417	
+341	
+3450	
+3462	Cultural_identity,Security_and_defense
+3461	
+3449	
+3445	
+3432	
+3424	
+3446	
+348	
+3465	
+342	Security_and_defense
+3456	
+3428	
+347	Economic,External_regulation_and_reputation
+3460	
+3463	
+3434	
+3425	
+3419	
+3440	Security_and_defense
+3433	
+3458	
