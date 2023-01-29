@@ -1,3 +1,0 @@
-2473	Appeal_to_Hypocrisy	449	599
-2473	Doubt	781	876
-2473	Loaded_Language	853	874

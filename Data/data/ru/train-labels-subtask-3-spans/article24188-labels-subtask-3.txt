@@ -1,3 +1,0 @@
-24188	Doubt	507	576
-24188	Causal_Oversimplification	579	664
-24188	Loaded_Language	599	626

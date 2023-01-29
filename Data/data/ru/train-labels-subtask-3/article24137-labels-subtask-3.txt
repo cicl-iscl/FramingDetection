@@ -1,3 +1,0 @@
-24137	1	Loaded_Language
-24137	3	Conversation_Killer
-24137	5	Doubt,Loaded_Language,Name_Calling-Labeling
