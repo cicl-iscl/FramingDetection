@@ -1,0 +1,6 @@
+2448	1	Loaded_Language
+2448	3	Causal_Oversimplification,Consequential_Oversimplification,Doubt,Loaded_Language
+2448	5	
+2448	7	Conversation_Killer
+2448	9	Consequential_Oversimplification,Name_Calling-Labeling
+2448	11	Name_Calling-Labeling

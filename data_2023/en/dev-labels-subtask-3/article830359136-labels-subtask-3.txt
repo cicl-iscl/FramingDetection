@@ -1,0 +1,29 @@
+830359136	1	
+830359136	3	Repetition
+830359136	4	
+830359136	5	Repetition
+830359136	6	Loaded_Language
+830359136	7	
+830359136	8	Loaded_Language
+830359136	9	Loaded_Language
+830359136	10	Conversation_Killer
+830359136	11	Repetition
+830359136	12	Repetition
+830359136	13	Appeal_to_Fear-Prejudice,Loaded_Language,Name_Calling-Labeling,Repetition
+830359136	14	
+830359136	15	
+830359136	16	Loaded_Language,Name_Calling-Labeling
+830359136	17	Exaggeration-Minimisation
+830359136	18	Name_Calling-Labeling
+830359136	19	Repetition
+830359136	20	Flag_Waving,Repetition
+830359136	21	Loaded_Language,Repetition
+830359136	22	
+830359136	23	Repetition
+830359136	24	
+830359136	25	
+830359136	26	
+830359136	27	
+830359136	28	
+830359136	29	
+830359136	30	

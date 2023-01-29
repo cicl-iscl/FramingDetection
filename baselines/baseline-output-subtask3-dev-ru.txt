@@ -1,0 +1,515 @@
+24157	1	
+24157	3	Loaded_Language
+24157	5	Loaded_Language
+24157	7	
+24157	9	
+24156	1	
+24156	3	
+24156	5	
+24156	7	
+24156	9	
+24156	11	Loaded_Language
+24156	13	
+24156	15	Loaded_Language
+24156	17	
+24156	19	
+24156	21	
+24156	23	
+24140	1	
+24140	3	Loaded_Language
+24140	5	Loaded_Language
+24140	7	
+24140	9	
+24140	11	
+24154	1	
+24154	3	
+24154	5	Loaded_Language
+24154	7	Loaded_Language
+24154	9	
+24154	11	
+24154	13	
+24154	15	Loaded_Language
+24154	17	Loaded_Language
+24154	19	
+24154	21	Loaded_Language
+24183	1	
+24183	3	
+24183	5	
+24183	7	
+24141	1	
+24141	3	
+24141	5	Doubt
+24141	7	Questioning_the_Reputation
+24141	9	Loaded_Language
+24141	11	Doubt
+24141	13	Questioning_the_Reputation
+24169	1	Loaded_Language
+24169	2	Loaded_Language
+24169	4	
+24169	6	Loaded_Language
+24169	8	
+24169	10	
+24186	1	Loaded_Language
+24186	3	Loaded_Language
+24186	5	Loaded_Language
+24186	7	Loaded_Language
+24186	9	Loaded_Language
+2414	1	
+2414	3	Questioning_the_Reputation
+2414	5	
+2414	7	Doubt
+2414	9	Loaded_Language
+2414	11	
+2414	13	
+2414	15	
+2414	17	
+2414	19	Loaded_Language
+2414	21	
+24185	1	
+24185	3	Loaded_Language
+24185	5	Doubt
+24185	7	Doubt,Loaded_Language
+24135	1	
+24135	3	
+24135	5	Loaded_Language
+24135	7	Loaded_Language
+24135	9	
+24135	11	Loaded_Language
+2498	1	
+2498	3	
+2498	5	Loaded_Language
+2498	7	Doubt,Loaded_Language
+2498	9	
+2498	11	Loaded_Language
+2498	13	Loaded_Language
+2498	15	
+2498	17	Loaded_Language
+2498	19	Loaded_Language
+2498	21	Loaded_Language
+2498	23	
+2498	25	Loaded_Language
+2498	27	
+2498	29	Doubt,Loaded_Language
+2498	31	Doubt
+2498	33	
+2498	35	Doubt,Name_Calling-Labeling
+2498	37	Loaded_Language
+2498	39	Loaded_Language
+2498	41	
+2498	43	
+2498	45	
+2498	47	Loaded_Language
+2498	49	Loaded_Language
+2498	51	Doubt
+2473	1	
+2473	3	
+2473	5	Loaded_Language
+2473	7	
+2473	9	
+2473	11	Loaded_Language
+2459	1	
+2459	2	
+2459	4	
+2459	6	
+2459	8	
+2459	10	
+2459	12	
+2459	14	Loaded_Language
+2459	16	Loaded_Language
+2459	18	
+2459	20	
+2459	22	
+2459	24	
+2459	26	
+2459	28	
+2459	30	
+2459	32	
+2459	34	
+2459	36	Loaded_Language
+2459	38	
+2459	40	Loaded_Language
+2459	42	
+24126	1	
+24126	3	Doubt
+24126	5	
+24126	7	Loaded_Language
+24126	9	
+24126	11	Loaded_Language
+24126	13	
+24127	1	
+24127	3	
+24127	5	Doubt,Questioning_the_Reputation
+24127	7	Doubt,Questioning_the_Reputation
+24127	9	Doubt,Exaggeration-Minimisation,Loaded_Language
+24127	11	Doubt
+24127	13	
+24127	15	
+24127	17	Loaded_Language
+24127	19	
+24127	21	
+24127	23	Doubt,Loaded_Language,Questioning_the_Reputation
+24127	25	Doubt,Loaded_Language,Questioning_the_Reputation
+24127	27	Loaded_Language,Questioning_the_Reputation
+24127	29	Doubt,Loaded_Language
+24127	31	Doubt,Loaded_Language,Questioning_the_Reputation
+24127	33	Doubt,Loaded_Language,Questioning_the_Reputation
+24127	35	Loaded_Language,Name_Calling-Labeling
+24127	37	Loaded_Language,Questioning_the_Reputation
+24127	39	Doubt,Loaded_Language,Name_Calling-Labeling
+24127	41	Doubt,Loaded_Language
+24127	43	Doubt,Loaded_Language,Name_Calling-Labeling
+24127	45	Doubt,Loaded_Language,Name_Calling-Labeling
+247	1	Loaded_Language
+247	3	
+247	5	
+247	7	Loaded_Language
+247	9	
+247	11	
+2475	1	
+2475	3	
+2475	4	
+2475	5	
+2475	6	Loaded_Language
+2475	7	
+2461	1	
+2461	3	
+2461	5	
+2461	7	
+2461	8	
+2461	10	
+2461	11	Loaded_Language
+24118	1	
+24118	3	
+24118	5	
+24118	7	Loaded_Language
+24118	9	
+24118	11	Doubt,Loaded_Language
+24118	13	
+24118	15	
+24118	17	
+24118	19	
+24118	21	
+24118	23	Loaded_Language
+24118	25	Doubt
+24118	27	Loaded_Language
+24118	29	
+24118	31	
+24118	33	
+24118	35	Loaded_Language
+24124	1	
+24124	3	
+24124	5	
+24124	7	
+24124	9	Loaded_Language
+24124	11	
+24124	13	
+24130	1	
+24130	3	Loaded_Language
+24130	5	
+24130	7	
+24130	9	
+24130	11	Loaded_Language
+24100	1	
+24100	3	Doubt
+24100	5	Doubt
+24100	7	Doubt
+24100	9	Doubt,Loaded_Language,Questioning_the_Reputation
+24100	11	Doubt,Loaded_Language,Questioning_the_Reputation
+24100	13	Doubt,Name_Calling-Labeling
+24100	15	Loaded_Language
+24100	17	Doubt
+24100	19	Doubt,Loaded_Language,Questioning_the_Reputation
+24100	21	Doubt
+24100	23	
+24100	25	Loaded_Language
+24100	27	
+24100	29	Doubt,Loaded_Language
+24100	31	
+24100	33	
+24100	35	
+24102	1	
+24102	3	
+24102	5	Doubt,Name_Calling-Labeling
+24102	7	Loaded_Language
+24102	9	Doubt
+24102	11	Doubt,Loaded_Language,Name_Calling-Labeling
+24102	13	Doubt
+24102	15	Loaded_Language
+24102	17	
+24102	19	Doubt,Loaded_Language,Name_Calling-Labeling
+24102	21	Doubt,Loaded_Language,Name_Calling-Labeling
+24102	23	Doubt,Loaded_Language,Questioning_the_Reputation
+24102	25	Doubt,Loaded_Language,Name_Calling-Labeling
+24102	27	Loaded_Language,Questioning_the_Reputation
+24116	1	
+24116	3	Questioning_the_Reputation
+24116	5	Questioning_the_Reputation
+24116	7	Questioning_the_Reputation
+24116	9	
+24116	11	Questioning_the_Reputation
+24116	13	
+24116	15	Doubt,Loaded_Language
+24116	17	Doubt
+24116	19	Questioning_the_Reputation
+24116	21	Loaded_Language
+24116	23	Questioning_the_Reputation
+24116	25	Loaded_Language
+24116	27	Questioning_the_Reputation
+24117	1	Loaded_Language
+24117	3	
+24117	5	Loaded_Language
+24117	7	
+24117	9	Loaded_Language
+24117	11	Loaded_Language
+24117	13	
+24117	15	Loaded_Language
+2492	1	
+2492	3	Loaded_Language
+2492	4	Loaded_Language
+2492	6	Loaded_Language
+2492	8	Loaded_Language
+2492	10	
+2492	11	
+2492	13	
+2492	14	Loaded_Language
+2492	15	Loaded_Language
+2492	17	
+2479	1	
+2479	3	Name_Calling-Labeling
+2479	5	
+2479	7	Loaded_Language
+2479	10	
+2479	12	Doubt
+2479	14	
+2479	16	Doubt,Questioning_the_Reputation
+2479	18	
+2479	20	Loaded_Language
+2479	22	Loaded_Language
+2479	24	
+2479	26	
+2479	28	Loaded_Language
+2469	1	
+2469	3	
+2469	5	
+2469	7	
+2469	9	
+2469	11	Loaded_Language
+2469	13	Loaded_Language,Name_Calling-Labeling
+2469	15	
+2469	17	
+2469	19	
+2469	21	Loaded_Language,Questioning_the_Reputation
+2455	1	
+2455	3	
+2455	5	
+2455	7	
+2455	9	Loaded_Language
+2455	11	
+2455	13	Doubt,Loaded_Language
+2455	15	
+2455	17	Doubt
+2455	19	
+2455	21	
+2455	23	Loaded_Language
+2455	25	Loaded_Language
+2455	27	
+2455	29	Loaded_Language
+2455	31	
+2455	33	Doubt,Name_Calling-Labeling
+2455	35	Loaded_Language
+2455	37	
+2482	1	
+2482	3	Loaded_Language
+2482	5	Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+2482	7	Doubt
+2482	9	
+2482	11	Loaded_Language
+2482	13	Exaggeration-Minimisation
+2482	15	Doubt
+2482	17	Loaded_Language
+2482	19	Doubt,Loaded_Language
+2482	21	Loaded_Language
+2482	23	Loaded_Language
+2482	25	Doubt,Loaded_Language
+2482	27	Doubt,Loaded_Language
+2482	29	
+2482	31	Loaded_Language
+2482	33	
+2482	35	
+2482	37	
+2482	39	Loaded_Language
+2482	41	Doubt,Loaded_Language
+2482	43	Doubt,Exaggeration-Minimisation,Questioning_the_Reputation
+2482	45	Doubt,Loaded_Language
+2482	47	Loaded_Language
+2482	49	Doubt
+2482	51	Doubt,Loaded_Language
+2482	53	Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+2482	55	Loaded_Language
+2482	57	Doubt
+2482	59	Loaded_Language
+2482	61	Loaded_Language
+2482	63	Loaded_Language,Questioning_the_Reputation
+2482	65	Loaded_Language
+2482	67	
+2482	69	Loaded_Language
+2482	71	
+2482	73	Doubt,Loaded_Language
+2482	75	Loaded_Language
+2482	77	Doubt,Loaded_Language
+2482	79	Loaded_Language
+2482	81	Doubt,Loaded_Language
+2482	83	Loaded_Language
+2482	85	Appeal_to_Hypocrisy,Loaded_Language
+2482	87	
+2482	89	Doubt
+2482	91	
+2482	93	
+2482	95	
+2482	97	
+2496	1	
+2496	3	
+2496	5	Doubt,Loaded_Language
+2496	7	
+2496	9	Doubt,Loaded_Language,Questioning_the_Reputation
+2496	11	
+24112	1	Doubt
+24112	3	Loaded_Language
+24112	5	
+24112	7	Doubt,Exaggeration-Minimisation,Loaded_Language,Questioning_the_Reputation
+24112	9	
+24106	1	
+24106	3	
+24106	5	
+24106	7	Loaded_Language
+24106	9	
+24106	11	Doubt
+2456	1	
+2456	3	Loaded_Language
+2456	5	Loaded_Language
+2456	7	Loaded_Language
+2456	8	
+2456	10	
+2456	12	
+2456	14	Doubt,Loaded_Language
+2456	16	
+2456	18	
+2456	19	
+2456	21	
+2456	23	Loaded_Language
+2456	25	
+2456	27	Loaded_Language
+2456	29	
+2456	31	
+2456	33	
+2456	35	
+2456	37	
+2456	39	
+2456	41	
+2456	42	
+2456	44	
+2456	46	Doubt,Loaded_Language
+2456	48	
+2456	50	
+2456	52	Doubt
+2495	1	Loaded_Language
+2495	3	Loaded_Language
+2495	5	
+2495	7	
+2495	9	Doubt,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+2495	11	
+2495	13	Appeal_to_Hypocrisy,Doubt
+24138	1	
+24138	3	
+24138	5	Loaded_Language
+24138	7	
+24138	9	Loaded_Language
+24138	11	
+24138	13	
+24138	15	
+24138	17	Loaded_Language
+2494	1	Loaded_Language
+2494	3	Loaded_Language
+2494	4	
+2494	5	Loaded_Language
+2494	7	
+2494	9	Doubt
+24176	1	Loaded_Language
+24176	3	
+24176	5	Doubt,Loaded_Language
+24176	7	Doubt
+24176	9	
+24176	11	Loaded_Language,Questioning_the_Reputation
+24162	1	Loaded_Language
+24162	2	Loaded_Language
+24162	4	Loaded_Language
+24162	5	Loaded_Language
+24162	7	
+24162	9	Doubt
+24162	10	
+24189	1	
+24189	3	
+24189	5	
+24189	7	Loaded_Language
+2433	1	
+2433	2	
+2433	4	Doubt
+2433	5	
+2433	7	
+2433	8	
+2433	10	
+2433	12	
+2433	14	Doubt
+2433	16	Loaded_Language
+2433	17	
+2433	19	
+2433	21	Doubt
+2433	23	Doubt
+2433	24	
+2433	26	Doubt
+2433	28	Loaded_Language
+2433	30	Doubt
+2433	32	Doubt
+24160	1	
+24160	3	
+24160	5	Doubt,Exaggeration-Minimisation
+24160	7	
+24160	9	Doubt,Loaded_Language
+24158	1	Loaded_Language
+24158	3	
+24158	5	Loaded_Language
+24158	7	Loaded_Language
+24158	9	
+24158	11	Doubt,Loaded_Language
+24158	13	
+24171	1	
+24171	3	Doubt
+24171	5	Loaded_Language
+24171	7	Loaded_Language
+24171	9	
+24171	11	
+2437	1	
+2437	3	Questioning_the_Reputation
+2437	4	
+2437	6	Questioning_the_Reputation
+2437	7	Loaded_Language
+2437	9	
+2437	11	Loaded_Language
+2423	1	
+2423	3	Loaded_Language
+2423	5	
+2423	7	Doubt,Name_Calling-Labeling
+24166	1	Loaded_Language
+24166	3	Doubt
+24166	4	Doubt,Loaded_Language
+24166	6	Doubt,Loaded_Language
+24166	8	
+24166	9	Doubt,Loaded_Language
+24166	10	Loaded_Language
+24166	12	Loaded_Language
+24166	13	Doubt,Loaded_Language
+24166	14	Doubt,Loaded_Language
+24166	15	Loaded_Language
+24166	17	Loaded_Language
+24166	18	Doubt,Name_Calling-Labeling
+24166	19	Doubt,Loaded_Language,Questioning_the_Reputation

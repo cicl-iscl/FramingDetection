@@ -1,0 +1,25 @@
+2251	1	Name_Calling-Labeling
+2251	3	Appeal_to_Authority
+2251	5	Appeal_to_Popularity,Doubt
+2251	7	
+2251	9	Appeal_to_Authority,Appeal_to_Popularity
+2251	11	
+2251	13	Appeal_to_Fear-Prejudice,Slogans
+2251	15	Appeal_to_Authority,Appeal_to_Fear-Prejudice
+2251	17	Appeal_to_Hypocrisy,Name_Calling-Labeling
+2251	19	Appeal_to_Popularity,Conversation_Killer,Doubt,Obfuscation-Vagueness-Confusion
+2251	21	
+2251	23	Obfuscation-Vagueness-Confusion
+2251	25	Appeal_to_Authority,Conversation_Killer,Name_Calling-Labeling
+2251	27	Doubt
+2251	29	Appeal_to_Hypocrisy,Doubt,Name_Calling-Labeling
+2251	31	Appeal_to_Hypocrisy,Doubt,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+2251	33	Doubt
+2251	35	Doubt,Name_Calling-Labeling
+2251	37	Appeal_to_Authority,Appeal_to_Fear-Prejudice,Appeal_to_Popularity,Name_Calling-Labeling
+2251	39	Appeal_to_Fear-Prejudice
+2251	41	Consequential_Oversimplification
+2251	43	Appeal_to_Fear-Prejudice,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+2251	45	Appeal_to_Authority,Appeal_to_Values
+2251	47	Appeal_to_Hypocrisy,Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling
+2251	49	Appeal_to_Fear-Prejudice,Loaded_Language

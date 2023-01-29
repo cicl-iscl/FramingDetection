@@ -1,0 +1,24 @@
+780787440	1	
+780787440	3	
+780787440	4	Loaded_Language
+780787440	5	Loaded_Language
+780787440	6	Name_Calling-Labeling
+780787440	7	
+780787440	8	Appeal_to_Fear-Prejudice,Loaded_Language
+780787440	9	
+780787440	10	
+780787440	11	Doubt
+780787440	12	Loaded_Language
+780787440	13	Doubt,Loaded_Language
+780787440	14	Exaggeration-Minimisation
+780787440	15	
+780787440	16	Doubt
+780787440	17	Doubt
+780787440	18	
+780787440	19	Loaded_Language
+780787440	20	Appeal_to_Authority,Doubt
+780787440	21	Appeal_to_Authority,Doubt,Loaded_Language
+780787440	22	
+780787440	23	
+780787440	24	
+780787440	25	

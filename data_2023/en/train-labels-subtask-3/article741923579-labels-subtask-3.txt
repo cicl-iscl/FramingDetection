@@ -1,0 +1,13 @@
+741923579	1	
+741923579	3	
+741923579	4	
+741923579	5	
+741923579	6	
+741923579	7	
+741923579	8	
+741923579	9	Causal_Oversimplification,Loaded_Language
+741923579	10	Appeal_to_Fear-Prejudice
+741923579	11	Causal_Oversimplification,Doubt,Guilt_by_Association
+741923579	12	Guilt_by_Association,Loaded_Language,Slogans
+741923579	13	Loaded_Language
+741923579	14	

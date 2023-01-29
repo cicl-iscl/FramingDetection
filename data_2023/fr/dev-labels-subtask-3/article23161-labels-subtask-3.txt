@@ -1,0 +1,9 @@
+23161	1	Slogans
+23161	3	Appeal_to_Values,Conversation_Killer,Loaded_Language
+23161	5	Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation,Straw_Man
+23161	7	Appeal_to_Values
+23161	9	Appeal_to_Values,Causal_Oversimplification,Conversation_Killer,Loaded_Language,Questioning_the_Reputation
+23161	11	Doubt,Loaded_Language,Questioning_the_Reputation
+23161	13	Doubt,Guilt_by_Association,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+23161	15	Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+23161	17	Conversation_Killer,False_Dilemma-No_Choice,Loaded_Language,Name_Calling-Labeling,Red_Herring

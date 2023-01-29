@@ -1,0 +1,3 @@
+24184	Loaded_Language	602	630
+24184	Appeal_to_Values	241	328
+24184	Loaded_Language	285	328

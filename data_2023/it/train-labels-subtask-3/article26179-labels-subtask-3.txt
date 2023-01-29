@@ -1,0 +1,19 @@
+26179	1	Questioning_the_Reputation
+26179	3	
+26179	5	Doubt,Loaded_Language,Red_Herring
+26179	7	Appeal_to_Fear-Prejudice,Doubt,Loaded_Language
+26179	9	Loaded_Language
+26179	11	Doubt,Questioning_the_Reputation
+26179	13	Doubt,Loaded_Language,Questioning_the_Reputation
+26179	15	Doubt,Loaded_Language
+26179	17	Appeal_to_Fear-Prejudice,Doubt
+26179	19	Doubt,Guilt_by_Association,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+26179	21	Conversation_Killer,Doubt,Loaded_Language
+26179	23	Doubt,Exaggeration-Minimisation
+26179	25	Doubt,Loaded_Language,Questioning_the_Reputation
+26179	27	Doubt,Loaded_Language,Questioning_the_Reputation
+26179	29	
+26179	31	Doubt
+26179	33	Appeal_to_Fear-Prejudice,Appeal_to_Time,Doubt,Guilt_by_Association
+26179	35	
+26179	37	

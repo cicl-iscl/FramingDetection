@@ -1,0 +1,5 @@
+25161	Appeal_to_Hypocrisy	0	82
+25161	Appeal_to_Hypocrisy	987	1226
+25161	Exaggeration-Minimisation	863	984
+25161	Doubt	717	839
+25161	Appeal_to_Hypocrisy	84	190

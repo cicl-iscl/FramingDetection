@@ -1,0 +1,11 @@
+2336	1	
+2336	3	Conversation_Killer
+2336	5	Appeal_to_Values,Exaggeration-Minimisation
+2336	7	
+2336	9	
+2336	11	Loaded_Language
+2336	13	False_Dilemma-No_Choice,Obfuscation-Vagueness-Confusion
+2336	15	Obfuscation-Vagueness-Confusion
+2336	17	Appeal_to_Fear-Prejudice,Exaggeration-Minimisation,Obfuscation-Vagueness-Confusion
+2336	19	Exaggeration-Minimisation
+2336	21	Appeal_to_Popularity,Guilt_by_Association,Loaded_Language

@@ -1,0 +1,14 @@
+23171	1	Loaded_Language
+23171	3	Causal_Oversimplification,Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling
+23171	5	Doubt,Exaggeration-Minimisation,Loaded_Language
+23171	7	
+23171	9	Causal_Oversimplification,Guilt_by_Association,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+23171	11	Causal_Oversimplification
+23171	13	Loaded_Language
+23171	15	
+23171	17	
+23171	19	Exaggeration-Minimisation,Loaded_Language
+23171	21	Appeal_to_Authority,Loaded_Language,Straw_Man
+23171	23	Appeal_to_Authority,Doubt,Loaded_Language,Obfuscation-Vagueness-Confusion,Questioning_the_Reputation
+23171	25	Loaded_Language
+23171	27	Consequential_Oversimplification,Loaded_Language,Name_Calling-Labeling

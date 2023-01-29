@@ -1,0 +1,4 @@
+255	1	Loaded_Language,Questioning_the_Reputation
+255	3	Appeal_to_Authority,Appeal_to_Hypocrisy,Exaggeration-Minimisation,Guilt_by_Association,Loaded_Language,Whataboutism
+255	4	
+255	5	

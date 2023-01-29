@@ -1,0 +1,9 @@
+708071969	1	Appeal_to_Fear-Prejudice,Loaded_Language,Name_Calling-Labeling
+708071969	3	Appeal_to_Authority,Causal_Oversimplification,Loaded_Language
+708071969	4	Name_Calling-Labeling
+708071969	5	
+708071969	6	Appeal_to_Fear-Prejudice,Causal_Oversimplification
+708071969	7	Repetition
+708071969	8	
+708071969	9	Appeal_to_Fear-Prejudice,Name_Calling-Labeling,Repetition
+708071969	10	Appeal_to_Fear-Prejudice

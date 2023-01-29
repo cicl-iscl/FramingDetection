@@ -1,0 +1,12 @@
+789121265	1	
+789121265	3	Appeal_to_Hypocrisy
+789121265	4	Name_Calling-Labeling
+789121265	5	
+789121265	6	
+789121265	7	
+789121265	8	
+789121265	9	
+789121265	10	Exaggeration-Minimisation,Loaded_Language
+789121265	11	
+789121265	12	Appeal_to_Hypocrisy,Doubt,Exaggeration-Minimisation,Loaded_Language,Repetition
+789121265	13	

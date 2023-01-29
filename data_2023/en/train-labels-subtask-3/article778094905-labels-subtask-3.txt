@@ -1,0 +1,17 @@
+778094905	1	
+778094905	3	Loaded_Language
+778094905	4	
+778094905	5	
+778094905	6	
+778094905	7	
+778094905	8	
+778094905	9	
+778094905	10	Name_Calling-Labeling
+778094905	11	
+778094905	12	
+778094905	13	
+778094905	14	
+778094905	15	
+778094905	16	Flag_Waving,Loaded_Language
+778094905	17	Doubt,Flag_Waving,Whataboutism
+778094905	18	Appeal_to_Fear-Prejudice,Loaded_Language,Name_Calling-Labeling

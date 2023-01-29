@@ -1,0 +1,25 @@
+2546	1	Conversation_Killer,Name_Calling-Labeling
+2546	3	
+2546	5	Loaded_Language
+2546	7	
+2546	9	Appeal_to_Fear-Prejudice,Conversation_Killer,Name_Calling-Labeling
+2546	11	
+2546	13	Appeal_to_Fear-Prejudice
+2546	15	
+2546	17	
+2546	19	
+2546	21	Appeal_to_Authority
+2546	23	
+2546	25	Consequential_Oversimplification
+2546	27	
+2546	29	Appeal_to_Values
+2546	31	
+2546	33	
+2546	35	
+2546	37	
+2546	39	Flag_Waving
+2546	41	Flag_Waving
+2546	43	
+2546	45	
+2546	47	
+2546	49	Doubt,Name_Calling-Labeling

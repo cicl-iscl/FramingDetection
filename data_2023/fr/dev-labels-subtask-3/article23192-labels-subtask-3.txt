@@ -1,0 +1,5 @@
+23192	1	Consequential_Oversimplification
+23192	3	
+23192	5	Causal_Oversimplification,Conversation_Killer,Exaggeration-Minimisation
+23192	7	Appeal_to_Fear-Prejudice,Exaggeration-Minimisation,Guilt_by_Association,Loaded_Language,Repetition
+23192	9	Appeal_to_Authority,Consequential_Oversimplification,Exaggeration-Minimisation,Obfuscation-Vagueness-Confusion

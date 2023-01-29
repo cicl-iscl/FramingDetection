@@ -1,0 +1,10 @@
+22100	1	Slogans
+22100	3	Name_Calling-Labeling,Questioning_the_Reputation
+22100	5	Doubt,Exaggeration-Minimisation,Loaded_Language
+22100	7	Loaded_Language,Name_Calling-Labeling
+22100	9	Appeal_to_Popularity
+22100	11	Appeal_to_Values,Loaded_Language,Questioning_the_Reputation,Slogans
+22100	13	Name_Calling-Labeling
+22100	15	
+22100	17	Appeal_to_Fear-Prejudice,Appeal_to_Values
+22100	19	

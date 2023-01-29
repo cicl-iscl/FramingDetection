@@ -1,0 +1,5 @@
+24173	Slogans	682	703
+24173	Loaded_Language	223	240
+24173	Name_Calling-Labeling	549	574
+24173	Loaded_Language	0	21
+24173	Questioning_the_Reputation	159	240

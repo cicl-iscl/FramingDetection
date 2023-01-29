@@ -1,0 +1,31 @@
+787085939	1	Exaggeration-Minimisation,Loaded_Language,Repetition
+787085939	3	Exaggeration-Minimisation,Repetition
+787085939	4	
+787085939	5	Doubt,Loaded_Language
+787085939	6	
+787085939	7	
+787085939	8	
+787085939	9	
+787085939	10	
+787085939	11	Repetition
+787085939	12	Loaded_Language
+787085939	13	Loaded_Language,Name_Calling-Labeling,Repetition
+787085939	14	
+787085939	15	Loaded_Language,Name_Calling-Labeling,Repetition
+787085939	16	Repetition
+787085939	17	
+787085939	18	
+787085939	19	
+787085939	20	
+787085939	21	Loaded_Language,Repetition
+787085939	22	
+787085939	23	
+787085939	24	Loaded_Language
+787085939	25	
+787085939	26	
+787085939	27	
+787085939	28	
+787085939	29	Loaded_Language,Name_Calling-Labeling,Repetition
+787085939	30	Name_Calling-Labeling,Repetition
+787085939	31	Repetition
+787085939	32	

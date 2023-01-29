@@ -1,0 +1,7 @@
+2429	Flag_Waving	835	874
+2429	Appeal_to_Values	275	316
+2429	Conversation_Killer	602	629
+2429	Appeal_to_Time	112	144
+2429	Appeal_to_Time	112	179
+2429	Guilt_by_Association	63	109
+2429	Guilt_by_Association	39	58

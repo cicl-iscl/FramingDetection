@@ -1,0 +1,8 @@
+248	1	Name_Calling-Labeling
+248	3	Loaded_Language,Name_Calling-Labeling
+248	5	Appeal_to_Values,Loaded_Language,Slogans
+248	7	
+248	9	
+248	11	
+248	13	Repetition
+248	15	Loaded_Language,Name_Calling-Labeling

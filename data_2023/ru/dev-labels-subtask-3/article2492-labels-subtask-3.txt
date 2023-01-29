@@ -1,0 +1,11 @@
+2492	1	Questioning_the_Reputation
+2492	3	Doubt
+2492	4	
+2492	6	Doubt,Name_Calling-Labeling,Repetition
+2492	8	
+2492	10	Doubt,Name_Calling-Labeling
+2492	11	Doubt
+2492	13	Doubt,Loaded_Language
+2492	14	Doubt
+2492	15	
+2492	17	

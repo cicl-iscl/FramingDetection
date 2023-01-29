@@ -1,0 +1,6 @@
+24135	1	Loaded_Language
+24135	3	Exaggeration-Minimisation,Loaded_Language,Obfuscation-Vagueness-Confusion
+24135	5	
+24135	7	Flag_Waving
+24135	9	Flag_Waving,Loaded_Language,Obfuscation-Vagueness-Confusion
+24135	11	Slogans

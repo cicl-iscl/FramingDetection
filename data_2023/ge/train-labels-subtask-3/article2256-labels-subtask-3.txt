@@ -1,0 +1,19 @@
+2256	1	Name_Calling-Labeling
+2256	3	Name_Calling-Labeling
+2256	5	
+2256	7	Flag_Waving,Questioning_the_Reputation
+2256	9	Doubt
+2256	11	Flag_Waving,Slogans
+2256	13	Name_Calling-Labeling
+2256	15	Appeal_to_Hypocrisy
+2256	17	
+2256	19	Appeal_to_Authority,Doubt,Name_Calling-Labeling
+2256	20	
+2256	22	
+2256	24	Name_Calling-Labeling
+2256	26	Loaded_Language,Name_Calling-Labeling
+2256	28	Appeal_to_Authority,Appeal_to_Time,Appeal_to_Values,Consequential_Oversimplification
+2256	30	False_Dilemma-No_Choice,Name_Calling-Labeling,Red_Herring
+2256	31	
+2256	33	Appeal_to_Authority,Appeal_to_Fear-Prejudice,Appeal_to_Popularity,Name_Calling-Labeling
+2256	35	Questioning_the_Reputation

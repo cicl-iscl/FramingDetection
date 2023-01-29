@@ -1,0 +1,9 @@
+23128	1	Obfuscation-Vagueness-Confusion
+23128	3	
+23128	5	
+23128	7	Obfuscation-Vagueness-Confusion
+23128	9	Doubt
+23128	11	
+23128	13	
+23128	15	Loaded_Language,Questioning_the_Reputation
+23128	17	

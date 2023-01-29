@@ -1,0 +1,26 @@
+788726416	1	Name_Calling-Labeling
+788726416	3	Loaded_Language,Name_Calling-Labeling
+788726416	4	Name_Calling-Labeling,Repetition
+788726416	5	
+788726416	6	Flag_Waving,Name_Calling-Labeling
+788726416	7	Loaded_Language
+788726416	8	Flag_Waving
+788726416	9	
+788726416	10	
+788726416	11	
+788726416	12	
+788726416	13	Name_Calling-Labeling
+788726416	14	
+788726416	15	
+788726416	16	
+788726416	17	
+788726416	18	
+788726416	19	Name_Calling-Labeling
+788726416	20	Name_Calling-Labeling
+788726416	21	
+788726416	22	Loaded_Language
+788726416	23	
+788726416	24	Loaded_Language
+788726416	25	
+788726416	26	Name_Calling-Labeling
+788726416	27	

@@ -1,0 +1,4 @@
+2595	Appeal_to_Fear-Prejudice	1074	1211
+2595	Doubt	1545	1573
+2595	Appeal_to_Fear-Prejudice	2405	2526
+2595	Appeal_to_Fear-Prejudice	2529	2756

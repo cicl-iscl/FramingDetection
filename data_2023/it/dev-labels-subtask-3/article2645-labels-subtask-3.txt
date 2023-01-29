@@ -1,0 +1,8 @@
+2645	1	
+2645	3	Doubt,Name_Calling-Labeling
+2645	5	Appeal_to_Values,Doubt,Loaded_Language,Name_Calling-Labeling
+2645	6	Doubt
+2645	8	Slogans
+2645	10	Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+2645	12	Appeal_to_Values,Straw_Man
+2645	14	Doubt

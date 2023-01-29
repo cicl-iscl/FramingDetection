@@ -1,0 +1,5 @@
+22188	1	Name_Calling-Labeling,Obfuscation-Vagueness-Confusion
+22188	3	Exaggeration-Minimisation,Name_Calling-Labeling
+22188	5	Obfuscation-Vagueness-Confusion
+22188	7	Appeal_to_Hypocrisy
+22188	9	Name_Calling-Labeling

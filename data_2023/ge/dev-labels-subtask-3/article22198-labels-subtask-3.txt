@@ -1,0 +1,9 @@
+22198	1	Doubt,Obfuscation-Vagueness-Confusion
+22198	3	Doubt,Obfuscation-Vagueness-Confusion
+22198	5	Doubt
+22198	7	Doubt
+22198	9	Obfuscation-Vagueness-Confusion
+22198	11	
+22198	13	
+22198	15	Name_Calling-Labeling
+22198	17	Obfuscation-Vagueness-Confusion

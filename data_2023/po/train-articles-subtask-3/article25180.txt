@@ -1,0 +1,31 @@
+Odkryto "słaby punkt" głównych wariantów koronawirusa
+
+Naukowcy odkryli ważną lukę we wszystkich głównych wariantach wirusa SARS-CoV-2, w tym niedawno powstałych podwariantach Omikronu. "Teraz, gdy zdołaliśmy szczegółowo opisać ich strukturę, otworzyły się przed nami zupełnie nowe możliwości leczenia" - twierdzą badacze. W publikacji wyjaśniają też, dlaczego terapia przeciwciałami dla COVID-19 nie była skuteczna w kluczowych momentach.
+
+Wykrytą słabość mogłyby potencjalnie wykorzystywać przeciwciała neutralizujące, torując drogę terapiom, które byłyby skuteczne wobec wszystkich wariantów koronawirusa - podkreślają badacze z University of British Columbia.
+
+Zespół kierowany przez dr. Srirama Subramaniama wykorzystał mikroskopię krioelektronową (cryo-EM) do ujawnienia na poziomie atomowym struktury wrażliwego miejsca na białku kolca wirusa. Fragment ten określa się mianem epitopu. Jednocześnie naukowcy opisali przeciwciało VH Ab6, którego fragment jest zdolny do przyłączenia się do epitopu wirusa i jego całkowitej neutralizacji.
+
+
+"Wirus szybko się przystosowuje"
+
+- SARS-CoV-2 to wysoce przystosowujący się wirus, który w procesie ewolucji nauczył się unikać większości istniejących terapii przeciwciałami, a także dużej części odporności zapewnianej przez szczepionki i naturalną infekcję - mówi dr Subramaniam. - Nasze badanie ujawnia jego słaby punkt, który jest w dużej mierze niezmieniony we wszystkich wariantach i może zostać łatwo zneutralizowany przez fragment przeciwciała.
+
+- To dobry grunt pod projektowanie różnorodnych terapii i zabiegów, które mogą potencjalnie pomóc wielu zagrożonym osobom - podkreśla.
+
+Przeciwciała to cząsteczki naturalnie wytwarzane przez nasz organizm w celu zwalczania infekcji, ale można je również produkować w laboratorium i później podawać pacjentom. Chociaż opracowano już kilka terapii przeciwciałami dla COVID-19, ich skuteczność zawsze mocno spadała w obliczu nowych, wysoce zmutowanych wariantów, takich jak Omikron.
+
+Jak działają przeciwciała?
+
+- Przeciwciała przyczepiają się do wirusa w bardzo specyficzny sposób; pasują do niego jak klucz do zamka. Czyli kiedy wirus mutuje, klucz już nie pasuje - tłumaczy Subramaniam. - Szukaliśmy więc kluczy uniwersalnych. Takich przeciwciał, które neutralizują wirusa nawet po rozległych mutacjach.
+
+Takim uniwersalnym kluczem zidentyfikowanym w opisywanym badaniu okazał się fragment przeciwciała VH Ab6. Eksperymenty potwierdziły jego skuteczność przeciwko wariantom Alfa, Beta, Gamma, Delta, Kappa, Epsilon i Omikron. Fragment neutralizuje SARS-CoV-2 poprzez przyłączanie się do epitopu na białku kolca i blokowanie wirusa przed wnikaniem do ludzkich komórek.
+
+- Epitop, który opisujemy w tej publikacji, nie jest objęty tzw. gorącymi punktami mutacji, dlatego jest zachowany w bardzo podobnej lub niezmienionej formie w różnych wariantach - mówi autor badania. - Teraz, gdy zdołaliśmy szczegółowo opisać jego strukturę, otworzyły się przed nami zupełnie nowe możliwości leczenia.
+
+Zdaniem dr. Subramaniama ta swoista "pieta achillesowa" wirusa może być wykorzystana przez producentów leków nie tylko do tworzenia skutecznych środków przeciwko aktualnie dominującym wariantom, ale także tym, które pojawią się za jakiś czas.
+
+- Uzyskaliśmy pełny obraz tego wrażliwego miejsca. Znamy każdą interakcję, w jaką białko kolca może wchodzić z przeciwciałem w tym właśnie regionie. Możemy więc opracować mnóstwo różnych terapii przeciwciałami - podsumowuje Subramaniam. 
+
+- A posiadanie szeroko skutecznych, działających na różne warianty leków, całkowicie zmieniłoby zasady gry w trwającej pandemii - zapowiada.
+

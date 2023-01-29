@@ -1,0 +1,13 @@
+2313	1	Conversation_Killer
+2313	3	Appeal_to_Fear-Prejudice,Conversation_Killer
+2313	5	Loaded_Language
+2313	7	Appeal_to_Fear-Prejudice
+2313	9	Appeal_to_Fear-Prejudice,Conversation_Killer,Flag_Waving
+2313	11	Conversation_Killer
+2313	13	
+2313	15	Conversation_Killer
+2313	17	Loaded_Language
+2313	19	
+2313	21	
+2313	23	Appeal_to_Fear-Prejudice
+2313	25	

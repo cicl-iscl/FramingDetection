@@ -1,0 +1,5 @@
+2574	Doubt	1817	1932
+2574	Conversation_Killer	1985	2091
+2574	Conversation_Killer	2094	2117
+2574	Appeal_to_Popularity	1692	1814
+2574	Doubt	1032	1174

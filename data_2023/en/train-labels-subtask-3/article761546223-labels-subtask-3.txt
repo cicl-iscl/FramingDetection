@@ -1,0 +1,18 @@
+761546223	1	Loaded_Language
+761546223	3	Appeal_to_Fear-Prejudice,Loaded_Language,Name_Calling-Labeling,Repetition,Slogans
+761546223	4	Repetition
+761546223	5	Repetition
+761546223	6	
+761546223	7	
+761546223	8	
+761546223	9	
+761546223	10	
+761546223	11	Loaded_Language,Repetition
+761546223	12	
+761546223	13	Repetition
+761546223	14	Repetition
+761546223	15	Loaded_Language,Repetition
+761546223	16	
+761546223	17	Repetition
+761546223	18	Repetition
+761546223	19	

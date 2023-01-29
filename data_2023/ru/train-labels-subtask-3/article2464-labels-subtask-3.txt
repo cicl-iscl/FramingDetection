@@ -1,0 +1,7 @@
+2464	1	Appeal_to_Fear-Prejudice
+2464	3	Appeal_to_Fear-Prejudice
+2464	5	Appeal_to_Fear-Prejudice
+2464	7	
+2464	9	Appeal_to_Fear-Prejudice
+2464	11	Causal_Oversimplification
+2464	13	

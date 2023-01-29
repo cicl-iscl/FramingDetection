@@ -1,0 +1,19 @@
+22141	1	Doubt,Questioning_the_Reputation
+22141	3	Doubt,Questioning_the_Reputation
+22141	5	Appeal_to_Authority,Appeal_to_Popularity
+22141	7	
+22141	9	Appeal_to_Authority
+22141	11	
+22141	13	Appeal_to_Authority
+22141	15	
+22141	17	
+22141	19	Causal_Oversimplification
+22141	21	Appeal_to_Authority,Consequential_Oversimplification
+22141	23	Doubt
+22141	25	Appeal_to_Fear-Prejudice,Doubt
+22141	27	Doubt,Guilt_by_Association,Name_Calling-Labeling
+22141	29	Appeal_to_Authority,Appeal_to_Fear-Prejudice,Consequential_Oversimplification,Name_Calling-Labeling,Questioning_the_Reputation
+22141	31	Causal_Oversimplification
+22141	33	Name_Calling-Labeling,Red_Herring
+22141	35	Appeal_to_Authority,Exaggeration-Minimisation
+22141	37	False_Dilemma-No_Choice,Guilt_by_Association

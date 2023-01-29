@@ -1,0 +1,17 @@
+23129	1	Obfuscation-Vagueness-Confusion
+23129	3	
+23129	5	
+23129	7	
+23129	9	Conversation_Killer,False_Dilemma-No_Choice,Loaded_Language,Obfuscation-Vagueness-Confusion
+23129	11	
+23129	13	
+23129	15	
+23129	17	
+23129	19	Appeal_to_Popularity,Loaded_Language,Questioning_the_Reputation,Slogans
+23129	21	Loaded_Language,Obfuscation-Vagueness-Confusion,Questioning_the_Reputation,Straw_Man
+23129	23	Appeal_to_Hypocrisy,Loaded_Language,Straw_Man
+23129	25	Appeal_to_Popularity,Causal_Oversimplification,Conversation_Killer,Doubt,Exaggeration-Minimisation,Loaded_Language
+23129	27	Loaded_Language
+23129	29	Doubt,Loaded_Language
+23129	31	
+23129	33	Appeal_to_Hypocrisy,Doubt,Name_Calling-Labeling

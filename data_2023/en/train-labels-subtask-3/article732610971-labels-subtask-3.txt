@@ -1,0 +1,16 @@
+732610971	1	
+732610971	3	Repetition
+732610971	4	Flag_Waving,Slogans
+732610971	5	Appeal_to_Fear-Prejudice
+732610971	6	
+732610971	7	Flag_Waving
+732610971	8	Flag_Waving
+732610971	9	Flag_Waving
+732610971	10	Name_Calling-Labeling,Repetition
+732610971	11	Slogans
+732610971	12	Loaded_Language,Name_Calling-Labeling
+732610971	13	
+732610971	14	Guilt_by_Association
+732610971	15	
+732610971	16	
+732610971	17	False_Dilemma-No_Choice

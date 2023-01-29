@@ -1,0 +1,14 @@
+24128	1	Questioning_the_Reputation
+24128	3	Doubt,Questioning_the_Reputation
+24128	5	Doubt
+24128	7	Questioning_the_Reputation
+24128	9	Flag_Waving
+24128	11	
+24128	13	Doubt,Loaded_Language
+24128	15	Appeal_to_Values,Doubt,Loaded_Language
+24128	17	Doubt,Repetition
+24128	19	
+24128	21	Doubt
+24128	23	Loaded_Language
+24128	25	Doubt
+24128	27	Exaggeration-Minimisation

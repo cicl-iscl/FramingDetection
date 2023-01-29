@@ -1,0 +1,6 @@
+22168	1	Questioning_the_Reputation
+22168	3	Name_Calling-Labeling,Questioning_the_Reputation
+22168	5	Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling
+22168	7	Exaggeration-Minimisation,Questioning_the_Reputation
+22168	9	Doubt,Exaggeration-Minimisation,Name_Calling-Labeling
+22168	11	Questioning_the_Reputation

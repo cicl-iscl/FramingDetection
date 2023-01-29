@@ -1,0 +1,15 @@
+25117	1	
+25117	3	Name_Calling-Labeling
+25117	5	
+25117	7	Name_Calling-Labeling
+25117	9	Name_Calling-Labeling
+25117	10	
+25117	12	Name_Calling-Labeling
+25117	13	Name_Calling-Labeling
+25117	15	
+25117	17	Name_Calling-Labeling
+25117	19	
+25117	20	
+25117	22	
+25117	24	
+25117	25	Flag_Waving

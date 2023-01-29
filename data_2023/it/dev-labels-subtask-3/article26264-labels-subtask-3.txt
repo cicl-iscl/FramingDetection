@@ -1,0 +1,9 @@
+26264	1	Appeal_to_Fear-Prejudice
+26264	3	
+26264	5	
+26264	7	
+26264	9	
+26264	11	Appeal_to_Fear-Prejudice,Loaded_Language
+26264	13	
+26264	15	Exaggeration-Minimisation
+26264	17	Appeal_to_Fear-Prejudice,Doubt

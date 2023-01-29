@@ -1,0 +1,6 @@
+2395	1	Appeal_to_Fear-Prejudice
+2395	3	Appeal_to_Fear-Prejudice,Appeal_to_Hypocrisy,Appeal_to_Popularity
+2395	5	Appeal_to_Hypocrisy,Appeal_to_Popularity,Flag_Waving,Loaded_Language,Name_Calling-Labeling,Slogans
+2395	6	False_Dilemma-No_Choice
+2395	8	Appeal_to_Values,Causal_Oversimplification,Exaggeration-Minimisation,Name_Calling-Labeling,Red_Herring
+2395	10	Slogans

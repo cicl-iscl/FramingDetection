@@ -1,0 +1,6 @@
+2634	1	Loaded_Language
+2634	3	
+2634	5	Conversation_Killer,Doubt,Loaded_Language,Name_Calling-Labeling
+2634	7	Appeal_to_Hypocrisy,Doubt,Loaded_Language,Name_Calling-Labeling
+2634	9	Appeal_to_Fear-Prejudice,Doubt,Exaggeration-Minimisation,Flag_Waving,Name_Calling-Labeling
+2634	11	Loaded_Language,Questioning_the_Reputation

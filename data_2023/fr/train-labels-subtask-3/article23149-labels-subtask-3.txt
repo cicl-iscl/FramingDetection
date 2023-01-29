@@ -1,0 +1,14 @@
+23149	1	
+23149	3	Loaded_Language,Questioning_the_Reputation
+23149	5	Appeal_to_Hypocrisy,Appeal_to_Time
+23149	7	Loaded_Language
+23149	9	Loaded_Language
+23149	11	
+23149	13	Appeal_to_Hypocrisy,Loaded_Language
+23149	15	Appeal_to_Hypocrisy,Appeal_to_Values,Conversation_Killer,Name_Calling-Labeling
+23149	17	Exaggeration-Minimisation,Loaded_Language
+23149	19	Appeal_to_Hypocrisy,Loaded_Language
+23149	21	
+23149	23	Doubt,Guilt_by_Association
+23149	25	Appeal_to_Popularity,Appeal_to_Values
+23149	27	Loaded_Language

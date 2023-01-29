@@ -1,0 +1,21 @@
+25183	1	
+25183	3	Appeal_to_Authority,Appeal_to_Hypocrisy,Name_Calling-Labeling
+25183	5	Appeal_to_Hypocrisy
+25183	8	Name_Calling-Labeling
+25183	10	Name_Calling-Labeling
+25183	12	
+25183	14	Name_Calling-Labeling
+25183	16	
+25183	18	Appeal_to_Authority,Name_Calling-Labeling
+25183	20	Appeal_to_Authority,Name_Calling-Labeling
+25183	22	Appeal_to_Authority,Name_Calling-Labeling,Questioning_the_Reputation
+25183	24	Doubt
+25183	26	Name_Calling-Labeling
+25183	28	Name_Calling-Labeling
+25183	30	Name_Calling-Labeling
+25183	32	
+25183	34	
+25183	36	Name_Calling-Labeling
+25183	38	Conversation_Killer,Doubt,Exaggeration-Minimisation
+25183	40	
+25183	42	

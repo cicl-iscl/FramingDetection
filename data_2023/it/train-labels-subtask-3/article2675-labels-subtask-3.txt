@@ -1,0 +1,8 @@
+2675	1	
+2675	3	Appeal_to_Fear-Prejudice,Doubt,Loaded_Language,Name_Calling-Labeling
+2675	5	Questioning_the_Reputation
+2675	7	Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation,Straw_Man
+2675	9	Conversation_Killer,Name_Calling-Labeling
+2675	11	
+2675	13	Appeal_to_Fear-Prejudice,Appeal_to_Popularity,Name_Calling-Labeling
+2675	15	

@@ -1,0 +1,36 @@
+26207	1	
+26207	3	
+26207	5	
+26207	7	
+26207	9	Doubt
+26207	11	Appeal_to_Fear-Prejudice,Doubt
+26207	13	Doubt
+26207	15	
+26207	17	
+26207	19	
+26207	21	Loaded_Language
+26207	23	
+26207	25	
+26207	27	
+26207	29	
+26207	31	
+26207	33	
+26207	35	
+26207	37	
+26207	39	
+26207	41	Questioning_the_Reputation
+26207	43	
+26207	45	
+26207	47	
+26207	49	Doubt,Loaded_Language
+26207	51	Doubt,Questioning_the_Reputation
+26207	53	
+26207	55	
+26207	57	
+26207	59	Doubt
+26207	61	
+26207	63	
+26207	65	
+26207	67	Doubt
+26207	69	Appeal_to_Fear-Prejudice
+26207	71	Doubt

@@ -1,0 +1,32 @@
+25177	1	Name_Calling-Labeling
+25177	3	
+25177	5	Exaggeration-Minimisation,Guilt_by_Association
+25177	7	Guilt_by_Association
+25177	9	Guilt_by_Association
+25177	11	Guilt_by_Association
+25177	13	
+25177	15	
+25177	17	Name_Calling-Labeling
+25177	19	Appeal_to_Values
+25177	21	
+25177	23	Appeal_to_Hypocrisy,Guilt_by_Association
+25177	25	
+25177	27	Loaded_Language,Name_Calling-Labeling
+25177	29	Loaded_Language,Name_Calling-Labeling,Slogans
+25177	31	Name_Calling-Labeling
+25177	33	
+25177	35	Appeal_to_Values,Flag_Waving
+25177	37	
+25177	39	
+25177	41	Guilt_by_Association
+25177	43	
+25177	45	Appeal_to_Values,Red_Herring
+25177	47	Flag_Waving,Guilt_by_Association
+25177	49	Consequential_Oversimplification
+25177	51	Appeal_to_Values
+25177	53	
+25177	55	
+25177	57	
+25177	59	
+25177	61	
+25177	63	

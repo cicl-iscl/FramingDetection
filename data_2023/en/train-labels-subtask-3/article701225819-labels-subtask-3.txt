@@ -1,0 +1,19 @@
+701225819	1	
+701225819	3	Appeal_to_Fear-Prejudice,Loaded_Language,Name_Calling-Labeling
+701225819	4	
+701225819	5	Appeal_to_Fear-Prejudice,Name_Calling-Labeling
+701225819	6	
+701225819	7	Appeal_to_Fear-Prejudice,Loaded_Language,Name_Calling-Labeling
+701225819	8	Loaded_Language,Name_Calling-Labeling,Slogans
+701225819	9	Loaded_Language
+701225819	10	
+701225819	11	Name_Calling-Labeling,Repetition
+701225819	12	Loaded_Language
+701225819	13	Loaded_Language,Name_Calling-Labeling,Slogans
+701225819	14	Name_Calling-Labeling
+701225819	15	Name_Calling-Labeling
+701225819	16	
+701225819	17	
+701225819	18	Loaded_Language
+701225819	19	Loaded_Language
+701225819	20	

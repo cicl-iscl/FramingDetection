@@ -1,0 +1,7 @@
+2437	1	Appeal_to_Hypocrisy,Straw_Man
+2437	3	Doubt,Straw_Man
+2437	4	
+2437	6	
+2437	7	Repetition
+2437	9	Repetition
+2437	11	Doubt,Loaded_Language,Questioning_the_Reputation,Repetition

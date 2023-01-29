@@ -1,0 +1,14 @@
+699478811	1	
+699478811	3	Appeal_to_Fear-Prejudice,Loaded_Language
+699478811	4	
+699478811	5	Appeal_to_Fear-Prejudice
+699478811	6	Appeal_to_Fear-Prejudice
+699478811	7	Appeal_to_Fear-Prejudice
+699478811	8	
+699478811	9	Appeal_to_Fear-Prejudice,Loaded_Language,Repetition
+699478811	10	
+699478811	11	Appeal_to_Fear-Prejudice,Guilt_by_Association
+699478811	12	Loaded_Language
+699478811	13	Causal_Oversimplification,Conversation_Killer,Loaded_Language
+699478811	14	Appeal_to_Fear-Prejudice
+699478811	15	Loaded_Language

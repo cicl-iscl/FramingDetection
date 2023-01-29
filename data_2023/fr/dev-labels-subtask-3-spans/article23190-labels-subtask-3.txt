@@ -1,0 +1,7 @@
+23190	Appeal_to_Fear-Prejudice	0	436
+23190	Appeal_to_Fear-Prejudice	118	211
+23190	Loaded_Language	587	622
+23190	Consequential_Oversimplification	1102	1313
+23190	Exaggeration-Minimisation	131	211
+23190	Doubt	378	436
+23190	Doubt	437	526

@@ -1,0 +1,11 @@
+26260	1	Doubt,Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling
+26260	3	
+26260	5	Name_Calling-Labeling
+26260	7	Doubt
+26260	9	Name_Calling-Labeling
+26260	11	Doubt,Loaded_Language
+26260	13	
+26260	15	Questioning_the_Reputation
+26260	17	
+26260	19	
+26260	21	Loaded_Language

@@ -1,0 +1,17 @@
+26254	1	
+26254	3	Doubt
+26254	5	
+26254	7	
+26254	9	
+26254	11	Doubt,Questioning_the_Reputation
+26254	13	Doubt,Questioning_the_Reputation
+26254	15	Conversation_Killer
+26254	17	
+26254	19	
+26254	21	
+26254	23	
+26254	25	Appeal_to_Fear-Prejudice,Appeal_to_Popularity,Conversation_Killer,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation,Red_Herring
+26254	27	Loaded_Language,Obfuscation-Vagueness-Confusion,Questioning_the_Reputation
+26254	29	Causal_Oversimplification,Questioning_the_Reputation
+26254	31	Doubt
+26254	33	Doubt,False_Dilemma-No_Choice

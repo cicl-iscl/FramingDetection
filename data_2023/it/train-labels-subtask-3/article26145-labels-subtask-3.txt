@@ -1,0 +1,7 @@
+26145	1	
+26145	3	Slogans
+26145	5	
+26145	7	Doubt,Exaggeration-Minimisation,Loaded_Language
+26145	9	Causal_Oversimplification,Doubt,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+26145	11	
+26145	13	Doubt,Loaded_Language

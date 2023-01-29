@@ -1,0 +1,7 @@
+2665	1	Loaded_Language,Name_Calling-Labeling,Slogans
+2665	3	Loaded_Language,Name_Calling-Labeling
+2665	5	
+2665	7	Exaggeration-Minimisation,Loaded_Language,Slogans
+2665	9	Slogans
+2665	11	Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling
+2665	13	Loaded_Language,Straw_Man

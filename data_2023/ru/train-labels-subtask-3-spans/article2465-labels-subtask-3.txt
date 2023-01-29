@@ -1,0 +1,7 @@
+2465	Appeal_to_Hypocrisy	1226	1375
+2465	Appeal_to_Hypocrisy	72	161
+2465	Appeal_to_Hypocrisy	914	971
+2465	Name_Calling-Labeling	640	697
+2465	Whataboutism	1468	1525
+2465	Loaded_Language	1325	1351
+2465	Loaded_Language	1468	1523

@@ -1,0 +1,3 @@
+24133	Doubt	348	461
+24133	Doubt	1100	1268
+24133	Consequential_Oversimplification	68	161

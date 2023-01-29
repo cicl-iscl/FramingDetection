@@ -1,0 +1,8 @@
+23210	1	Loaded_Language,Questioning_the_Reputation,Straw_Man
+23210	3	Exaggeration-Minimisation
+23210	5	Loaded_Language
+23210	7	Appeal_to_Fear-Prejudice,Consequential_Oversimplification,Conversation_Killer
+23210	9	Appeal_to_Hypocrisy,Exaggeration-Minimisation,Loaded_Language,Questioning_the_Reputation
+23210	11	Slogans
+23210	13	Appeal_to_Values,Exaggeration-Minimisation,Loaded_Language,Red_Herring
+23210	15	Appeal_to_Values,Flag_Waving

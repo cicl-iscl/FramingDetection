@@ -1,0 +1,67 @@
+2538	1	Appeal_to_Time
+2538	3	Appeal_to_Fear-Prejudice,False_Dilemma-No_Choice
+2538	5	Appeal_to_Fear-Prejudice,Name_Calling-Labeling
+2538	7	Appeal_to_Fear-Prejudice,Loaded_Language
+2538	9	
+2538	11	
+2538	13	Appeal_to_Authority,Appeal_to_Fear-Prejudice
+2538	15	
+2538	17	
+2538	19	
+2538	21	Loaded_Language,Name_Calling-Labeling
+2538	23	Name_Calling-Labeling
+2538	25	Exaggeration-Minimisation,Loaded_Language
+2538	27	
+2538	29	
+2538	31	Name_Calling-Labeling
+2538	33	Exaggeration-Minimisation
+2538	35	
+2538	37	
+2538	39	False_Dilemma-No_Choice,Name_Calling-Labeling
+2538	41	Appeal_to_Authority
+2538	43	
+2538	45	
+2538	47	
+2538	49	
+2538	51	Red_Herring
+2538	53	
+2538	55	Loaded_Language
+2538	57	Loaded_Language,Name_Calling-Labeling
+2538	59	Loaded_Language
+2538	61	Name_Calling-Labeling
+2538	63	
+2538	65	
+2538	67	
+2538	69	
+2538	71	
+2538	73	Guilt_by_Association
+2538	75	Appeal_to_Fear-Prejudice,Appeal_to_Hypocrisy,Loaded_Language
+2538	77	Appeal_to_Values,Causal_Oversimplification,Doubt
+2538	79	
+2538	81	
+2538	83	Appeal_to_Popularity
+2538	85	
+2538	87	
+2538	89	
+2538	91	Name_Calling-Labeling
+2538	93	
+2538	95	
+2538	97	
+2538	99	Loaded_Language
+2538	101	Loaded_Language
+2538	103	
+2538	105	
+2538	107	
+2538	109	Appeal_to_Popularity
+2538	111	Loaded_Language
+2538	113	Appeal_to_Fear-Prejudice
+2538	115	
+2538	117	Loaded_Language
+2538	119	Appeal_to_Fear-Prejudice
+2538	121	Appeal_to_Hypocrisy
+2538	123	Appeal_to_Fear-Prejudice
+2538	125	
+2538	127	Causal_Oversimplification
+2538	129	Doubt
+2538	131	Doubt
+2538	133	Appeal_to_Fear-Prejudice,Appeal_to_Values,Exaggeration-Minimisation,Name_Calling-Labeling

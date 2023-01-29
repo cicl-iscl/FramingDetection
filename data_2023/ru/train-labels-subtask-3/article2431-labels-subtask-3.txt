@@ -1,0 +1,17 @@
+2431	1	Doubt
+2431	3	Appeal_to_Time,Doubt
+2431	5	
+2431	7	Appeal_to_Hypocrisy,Doubt,Name_Calling-Labeling
+2431	9	Appeal_to_Hypocrisy,Causal_Oversimplification,Conversation_Killer,Doubt,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+2431	11	
+2431	13	Appeal_to_Hypocrisy,Doubt,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+2431	15	Doubt,Loaded_Language,Questioning_the_Reputation
+2431	17	Doubt
+2431	19	Appeal_to_Hypocrisy,Doubt,Loaded_Language,Name_Calling-Labeling
+2431	21	
+2431	23	Appeal_to_Fear-Prejudice,Appeal_to_Hypocrisy,Consequential_Oversimplification,Doubt,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+2431	25	Appeal_to_Fear-Prejudice,Consequential_Oversimplification,Questioning_the_Reputation
+2431	27	Appeal_to_Hypocrisy,Causal_Oversimplification,Loaded_Language
+2431	29	
+2431	31	Conversation_Killer,Doubt
+2431	33	Appeal_to_Time

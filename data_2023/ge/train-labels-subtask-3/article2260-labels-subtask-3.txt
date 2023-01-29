@@ -1,0 +1,7 @@
+2260	1	Doubt
+2260	3	Doubt
+2260	4	Repetition,Whataboutism
+2260	5	Appeal_to_Popularity
+2260	7	Conversation_Killer,Doubt
+2260	8	Appeal_to_Values
+2260	9	Name_Calling-Labeling

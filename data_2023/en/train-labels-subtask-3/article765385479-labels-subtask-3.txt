@@ -1,0 +1,50 @@
+765385479	1	
+765385479	3	Appeal_to_Fear-Prejudice
+765385479	4	
+765385479	5	Appeal_to_Fear-Prejudice,Flag_Waving
+765385479	6	Exaggeration-Minimisation,Loaded_Language
+765385479	7	
+765385479	8	Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling
+765385479	9	
+765385479	10	Exaggeration-Minimisation,Loaded_Language
+765385479	11	
+765385479	12	Loaded_Language,Name_Calling-Labeling
+765385479	13	Guilt_by_Association,Name_Calling-Labeling
+765385479	14	Loaded_Language,Name_Calling-Labeling
+765385479	15	Doubt,Loaded_Language,Name_Calling-Labeling
+765385479	16	Doubt,Loaded_Language,Name_Calling-Labeling
+765385479	17	
+765385479	18	
+765385479	19	Exaggeration-Minimisation,Loaded_Language
+765385479	20	Name_Calling-Labeling
+765385479	21	Flag_Waving,Loaded_Language,Name_Calling-Labeling
+765385479	22	Doubt,Loaded_Language
+765385479	23	Loaded_Language
+765385479	24	Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling
+765385479	25	Appeal_to_Hypocrisy,Loaded_Language,Name_Calling-Labeling,Red_Herring
+765385479	26	Exaggeration-Minimisation
+765385479	27	
+765385479	28	Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling
+765385479	29	
+765385479	30	Loaded_Language
+765385479	31	
+765385479	32	Loaded_Language
+765385479	33	Causal_Oversimplification,Loaded_Language
+765385479	34	Exaggeration-Minimisation,Loaded_Language
+765385479	35	Loaded_Language,Name_Calling-Labeling
+765385479	36	Name_Calling-Labeling
+765385479	37	
+765385479	38	
+765385479	39	Exaggeration-Minimisation,Loaded_Language
+765385479	40	Appeal_to_Hypocrisy,Loaded_Language
+765385479	41	Exaggeration-Minimisation,Loaded_Language
+765385479	42	
+765385479	43	
+765385479	44	Doubt
+765385479	45	Loaded_Language,Repetition
+765385479	46	Name_Calling-Labeling
+765385479	47	Loaded_Language
+765385479	48	
+765385479	49	
+765385479	50	Appeal_to_Fear-Prejudice,Exaggeration-Minimisation,Flag_Waving
+765385479	51	

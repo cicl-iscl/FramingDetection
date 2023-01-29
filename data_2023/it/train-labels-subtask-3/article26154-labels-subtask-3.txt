@@ -1,0 +1,20 @@
+26154	1	Name_Calling-Labeling,Straw_Man
+26154	3	Name_Calling-Labeling
+26154	5	
+26154	7	Appeal_to_Values,Doubt,Guilt_by_Association,Straw_Man
+26154	9	
+26154	11	
+26154	13	
+26154	15	
+26154	17	Appeal_to_Authority,Appeal_to_Values,Causal_Oversimplification,Loaded_Language,Name_Calling-Labeling
+26154	19	
+26154	21	
+26154	23	
+26154	25	Straw_Man
+26154	27	Name_Calling-Labeling,Straw_Man
+26154	29	
+26154	31	Loaded_Language,Name_Calling-Labeling,Straw_Man
+26154	33	
+26154	35	Red_Herring
+26154	37	Loaded_Language,Name_Calling-Labeling
+26154	39	Loaded_Language,Name_Calling-Labeling,Straw_Man

@@ -1,0 +1,7 @@
+24164	Appeal_to_Hypocrisy	0	62
+24164	Loaded_Language	766	791
+24164	Appeal_to_Hypocrisy	76	177
+24164	Doubt	416	470
+24164	Doubt	1291	1393
+24164	Appeal_to_Authority	209	289
+24164	Appeal_to_Authority	1232	1289

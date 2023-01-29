@@ -1,0 +1,15 @@
+763440871	1	Loaded_Language
+763440871	3	
+763440871	4	Repetition
+763440871	5	Loaded_Language
+763440871	6	Exaggeration-Minimisation,Repetition
+763440871	7	Loaded_Language
+763440871	8	Loaded_Language,Repetition
+763440871	9	
+763440871	10	Loaded_Language,Name_Calling-Labeling
+763440871	11	
+763440871	12	Exaggeration-Minimisation
+763440871	13	
+763440871	14	
+763440871	15	
+763440871	16	False_Dilemma-No_Choice,Repetition,Slogans

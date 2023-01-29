@@ -1,0 +1,9 @@
+26216	1	Guilt_by_Association
+26216	3	Exaggeration-Minimisation,Loaded_Language
+26216	5	
+26216	7	Doubt,False_Dilemma-No_Choice,Guilt_by_Association,Loaded_Language
+26216	9	
+26216	11	Conversation_Killer,Doubt,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+26216	13	Doubt,Exaggeration-Minimisation,Guilt_by_Association,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+26216	15	Doubt
+26216	17	Conversation_Killer,Doubt,False_Dilemma-No_Choice,Guilt_by_Association,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation

@@ -1,0 +1,30 @@
+2396	1	
+2396	3	Appeal_to_Values
+2396	5	Loaded_Language
+2396	7	Doubt,Name_Calling-Labeling
+2396	9	Appeal_to_Fear-Prejudice,Doubt,Name_Calling-Labeling,Whataboutism
+2396	11	Appeal_to_Hypocrisy,Loaded_Language,Questioning_the_Reputation,Whataboutism
+2396	13	
+2396	15	
+2396	17	Appeal_to_Values
+2396	18	Appeal_to_Popularity,Appeal_to_Values,Obfuscation-Vagueness-Confusion
+2396	20	Conversation_Killer,Exaggeration-Minimisation,Loaded_Language
+2396	22	
+2396	24	Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation,Whataboutism
+2396	26	Loaded_Language
+2396	28	Causal_Oversimplification,Slogans
+2396	30	Loaded_Language
+2396	32	Appeal_to_Values,Doubt,Loaded_Language,Questioning_the_Reputation,Red_Herring,Straw_Man
+2396	34	Causal_Oversimplification
+2396	36	Doubt,Loaded_Language
+2396	38	Causal_Oversimplification,Doubt,Loaded_Language
+2396	40	Causal_Oversimplification,Exaggeration-Minimisation,Loaded_Language,Straw_Man
+2396	42	Doubt,Loaded_Language
+2396	44	Causal_Oversimplification,Conversation_Killer
+2396	46	Conversation_Killer
+2396	48	Loaded_Language,Questioning_the_Reputation,Straw_Man
+2396	50	Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation,Red_Herring,Whataboutism
+2396	52	Conversation_Killer,Doubt,Loaded_Language,Straw_Man
+2396	54	Exaggeration-Minimisation
+2396	56	Loaded_Language,Questioning_the_Reputation,Red_Herring
+2396	58	Conversation_Killer

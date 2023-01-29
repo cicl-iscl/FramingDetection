@@ -1,0 +1,15 @@
+2666	1	
+2666	3	Loaded_Language,Name_Calling-Labeling
+2666	5	Exaggeration-Minimisation,Guilt_by_Association,Loaded_Language
+2666	7	Doubt
+2666	9	Conversation_Killer
+2666	11	Straw_Man
+2666	13	
+2666	15	
+2666	17	Appeal_to_Hypocrisy,Loaded_Language
+2666	19	Doubt,Loaded_Language
+2666	21	Loaded_Language
+2666	23	Doubt
+2666	25	Loaded_Language
+2666	27	
+2666	29	Questioning_the_Reputation

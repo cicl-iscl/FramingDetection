@@ -1,0 +1,16 @@
+814403783	1	Appeal_to_Fear-Prejudice
+814403783	3	Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling,Repetition
+814403783	4	
+814403783	5	
+814403783	6	
+814403783	7	Exaggeration-Minimisation,Loaded_Language,Repetition
+814403783	8	
+814403783	9	
+814403783	10	False_Dilemma-No_Choice
+814403783	11	
+814403783	12	Name_Calling-Labeling
+814403783	13	Flag_Waving,Loaded_Language,Name_Calling-Labeling,Straw_Man
+814403783	14	
+814403783	15	False_Dilemma-No_Choice
+814403783	16	
+814403783	17	Doubt

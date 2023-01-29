@@ -1,0 +1,29 @@
+777488669	1	
+777488669	3	Causal_Oversimplification,Exaggeration-Minimisation,Loaded_Language
+777488669	4	Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling
+777488669	6	Causal_Oversimplification,Loaded_Language
+777488669	8	Loaded_Language,Slogans
+777488669	10	
+777488669	12	Causal_Oversimplification
+777488669	13	
+777488669	14	Causal_Oversimplification,Name_Calling-Labeling
+777488669	16	Loaded_Language,Name_Calling-Labeling
+777488669	18	Appeal_to_Fear-Prejudice,Doubt,Repetition
+777488669	20	Doubt,Loaded_Language
+777488669	21	Appeal_to_Fear-Prejudice,Loaded_Language,Name_Calling-Labeling
+777488669	22	Conversation_Killer,Doubt,Loaded_Language
+777488669	23	
+777488669	25	Loaded_Language
+777488669	27	Exaggeration-Minimisation,Loaded_Language
+777488669	29	Exaggeration-Minimisation
+777488669	31	Causal_Oversimplification,False_Dilemma-No_Choice,Loaded_Language
+777488669	33	Causal_Oversimplification,Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling
+777488669	34	
+777488669	35	Loaded_Language,Name_Calling-Labeling,Repetition
+777488669	37	Causal_Oversimplification,Exaggeration-Minimisation,Loaded_Language
+777488669	39	Causal_Oversimplification,Name_Calling-Labeling
+777488669	41	
+777488669	42	Name_Calling-Labeling
+777488669	43	Exaggeration-Minimisation,Loaded_Language
+777488669	45	
+777488669	47	Causal_Oversimplification,Loaded_Language

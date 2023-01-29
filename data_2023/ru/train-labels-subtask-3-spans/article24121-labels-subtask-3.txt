@@ -1,0 +1,6 @@
+24121	Questioning_the_Reputation	521	541
+24121	Questioning_the_Reputation	544	718
+24121	Questioning_the_Reputation	1195	1238
+24121	Questioning_the_Reputation	941	1074
+24121	Doubt	1195	1238
+24121	Loaded_Language	473	541

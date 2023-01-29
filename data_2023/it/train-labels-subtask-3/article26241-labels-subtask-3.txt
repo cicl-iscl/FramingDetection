@@ -1,0 +1,6 @@
+26241	1	Appeal_to_Fear-Prejudice,Loaded_Language
+26241	3	Loaded_Language
+26241	5	Appeal_to_Fear-Prejudice,Exaggeration-Minimisation
+26241	7	
+26241	9	Causal_Oversimplification,Name_Calling-Labeling,Questioning_the_Reputation
+26241	11	Name_Calling-Labeling,Questioning_the_Reputation

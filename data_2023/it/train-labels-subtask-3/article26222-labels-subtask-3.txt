@@ -1,0 +1,7 @@
+26222	1	Doubt
+26222	3	Appeal_to_Popularity,Exaggeration-Minimisation,Questioning_the_Reputation,Whataboutism
+26222	5	Appeal_to_Values,Doubt
+26222	7	Doubt,Questioning_the_Reputation
+26222	9	Appeal_to_Hypocrisy,Appeal_to_Values,Doubt,Flag_Waving,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+26222	11	Appeal_to_Popularity,Loaded_Language,Name_Calling-Labeling
+26222	13	Doubt,Loaded_Language,Name_Calling-Labeling

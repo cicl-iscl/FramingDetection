@@ -1,0 +1,6 @@
+23130	Red_Herring	221	278
+23130	Questioning_the_Reputation	454	535
+23130	Name_Calling-Labeling	149	185
+23130	Doubt	221	278
+23130	Slogans	1867	1882
+23130	Exaggeration-Minimisation	513	530

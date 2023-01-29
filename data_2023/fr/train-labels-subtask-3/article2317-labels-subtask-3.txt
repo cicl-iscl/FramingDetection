@@ -1,0 +1,9 @@
+2317	1	
+2317	3	Appeal_to_Hypocrisy
+2317	5	Loaded_Language
+2317	7	
+2317	9	Appeal_to_Fear-Prejudice,Doubt
+2317	11	Appeal_to_Hypocrisy,Loaded_Language
+2317	13	
+2317	15	Conversation_Killer,Exaggeration-Minimisation,Loaded_Language
+2317	17	Appeal_to_Values,Loaded_Language,Obfuscation-Vagueness-Confusion,Questioning_the_Reputation,Slogans

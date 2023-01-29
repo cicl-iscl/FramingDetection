@@ -1,0 +1,11 @@
+2478	1	
+2478	3	
+2478	5	
+2478	7	
+2478	9	
+2478	11	
+2478	13	Appeal_to_Hypocrisy,Doubt
+2478	15	Questioning_the_Reputation
+2478	17	Conversation_Killer,Loaded_Language
+2478	19	
+2478	21	Questioning_the_Reputation

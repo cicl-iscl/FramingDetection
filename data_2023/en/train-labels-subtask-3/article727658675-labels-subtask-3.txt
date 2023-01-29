@@ -1,0 +1,19 @@
+727658675	1	
+727658675	3	
+727658675	4	
+727658675	5	
+727658675	6	Loaded_Language
+727658675	7	
+727658675	8	Appeal_to_Fear-Prejudice,Exaggeration-Minimisation,Loaded_Language
+727658675	9	
+727658675	10	Appeal_to_Authority
+727658675	11	Exaggeration-Minimisation,Loaded_Language
+727658675	12	False_Dilemma-No_Choice,Obfuscation-Vagueness-Confusion
+727658675	13	
+727658675	14	Causal_Oversimplification,False_Dilemma-No_Choice
+727658675	15	
+727658675	16	
+727658675	17	
+727658675	18	
+727658675	19	
+727658675	20	

@@ -1,0 +1,12 @@
+2224	1	
+2224	3	
+2224	5	
+2224	7	Appeal_to_Popularity,Doubt,Name_Calling-Labeling
+2224	9	Questioning_the_Reputation
+2224	11	
+2224	13	Questioning_the_Reputation
+2224	15	Appeal_to_Popularity,Loaded_Language,Name_Calling-Labeling
+2224	17	
+2224	19	Appeal_to_Popularity,Name_Calling-Labeling,Questioning_the_Reputation
+2224	21	Appeal_to_Popularity,Doubt,Name_Calling-Labeling
+2224	23	Name_Calling-Labeling

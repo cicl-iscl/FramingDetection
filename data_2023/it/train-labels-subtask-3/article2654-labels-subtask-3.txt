@@ -1,0 +1,15 @@
+2654	1	Appeal_to_Values
+2654	3	Doubt
+2654	5	
+2654	7	Loaded_Language
+2654	9	Doubt,Loaded_Language,Questioning_the_Reputation
+2654	11	Appeal_to_Fear-Prejudice,Conversation_Killer,Doubt,Questioning_the_Reputation
+2654	13	Doubt
+2654	15	Flag_Waving
+2654	17	Appeal_to_Popularity,Doubt,Questioning_the_Reputation
+2654	19	Conversation_Killer,Doubt,Loaded_Language,Questioning_the_Reputation
+2654	21	Doubt,Red_Herring
+2654	23	Doubt
+2654	25	Appeal_to_Hypocrisy,Conversation_Killer,Doubt,Loaded_Language
+2654	27	Appeal_to_Values,Doubt,Loaded_Language
+2654	29	Appeal_to_Values,Conversation_Killer

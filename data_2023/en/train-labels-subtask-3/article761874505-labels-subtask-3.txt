@@ -1,0 +1,8 @@
+761874505	1	
+761874505	3	
+761874505	4	
+761874505	5	
+761874505	6	
+761874505	7	Appeal_to_Hypocrisy
+761874505	8	Causal_Oversimplification
+761874505	9	Exaggeration-Minimisation,Loaded_Language,Repetition

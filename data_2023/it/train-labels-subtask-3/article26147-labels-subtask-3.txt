@@ -1,0 +1,5 @@
+26147	1	Conversation_Killer,Loaded_Language,Slogans
+26147	3	Appeal_to_Values
+26147	5	Appeal_to_Values,Doubt,Loaded_Language,Name_Calling-Labeling
+26147	6	Loaded_Language
+26147	8	Appeal_to_Popularity,Doubt,Loaded_Language

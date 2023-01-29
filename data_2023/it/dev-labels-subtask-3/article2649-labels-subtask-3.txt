@@ -1,0 +1,8 @@
+2649	1	Loaded_Language
+2649	3	
+2649	5	Doubt
+2649	7	Doubt,Loaded_Language,Questioning_the_Reputation
+2649	9	Loaded_Language,Name_Calling-Labeling
+2649	11	Appeal_to_Values,Doubt,Exaggeration-Minimisation,Loaded_Language,Questioning_the_Reputation,Straw_Man
+2649	13	Doubt
+2649	15	Loaded_Language

@@ -1,0 +1,7 @@
+736231219	1	Name_Calling-Labeling,Slogans
+736231219	3	Name_Calling-Labeling,Slogans
+736231219	4	Name_Calling-Labeling,Red_Herring
+736231219	5	Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling
+736231219	6	Appeal_to_Popularity,Name_Calling-Labeling
+736231219	7	Guilt_by_Association,Loaded_Language,Name_Calling-Labeling,Red_Herring
+736231219	8	

@@ -1,0 +1,58 @@
+23179	1	Straw_Man
+23179	3	
+23179	5	Appeal_to_Fear-Prejudice,Causal_Oversimplification,Conversation_Killer,Loaded_Language,Name_Calling-Labeling,Straw_Man
+23179	7	Appeal_to_Values,Straw_Man
+23179	9	
+23179	11	Doubt,False_Dilemma-No_Choice,Flag_Waving,Loaded_Language,Name_Calling-Labeling
+23179	13	
+23179	15	Loaded_Language
+23179	17	Loaded_Language
+23179	19	
+23179	21	
+23179	23	
+23179	25	
+23179	27	
+23179	29	
+23179	31	Loaded_Language
+23179	33	
+23179	35	
+23179	37	Loaded_Language
+23179	39	
+23179	41	
+23179	43	
+23179	45	
+23179	47	
+23179	49	
+23179	51	
+23179	53	
+23179	55	
+23179	57	
+23179	59	
+23179	61	
+23179	63	
+23179	65	
+23179	67	
+23179	69	
+23179	71	
+23179	73	
+23179	75	
+23179	77	
+23179	79	
+23179	81	
+23179	83	
+23179	85	
+23179	87	
+23179	89	
+23179	91	Appeal_to_Values,Loaded_Language,Name_Calling-Labeling
+23179	93	Appeal_to_Fear-Prejudice,Guilt_by_Association,Name_Calling-Labeling,Questioning_the_Reputation
+23179	95	Loaded_Language,Questioning_the_Reputation
+23179	97	Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+23179	99	Guilt_by_Association,Loaded_Language,Name_Calling-Labeling,Straw_Man
+23179	101	
+23179	103	Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+23179	105	
+23179	107	Doubt,Guilt_by_Association,Loaded_Language,Questioning_the_Reputation
+23179	109	Name_Calling-Labeling,Questioning_the_Reputation
+23179	111	Loaded_Language
+23179	113	Loaded_Language,Questioning_the_Reputation
+23179	115	Conversation_Killer,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation,Straw_Man

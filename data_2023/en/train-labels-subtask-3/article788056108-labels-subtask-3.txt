@@ -1,0 +1,34 @@
+788056108	1	
+788056108	3	Loaded_Language,Name_Calling-Labeling
+788056108	4	Guilt_by_Association,Loaded_Language,Name_Calling-Labeling
+788056108	5	Name_Calling-Labeling
+788056108	6	
+788056108	7	Causal_Oversimplification,Doubt,Guilt_by_Association,Name_Calling-Labeling
+788056108	8	Appeal_to_Fear-Prejudice,Causal_Oversimplification
+788056108	9	
+788056108	10	Doubt,Loaded_Language,Name_Calling-Labeling
+788056108	11	Loaded_Language
+788056108	12	Exaggeration-Minimisation,Name_Calling-Labeling
+788056108	13	Exaggeration-Minimisation,Name_Calling-Labeling
+788056108	14	
+788056108	15	Doubt,Exaggeration-Minimisation
+788056108	16	Causal_Oversimplification,Loaded_Language
+788056108	17	Name_Calling-Labeling
+788056108	18	Loaded_Language,Name_Calling-Labeling
+788056108	19	
+788056108	20	Name_Calling-Labeling
+788056108	21	
+788056108	22	
+788056108	23	Loaded_Language,Name_Calling-Labeling
+788056108	24	Doubt
+788056108	25	Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling
+788056108	26	Appeal_to_Authority
+788056108	27	Appeal_to_Authority
+788056108	28	Appeal_to_Authority
+788056108	29	
+788056108	30	Appeal_to_Authority,Doubt,Loaded_Language
+788056108	31	Doubt,Exaggeration-Minimisation,Loaded_Language
+788056108	32	False_Dilemma-No_Choice,Loaded_Language,Name_Calling-Labeling
+788056108	33	Doubt
+788056108	34	Doubt,Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling
+788056108	35	Appeal_to_Fear-Prejudice,Exaggeration-Minimisation,Loaded_Language

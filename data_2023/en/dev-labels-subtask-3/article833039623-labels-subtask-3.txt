@@ -1,0 +1,37 @@
+833039623	1	Loaded_Language
+833039623	3	Flag_Waving,Loaded_Language,Name_Calling-Labeling
+833039623	4	Loaded_Language
+833039623	5	Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling
+833039623	6	Loaded_Language
+833039623	7	Doubt,Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling,Red_Herring
+833039623	8	Doubt,Name_Calling-Labeling
+833039623	9	Flag_Waving,Name_Calling-Labeling,Repetition
+833039623	10	Appeal_to_Fear-Prejudice,Appeal_to_Hypocrisy,Repetition
+833039623	11	Causal_Oversimplification,Exaggeration-Minimisation,Flag_Waving,Loaded_Language,Name_Calling-Labeling,Repetition
+833039623	12	Doubt,Name_Calling-Labeling
+833039623	13	Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling
+833039623	14	Loaded_Language
+833039623	15	Doubt
+833039623	16	Doubt,False_Dilemma-No_Choice,Name_Calling-Labeling
+833039623	17	Exaggeration-Minimisation,Loaded_Language
+833039623	18	Doubt,Name_Calling-Labeling,Repetition
+833039623	19	Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling
+833039623	20	Loaded_Language,Name_Calling-Labeling
+833039623	21	Loaded_Language,Name_Calling-Labeling,Repetition
+833039623	22	
+833039623	23	Loaded_Language
+833039623	24	False_Dilemma-No_Choice
+833039623	25	Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling,Repetition,Straw_Man
+833039623	26	Flag_Waving,Loaded_Language,Name_Calling-Labeling,Repetition
+833039623	27	False_Dilemma-No_Choice,Name_Calling-Labeling
+833039623	28	
+833039623	29	
+833039623	30	
+833039623	31	
+833039623	32	
+833039623	33	
+833039623	34	
+833039623	35	
+833039623	36	
+833039623	37	
+833039623	38	

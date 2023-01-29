@@ -1,0 +1,6 @@
+2496	1	
+2496	3	
+2496	5	Conversation_Killer,Doubt,Loaded_Language
+2496	7	Doubt
+2496	9	Doubt,Exaggeration-Minimisation,Loaded_Language
+2496	11	

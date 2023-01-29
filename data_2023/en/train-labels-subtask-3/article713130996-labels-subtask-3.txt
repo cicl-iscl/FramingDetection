@@ -1,0 +1,15 @@
+713130996	1	
+713130996	3	
+713130996	4	Loaded_Language
+713130996	5	Name_Calling-Labeling
+713130996	6	Slogans
+713130996	7	Appeal_to_Authority
+713130996	8	
+713130996	9	Loaded_Language
+713130996	10	
+713130996	11	
+713130996	12	Guilt_by_Association
+713130996	13	
+713130996	14	Exaggeration-Minimisation,Guilt_by_Association
+713130996	15	
+713130996	16	Causal_Oversimplification,Name_Calling-Labeling

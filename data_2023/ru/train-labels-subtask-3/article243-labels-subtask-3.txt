@@ -1,0 +1,6 @@
+243	1	Guilt_by_Association,Loaded_Language,Questioning_the_Reputation
+243	3	Appeal_to_Time
+243	5	Loaded_Language,Name_Calling-Labeling
+243	7	Guilt_by_Association
+243	9	False_Dilemma-No_Choice,Name_Calling-Labeling
+243	11	Conversation_Killer,Loaded_Language,Repetition

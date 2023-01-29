@@ -1,0 +1,11 @@
+26123	1	Doubt
+26123	3	Doubt,Loaded_Language
+26123	5	Loaded_Language
+26123	7	Appeal_to_Hypocrisy,Doubt,Loaded_Language,Straw_Man
+26123	9	Doubt,Exaggeration-Minimisation
+26123	11	
+26123	12	
+26123	14	Repetition
+26123	16	
+26123	18	Guilt_by_Association,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+26123	20	Doubt

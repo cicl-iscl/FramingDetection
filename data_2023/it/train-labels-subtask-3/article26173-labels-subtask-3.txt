@@ -1,0 +1,24 @@
+26173	1	Doubt
+26173	3	Loaded_Language
+26173	5	Doubt,Loaded_Language
+26173	7	
+26173	9	
+26173	11	Doubt
+26173	13	
+26173	15	Doubt,Loaded_Language,Name_Calling-Labeling
+26173	17	Doubt,Exaggeration-Minimisation
+26173	19	Loaded_Language
+26173	21	
+26173	23	
+26173	25	
+26173	27	
+26173	29	Doubt,Loaded_Language
+26173	31	Loaded_Language
+26173	33	
+26173	35	Conversation_Killer,Doubt,Obfuscation-Vagueness-Confusion
+26173	37	
+26173	39	
+26173	41	
+26173	43	
+26173	45	
+26173	47	

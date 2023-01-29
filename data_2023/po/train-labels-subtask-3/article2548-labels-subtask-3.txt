@@ -1,0 +1,29 @@
+2548	1	
+2548	3	Conversation_Killer
+2548	5	Appeal_to_Authority
+2548	7	Doubt
+2548	8	Exaggeration-Minimisation
+2548	10	
+2548	12	
+2548	14	
+2548	15	
+2548	17	
+2548	19	Doubt
+2548	21	
+2548	23	
+2548	25	
+2548	27	Name_Calling-Labeling
+2548	28	
+2548	30	Name_Calling-Labeling
+2548	32	
+2548	34	
+2548	36	
+2548	38	
+2548	40	
+2548	42	Doubt,Loaded_Language
+2548	43	
+2548	45	
+2548	47	
+2548	49	
+2548	51	
+2548	53	Conversation_Killer,Doubt,Name_Calling-Labeling

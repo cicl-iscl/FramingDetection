@@ -1,0 +1,22 @@
+769962236	1	Name_Calling-Labeling
+769962236	3	Loaded_Language
+769962236	4	Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling,Slogans
+769962236	5	
+769962236	6	
+769962236	7	
+769962236	8	
+769962236	9	
+769962236	10	
+769962236	11	
+769962236	12	
+769962236	13	Flag_Waving
+769962236	14	
+769962236	15	
+769962236	16	Loaded_Language
+769962236	17	Slogans
+769962236	18	Loaded_Language
+769962236	19	
+769962236	20	Flag_Waving,Name_Calling-Labeling,Slogans
+769962236	21	
+769962236	22	Loaded_Language
+769962236	23	

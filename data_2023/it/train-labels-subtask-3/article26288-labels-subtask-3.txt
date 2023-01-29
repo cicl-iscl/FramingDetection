@@ -1,0 +1,4 @@
+26288	1	Appeal_to_Fear-Prejudice,Loaded_Language
+26288	3	
+26288	5	Appeal_to_Fear-Prejudice
+26288	7	Appeal_to_Values,Doubt

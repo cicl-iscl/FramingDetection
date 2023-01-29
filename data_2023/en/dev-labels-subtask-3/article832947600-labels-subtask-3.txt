@@ -1,0 +1,9 @@
+832947600	1	Appeal_to_Fear-Prejudice,Flag_Waving
+832947600	3	
+832947600	4	Appeal_to_Fear-Prejudice,Flag_Waving
+832947600	5	Doubt,Exaggeration-Minimisation,Flag_Waving,Loaded_Language
+832947600	6	Flag_Waving,Straw_Man
+832947600	7	Exaggeration-Minimisation,Flag_Waving,Loaded_Language
+832947600	8	Loaded_Language
+832947600	9	
+832947600	10	Flag_Waving

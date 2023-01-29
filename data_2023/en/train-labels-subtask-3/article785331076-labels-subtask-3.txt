@@ -1,0 +1,15 @@
+785331076	1	Name_Calling-Labeling
+785331076	3	Loaded_Language
+785331076	4	
+785331076	5	
+785331076	6	
+785331076	7	
+785331076	8	
+785331076	9	
+785331076	10	Loaded_Language,Name_Calling-Labeling,Repetition
+785331076	11	Loaded_Language
+785331076	12	
+785331076	13	
+785331076	14	Loaded_Language,Name_Calling-Labeling,Repetition
+785331076	15	Repetition
+785331076	16	

@@ -1,0 +1,3 @@
+26191	1	
+26191	3	Appeal_to_Authority,Appeal_to_Popularity,Causal_Oversimplification,Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+26191	5	Loaded_Language,Name_Calling-Labeling

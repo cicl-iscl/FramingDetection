@@ -1,0 +1,7 @@
+2480	Questioning_the_Reputation	317	404
+2480	Doubt	481	705
+2480	Questioning_the_Reputation	709	776
+2480	Doubt	5943	6174
+2480	Questioning_the_Reputation	10053	10177
+2480	Doubt	6299	6365
+2480	Doubt	9943	10041

@@ -1,0 +1,6 @@
+2559	Name_Calling-Labeling	2553	2574
+2559	Name_Calling-Labeling	3553	3582
+2559	Name_Calling-Labeling	1466	1483
+2559	Guilt_by_Association	3553	3739
+2559	Exaggeration-Minimisation	40	61
+2559	Loaded_Language	3526	3551

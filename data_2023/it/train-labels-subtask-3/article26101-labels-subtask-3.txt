@@ -1,0 +1,11 @@
+26101	1	Doubt,Name_Calling-Labeling
+26101	3	Conversation_Killer,Doubt
+26101	5	Questioning_the_Reputation
+26101	6	Doubt,Name_Calling-Labeling
+26101	7	Loaded_Language
+26101	8	Doubt,Loaded_Language,Name_Calling-Labeling
+26101	9	Name_Calling-Labeling
+26101	10	
+26101	12	
+26101	13	
+26101	14	Questioning_the_Reputation

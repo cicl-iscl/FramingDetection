@@ -1,0 +1,15 @@
+26255	1	
+26255	3	
+26255	5	Name_Calling-Labeling
+26255	7	Doubt,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+26255	9	Appeal_to_Fear-Prejudice,Exaggeration-Minimisation
+26255	11	
+26255	13	
+26255	15	
+26255	17	
+26255	19	
+26255	21	
+26255	23	
+26255	25	Loaded_Language,Name_Calling-Labeling
+26255	27	
+26255	29	

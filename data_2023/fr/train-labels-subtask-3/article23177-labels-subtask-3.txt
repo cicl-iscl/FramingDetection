@@ -1,0 +1,2 @@
+23177	1	
+23177	3	Appeal_to_Popularity,Causal_Oversimplification,Loaded_Language,Name_Calling-Labeling,Straw_Man

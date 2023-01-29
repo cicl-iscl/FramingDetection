@@ -1,0 +1,7 @@
+22177	1	Name_Calling-Labeling
+22177	3	Doubt,Name_Calling-Labeling,Questioning_the_Reputation
+22177	5	Doubt,Name_Calling-Labeling
+22177	7	Appeal_to_Authority,Doubt,Name_Calling-Labeling
+22177	9	Appeal_to_Fear-Prejudice
+22177	11	Doubt,Exaggeration-Minimisation,Name_Calling-Labeling,Questioning_the_Reputation
+22177	13	Appeal_to_Hypocrisy,Conversation_Killer,Loaded_Language,Name_Calling-Labeling

@@ -1,0 +1,6 @@
+2530	Appeal_to_Hypocrisy	1053	1223
+2530	Flag_Waving	457	534
+2530	Exaggeration-Minimisation	1432	1507
+2530	Loaded_Language	1036	1049
+2530	Appeal_to_Hypocrisy	1242	1346
+2530	Appeal_to_Hypocrisy	932	1020

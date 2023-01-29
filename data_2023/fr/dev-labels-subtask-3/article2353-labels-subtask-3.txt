@@ -1,0 +1,37 @@
+2353	1	Slogans
+2353	3	Loaded_Language
+2353	5	Loaded_Language
+2353	7	Consequential_Oversimplification,Exaggeration-Minimisation,Loaded_Language
+2353	9	
+2353	11	
+2353	13	
+2353	15	
+2353	17	Appeal_to_Authority
+2353	19	
+2353	21	
+2353	23	Causal_Oversimplification,False_Dilemma-No_Choice
+2353	25	
+2353	27	
+2353	29	
+2353	31	
+2353	33	Appeal_to_Popularity
+2353	35	
+2353	37	Causal_Oversimplification
+2353	39	Conversation_Killer,Obfuscation-Vagueness-Confusion
+2353	41	
+2353	43	Exaggeration-Minimisation
+2353	45	
+2353	47	
+2353	49	
+2353	51	Causal_Oversimplification,Obfuscation-Vagueness-Confusion
+2353	53	
+2353	55	Loaded_Language
+2353	57	Causal_Oversimplification,Loaded_Language,Questioning_the_Reputation
+2353	59	Appeal_to_Fear-Prejudice,Causal_Oversimplification
+2353	61	
+2353	63	
+2353	65	
+2353	67	
+2353	69	Doubt,Questioning_the_Reputation
+2353	71	
+2353	73	Appeal_to_Authority,Appeal_to_Values,Consequential_Oversimplification

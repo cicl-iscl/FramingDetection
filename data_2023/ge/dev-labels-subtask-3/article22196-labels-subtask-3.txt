@@ -1,0 +1,5 @@
+22196	1	Name_Calling-Labeling
+22196	3	Name_Calling-Labeling
+22196	5	Appeal_to_Hypocrisy
+22196	7	Name_Calling-Labeling,Slogans
+22196	9	Appeal_to_Fear-Prejudice,Appeal_to_Time,Flag_Waving,Name_Calling-Labeling

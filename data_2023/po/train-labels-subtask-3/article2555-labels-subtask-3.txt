@@ -1,0 +1,12 @@
+2555	1	Name_Calling-Labeling,Obfuscation-Vagueness-Confusion
+2555	3	
+2555	5	Guilt_by_Association,Name_Calling-Labeling
+2555	7	Appeal_to_Hypocrisy,Name_Calling-Labeling,Obfuscation-Vagueness-Confusion
+2555	9	Loaded_Language,Name_Calling-Labeling,Obfuscation-Vagueness-Confusion,Questioning_the_Reputation
+2555	11	
+2555	13	Doubt
+2555	15	
+2555	17	Appeal_to_Hypocrisy,Name_Calling-Labeling
+2555	19	Appeal_to_Hypocrisy,Exaggeration-Minimisation,Name_Calling-Labeling
+2555	21	Consequential_Oversimplification,Doubt,Guilt_by_Association
+2555	23	Appeal_to_Authority,Appeal_to_Hypocrisy,Conversation_Killer,Doubt,Exaggeration-Minimisation,Obfuscation-Vagueness-Confusion

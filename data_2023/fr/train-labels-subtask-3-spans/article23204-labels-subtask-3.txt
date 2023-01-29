@@ -1,0 +1,3 @@
+23204	Causal_Oversimplification	219	370
+23204	Whataboutism	803	1009
+23204	Conversation_Killer	1488	1523

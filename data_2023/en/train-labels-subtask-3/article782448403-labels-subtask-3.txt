@@ -1,0 +1,14 @@
+782448403	1	
+782448403	3	
+782448403	4	
+782448403	5	
+782448403	6	Flag_Waving,Loaded_Language,Repetition
+782448403	7	
+782448403	8	Loaded_Language,Repetition
+782448403	9	
+782448403	10	
+782448403	11	
+782448403	12	
+782448403	13	Doubt,Name_Calling-Labeling
+782448403	14	Loaded_Language,Name_Calling-Labeling
+782448403	15	

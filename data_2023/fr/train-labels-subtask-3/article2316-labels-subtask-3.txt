@@ -1,0 +1,15 @@
+2316	1	
+2316	3	Consequential_Oversimplification,Loaded_Language
+2316	5	Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling,Obfuscation-Vagueness-Confusion,Whataboutism
+2316	6	
+2316	8	Appeal_to_Fear-Prejudice,Appeal_to_Hypocrisy,Loaded_Language,Questioning_the_Reputation
+2316	10	Appeal_to_Fear-Prejudice,Loaded_Language,Name_Calling-Labeling
+2316	12	Consequential_Oversimplification,Doubt
+2316	13	Loaded_Language
+2316	15	Appeal_to_Fear-Prejudice,Exaggeration-Minimisation,Questioning_the_Reputation,Straw_Man
+2316	17	Consequential_Oversimplification,Exaggeration-Minimisation,Loaded_Language
+2316	19	Consequential_Oversimplification,Loaded_Language,Questioning_the_Reputation
+2316	21	Exaggeration-Minimisation,Loaded_Language,Slogans
+2316	23	Consequential_Oversimplification,Exaggeration-Minimisation,Loaded_Language
+2316	25	Appeal_to_Fear-Prejudice
+2316	27	Name_Calling-Labeling

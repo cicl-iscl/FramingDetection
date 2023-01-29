@@ -1,0 +1,12 @@
+24156	1	
+24156	3	
+24156	5	Appeal_to_Values,Loaded_Language
+24156	7	Loaded_Language,Obfuscation-Vagueness-Confusion
+24156	9	
+24156	11	Appeal_to_Hypocrisy,Doubt,Loaded_Language,Name_Calling-Labeling,Obfuscation-Vagueness-Confusion
+24156	13	Appeal_to_Values,Doubt,Obfuscation-Vagueness-Confusion
+24156	15	Doubt,Exaggeration-Minimisation
+24156	17	
+24156	19	
+24156	21	Exaggeration-Minimisation
+24156	23	Causal_Oversimplification

@@ -1,0 +1,8 @@
+22115	1	Exaggeration-Minimisation,Obfuscation-Vagueness-Confusion
+22115	3	Appeal_to_Fear-Prejudice
+22115	5	Consequential_Oversimplification
+22115	7	Appeal_to_Fear-Prejudice,Doubt,Exaggeration-Minimisation
+22115	9	Exaggeration-Minimisation
+22115	11	Consequential_Oversimplification
+22115	13	
+22115	15	

@@ -1,0 +1,23 @@
+2474	1	
+2474	3	
+2474	4	Slogans
+2474	5	Doubt
+2474	7	
+2474	8	
+2474	10	
+2474	11	Slogans
+2474	12	Exaggeration-Minimisation
+2474	13	
+2474	14	
+2474	16	
+2474	17	Conversation_Killer
+2474	18	Repetition
+2474	19	
+2474	20	
+2474	21	
+2474	23	Loaded_Language
+2474	24	
+2474	25	
+2474	27	
+2474	29	
+2474	30	

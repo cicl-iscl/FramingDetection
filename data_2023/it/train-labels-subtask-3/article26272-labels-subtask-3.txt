@@ -1,0 +1,6 @@
+26272	1	Conversation_Killer,Name_Calling-Labeling
+26272	3	Doubt,Loaded_Language,Questioning_the_Reputation
+26272	5	
+26272	7	Appeal_to_Values,Conversation_Killer,Doubt,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+26272	9	
+26272	11	Doubt,False_Dilemma-No_Choice,Loaded_Language

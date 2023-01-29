@@ -1,0 +1,6 @@
+23183	1	
+23183	3	Name_Calling-Labeling
+23183	5	Guilt_by_Association,Loaded_Language,Questioning_the_Reputation,Red_Herring
+23183	7	Exaggeration-Minimisation,Name_Calling-Labeling
+23183	9	
+23183	11	Doubt,Loaded_Language

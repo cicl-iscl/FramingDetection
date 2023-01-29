@@ -1,0 +1,17 @@
+24152	1	Slogans
+24152	3	
+24152	5	
+24152	7	
+24152	9	
+24152	11	Loaded_Language
+24152	13	Consequential_Oversimplification
+24152	15	
+24152	17	Appeal_to_Fear-Prejudice,Loaded_Language
+24152	19	
+24152	21	
+24152	23	
+24152	25	Slogans
+24152	27	Slogans
+24152	29	Exaggeration-Minimisation,Loaded_Language,Questioning_the_Reputation
+24152	31	Slogans
+24152	33	

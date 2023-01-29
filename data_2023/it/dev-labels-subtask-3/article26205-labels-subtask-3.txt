@@ -1,0 +1,29 @@
+26205	1	
+26205	3	
+26205	5	Doubt
+26205	7	Conversation_Killer,Loaded_Language
+26205	9	Appeal_to_Fear-Prejudice,Conversation_Killer
+26205	11	Doubt
+26205	13	Appeal_to_Fear-Prejudice,Doubt,Loaded_Language
+26205	15	Doubt
+26205	17	Doubt
+26205	19	
+26205	21	Appeal_to_Fear-Prejudice,Doubt,Loaded_Language
+26205	23	Doubt,Loaded_Language
+26205	25	
+26205	27	
+26205	29	Name_Calling-Labeling
+26205	31	Appeal_to_Fear-Prejudice
+26205	33	Doubt,Loaded_Language
+26205	35	Doubt
+26205	37	
+26205	39	Doubt
+26205	41	Appeal_to_Fear-Prejudice,Doubt
+26205	43	
+26205	45	Appeal_to_Fear-Prejudice,False_Dilemma-No_Choice,Loaded_Language
+26205	47	Doubt,Loaded_Language
+26205	49	Appeal_to_Fear-Prejudice,Doubt,Loaded_Language
+26205	51	Doubt,Loaded_Language
+26205	53	
+26205	55	Conversation_Killer,Doubt
+26205	57	Flag_Waving,Loaded_Language

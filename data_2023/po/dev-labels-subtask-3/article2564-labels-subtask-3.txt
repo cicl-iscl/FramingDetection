@@ -1,0 +1,16 @@
+2564	1	
+2564	3	
+2564	5	Appeal_to_Fear-Prejudice,Appeal_to_Time,Appeal_to_Values
+2564	7	Appeal_to_Fear-Prejudice,Consequential_Oversimplification,Exaggeration-Minimisation
+2564	9	Appeal_to_Fear-Prejudice,Appeal_to_Values,Causal_Oversimplification,False_Dilemma-No_Choice,Repetition
+2564	11	Appeal_to_Fear-Prejudice,Appeal_to_Values,Exaggeration-Minimisation,Repetition
+2564	13	Appeal_to_Authority
+2564	15	
+2564	16	
+2564	17	
+2564	18	
+2564	19	
+2564	20	
+2564	21	
+2564	22	
+2564	24	

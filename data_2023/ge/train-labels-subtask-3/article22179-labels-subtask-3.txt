@@ -1,0 +1,11 @@
+22179	1	Causal_Oversimplification,Name_Calling-Labeling
+22179	3	Appeal_to_Popularity,Causal_Oversimplification
+22179	5	Causal_Oversimplification,Exaggeration-Minimisation
+22179	7	Appeal_to_Authority
+22179	9	
+22179	11	
+22179	13	
+22179	15	
+22179	17	
+22179	19	
+22179	21	Conversation_Killer,Doubt,Name_Calling-Labeling,Obfuscation-Vagueness-Confusion

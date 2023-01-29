@@ -1,0 +1,16 @@
+815858385	1	Name_Calling-Labeling,Repetition
+815858385	3	Loaded_Language,Name_Calling-Labeling
+815858385	4	Doubt,Guilt_by_Association,Name_Calling-Labeling,Repetition
+815858385	5	Exaggeration-Minimisation,Name_Calling-Labeling
+815858385	6	
+815858385	7	
+815858385	8	
+815858385	9	
+815858385	10	Doubt,Flag_Waving,Guilt_by_Association,Name_Calling-Labeling,Straw_Man
+815858385	11	Appeal_to_Fear-Prejudice
+815858385	12	Appeal_to_Hypocrisy,Guilt_by_Association,Name_Calling-Labeling,Repetition
+815858385	13	Appeal_to_Fear-Prejudice
+815858385	14	Appeal_to_Fear-Prejudice,Appeal_to_Hypocrisy
+815858385	15	
+815858385	16	
+815858385	17	

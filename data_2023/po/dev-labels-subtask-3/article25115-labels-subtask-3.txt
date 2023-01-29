@@ -1,0 +1,6 @@
+25115	1	
+25115	3	
+25115	5	Appeal_to_Hypocrisy,Doubt,Name_Calling-Labeling,Questioning_the_Reputation
+25115	7	Appeal_to_Fear-Prejudice,Doubt,Loaded_Language
+25115	9	Appeal_to_Fear-Prejudice,Appeal_to_Hypocrisy
+25115	11	Appeal_to_Hypocrisy,Conversation_Killer,Doubt,Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling

@@ -1,0 +1,12 @@
+2511	1	
+2511	3	Loaded_Language
+2511	5	
+2511	7	Loaded_Language
+2511	9	Appeal_to_Authority,Conversation_Killer,Exaggeration-Minimisation
+2511	11	
+2511	13	Exaggeration-Minimisation
+2511	15	
+2511	17	Appeal_to_Values,Doubt
+2511	19	Appeal_to_Values
+2511	21	Loaded_Language,Whataboutism
+2511	23	Exaggeration-Minimisation,Loaded_Language

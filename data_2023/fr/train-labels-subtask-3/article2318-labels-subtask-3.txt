@@ -1,0 +1,15 @@
+2318	1	Slogans
+2318	3	
+2318	5	Causal_Oversimplification,Exaggeration-Minimisation,Loaded_Language
+2318	7	Loaded_Language
+2318	9	Appeal_to_Fear-Prejudice,Loaded_Language,Name_Calling-Labeling
+2318	10	
+2318	12	
+2318	14	Loaded_Language,Questioning_the_Reputation,Whataboutism
+2318	16	Exaggeration-Minimisation,Loaded_Language
+2318	18	Exaggeration-Minimisation,Loaded_Language
+2318	19	
+2318	21	Conversation_Killer,False_Dilemma-No_Choice,Questioning_the_Reputation,Whataboutism
+2318	23	
+2318	25	
+2318	27	Conversation_Killer

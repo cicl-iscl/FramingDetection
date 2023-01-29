@@ -1,0 +1,18 @@
+821744708	1	Appeal_to_Fear-Prejudice,Loaded_Language,Repetition
+821744708	3	Appeal_to_Fear-Prejudice,Loaded_Language,Repetition
+821744708	4	
+821744708	5	Loaded_Language
+821744708	6	
+821744708	7	Loaded_Language
+821744708	8	Appeal_to_Fear-Prejudice,Loaded_Language,Repetition
+821744708	9	
+821744708	10	
+821744708	11	False_Dilemma-No_Choice
+821744708	12	Loaded_Language
+821744708	13	Doubt
+821744708	14	Loaded_Language,Name_Calling-Labeling,Repetition
+821744708	15	Name_Calling-Labeling,Repetition
+821744708	16	
+821744708	17	
+821744708	18	
+821744708	19	

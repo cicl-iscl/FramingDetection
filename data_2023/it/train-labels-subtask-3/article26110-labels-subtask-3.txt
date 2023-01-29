@@ -1,0 +1,11 @@
+26110	1	
+26110	3	Appeal_to_Fear-Prejudice,Loaded_Language
+26110	5	
+26110	7	Conversation_Killer,Doubt,False_Dilemma-No_Choice,Loaded_Language,Red_Herring
+26110	9	Conversation_Killer
+26110	11	Doubt,Loaded_Language,Questioning_the_Reputation
+26110	13	Conversation_Killer,Doubt,Loaded_Language,Name_Calling-Labeling
+26110	14	
+26110	16	Consequential_Oversimplification,Conversation_Killer,Doubt,Loaded_Language,Name_Calling-Labeling
+26110	17	
+26110	19	Appeal_to_Authority,Appeal_to_Fear-Prejudice,Appeal_to_Values,Consequential_Oversimplification,Conversation_Killer,Doubt,Exaggeration-Minimisation,False_Dilemma-No_Choice,Loaded_Language

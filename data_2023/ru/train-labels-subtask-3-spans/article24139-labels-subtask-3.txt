@@ -1,0 +1,4 @@
+24139	Loaded_Language	564	643
+24139	Appeal_to_Hypocrisy	416	479
+24139	Conversation_Killer	920	1024
+24139	Doubt	241	479

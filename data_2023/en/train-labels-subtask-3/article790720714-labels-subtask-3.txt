@@ -1,0 +1,21 @@
+790720714	1	
+790720714	3	Loaded_Language
+790720714	4	
+790720714	5	Doubt,Exaggeration-Minimisation,Name_Calling-Labeling
+790720714	6	
+790720714	7	
+790720714	8	
+790720714	9	
+790720714	10	
+790720714	11	Causal_Oversimplification,Doubt
+790720714	12	Loaded_Language
+790720714	13	Loaded_Language
+790720714	14	Appeal_to_Authority
+790720714	15	Causal_Oversimplification
+790720714	16	Doubt,Exaggeration-Minimisation
+790720714	17	
+790720714	18	Causal_Oversimplification
+790720714	19	Causal_Oversimplification,Doubt,Loaded_Language
+790720714	20	
+790720714	21	
+790720714	22	

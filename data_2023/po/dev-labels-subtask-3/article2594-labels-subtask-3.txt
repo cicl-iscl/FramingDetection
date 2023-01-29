@@ -1,0 +1,7 @@
+2594	1	
+2594	3	
+2594	5	
+2594	7	Appeal_to_Hypocrisy,Doubt,Guilt_by_Association,Loaded_Language,Name_Calling-Labeling
+2594	9	Appeal_to_Fear-Prejudice,Appeal_to_Hypocrisy,Consequential_Oversimplification,Guilt_by_Association,Loaded_Language,Name_Calling-Labeling
+2594	11	
+2594	13	Guilt_by_Association,Loaded_Language

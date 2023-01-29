@@ -1,0 +1,2 @@
+22191	1	
+22191	3	Doubt,Exaggeration-Minimisation,Name_Calling-Labeling,Straw_Man

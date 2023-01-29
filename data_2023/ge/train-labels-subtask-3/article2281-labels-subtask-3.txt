@@ -1,0 +1,5 @@
+2281	1	Name_Calling-Labeling,Slogans
+2281	3	Doubt,Name_Calling-Labeling,Slogans
+2281	5	Consequential_Oversimplification,Loaded_Language
+2281	7	Appeal_to_Fear-Prejudice,Consequential_Oversimplification,Flag_Waving,Loaded_Language
+2281	9	Appeal_to_Fear-Prejudice,Consequential_Oversimplification,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation,Slogans

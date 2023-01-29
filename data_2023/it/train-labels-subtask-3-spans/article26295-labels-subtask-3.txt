@@ -1,0 +1,5 @@
+26295	Loaded_Language	69	96
+26295	Name_Calling-Labeling	5850	5868
+26295	Doubt	6336	6401
+26295	Name_Calling-Labeling	6009	6018
+26295	Doubt	1891	1940

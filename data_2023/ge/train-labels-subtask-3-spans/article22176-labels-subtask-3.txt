@@ -1,0 +1,7 @@
+22176	Appeal_to_Hypocrisy	795	1135
+22176	Slogans	477	527
+22176	Loaded_Language	1	28
+22176	Slogans	592	633
+22176	Name_Calling-Labeling	66	91
+22176	Conversation_Killer	113	144
+22176	Conversation_Killer	962	1135

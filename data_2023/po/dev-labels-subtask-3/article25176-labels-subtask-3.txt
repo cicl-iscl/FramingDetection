@@ -1,0 +1,11 @@
+25176	1	Name_Calling-Labeling
+25176	3	Appeal_to_Hypocrisy,Doubt
+25176	5	Appeal_to_Hypocrisy
+25176	7	Loaded_Language,Questioning_the_Reputation
+25176	9	Appeal_to_Hypocrisy,Doubt,Flag_Waving,Name_Calling-Labeling,Questioning_the_Reputation
+25176	11	Conversation_Killer,Loaded_Language
+25176	13	Appeal_to_Hypocrisy,Flag_Waving
+25176	15	
+25176	17	Loaded_Language
+25176	19	Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+25176	21	Appeal_to_Popularity,Name_Calling-Labeling

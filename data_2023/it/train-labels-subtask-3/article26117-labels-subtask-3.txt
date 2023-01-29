@@ -1,0 +1,14 @@
+26117	1	Doubt,Loaded_Language
+26117	3	Doubt,Loaded_Language,Name_Calling-Labeling
+26117	5	Appeal_to_Fear-Prejudice,Loaded_Language,Questioning_the_Reputation
+26117	7	Conversation_Killer,Doubt,Loaded_Language
+26117	9	Appeal_to_Fear-Prejudice,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+26117	11	Doubt,Loaded_Language
+26117	13	Doubt,Name_Calling-Labeling
+26117	15	Doubt,Loaded_Language
+26117	17	Appeal_to_Fear-Prejudice,Loaded_Language
+26117	19	False_Dilemma-No_Choice
+26117	21	Appeal_to_Fear-Prejudice,Conversation_Killer,Loaded_Language
+26117	23	Doubt,Name_Calling-Labeling,Questioning_the_Reputation
+26117	25	Guilt_by_Association,Loaded_Language
+26117	27	Doubt,Loaded_Language,Questioning_the_Reputation,Repetition

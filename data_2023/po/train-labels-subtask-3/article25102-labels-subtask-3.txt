@@ -1,0 +1,18 @@
+25102	1	Loaded_Language,Questioning_the_Reputation
+25102	3	
+25102	5	Appeal_to_Hypocrisy,Loaded_Language
+25102	7	
+25102	9	
+25102	11	Appeal_to_Hypocrisy
+25102	13	
+25102	15	
+25102	17	Appeal_to_Hypocrisy
+25102	19	Appeal_to_Fear-Prejudice
+25102	21	
+25102	23	Appeal_to_Time
+25102	25	Appeal_to_Fear-Prejudice,Appeal_to_Values
+25102	27	Appeal_to_Authority
+25102	29	Conversation_Killer
+25102	31	Appeal_to_Hypocrisy,Loaded_Language
+25102	33	Appeal_to_Hypocrisy
+25102	35	

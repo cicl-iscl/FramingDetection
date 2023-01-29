@@ -1,0 +1,12 @@
+2294	1	Loaded_Language,Slogans
+2294	3	Loaded_Language,Name_Calling-Labeling
+2294	5	Appeal_to_Values,Name_Calling-Labeling
+2294	7	Appeal_to_Fear-Prejudice,Appeal_to_Values,Loaded_Language,Name_Calling-Labeling,Slogans
+2294	9	Doubt
+2294	11	Conversation_Killer,Flag_Waving,Guilt_by_Association,Name_Calling-Labeling,Questioning_the_Reputation,Slogans
+2294	13	Appeal_to_Values
+2294	15	
+2294	17	Appeal_to_Fear-Prejudice,Appeal_to_Values
+2294	19	
+2294	21	
+2294	23	

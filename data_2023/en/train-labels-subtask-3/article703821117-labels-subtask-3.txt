@@ -1,0 +1,62 @@
+703821117	1	
+703821117	3	Causal_Oversimplification,Exaggeration-Minimisation,Loaded_Language
+703821117	4	Flag_Waving
+703821117	5	
+703821117	6	
+703821117	7	
+703821117	8	
+703821117	9	
+703821117	10	
+703821117	11	Loaded_Language,Name_Calling-Labeling
+703821117	12	
+703821117	13	
+703821117	14	
+703821117	15	Exaggeration-Minimisation,Loaded_Language
+703821117	16	Exaggeration-Minimisation
+703821117	17	Exaggeration-Minimisation
+703821117	18	
+703821117	19	
+703821117	20	
+703821117	21	
+703821117	22	Exaggeration-Minimisation
+703821117	23	
+703821117	24	Causal_Oversimplification,Guilt_by_Association
+703821117	25	
+703821117	26	
+703821117	27	
+703821117	28	Guilt_by_Association
+703821117	29	Name_Calling-Labeling
+703821117	30	Causal_Oversimplification,Exaggeration-Minimisation
+703821117	31	
+703821117	32	
+703821117	33	Flag_Waving
+703821117	34	Loaded_Language
+703821117	35	
+703821117	36	
+703821117	37	
+703821117	38	
+703821117	39	
+703821117	40	
+703821117	41	Doubt
+703821117	42	Appeal_to_Hypocrisy,Doubt,Exaggeration-Minimisation
+703821117	43	Exaggeration-Minimisation,Red_Herring
+703821117	44	Name_Calling-Labeling
+703821117	45	Doubt
+703821117	46	Loaded_Language
+703821117	47	Name_Calling-Labeling,Repetition
+703821117	48	Exaggeration-Minimisation
+703821117	49	Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling
+703821117	50	Causal_Oversimplification
+703821117	51	Flag_Waving,Loaded_Language
+703821117	52	Causal_Oversimplification
+703821117	53	
+703821117	54	Causal_Oversimplification,Conversation_Killer
+703821117	55	
+703821117	56	Causal_Oversimplification
+703821117	57	Loaded_Language
+703821117	58	Causal_Oversimplification
+703821117	59	Appeal_to_Authority,Appeal_to_Fear-Prejudice,Loaded_Language
+703821117	60	Guilt_by_Association,Name_Calling-Labeling
+703821117	61	Exaggeration-Minimisation,Flag_Waving,Repetition
+703821117	62	
+703821117	63	

@@ -1,0 +1,48 @@
+26211	1	Loaded_Language
+26211	3	Appeal_to_Fear-Prejudice
+26211	5	
+26211	7	Appeal_to_Fear-Prejudice,Doubt
+26211	9	Doubt
+26211	11	Appeal_to_Fear-Prejudice
+26211	13	Appeal_to_Fear-Prejudice,Doubt,Loaded_Language,Questioning_the_Reputation
+26211	15	
+26211	17	
+26211	19	
+26211	21	
+26211	23	
+26211	25	
+26211	27	
+26211	29	
+26211	31	Appeal_to_Fear-Prejudice,Doubt
+26211	33	Appeal_to_Fear-Prejudice,Doubt
+26211	35	Doubt
+26211	37	Appeal_to_Fear-Prejudice
+26211	39	
+26211	41	
+26211	43	
+26211	45	Appeal_to_Fear-Prejudice
+26211	47	Appeal_to_Fear-Prejudice
+26211	49	
+26211	51	Appeal_to_Fear-Prejudice,Doubt
+26211	53	
+26211	55	Loaded_Language
+26211	57	Doubt
+26211	59	Appeal_to_Authority
+26211	61	Doubt
+26211	63	
+26211	65	Appeal_to_Fear-Prejudice,Doubt
+26211	67	
+26211	69	Appeal_to_Fear-Prejudice,Doubt
+26211	71	
+26211	73	
+26211	75	
+26211	77	Appeal_to_Fear-Prejudice,Doubt,Loaded_Language
+26211	79	Doubt
+26211	81	Questioning_the_Reputation
+26211	83	Doubt
+26211	85	
+26211	87	Doubt
+26211	89	
+26211	91	
+26211	93	
+26211	95	Doubt

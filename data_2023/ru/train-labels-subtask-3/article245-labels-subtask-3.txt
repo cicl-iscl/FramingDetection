@@ -1,0 +1,9 @@
+245	1	Name_Calling-Labeling
+245	3	Guilt_by_Association
+245	5	
+245	7	Name_Calling-Labeling
+245	9	Conversation_Killer,Loaded_Language,Name_Calling-Labeling,Repetition,Slogans
+245	11	
+245	13	Loaded_Language
+245	15	Guilt_by_Association,Loaded_Language
+245	17	Appeal_to_Values,Exaggeration-Minimisation,Loaded_Language,Slogans

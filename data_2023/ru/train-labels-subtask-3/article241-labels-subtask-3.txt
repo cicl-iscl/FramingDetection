@@ -1,0 +1,10 @@
+241	1	Loaded_Language
+241	3	Loaded_Language,Name_Calling-Labeling
+241	5	Doubt,Loaded_Language,Name_Calling-Labeling,Repetition,Slogans
+241	6	Loaded_Language,Repetition
+241	8	Appeal_to_Hypocrisy,Repetition
+241	10	Loaded_Language
+241	12	Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation,Repetition,Slogans
+241	14	Causal_Oversimplification,Doubt,Loaded_Language
+241	16	
+241	18	Doubt,Straw_Man

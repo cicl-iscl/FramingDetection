@@ -1,0 +1,16 @@
+25128	1	Loaded_Language
+25128	3	Loaded_Language,Name_Calling-Labeling,Slogans
+25128	5	Loaded_Language,Obfuscation-Vagueness-Confusion
+25128	7	Loaded_Language,Slogans
+25128	10	
+25128	12	
+25128	14	Guilt_by_Association,Name_Calling-Labeling
+25128	16	Exaggeration-Minimisation,Red_Herring
+25128	18	Doubt,Guilt_by_Association,Loaded_Language,Questioning_the_Reputation
+25128	20	Doubt,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+25128	24	
+25128	26	Appeal_to_Popularity,Doubt,Flag_Waving
+25128	28	
+25128	30	Loaded_Language,Questioning_the_Reputation
+25128	32	
+25128	34	Doubt,Loaded_Language,Questioning_the_Reputation

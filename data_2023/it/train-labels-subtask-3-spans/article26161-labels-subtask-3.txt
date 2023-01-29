@@ -1,0 +1,6 @@
+26161	Doubt	1330	1407
+26161	Name_Calling-Labeling	1394	1406
+26161	Loaded_Language	1150	1168
+26161	Loaded_Language	595	604
+26161	Loaded_Language	1384	1406
+26161	Name_Calling-Labeling	1317	1327

@@ -1,0 +1,7 @@
+24143	Questioning_the_Reputation	0	60
+24143	Questioning_the_Reputation	287	344
+24143	Questioning_the_Reputation	62	143
+24143	Loaded_Language	11	26
+24143	Questioning_the_Reputation	924	983
+24143	Questioning_the_Reputation	694	727
+24143	Doubt	777	921

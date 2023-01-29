@@ -1,0 +1,7 @@
+23193	Slogans	1977	2048
+23193	Exaggeration-Minimisation	1110	1131
+23193	Appeal_to_Values	341	441
+23193	Name_Calling-Labeling	206	234
+23193	Name_Calling-Labeling	1624	1644
+23193	Slogans	341	377
+23193	Name_Calling-Labeling	1295	1333

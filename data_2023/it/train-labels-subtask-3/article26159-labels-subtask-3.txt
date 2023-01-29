@@ -1,0 +1,20 @@
+26159	1	Appeal_to_Time
+26159	3	Name_Calling-Labeling
+26159	5	Appeal_to_Fear-Prejudice,Conversation_Killer,Flag_Waving,Loaded_Language,Name_Calling-Labeling,Slogans
+26159	7	Exaggeration-Minimisation,Loaded_Language
+26159	9	Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling
+26159	11	False_Dilemma-No_Choice,Flag_Waving
+26159	13	
+26159	15	Name_Calling-Labeling
+26159	17	Guilt_by_Association,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+26159	19	Appeal_to_Values,Causal_Oversimplification,Loaded_Language,Name_Calling-Labeling
+26159	21	Doubt,Loaded_Language
+26159	23	Exaggeration-Minimisation,Loaded_Language
+26159	25	Loaded_Language,Name_Calling-Labeling
+26159	27	Conversation_Killer,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+26159	29	Loaded_Language
+26159	31	Name_Calling-Labeling,Questioning_the_Reputation
+26159	33	Loaded_Language
+26159	35	
+26159	37	Appeal_to_Values,Slogans
+26159	39	Conversation_Killer,Slogans

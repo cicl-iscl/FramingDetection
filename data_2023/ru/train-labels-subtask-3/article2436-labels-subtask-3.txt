@@ -1,0 +1,9 @@
+2436	1	
+2436	3	Doubt
+2436	5	
+2436	7	Appeal_to_Hypocrisy,Appeal_to_Time,Questioning_the_Reputation
+2436	9	
+2436	11	Name_Calling-Labeling
+2436	13	Name_Calling-Labeling,Slogans
+2436	15	Questioning_the_Reputation
+2436	17	Appeal_to_Hypocrisy

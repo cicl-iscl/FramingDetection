@@ -1,0 +1,7 @@
+25114	1	Name_Calling-Labeling
+25114	3	Appeal_to_Values,Loaded_Language,Questioning_the_Reputation
+25114	5	Appeal_to_Fear-Prejudice,Appeal_to_Hypocrisy,Guilt_by_Association,Name_Calling-Labeling,Questioning_the_Reputation
+25114	7	Appeal_to_Hypocrisy,Guilt_by_Association,Name_Calling-Labeling
+25114	9	Appeal_to_Hypocrisy,Appeal_to_Popularity,Doubt,Name_Calling-Labeling,Questioning_the_Reputation
+25114	11	Questioning_the_Reputation
+25114	13	

@@ -1,0 +1,24 @@
+25107	1	
+25107	3	
+25107	5	
+25107	7	
+25107	9	
+25107	11	
+25107	13	
+25107	15	
+25107	17	
+25107	19	
+25107	21	
+25107	23	Loaded_Language
+25107	25	
+25107	27	
+25107	29	
+25107	31	Exaggeration-Minimisation
+25107	33	Conversation_Killer
+25107	35	Appeal_to_Fear-Prejudice,False_Dilemma-No_Choice
+25107	37	Obfuscation-Vagueness-Confusion
+25107	39	Causal_Oversimplification,Obfuscation-Vagueness-Confusion
+25107	41	
+25107	43	
+25107	45	
+25107	47	

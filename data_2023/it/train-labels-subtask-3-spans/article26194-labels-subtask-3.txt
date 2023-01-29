@@ -1,0 +1,5 @@
+26194	Appeal_to_Values	1554	1604
+26194	Appeal_to_Values	663	761
+26194	Loaded_Language	790	804
+26194	Appeal_to_Values	1558	1604
+26194	Loaded_Language	125	141

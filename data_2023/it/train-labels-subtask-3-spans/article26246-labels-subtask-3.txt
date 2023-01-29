@@ -1,0 +1,6 @@
+26246	Conversation_Killer	454	478
+26246	Name_Calling-Labeling	831	841
+26246	Name_Calling-Labeling	1527	1540
+26246	Appeal_to_Fear-Prejudice	637	674
+26246	Appeal_to_Popularity	935	1044
+26246	Appeal_to_Fear-Prejudice	212	329

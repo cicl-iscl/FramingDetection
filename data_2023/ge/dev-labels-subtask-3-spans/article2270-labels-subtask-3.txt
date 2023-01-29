@@ -1,0 +1,7 @@
+2270	Name_Calling-Labeling	789	801
+2270	Loaded_Language	368	389
+2270	Name_Calling-Labeling	103	133
+2270	Appeal_to_Popularity	804	1031
+2270	Name_Calling-Labeling	1137	1154
+2270	Name_Calling-Labeling	495	510
+2270	Questioning_the_Reputation	513	670

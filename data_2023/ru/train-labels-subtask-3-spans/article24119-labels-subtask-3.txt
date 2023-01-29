@@ -1,0 +1,3 @@
+24119	Name_Calling-Labeling	503	511
+24119	Questioning_the_Reputation	720	972
+24119	Loaded_Language	495	577

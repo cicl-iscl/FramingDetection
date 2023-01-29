@@ -1,0 +1,24 @@
+759337941	1	Loaded_Language,Name_Calling-Labeling
+759337941	3	Doubt,Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling
+759337941	4	Exaggeration-Minimisation,Name_Calling-Labeling
+759337941	5	Exaggeration-Minimisation
+759337941	6	
+759337941	7	
+759337941	8	
+759337941	9	
+759337941	10	
+759337941	11	Loaded_Language
+759337941	12	Loaded_Language,Name_Calling-Labeling
+759337941	13	
+759337941	14	Name_Calling-Labeling,Repetition
+759337941	15	Name_Calling-Labeling
+759337941	16	
+759337941	17	Loaded_Language
+759337941	18	Doubt
+759337941	19	
+759337941	20	Loaded_Language
+759337941	21	
+759337941	22	Exaggeration-Minimisation
+759337941	23	
+759337941	24	
+759337941	25	

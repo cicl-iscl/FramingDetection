@@ -1,0 +1,8 @@
+2365	1	Loaded_Language
+2365	3	Appeal_to_Fear-Prejudice,Conversation_Killer,Loaded_Language,Name_Calling-Labeling
+2365	5	Doubt,Loaded_Language,Name_Calling-Labeling
+2365	7	Doubt,Loaded_Language,Name_Calling-Labeling,Obfuscation-Vagueness-Confusion,Red_Herring,Slogans
+2365	9	Loaded_Language,Name_Calling-Labeling,Repetition
+2365	11	Guilt_by_Association,Red_Herring
+2365	13	Appeal_to_Time,Appeal_to_Values,Consequential_Oversimplification
+2365	15	Appeal_to_Hypocrisy,Loaded_Language,Obfuscation-Vagueness-Confusion

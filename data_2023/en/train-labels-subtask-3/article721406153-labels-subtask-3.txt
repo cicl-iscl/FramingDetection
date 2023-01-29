@@ -1,0 +1,14 @@
+721406153	1	Loaded_Language
+721406153	3	Loaded_Language,Name_Calling-Labeling
+721406153	4	
+721406153	5	Loaded_Language
+721406153	6	Loaded_Language
+721406153	7	
+721406153	8	False_Dilemma-No_Choice,Loaded_Language
+721406153	9	Causal_Oversimplification,Doubt
+721406153	10	
+721406153	11	
+721406153	12	Repetition
+721406153	13	Loaded_Language
+721406153	14	Appeal_to_Fear-Prejudice,Repetition
+721406153	15	Loaded_Language,Repetition

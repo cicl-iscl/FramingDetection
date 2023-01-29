@@ -1,0 +1,34 @@
+2519	2	Doubt,Slogans
+2519	4	Guilt_by_Association,Name_Calling-Labeling
+2519	6	Guilt_by_Association,Name_Calling-Labeling,Slogans
+2519	8	Doubt
+2519	10	Exaggeration-Minimisation
+2519	12	Doubt,Exaggeration-Minimisation
+2519	14	Exaggeration-Minimisation
+2519	16	Appeal_to_Hypocrisy,Name_Calling-Labeling
+2519	18	Loaded_Language,Slogans
+2519	20	Slogans
+2519	22	Doubt,Loaded_Language,Name_Calling-Labeling,Slogans
+2519	24	Appeal_to_Values,Flag_Waving,Questioning_the_Reputation,Whataboutism
+2519	26	Slogans
+2519	28	
+2519	30	Loaded_Language
+2519	32	Appeal_to_Fear-Prejudice,Conversation_Killer
+2519	34	
+2519	36	Consequential_Oversimplification
+2519	38	
+2519	40	
+2519	42	Name_Calling-Labeling
+2519	44	Conversation_Killer,Name_Calling-Labeling
+2519	46	Name_Calling-Labeling
+2519	48	Appeal_to_Authority
+2519	50	Appeal_to_Hypocrisy
+2519	52	Appeal_to_Hypocrisy,Loaded_Language,Name_Calling-Labeling
+2519	54	
+2519	56	Name_Calling-Labeling
+2519	58	
+2519	60	Questioning_the_Reputation
+2519	62	
+2519	64	Loaded_Language,Name_Calling-Labeling,Obfuscation-Vagueness-Confusion
+2519	66	
+2519	68	Loaded_Language,Name_Calling-Labeling

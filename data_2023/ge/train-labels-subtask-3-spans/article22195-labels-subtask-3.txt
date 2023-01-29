@@ -1,0 +1,4 @@
+22195	Appeal_to_Authority	155	197
+22195	Questioning_the_Reputation	1175	1315
+22195	Name_Calling-Labeling	634	660
+22195	Appeal_to_Time	571	609

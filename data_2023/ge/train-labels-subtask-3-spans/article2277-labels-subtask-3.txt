@@ -1,0 +1,7 @@
+2277	Questioning_the_Reputation	1146	1223
+2277	Causal_Oversimplification	1226	1391
+2277	Name_Calling-Labeling	49	63
+2277	Conversation_Killer	354	403
+2277	Guilt_by_Association	561	641
+2277	Name_Calling-Labeling	426	438
+2277	Loaded_Language	1349	1391

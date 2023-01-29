@@ -1,0 +1,25 @@
+2527	1	Exaggeration-Minimisation
+2527	3	Exaggeration-Minimisation
+2527	5	Loaded_Language
+2527	7	Doubt,Loaded_Language,Red_Herring
+2527	9	
+2527	11	Exaggeration-Minimisation
+2527	13	
+2527	15	Appeal_to_Hypocrisy,Loaded_Language
+2527	17	Loaded_Language
+2527	19	Straw_Man
+2527	21	Loaded_Language
+2527	23	Appeal_to_Values,Loaded_Language,Straw_Man,Whataboutism
+2527	25	
+2527	27	Doubt,Exaggeration-Minimisation
+2527	29	
+2527	31	
+2527	33	
+2527	35	
+2527	37	
+2527	39	Straw_Man
+2527	41	
+2527	43	Appeal_to_Hypocrisy,Loaded_Language,Red_Herring
+2527	45	
+2527	47	Doubt,Loaded_Language
+2527	49	Name_Calling-Labeling

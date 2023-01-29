@@ -1,0 +1,17 @@
+2214	1	Consequential_Oversimplification,Name_Calling-Labeling
+2214	3	Appeal_to_Authority,Consequential_Oversimplification,Conversation_Killer,Name_Calling-Labeling,Slogans
+2214	5	Appeal_to_Authority
+2214	7	Consequential_Oversimplification,Conversation_Killer,Loaded_Language,Slogans
+2214	9	Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling,Repetition
+2214	11	Appeal_to_Authority,Appeal_to_Fear-Prejudice,Consequential_Oversimplification
+2214	13	Appeal_to_Authority,Appeal_to_Fear-Prejudice,Flag_Waving,Name_Calling-Labeling
+2214	15	Appeal_to_Fear-Prejudice,Doubt,Flag_Waving
+2214	17	Appeal_to_Authority,False_Dilemma-No_Choice,Name_Calling-Labeling
+2214	19	Appeal_to_Time,Conversation_Killer,Name_Calling-Labeling
+2214	21	Appeal_to_Fear-Prejudice,Appeal_to_Values,Flag_Waving,Name_Calling-Labeling
+2214	23	Loaded_Language
+2214	25	Appeal_to_Authority,Appeal_to_Fear-Prejudice,Flag_Waving,Loaded_Language,Name_Calling-Labeling
+2214	27	Appeal_to_Fear-Prejudice
+2214	29	Appeal_to_Fear-Prejudice,Exaggeration-Minimisation,Name_Calling-Labeling
+2214	31	Appeal_to_Fear-Prejudice,Appeal_to_Popularity,Flag_Waving,Name_Calling-Labeling
+2214	33	

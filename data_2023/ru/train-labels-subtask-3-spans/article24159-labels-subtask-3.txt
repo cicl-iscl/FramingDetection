@@ -1,0 +1,5 @@
+24159	Loaded_Language	752	764
+24159	Appeal_to_Values	65	334
+24159	Appeal_to_Values	2131	2179
+24159	Loaded_Language	299	334
+24159	Loaded_Language	2202	2218

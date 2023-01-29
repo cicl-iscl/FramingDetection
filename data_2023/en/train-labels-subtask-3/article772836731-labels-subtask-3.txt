@@ -1,0 +1,37 @@
+772836731	1	Name_Calling-Labeling
+772836731	3	Conversation_Killer,Loaded_Language,Repetition
+772836731	4	Exaggeration-Minimisation,Flag_Waving,Loaded_Language,Name_Calling-Labeling,Repetition
+772836731	5	Flag_Waving
+772836731	6	Appeal_to_Hypocrisy,Causal_Oversimplification,Loaded_Language,Name_Calling-Labeling
+772836731	7	False_Dilemma-No_Choice,Flag_Waving,Loaded_Language,Name_Calling-Labeling
+772836731	8	Flag_Waving,Loaded_Language,Name_Calling-Labeling
+772836731	9	
+772836731	10	
+772836731	11	
+772836731	12	Loaded_Language,Name_Calling-Labeling
+772836731	13	Flag_Waving,Loaded_Language,Name_Calling-Labeling
+772836731	14	
+772836731	15	
+772836731	16	Flag_Waving,Name_Calling-Labeling
+772836731	17	Flag_Waving
+772836731	18	
+772836731	19	Conversation_Killer,False_Dilemma-No_Choice,Name_Calling-Labeling
+772836731	20	Loaded_Language
+772836731	21	Flag_Waving,Loaded_Language,Name_Calling-Labeling
+772836731	22	Loaded_Language,Name_Calling-Labeling
+772836731	23	Name_Calling-Labeling
+772836731	24	Exaggeration-Minimisation
+772836731	25	
+772836731	26	
+772836731	27	Exaggeration-Minimisation,Name_Calling-Labeling
+772836731	28	
+772836731	29	Flag_Waving
+772836731	30	Loaded_Language
+772836731	31	Exaggeration-Minimisation
+772836731	32	
+772836731	33	Flag_Waving
+772836731	34	Exaggeration-Minimisation,Repetition
+772836731	35	Repetition
+772836731	36	Name_Calling-Labeling
+772836731	37	
+772836731	38	

@@ -1,0 +1,21 @@
+2237	1	Slogans
+2237	3	Name_Calling-Labeling
+2237	5	Slogans
+2237	7	Name_Calling-Labeling,Questioning_the_Reputation
+2237	9	
+2237	11	Appeal_to_Hypocrisy,Loaded_Language,Name_Calling-Labeling,Slogans
+2237	13	Doubt
+2237	15	
+2237	17	Exaggeration-Minimisation,Loaded_Language,Questioning_the_Reputation,Slogans
+2237	19	Exaggeration-Minimisation,Guilt_by_Association,Name_Calling-Labeling,Questioning_the_Reputation
+2237	21	
+2237	23	Appeal_to_Values,Name_Calling-Labeling
+2237	25	Appeal_to_Values,Causal_Oversimplification,Slogans
+2237	27	
+2237	29	Appeal_to_Hypocrisy,Flag_Waving,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+2237	31	
+2237	33	Conversation_Killer,Name_Calling-Labeling
+2237	35	
+2237	37	Slogans
+2237	39	Conversation_Killer,Name_Calling-Labeling
+2237	41	

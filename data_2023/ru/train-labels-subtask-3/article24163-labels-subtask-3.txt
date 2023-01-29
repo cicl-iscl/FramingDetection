@@ -1,0 +1,17 @@
+24163	1	Loaded_Language
+24163	3	Doubt,Loaded_Language
+24163	5	Doubt,Loaded_Language
+24163	7	
+24163	9	Loaded_Language
+24163	11	Doubt,Loaded_Language
+24163	13	Loaded_Language
+24163	15	
+24163	17	Name_Calling-Labeling
+24163	19	Doubt,Name_Calling-Labeling
+24163	21	
+24163	23	
+24163	25	
+24163	27	Doubt
+24163	29	Loaded_Language
+24163	31	Loaded_Language,Name_Calling-Labeling
+24163	33	Loaded_Language

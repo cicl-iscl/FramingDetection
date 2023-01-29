@@ -1,0 +1,6 @@
+2293	1	Appeal_to_Fear-Prejudice,Slogans
+2293	3	Appeal_to_Fear-Prejudice,Loaded_Language,Name_Calling-Labeling
+2293	5	Appeal_to_Fear-Prejudice,Doubt,Name_Calling-Labeling
+2293	7	
+2293	9	Appeal_to_Fear-Prejudice,Exaggeration-Minimisation,Flag_Waving,Straw_Man
+2293	11	Appeal_to_Fear-Prejudice,Flag_Waving,Loaded_Language,Name_Calling-Labeling,Slogans

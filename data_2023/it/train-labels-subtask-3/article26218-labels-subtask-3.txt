@@ -1,0 +1,7 @@
+26218	1	Questioning_the_Reputation
+26218	3	Appeal_to_Popularity,Doubt,Guilt_by_Association,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+26218	5	Loaded_Language
+26218	7	Appeal_to_Hypocrisy,Doubt,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation,Repetition
+26218	9	Doubt,Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+26218	11	Appeal_to_Hypocrisy,Doubt,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+26218	13	Doubt,Loaded_Language,Obfuscation-Vagueness-Confusion,Red_Herring

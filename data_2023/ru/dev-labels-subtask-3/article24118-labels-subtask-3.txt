@@ -1,0 +1,18 @@
+24118	1	Loaded_Language,Slogans
+24118	3	
+24118	5	Questioning_the_Reputation
+24118	7	Doubt
+24118	9	
+24118	11	Doubt,Whataboutism
+24118	13	
+24118	15	
+24118	17	
+24118	19	Loaded_Language
+24118	21	
+24118	23	
+24118	25	
+24118	27	
+24118	29	
+24118	31	Questioning_the_Reputation
+24118	33	
+24118	35	Name_Calling-Labeling,Questioning_the_Reputation

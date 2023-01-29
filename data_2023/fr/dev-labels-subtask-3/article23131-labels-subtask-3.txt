@@ -1,0 +1,6 @@
+23131	1	Guilt_by_Association
+23131	3	Conversation_Killer,Doubt,Flag_Waving,Loaded_Language
+23131	5	Doubt,Guilt_by_Association,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+23131	7	Doubt,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation,Straw_Man,Whataboutism
+23131	9	Loaded_Language,Name_Calling-Labeling,Red_Herring
+23131	11	

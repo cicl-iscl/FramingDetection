@@ -1,0 +1,18 @@
+25179	1	Name_Calling-Labeling
+25179	3	Doubt,Guilt_by_Association
+25179	5	
+25179	7	
+25179	9	Name_Calling-Labeling,Questioning_the_Reputation
+25179	11	
+25179	13	
+25179	15	Name_Calling-Labeling
+25179	17	
+25179	19	Name_Calling-Labeling
+25179	21	
+25179	23	Guilt_by_Association,Name_Calling-Labeling
+25179	25	
+25179	27	Loaded_Language
+25179	29	Doubt,Loaded_Language,Name_Calling-Labeling
+25179	31	Doubt
+25179	33	Doubt
+25179	35	Name_Calling-Labeling

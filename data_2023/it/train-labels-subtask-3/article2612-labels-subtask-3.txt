@@ -1,0 +1,4 @@
+2612	1	Name_Calling-Labeling,Slogans
+2612	3	Name_Calling-Labeling
+2612	4	Flag_Waving
+2612	5	Appeal_to_Fear-Prejudice,Conversation_Killer,Doubt,Loaded_Language

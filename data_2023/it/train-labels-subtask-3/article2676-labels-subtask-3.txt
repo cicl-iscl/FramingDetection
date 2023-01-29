@@ -1,0 +1,7 @@
+2676	1	Loaded_Language,Name_Calling-Labeling
+2676	3	Name_Calling-Labeling
+2676	4	Name_Calling-Labeling
+2676	6	Conversation_Killer,Doubt,Name_Calling-Labeling,Questioning_the_Reputation
+2676	8	Doubt,Exaggeration-Minimisation,Guilt_by_Association,Loaded_Language,Name_Calling-Labeling,Repetition
+2676	9	
+2676	11	False_Dilemma-No_Choice,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation,Slogans

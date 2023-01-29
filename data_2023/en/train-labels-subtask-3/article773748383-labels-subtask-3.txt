@@ -1,0 +1,21 @@
+773748383	1	Loaded_Language
+773748383	3	Loaded_Language
+773748383	4	
+773748383	5	Loaded_Language
+773748383	6	
+773748383	7	
+773748383	8	
+773748383	9	
+773748383	10	
+773748383	11	Exaggeration-Minimisation
+773748383	12	
+773748383	13	
+773748383	14	
+773748383	15	
+773748383	16	Exaggeration-Minimisation
+773748383	17	
+773748383	18	Exaggeration-Minimisation,Loaded_Language
+773748383	19	Doubt
+773748383	20	Doubt,Loaded_Language
+773748383	21	
+773748383	22	Loaded_Language,Name_Calling-Labeling

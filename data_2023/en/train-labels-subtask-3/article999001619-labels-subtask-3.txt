@@ -1,0 +1,62 @@
+999001619	1	Loaded_Language
+999001619	3	Loaded_Language
+999001619	4	Doubt,Exaggeration-Minimisation,Name_Calling-Labeling
+999001619	5	Doubt
+999001619	6	Doubt
+999001619	7	Doubt
+999001619	8	Loaded_Language
+999001619	9	Name_Calling-Labeling
+999001619	10	
+999001619	11	
+999001619	12	Name_Calling-Labeling
+999001619	13	
+999001619	14	
+999001619	15	
+999001619	16	Loaded_Language
+999001619	17	Doubt
+999001619	18	
+999001619	19	
+999001619	20	Doubt
+999001619	21	
+999001619	22	Loaded_Language,Name_Calling-Labeling
+999001619	23	Doubt
+999001619	24	
+999001619	25	Doubt,Repetition
+999001619	26	
+999001619	27	Name_Calling-Labeling
+999001619	28	Doubt
+999001619	29	Doubt
+999001619	30	Doubt,Exaggeration-Minimisation
+999001619	31	Appeal_to_Authority
+999001619	32	Doubt
+999001619	33	
+999001619	34	Doubt,Name_Calling-Labeling
+999001619	35	
+999001619	36	Doubt
+999001619	37	Loaded_Language
+999001619	38	Name_Calling-Labeling
+999001619	39	Doubt,Loaded_Language,Name_Calling-Labeling
+999001619	40	Doubt
+999001619	41	Doubt,Loaded_Language,Name_Calling-Labeling
+999001619	42	Doubt,Name_Calling-Labeling
+999001619	43	Name_Calling-Labeling
+999001619	44	
+999001619	45	Doubt,Name_Calling-Labeling
+999001619	46	Doubt,Loaded_Language,Name_Calling-Labeling
+999001619	47	Doubt
+999001619	48	Doubt,Loaded_Language,Name_Calling-Labeling
+999001619	49	Doubt,Name_Calling-Labeling
+999001619	50	Doubt,Name_Calling-Labeling
+999001619	51	
+999001619	52	Doubt,Name_Calling-Labeling
+999001619	53	Doubt,Exaggeration-Minimisation,Name_Calling-Labeling
+999001619	54	Doubt,Name_Calling-Labeling
+999001619	55	Doubt,Name_Calling-Labeling
+999001619	56	Doubt,Loaded_Language,Name_Calling-Labeling
+999001619	57	Name_Calling-Labeling
+999001619	58	Doubt,Name_Calling-Labeling
+999001619	59	Doubt,Loaded_Language
+999001619	60	Causal_Oversimplification,Loaded_Language,Name_Calling-Labeling
+999001619	61	Causal_Oversimplification,Repetition
+999001619	62	Name_Calling-Labeling
+999001619	63	

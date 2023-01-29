@@ -1,0 +1,4 @@
+24175	Doubt	303	435
+24175	Questioning_the_Reputation	58	148
+24175	Loaded_Language	503	529
+24175	Questioning_the_Reputation	1041	1159

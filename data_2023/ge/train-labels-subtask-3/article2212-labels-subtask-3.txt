@@ -1,0 +1,8 @@
+2212	1	Name_Calling-Labeling
+2212	3	Appeal_to_Authority,Name_Calling-Labeling
+2212	5	
+2212	6	Doubt
+2212	8	Name_Calling-Labeling
+2212	9	
+2212	11	Appeal_to_Authority,Conversation_Killer,Doubt,Name_Calling-Labeling
+2212	13	Exaggeration-Minimisation

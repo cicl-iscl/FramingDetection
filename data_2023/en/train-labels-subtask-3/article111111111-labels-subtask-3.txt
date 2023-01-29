@@ -1,0 +1,15 @@
+111111111	1	
+111111111	3	Doubt
+111111111	5	Appeal_to_Authority
+111111111	7	
+111111111	9	
+111111111	11	
+111111111	13	Repetition
+111111111	15	
+111111111	17	Appeal_to_Fear-Prejudice
+111111111	19	Appeal_to_Fear-Prejudice
+111111111	21	
+111111111	23	Appeal_to_Authority,Appeal_to_Fear-Prejudice
+111111111	25	Appeal_to_Fear-Prejudice
+111111111	27	
+111111111	29	

@@ -1,0 +1,45 @@
+25104	1	Exaggeration-Minimisation
+25104	3	Doubt,Exaggeration-Minimisation
+25104	5	
+25104	7	
+25104	9	Exaggeration-Minimisation
+25104	11	Doubt,Name_Calling-Labeling
+25104	13	Obfuscation-Vagueness-Confusion
+25104	15	Loaded_Language
+25104	17	
+25104	19	Appeal_to_Fear-Prejudice
+25104	21	
+25104	23	Appeal_to_Values
+25104	25	
+25104	27	
+25104	29	Exaggeration-Minimisation
+25104	31	Doubt,Slogans
+25104	33	
+25104	35	
+25104	37	Doubt
+25104	39	Name_Calling-Labeling
+25104	41	
+25104	43	Doubt,Name_Calling-Labeling
+25104	45	Doubt,Slogans
+25104	47	
+25104	49	
+25104	51	Appeal_to_Popularity,Consequential_Oversimplification
+25104	53	
+25104	55	
+25104	57	
+25104	59	Doubt
+25104	61	Appeal_to_Hypocrisy
+25104	63	Name_Calling-Labeling
+25104	65	
+25104	67	Appeal_to_Hypocrisy,Name_Calling-Labeling
+25104	69	
+25104	71	Appeal_to_Authority,Doubt
+25104	73	Questioning_the_Reputation
+25104	75	Appeal_to_Hypocrisy
+25104	77	Appeal_to_Hypocrisy
+25104	79	Name_Calling-Labeling
+25104	81	Conversation_Killer,Doubt,Name_Calling-Labeling
+25104	83	
+25104	85	Doubt
+25104	87	Conversation_Killer
+25104	89	Doubt,Name_Calling-Labeling

@@ -1,0 +1,70 @@
+2533	1	Questioning_the_Reputation
+2533	3	
+2533	5	
+2533	7	
+2533	9	Doubt,Loaded_Language
+2533	11	Doubt,Loaded_Language
+2533	13	
+2533	15	Doubt,Name_Calling-Labeling
+2533	17	Doubt
+2533	19	
+2533	21	Doubt,Loaded_Language
+2533	23	Doubt
+2533	25	Doubt
+2533	27	Doubt
+2533	29	Doubt
+2533	31	
+2533	33	
+2533	35	
+2533	37	
+2533	39	Obfuscation-Vagueness-Confusion
+2533	41	Doubt
+2533	43	Questioning_the_Reputation
+2533	45	Doubt
+2533	47	
+2533	49	Appeal_to_Fear-Prejudice,Doubt,Loaded_Language
+2533	51	Name_Calling-Labeling
+2533	53	Appeal_to_Hypocrisy,Doubt,Loaded_Language
+2533	55	
+2533	57	Appeal_to_Fear-Prejudice
+2533	59	Doubt
+2533	61	Exaggeration-Minimisation
+2533	63	
+2533	65	Doubt
+2533	67	
+2533	69	
+2533	70	
+2533	72	Appeal_to_Authority,Exaggeration-Minimisation,Name_Calling-Labeling
+2533	74	Loaded_Language
+2533	76	Loaded_Language
+2533	78	
+2533	80	Doubt
+2533	82	Loaded_Language
+2533	84	Doubt
+2533	86	
+2533	88	Questioning_the_Reputation
+2533	90	
+2533	92	
+2533	94	
+2533	96	
+2533	98	Doubt
+2533	100	Doubt
+2533	102	Doubt,Loaded_Language
+2533	104	Doubt
+2533	106	
+2533	108	
+2533	110	Doubt
+2533	112	
+2533	114	Loaded_Language,Questioning_the_Reputation
+2533	116	
+2533	118	
+2533	120	
+2533	122	Doubt
+2533	124	
+2533	126	Appeal_to_Fear-Prejudice
+2533	128	Doubt
+2533	130	Loaded_Language,Questioning_the_Reputation
+2533	132	Questioning_the_Reputation
+2533	134	Questioning_the_Reputation
+2533	136	
+2533	138	Doubt

@@ -1,0 +1,2 @@
+2258	1	Name_Calling-Labeling,Slogans
+2258	3	Doubt,Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling,Obfuscation-Vagueness-Confusion,Slogans

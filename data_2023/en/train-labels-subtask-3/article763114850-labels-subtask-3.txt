@@ -1,0 +1,22 @@
+763114850	1	
+763114850	3	Doubt,Loaded_Language,Name_Calling-Labeling
+763114850	4	Loaded_Language
+763114850	5	Loaded_Language,Repetition
+763114850	6	
+763114850	7	
+763114850	8	
+763114850	9	
+763114850	10	
+763114850	11	Loaded_Language,Name_Calling-Labeling,Repetition
+763114850	12	
+763114850	13	Doubt
+763114850	14	
+763114850	15	Doubt,Loaded_Language,Repetition
+763114850	16	Doubt,Loaded_Language
+763114850	17	Loaded_Language
+763114850	18	Loaded_Language
+763114850	19	Doubt
+763114850	20	
+763114850	21	Name_Calling-Labeling,Repetition
+763114850	22	Appeal_to_Fear-Prejudice
+763114850	23	

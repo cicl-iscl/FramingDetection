@@ -1,0 +1,14 @@
+26157	1	Loaded_Language,Questioning_the_Reputation
+26157	3	Straw_Man
+26157	5	
+26157	7	Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation,Red_Herring
+26157	9	Doubt,Questioning_the_Reputation
+26157	11	Doubt,Loaded_Language,Straw_Man
+26157	13	Name_Calling-Labeling
+26157	15	Appeal_to_Popularity,Causal_Oversimplification,Loaded_Language
+26157	17	Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling
+26157	19	Conversation_Killer,False_Dilemma-No_Choice
+26157	21	Appeal_to_Values,Loaded_Language,Name_Calling-Labeling
+26157	23	Name_Calling-Labeling
+26157	25	Doubt,Name_Calling-Labeling
+26157	27	Conversation_Killer,Guilt_by_Association,Loaded_Language,Name_Calling-Labeling

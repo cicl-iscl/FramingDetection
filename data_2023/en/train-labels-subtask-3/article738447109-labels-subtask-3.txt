@@ -1,0 +1,29 @@
+738447109	1	Slogans
+738447109	3	Slogans
+738447109	4	
+738447109	5	Appeal_to_Popularity,Doubt,Loaded_Language
+738447109	6	
+738447109	7	Appeal_to_Authority,Exaggeration-Minimisation
+738447109	8	Appeal_to_Authority,Exaggeration-Minimisation
+738447109	9	
+738447109	10	Appeal_to_Fear-Prejudice,Loaded_Language,Name_Calling-Labeling
+738447109	11	
+738447109	12	
+738447109	13	Doubt
+738447109	14	Flag_Waving,Name_Calling-Labeling
+738447109	15	
+738447109	16	
+738447109	17	
+738447109	18	Doubt,Exaggeration-Minimisation
+738447109	19	Doubt,Exaggeration-Minimisation
+738447109	20	Causal_Oversimplification,Doubt,Exaggeration-Minimisation,Flag_Waving,Loaded_Language
+738447109	21	Causal_Oversimplification,Doubt,Flag_Waving,Loaded_Language
+738447109	22	
+738447109	23	
+738447109	24	
+738447109	25	
+738447109	26	Loaded_Language
+738447109	27	Appeal_to_Authority,Name_Calling-Labeling
+738447109	28	
+738447109	29	Appeal_to_Fear-Prejudice,Conversation_Killer
+738447109	30	

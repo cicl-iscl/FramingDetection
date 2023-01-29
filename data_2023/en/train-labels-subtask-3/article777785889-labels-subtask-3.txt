@@ -1,0 +1,14 @@
+777785889	1	Name_Calling-Labeling
+777785889	3	Name_Calling-Labeling
+777785889	4	
+777785889	5	Name_Calling-Labeling
+777785889	6	
+777785889	7	Loaded_Language,Name_Calling-Labeling
+777785889	8	
+777785889	9	
+777785889	10	
+777785889	11	Exaggeration-Minimisation
+777785889	12	
+777785889	13	
+777785889	14	
+777785889	15	

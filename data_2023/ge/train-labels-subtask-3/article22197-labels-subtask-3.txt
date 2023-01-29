@@ -1,0 +1,8 @@
+22197	1	Doubt,Name_Calling-Labeling
+22197	3	
+22197	4	Doubt,Name_Calling-Labeling
+22197	6	
+22197	8	Appeal_to_Popularity,Exaggeration-Minimisation
+22197	10	Appeal_to_Authority,Name_Calling-Labeling
+22197	12	Obfuscation-Vagueness-Confusion
+22197	14	Name_Calling-Labeling,Obfuscation-Vagueness-Confusion

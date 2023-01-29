@@ -1,0 +1,3 @@
+22131	1	Appeal_to_Authority,Flag_Waving
+22131	3	Appeal_to_Authority,Loaded_Language,Name_Calling-Labeling
+22131	5	Appeal_to_Authority,Flag_Waving

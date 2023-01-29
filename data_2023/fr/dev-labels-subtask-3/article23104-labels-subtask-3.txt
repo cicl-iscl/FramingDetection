@@ -1,0 +1,8 @@
+23104	1	
+23104	3	Appeal_to_Authority
+23104	5	Appeal_to_Authority,Causal_Oversimplification,Consequential_Oversimplification,Loaded_Language
+23104	7	Consequential_Oversimplification,Loaded_Language
+23104	9	
+23104	11	
+23104	13	Appeal_to_Fear-Prejudice,Obfuscation-Vagueness-Confusion
+23104	15	Causal_Oversimplification

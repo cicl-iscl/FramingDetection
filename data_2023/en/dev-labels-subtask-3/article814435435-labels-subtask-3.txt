@@ -1,0 +1,18 @@
+814435435	1	Loaded_Language
+814435435	3	
+814435435	4	Doubt
+814435435	5	
+814435435	6	
+814435435	7	Name_Calling-Labeling
+814435435	8	Exaggeration-Minimisation
+814435435	9	Doubt,Loaded_Language
+814435435	10	
+814435435	11	Doubt,Slogans
+814435435	12	Doubt
+814435435	13	
+814435435	14	Doubt
+814435435	15	Doubt,Exaggeration-Minimisation
+814435435	16	
+814435435	17	
+814435435	18	Exaggeration-Minimisation,Name_Calling-Labeling
+814435435	19	

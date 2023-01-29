@@ -1,0 +1,3 @@
+24180	Name_Calling-Labeling	1159	1180
+24180	Loaded_Language	212	349
+24180	Appeal_to_Fear-Prejudice	1335	1547

@@ -1,0 +1,15 @@
+2521	2	
+2521	4	
+2521	6	Guilt_by_Association,Name_Calling-Labeling
+2521	8	
+2521	10	
+2521	12	Appeal_to_Fear-Prejudice
+2521	14	
+2521	16	
+2521	18	False_Dilemma-No_Choice
+2521	20	
+2521	22	Name_Calling-Labeling
+2521	24	Loaded_Language
+2521	26	
+2521	28	Name_Calling-Labeling
+2521	30	

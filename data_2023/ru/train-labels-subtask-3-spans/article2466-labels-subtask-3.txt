@@ -1,0 +1,4 @@
+2466	Doubt	1284	1339
+2466	Loaded_Language	989	1136
+2466	Doubt	1020	1136
+2466	Appeal_to_Values	979	1136

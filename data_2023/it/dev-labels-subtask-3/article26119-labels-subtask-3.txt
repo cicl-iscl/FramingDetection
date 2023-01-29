@@ -1,0 +1,14 @@
+26119	1	
+26119	3	Loaded_Language,Questioning_the_Reputation
+26119	5	Loaded_Language
+26119	7	
+26119	9	Doubt,Loaded_Language
+26119	11	
+26119	13	
+26119	15	Loaded_Language
+26119	17	Doubt,Name_Calling-Labeling
+26119	19	Doubt,Loaded_Language
+26119	21	Doubt,Loaded_Language
+26119	23	Doubt
+26119	25	
+26119	27	Conversation_Killer

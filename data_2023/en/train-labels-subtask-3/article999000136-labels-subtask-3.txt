@@ -1,0 +1,23 @@
+999000136	1	
+999000136	3	Loaded_Language,Name_Calling-Labeling
+999000136	4	
+999000136	5	
+999000136	6	
+999000136	7	
+999000136	8	
+999000136	9	
+999000136	10	Conversation_Killer
+999000136	11	
+999000136	12	
+999000136	13	Loaded_Language
+999000136	14	Loaded_Language
+999000136	15	Loaded_Language
+999000136	16	Conversation_Killer,Loaded_Language
+999000136	17	Exaggeration-Minimisation
+999000136	18	Repetition
+999000136	19	Loaded_Language
+999000136	20	Flag_Waving,Name_Calling-Labeling
+999000136	21	
+999000136	22	
+999000136	23	
+999000136	24	

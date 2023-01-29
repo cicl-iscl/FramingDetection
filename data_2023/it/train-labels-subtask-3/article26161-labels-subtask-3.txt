@@ -1,0 +1,4 @@
+26161	1	
+26161	3	
+26161	5	Loaded_Language
+26161	7	Doubt,Loaded_Language,Name_Calling-Labeling

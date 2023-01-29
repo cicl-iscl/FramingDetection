@@ -1,0 +1,22 @@
+23123	1	Slogans
+23123	3	Loaded_Language
+23123	5	Appeal_to_Time,Exaggeration-Minimisation,Loaded_Language,Questioning_the_Reputation,Straw_Man
+23123	7	Doubt
+23123	9	Causal_Oversimplification,Doubt,Exaggeration-Minimisation,Loaded_Language,Slogans
+23123	11	Consequential_Oversimplification,Doubt,Exaggeration-Minimisation
+23123	13	Appeal_to_Fear-Prejudice,Appeal_to_Values,Doubt,Red_Herring
+23123	15	Doubt,Loaded_Language
+23123	17	Doubt,Loaded_Language
+23123	19	Exaggeration-Minimisation,Loaded_Language,Questioning_the_Reputation
+23123	21	Doubt,Exaggeration-Minimisation,Loaded_Language
+23123	23	Causal_Oversimplification,Conversation_Killer,Name_Calling-Labeling,Straw_Man
+23123	25	Exaggeration-Minimisation,Loaded_Language
+23123	27	Doubt
+23123	29	Consequential_Oversimplification,Doubt,Loaded_Language,Name_Calling-Labeling,Straw_Man
+23123	31	Appeal_to_Fear-Prejudice,Exaggeration-Minimisation
+23123	33	Causal_Oversimplification,Exaggeration-Minimisation,Loaded_Language
+23123	35	Loaded_Language,Straw_Man
+23123	37	
+23123	39	Causal_Oversimplification,Loaded_Language,Repetition
+23123	41	Conversation_Killer,Exaggeration-Minimisation,Repetition,Slogans,Whataboutism
+23123	43	Conversation_Killer

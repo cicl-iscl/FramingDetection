@@ -1,0 +1,20 @@
+22158	1	
+22158	3	Doubt
+22158	5	Appeal_to_Authority
+22158	7	Doubt
+22158	9	Appeal_to_Authority,Name_Calling-Labeling
+22158	11	
+22158	13	Name_Calling-Labeling
+22158	15	
+22158	17	Name_Calling-Labeling
+22158	19	Doubt,Name_Calling-Labeling
+22158	21	Doubt
+22158	23	
+22158	25	
+22158	27	Appeal_to_Authority
+22158	29	Appeal_to_Authority
+22158	31	Doubt
+22158	33	
+22158	35	Doubt
+22158	37	
+22158	39	Doubt

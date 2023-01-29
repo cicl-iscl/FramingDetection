@@ -1,0 +1,22 @@
+771879020	1	
+771879020	3	Loaded_Language,Name_Calling-Labeling
+771879020	4	
+771879020	5	
+771879020	6	
+771879020	7	
+771879020	8	
+771879020	9	
+771879020	10	
+771879020	11	Causal_Oversimplification
+771879020	12	Exaggeration-Minimisation
+771879020	13	
+771879020	14	Conversation_Killer,Exaggeration-Minimisation,Name_Calling-Labeling
+771879020	15	
+771879020	16	Loaded_Language,Name_Calling-Labeling
+771879020	17	Appeal_to_Authority,Loaded_Language,Name_Calling-Labeling
+771879020	18	
+771879020	19	Exaggeration-Minimisation,Loaded_Language
+771879020	20	Doubt,Exaggeration-Minimisation
+771879020	21	
+771879020	22	Flag_Waving
+771879020	23	Exaggeration-Minimisation

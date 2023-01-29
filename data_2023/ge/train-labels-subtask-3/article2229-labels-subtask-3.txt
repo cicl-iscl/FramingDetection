@@ -1,0 +1,6 @@
+2229	1	Name_Calling-Labeling
+2229	3	Exaggeration-Minimisation
+2229	5	Doubt
+2229	7	Name_Calling-Labeling
+2229	9	Doubt,Exaggeration-Minimisation
+2229	11	Appeal_to_Fear-Prejudice,Doubt,Exaggeration-Minimisation,Name_Calling-Labeling

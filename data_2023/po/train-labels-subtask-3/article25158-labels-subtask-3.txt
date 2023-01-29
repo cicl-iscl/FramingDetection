@@ -1,0 +1,8 @@
+25158	1	Questioning_the_Reputation
+25158	3	Appeal_to_Values,Loaded_Language
+25158	5	Appeal_to_Values,Doubt,Loaded_Language
+25158	7	Doubt
+25158	9	Appeal_to_Values,Loaded_Language
+25158	11	Doubt
+25158	13	
+25158	15	Appeal_to_Hypocrisy

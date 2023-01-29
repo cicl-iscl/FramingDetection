@@ -1,0 +1,26 @@
+833018464	1	
+833018464	3	Name_Calling-Labeling
+833018464	4	Loaded_Language,Name_Calling-Labeling
+833018464	5	
+833018464	6	
+833018464	7	
+833018464	8	Doubt
+833018464	9	Doubt,Loaded_Language
+833018464	10	Name_Calling-Labeling
+833018464	11	Loaded_Language,Name_Calling-Labeling
+833018464	12	Doubt
+833018464	13	
+833018464	14	Loaded_Language,Name_Calling-Labeling
+833018464	15	Loaded_Language
+833018464	16	
+833018464	17	
+833018464	18	Loaded_Language
+833018464	19	Doubt
+833018464	20	Doubt
+833018464	21	
+833018464	22	
+833018464	23	Doubt
+833018464	24	
+833018464	25	
+833018464	26	Doubt,Loaded_Language
+833018464	27	

@@ -1,0 +1,41 @@
+26198	1	
+26198	3	
+26198	5	Conversation_Killer,Exaggeration-Minimisation
+26198	7	Doubt
+26198	9	
+26198	11	
+26198	13	
+26198	15	
+26198	17	
+26198	19	
+26198	21	Doubt
+26198	23	Loaded_Language
+26198	25	
+26198	27	
+26198	29	Appeal_to_Hypocrisy
+26198	31	
+26198	33	
+26198	35	
+26198	37	
+26198	39	Questioning_the_Reputation
+26198	41	Appeal_to_Hypocrisy,Loaded_Language
+26198	43	Name_Calling-Labeling,Questioning_the_Reputation
+26198	45	Conversation_Killer
+26198	47	Doubt,Loaded_Language,Questioning_the_Reputation
+26198	49	Loaded_Language
+26198	51	Loaded_Language
+26198	53	
+26198	55	Loaded_Language,Questioning_the_Reputation
+26198	57	Loaded_Language
+26198	59	Conversation_Killer
+26198	61	
+26198	63	
+26198	65	
+26198	67	
+26198	69	
+26198	71	Name_Calling-Labeling
+26198	73	
+26198	75	Appeal_to_Hypocrisy,Questioning_the_Reputation
+26198	77	
+26198	79	False_Dilemma-No_Choice,Name_Calling-Labeling
+26198	81	Loaded_Language

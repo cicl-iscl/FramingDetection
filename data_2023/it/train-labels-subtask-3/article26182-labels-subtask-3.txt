@@ -1,0 +1,9 @@
+26182	1	
+26182	3	Doubt,Loaded_Language
+26182	5	Appeal_to_Fear-Prejudice,Loaded_Language
+26182	7	
+26182	9	
+26182	11	Appeal_to_Values,Loaded_Language,Questioning_the_Reputation
+26182	13	
+26182	15	
+26182	17	Doubt

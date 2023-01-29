@@ -1,0 +1,4 @@
+23115	Loaded_Language	2359	2377
+23115	Exaggeration-Minimisation	783	877
+23115	Exaggeration-Minimisation	3487	3532
+23115	Loaded_Language	4084	4104

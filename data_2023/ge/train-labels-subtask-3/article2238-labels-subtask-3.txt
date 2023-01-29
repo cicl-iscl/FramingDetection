@@ -1,0 +1,6 @@
+2238	1	Appeal_to_Hypocrisy
+2238	3	Appeal_to_Hypocrisy,Doubt,Loaded_Language,Name_Calling-Labeling
+2238	6	Appeal_to_Hypocrisy,Name_Calling-Labeling
+2238	8	
+2238	10	Appeal_to_Authority,Questioning_the_Reputation
+2238	12	Name_Calling-Labeling

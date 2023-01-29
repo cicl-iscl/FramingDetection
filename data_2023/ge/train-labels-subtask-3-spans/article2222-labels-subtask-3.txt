@@ -1,0 +1,4 @@
+2222	Flag_Waving	307	405
+2222	Appeal_to_Hypocrisy	77	224
+2222	Name_Calling-Labeling	437	452
+2222	Name_Calling-Labeling	36	64

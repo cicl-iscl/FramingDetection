@@ -1,0 +1,17 @@
+25120	1	
+25120	3	Loaded_Language
+25120	5	Consequential_Oversimplification
+25120	7	
+25120	9	
+25120	11	Loaded_Language
+25120	13	
+25120	15	Guilt_by_Association
+25120	17	Doubt
+25120	19	Doubt
+25120	21	
+25120	23	Doubt
+25120	25	
+25120	27	Name_Calling-Labeling,Questioning_the_Reputation
+25120	29	Doubt
+25120	31	Doubt,Loaded_Language
+25120	33	Doubt,Name_Calling-Labeling,Questioning_the_Reputation

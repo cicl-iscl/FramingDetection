@@ -1,0 +1,14 @@
+2427	1	Appeal_to_Fear-Prejudice,Questioning_the_Reputation
+2427	3	Doubt,Loaded_Language,Name_Calling-Labeling
+2427	5	Appeal_to_Fear-Prejudice,Doubt,Loaded_Language,Name_Calling-Labeling
+2427	7	Loaded_Language
+2427	9	
+2427	11	Doubt
+2427	13	Appeal_to_Authority,Name_Calling-Labeling,Slogans
+2427	15	Guilt_by_Association,Name_Calling-Labeling
+2427	17	Doubt,Loaded_Language,Name_Calling-Labeling
+2427	19	Appeal_to_Fear-Prejudice,Doubt,Loaded_Language,Name_Calling-Labeling,Obfuscation-Vagueness-Confusion
+2427	21	Doubt,Loaded_Language,Name_Calling-Labeling,Repetition
+2427	23	Consequential_Oversimplification,Doubt,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+2427	25	Name_Calling-Labeling
+2427	27	Doubt,Guilt_by_Association,Loaded_Language,Name_Calling-Labeling

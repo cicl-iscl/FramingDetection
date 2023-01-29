@@ -1,0 +1,9 @@
+25146	1	Name_Calling-Labeling
+25146	3	Guilt_by_Association,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+25146	5	Appeal_to_Hypocrisy,Loaded_Language
+25146	7	Appeal_to_Values,Conversation_Killer,Doubt,Flag_Waving,Loaded_Language,Name_Calling-Labeling
+25146	9	Conversation_Killer,Doubt,Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+25146	11	Exaggeration-Minimisation,Flag_Waving,Name_Calling-Labeling,Questioning_the_Reputation
+25146	13	Appeal_to_Values
+25146	15	Name_Calling-Labeling
+25146	17	Name_Calling-Labeling,Questioning_the_Reputation

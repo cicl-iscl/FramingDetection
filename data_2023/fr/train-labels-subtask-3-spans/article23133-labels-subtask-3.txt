@@ -1,0 +1,7 @@
+23133	Loaded_Language	1182	1189
+23133	Name_Calling-Labeling	1605	1635
+23133	Loaded_Language	1078	1093
+23133	Slogans	1753	1821
+23133	Loaded_Language	1033	1048
+23133	Loaded_Language	0	28
+23133	Exaggeration-Minimisation	1139	1189

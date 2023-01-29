@@ -1,0 +1,6 @@
+23114	Slogans	334	415
+23114	Loaded_Language	2245	2263
+23114	Obfuscation-Vagueness-Confusion	534	580
+23114	Loaded_Language	3439	3459
+23114	Name_Calling-Labeling	156	164
+23114	Appeal_to_Popularity	376	415

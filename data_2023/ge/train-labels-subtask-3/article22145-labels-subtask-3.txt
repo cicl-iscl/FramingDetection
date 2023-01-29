@@ -1,0 +1,4 @@
+22145	1	
+22145	3	Appeal_to_Authority
+22145	5	Doubt,Name_Calling-Labeling
+22145	7	Name_Calling-Labeling

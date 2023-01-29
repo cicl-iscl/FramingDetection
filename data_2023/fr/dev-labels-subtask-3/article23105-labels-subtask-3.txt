@@ -1,0 +1,20 @@
+23105	1	
+23105	3	
+23105	5	Appeal_to_Fear-Prejudice
+23105	7	
+23105	9	Doubt
+23105	11	
+23105	13	False_Dilemma-No_Choice
+23105	15	Consequential_Oversimplification
+23105	17	
+23105	19	
+23105	21	
+23105	23	Consequential_Oversimplification
+23105	25	Conversation_Killer
+23105	27	
+23105	29	Doubt,Loaded_Language,Name_Calling-Labeling
+23105	31	Loaded_Language
+23105	33	
+23105	35	Conversation_Killer,Repetition
+23105	37	Appeal_to_Fear-Prejudice
+23105	39	Doubt

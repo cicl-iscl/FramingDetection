@@ -1,0 +1,9 @@
+26166	1	
+26166	3	Name_Calling-Labeling
+26166	5	Loaded_Language
+26166	7	Loaded_Language,Name_Calling-Labeling
+26166	9	Conversation_Killer,Doubt,Loaded_Language,Name_Calling-Labeling
+26166	11	Conversation_Killer,Doubt,Loaded_Language,Name_Calling-Labeling
+26166	13	Conversation_Killer,Loaded_Language,Questioning_the_Reputation
+26166	15	Guilt_by_Association,Loaded_Language
+26166	17	Appeal_to_Fear-Prejudice

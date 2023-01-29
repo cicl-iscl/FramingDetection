@@ -1,0 +1,7 @@
+2230	1	Name_Calling-Labeling
+2230	3	Doubt,Name_Calling-Labeling
+2230	5	Doubt,Flag_Waving,Loaded_Language,Name_Calling-Labeling,Obfuscation-Vagueness-Confusion
+2230	7	Doubt,False_Dilemma-No_Choice,Name_Calling-Labeling
+2230	9	Doubt
+2230	11	Appeal_to_Fear-Prejudice,False_Dilemma-No_Choice
+2230	13	Doubt,Name_Calling-Labeling

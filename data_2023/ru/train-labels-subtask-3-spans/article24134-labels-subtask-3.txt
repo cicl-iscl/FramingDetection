@@ -1,0 +1,7 @@
+24134	Exaggeration-Minimisation	2017	2064
+24134	Loaded_Language	27	52
+24134	Consequential_Oversimplification	444	606
+24134	Exaggeration-Minimisation	823	853
+24134	Loaded_Language	78	103
+24134	Causal_Oversimplification	1771	1881
+24134	Doubt	262	340

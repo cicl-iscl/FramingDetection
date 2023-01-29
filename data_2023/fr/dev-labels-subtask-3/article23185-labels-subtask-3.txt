@@ -1,0 +1,13 @@
+23185	1	
+23185	3	Doubt,Loaded_Language
+23185	5	
+23185	7	
+23185	9	Loaded_Language
+23185	11	Loaded_Language
+23185	13	Loaded_Language
+23185	15	
+23185	17	
+23185	19	
+23185	21	Loaded_Language
+23185	23	
+23185	25	

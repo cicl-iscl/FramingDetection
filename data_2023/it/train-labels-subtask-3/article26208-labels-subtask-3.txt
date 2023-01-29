@@ -1,0 +1,18 @@
+26208	1	
+26208	3	
+26208	5	Appeal_to_Values,Doubt,Flag_Waving,Repetition,Slogans
+26208	7	Doubt,Loaded_Language
+26208	9	Doubt,Loaded_Language
+26208	11	
+26208	13	Doubt
+26208	15	Conversation_Killer
+26208	17	
+26208	19	Doubt
+26208	21	Doubt
+26208	23	Doubt
+26208	25	Doubt
+26208	27	
+26208	29	
+26208	31	Doubt,Loaded_Language
+26208	33	Doubt,Exaggeration-Minimisation,Repetition
+26208	35	Doubt,Name_Calling-Labeling

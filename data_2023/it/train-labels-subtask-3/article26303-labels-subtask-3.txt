@@ -1,0 +1,4 @@
+26303	1	
+26303	2	Doubt
+26303	4	Appeal_to_Fear-Prejudice,Doubt,Exaggeration-Minimisation,Loaded_Language
+26303	6	Loaded_Language

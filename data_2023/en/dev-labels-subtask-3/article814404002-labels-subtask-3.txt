@@ -1,0 +1,33 @@
+814404002	1	Loaded_Language,Name_Calling-Labeling
+814404002	3	Appeal_to_Fear-Prejudice,Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling
+814404002	4	Flag_Waving,Loaded_Language,Name_Calling-Labeling
+814404002	5	Appeal_to_Authority
+814404002	6	
+814404002	7	
+814404002	8	Doubt,Name_Calling-Labeling
+814404002	9	
+814404002	10	Doubt,Flag_Waving,Loaded_Language
+814404002	11	Exaggeration-Minimisation,Loaded_Language
+814404002	12	Straw_Man
+814404002	13	Appeal_to_Fear-Prejudice,Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling
+814404002	14	Appeal_to_Popularity,Doubt,Flag_Waving,Loaded_Language
+814404002	15	Exaggeration-Minimisation,Loaded_Language
+814404002	16	Exaggeration-Minimisation,Loaded_Language
+814404002	17	Exaggeration-Minimisation,Name_Calling-Labeling
+814404002	18	Appeal_to_Authority,Guilt_by_Association,Loaded_Language,Name_Calling-Labeling
+814404002	19	Name_Calling-Labeling
+814404002	20	Appeal_to_Fear-Prejudice,False_Dilemma-No_Choice,Loaded_Language,Name_Calling-Labeling
+814404002	21	Loaded_Language,Name_Calling-Labeling
+814404002	22	Causal_Oversimplification,Name_Calling-Labeling
+814404002	23	Appeal_to_Fear-Prejudice,Loaded_Language,Name_Calling-Labeling
+814404002	24	Doubt,Exaggeration-Minimisation,False_Dilemma-No_Choice,Loaded_Language,Name_Calling-Labeling
+814404002	25	Appeal_to_Popularity,Exaggeration-Minimisation
+814404002	26	Appeal_to_Popularity,Name_Calling-Labeling
+814404002	27	
+814404002	28	
+814404002	29	
+814404002	30	Appeal_to_Popularity,Name_Calling-Labeling
+814404002	31	
+814404002	32	Doubt,Name_Calling-Labeling
+814404002	33	Doubt,Exaggeration-Minimisation,Name_Calling-Labeling
+814404002	34	Exaggeration-Minimisation,Loaded_Language

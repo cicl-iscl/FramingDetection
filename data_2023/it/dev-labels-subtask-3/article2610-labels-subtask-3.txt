@@ -1,0 +1,4 @@
+2610	1	
+2610	3	Doubt
+2610	4	Appeal_to_Authority,Exaggeration-Minimisation,Questioning_the_Reputation
+2610	5	

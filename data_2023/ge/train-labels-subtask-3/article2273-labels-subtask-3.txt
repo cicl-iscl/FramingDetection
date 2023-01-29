@@ -1,0 +1,9 @@
+2273	1	Doubt,Name_Calling-Labeling
+2273	3	Appeal_to_Authority,Appeal_to_Hypocrisy,Conversation_Killer,Exaggeration-Minimisation,Name_Calling-Labeling
+2273	5	Name_Calling-Labeling
+2273	7	Appeal_to_Values,Name_Calling-Labeling
+2273	9	Name_Calling-Labeling
+2273	11	Exaggeration-Minimisation
+2273	13	Name_Calling-Labeling
+2273	15	Appeal_to_Time
+2273	17	Questioning_the_Reputation

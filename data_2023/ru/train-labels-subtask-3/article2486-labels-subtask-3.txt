@@ -1,0 +1,22 @@
+2486	1	Loaded_Language
+2486	4	Doubt,Loaded_Language
+2486	5	Loaded_Language
+2486	8	
+2486	10	Doubt,Exaggeration-Minimisation,Loaded_Language,Repetition
+2486	12	Appeal_to_Hypocrisy,Conversation_Killer,False_Dilemma-No_Choice,Loaded_Language
+2486	14	Doubt,Name_Calling-Labeling
+2486	16	Consequential_Oversimplification,Loaded_Language
+2486	18	Loaded_Language
+2486	20	
+2486	22	Conversation_Killer,False_Dilemma-No_Choice,Name_Calling-Labeling,Questioning_the_Reputation
+2486	24	Loaded_Language
+2486	26	Causal_Oversimplification,Doubt,Exaggeration-Minimisation,Loaded_Language,Questioning_the_Reputation
+2486	28	
+2486	30	
+2486	32	Appeal_to_Values,Doubt,Flag_Waving,Loaded_Language,Obfuscation-Vagueness-Confusion,Questioning_the_Reputation
+2486	34	Obfuscation-Vagueness-Confusion,Questioning_the_Reputation
+2486	36	Appeal_to_Values,Loaded_Language,Name_Calling-Labeling
+2486	38	
+2486	40	Doubt,Name_Calling-Labeling
+2486	42	Doubt,Loaded_Language
+2486	44	Doubt,Loaded_Language,Whataboutism

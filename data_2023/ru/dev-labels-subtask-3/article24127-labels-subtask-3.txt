@@ -1,0 +1,23 @@
+24127	1	Loaded_Language
+24127	3	
+24127	5	Loaded_Language,Name_Calling-Labeling
+24127	7	Doubt,Exaggeration-Minimisation,Loaded_Language
+24127	9	Loaded_Language,Questioning_the_Reputation
+24127	11	Loaded_Language
+24127	13	Doubt,Loaded_Language,Questioning_the_Reputation
+24127	15	Loaded_Language
+24127	17	
+24127	19	
+24127	21	
+24127	23	Doubt,Guilt_by_Association,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+24127	25	Doubt,Loaded_Language,Questioning_the_Reputation
+24127	27	Consequential_Oversimplification,False_Dilemma-No_Choice,Loaded_Language,Repetition
+24127	29	Doubt,Loaded_Language
+24127	31	Loaded_Language,Questioning_the_Reputation
+24127	33	Doubt,Loaded_Language
+24127	35	Doubt,Loaded_Language
+24127	37	Loaded_Language
+24127	39	Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation,Repetition
+24127	41	Loaded_Language,Questioning_the_Reputation
+24127	43	Appeal_to_Fear-Prejudice,Conversation_Killer,Flag_Waving,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation,Repetition
+24127	45	Conversation_Killer,Doubt,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation,Slogans

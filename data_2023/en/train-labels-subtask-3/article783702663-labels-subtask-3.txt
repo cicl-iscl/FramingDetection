@@ -1,0 +1,82 @@
+783702663	1	Loaded_Language
+783702663	3	
+783702663	4	Loaded_Language
+783702663	5	Appeal_to_Authority,Doubt,Name_Calling-Labeling
+783702663	6	
+783702663	7	Doubt,Exaggeration-Minimisation,False_Dilemma-No_Choice,Loaded_Language,Name_Calling-Labeling
+783702663	8	
+783702663	9	Appeal_to_Fear-Prejudice,Causal_Oversimplification,Doubt,Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling
+783702663	10	Slogans
+783702663	11	Loaded_Language,Repetition
+783702663	12	Doubt,Loaded_Language,Name_Calling-Labeling
+783702663	13	Appeal_to_Fear-Prejudice,Causal_Oversimplification,Exaggeration-Minimisation
+783702663	14	Appeal_to_Authority,Doubt,Loaded_Language,Straw_Man
+783702663	15	Doubt,Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling
+783702663	16	Appeal_to_Authority,Conversation_Killer,Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling
+783702663	17	
+783702663	18	
+783702663	19	Appeal_to_Authority
+783702663	20	Appeal_to_Authority,Loaded_Language
+783702663	21	Appeal_to_Authority
+783702663	22	Appeal_to_Authority,Exaggeration-Minimisation
+783702663	23	Appeal_to_Authority
+783702663	24	Doubt,Name_Calling-Labeling
+783702663	25	
+783702663	26	
+783702663	27	
+783702663	28	Causal_Oversimplification,Loaded_Language,Name_Calling-Labeling
+783702663	29	Name_Calling-Labeling
+783702663	30	Loaded_Language
+783702663	31	Doubt,Loaded_Language,Name_Calling-Labeling
+783702663	32	Loaded_Language,Name_Calling-Labeling
+783702663	33	Doubt,Exaggeration-Minimisation
+783702663	34	
+783702663	35	Exaggeration-Minimisation,Loaded_Language
+783702663	36	Loaded_Language,Name_Calling-Labeling
+783702663	37	Causal_Oversimplification,Loaded_Language,Name_Calling-Labeling
+783702663	38	Loaded_Language,Name_Calling-Labeling
+783702663	39	Loaded_Language,Name_Calling-Labeling
+783702663	40	Appeal_to_Fear-Prejudice,Doubt,Loaded_Language,Name_Calling-Labeling
+783702663	41	Name_Calling-Labeling
+783702663	42	Loaded_Language,Name_Calling-Labeling
+783702663	43	Loaded_Language,Repetition
+783702663	44	Name_Calling-Labeling
+783702663	45	Appeal_to_Fear-Prejudice,Exaggeration-Minimisation,Name_Calling-Labeling
+783702663	46	Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling
+783702663	47	
+783702663	48	Loaded_Language,Name_Calling-Labeling
+783702663	49	Loaded_Language
+783702663	50	Loaded_Language
+783702663	51	Exaggeration-Minimisation,Name_Calling-Labeling
+783702663	52	Exaggeration-Minimisation,Loaded_Language
+783702663	53	Loaded_Language,Repetition
+783702663	54	Appeal_to_Authority,Loaded_Language
+783702663	55	
+783702663	56	Loaded_Language,Slogans
+783702663	57	Loaded_Language,Name_Calling-Labeling
+783702663	58	Loaded_Language,Name_Calling-Labeling,Obfuscation-Vagueness-Confusion
+783702663	59	Causal_Oversimplification,Doubt,Loaded_Language,Name_Calling-Labeling
+783702663	60	Causal_Oversimplification,Doubt,Loaded_Language,Name_Calling-Labeling
+783702663	61	
+783702663	62	Loaded_Language
+783702663	63	Doubt,Loaded_Language
+783702663	64	Exaggeration-Minimisation,Name_Calling-Labeling
+783702663	65	Appeal_to_Authority,Name_Calling-Labeling
+783702663	66	Loaded_Language
+783702663	67	Loaded_Language
+783702663	68	Causal_Oversimplification
+783702663	69	Name_Calling-Labeling
+783702663	70	False_Dilemma-No_Choice,Name_Calling-Labeling
+783702663	71	Appeal_to_Authority,Causal_Oversimplification,Doubt,Exaggeration-Minimisation,Loaded_Language
+783702663	72	Appeal_to_Popularity,Causal_Oversimplification,Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling
+783702663	73	Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling
+783702663	74	Loaded_Language,Name_Calling-Labeling
+783702663	75	
+783702663	76	
+783702663	77	Loaded_Language,Name_Calling-Labeling
+783702663	78	Loaded_Language
+783702663	79	Doubt
+783702663	80	
+783702663	81	Loaded_Language
+783702663	82	Causal_Oversimplification,Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling,Repetition
+783702663	83	

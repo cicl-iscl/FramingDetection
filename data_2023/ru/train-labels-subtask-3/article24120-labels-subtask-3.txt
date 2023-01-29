@@ -1,0 +1,9 @@
+24120	1	
+24120	3	Questioning_the_Reputation
+24120	5	
+24120	7	Loaded_Language
+24120	9	Doubt,Exaggeration-Minimisation,Guilt_by_Association,Loaded_Language,Questioning_the_Reputation
+24120	11	Loaded_Language,Questioning_the_Reputation
+24120	13	
+24120	15	Consequential_Oversimplification
+24120	17	Doubt

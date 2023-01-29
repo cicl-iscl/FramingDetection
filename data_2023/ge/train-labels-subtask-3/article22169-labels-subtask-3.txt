@@ -1,0 +1,7 @@
+22169	1	Causal_Oversimplification
+22169	3	Appeal_to_Authority,Causal_Oversimplification,Conversation_Killer
+22169	5	Conversation_Killer
+22169	7	Name_Calling-Labeling
+22169	9	
+22169	11	Appeal_to_Authority
+22169	13	Conversation_Killer,Exaggeration-Minimisation

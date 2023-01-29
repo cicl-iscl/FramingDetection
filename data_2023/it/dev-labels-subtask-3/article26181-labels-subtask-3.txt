@@ -1,0 +1,4 @@
+26181	1	Name_Calling-Labeling
+26181	3	Appeal_to_Fear-Prejudice,Doubt,Loaded_Language,Name_Calling-Labeling
+26181	5	Doubt,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+26181	7	Appeal_to_Fear-Prejudice,Doubt,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation

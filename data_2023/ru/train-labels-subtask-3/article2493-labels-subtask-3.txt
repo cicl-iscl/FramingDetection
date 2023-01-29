@@ -1,0 +1,7 @@
+2493	1	Appeal_to_Values
+2493	3	Appeal_to_Values,Conversation_Killer,Doubt,Guilt_by_Association,Loaded_Language
+2493	4	
+2493	6	Appeal_to_Values,Exaggeration-Minimisation
+2493	8	Conversation_Killer,Doubt,Guilt_by_Association
+2493	10	Consequential_Oversimplification,Loaded_Language,Name_Calling-Labeling
+2493	11	Appeal_to_Values,Doubt

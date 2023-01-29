@@ -1,0 +1,3 @@
+25174	Doubt	2976	3053
+25174	Name_Calling-Labeling	2989	3015
+25174	Appeal_to_Popularity	1985	2129

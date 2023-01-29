@@ -1,0 +1,26 @@
+2498	1	
+2498	3	Appeal_to_Fear-Prejudice,Consequential_Oversimplification
+2498	5	False_Dilemma-No_Choice
+2498	7	Doubt
+2498	9	
+2498	11	
+2498	13	
+2498	15	
+2498	17	
+2498	19	Loaded_Language
+2498	21	Doubt
+2498	23	
+2498	25	
+2498	27	
+2498	29	Doubt
+2498	31	Doubt
+2498	33	
+2498	35	
+2498	37	
+2498	39	
+2498	41	
+2498	43	
+2498	45	Doubt
+2498	47	Loaded_Language
+2498	49	
+2498	51	Doubt,Loaded_Language

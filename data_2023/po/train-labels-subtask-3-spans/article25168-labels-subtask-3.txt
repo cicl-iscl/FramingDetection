@@ -1,0 +1,4 @@
+25168	Name_Calling-Labeling	1499	1536
+25168	Name_Calling-Labeling	216	254
+25168	Doubt	1292	1372
+25168	Appeal_to_Fear-Prejudice	1378	1536

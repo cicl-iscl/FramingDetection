@@ -1,0 +1,26 @@
+25100	1	
+25100	3	Doubt
+25100	5	
+25100	7	Appeal_to_Hypocrisy,Appeal_to_Values,Doubt
+25100	9	Questioning_the_Reputation
+25100	11	Appeal_to_Fear-Prejudice,Appeal_to_Hypocrisy,Appeal_to_Values,Straw_Man
+25100	13	Doubt
+25100	15	Questioning_the_Reputation
+25100	17	Appeal_to_Hypocrisy,Name_Calling-Labeling
+25100	19	Appeal_to_Hypocrisy,Questioning_the_Reputation
+25100	21	
+25100	23	
+25100	25	Doubt,Questioning_the_Reputation
+25100	27	Appeal_to_Authority
+25100	29	Appeal_to_Popularity
+25100	31	
+25100	33	Appeal_to_Authority,Appeal_to_Popularity
+25100	35	
+25100	37	
+25100	39	Appeal_to_Fear-Prejudice
+25100	41	Appeal_to_Hypocrisy,Loaded_Language
+25100	43	Appeal_to_Authority
+25100	45	Appeal_to_Fear-Prejudice
+25100	47	Appeal_to_Authority,Appeal_to_Fear-Prejudice,Conversation_Killer
+25100	49	
+25100	51	

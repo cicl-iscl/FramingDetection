@@ -1,0 +1,6 @@
+22195	1	
+22195	3	Appeal_to_Authority
+22195	5	Appeal_to_Time,Name_Calling-Labeling
+22195	7	
+22195	9	
+22195	11	Questioning_the_Reputation

@@ -1,0 +1,30 @@
+778664280	1	
+778664280	3	
+778664280	4	Loaded_Language
+778664280	5	Exaggeration-Minimisation,Flag_Waving,Loaded_Language,Name_Calling-Labeling
+778664280	6	Appeal_to_Fear-Prejudice
+778664280	7	
+778664280	8	Exaggeration-Minimisation,Name_Calling-Labeling
+778664280	9	Name_Calling-Labeling
+778664280	10	Loaded_Language,Name_Calling-Labeling
+778664280	11	
+778664280	12	Loaded_Language,Slogans
+778664280	13	Name_Calling-Labeling
+778664280	14	Appeal_to_Fear-Prejudice,Loaded_Language,Name_Calling-Labeling
+778664280	15	Causal_Oversimplification,Name_Calling-Labeling
+778664280	16	Causal_Oversimplification
+778664280	17	Doubt,Loaded_Language
+778664280	18	Name_Calling-Labeling
+778664280	19	Causal_Oversimplification
+778664280	20	Name_Calling-Labeling
+778664280	21	Loaded_Language,Name_Calling-Labeling
+778664280	22	Loaded_Language,Name_Calling-Labeling
+778664280	23	Loaded_Language,Name_Calling-Labeling
+778664280	24	Doubt,Name_Calling-Labeling
+778664280	25	Appeal_to_Fear-Prejudice,Conversation_Killer,Doubt,Loaded_Language
+778664280	26	Causal_Oversimplification,Doubt,Exaggeration-Minimisation,Loaded_Language
+778664280	27	Doubt
+778664280	28	Appeal_to_Fear-Prejudice,Doubt,Loaded_Language,Name_Calling-Labeling
+778664280	29	Appeal_to_Fear-Prejudice,Doubt,Flag_Waving,Loaded_Language
+778664280	30	Appeal_to_Fear-Prejudice,Loaded_Language,Name_Calling-Labeling
+778664280	31	Appeal_to_Fear-Prejudice,Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling

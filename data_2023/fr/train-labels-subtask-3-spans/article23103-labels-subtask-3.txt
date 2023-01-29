@@ -1,0 +1,6 @@
+23103	Doubt	854	938
+23103	Appeal_to_Fear-Prejudice	648	709
+23103	Loaded_Language	652	669
+23103	Doubt	71	166
+23103	Exaggeration-Minimisation	675	709
+23103	Loaded_Language	11	67

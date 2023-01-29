@@ -1,0 +1,6 @@
+25193	Appeal_to_Hypocrisy	1446	1528
+25193	Appeal_to_Values	1774	1885
+25193	Straw_Man	1069	1222
+25193	Red_Herring	1684	1771
+25193	Slogans	707	732
+25193	Name_Calling-Labeling	1452	1463

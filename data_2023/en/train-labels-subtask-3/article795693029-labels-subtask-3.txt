@@ -1,0 +1,11 @@
+795693029	1	
+795693029	3	
+795693029	4	Exaggeration-Minimisation,False_Dilemma-No_Choice,Flag_Waving,Loaded_Language
+795693029	5	
+795693029	6	
+795693029	7	Appeal_to_Fear-Prejudice
+795693029	8	
+795693029	9	
+795693029	10	Flag_Waving,Loaded_Language
+795693029	11	
+795693029	12	

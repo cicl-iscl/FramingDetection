@@ -1,0 +1,7 @@
+2453	1	Name_Calling-Labeling,Questioning_the_Reputation
+2453	3	Doubt,False_Dilemma-No_Choice,Flag_Waving,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+2453	5	False_Dilemma-No_Choice,Name_Calling-Labeling,Questioning_the_Reputation
+2453	7	Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+2453	9	Appeal_to_Hypocrisy,Flag_Waving,Name_Calling-Labeling,Questioning_the_Reputation
+2453	11	Consequential_Oversimplification,Conversation_Killer,Doubt,Guilt_by_Association,Name_Calling-Labeling,Questioning_the_Reputation
+2453	13	Appeal_to_Values,Questioning_the_Reputation

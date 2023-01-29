@@ -1,0 +1,9 @@
+2613	1	
+2613	3	Appeal_to_Fear-Prejudice
+2613	5	Appeal_to_Fear-Prejudice,Exaggeration-Minimisation
+2613	6	
+2613	7	
+2613	9	
+2613	10	
+2613	12	Appeal_to_Popularity
+2613	13	Doubt,False_Dilemma-No_Choice,Loaded_Language,Name_Calling-Labeling

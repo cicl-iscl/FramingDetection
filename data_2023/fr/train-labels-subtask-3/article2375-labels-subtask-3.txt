@@ -1,0 +1,38 @@
+2375	1	Doubt
+2375	3	Loaded_Language,Name_Calling-Labeling
+2375	5	Repetition,Slogans
+2375	7	Conversation_Killer,Questioning_the_Reputation,Repetition,Slogans
+2375	9	Appeal_to_Fear-Prejudice,Doubt,Slogans
+2375	11	Repetition
+2375	13	False_Dilemma-No_Choice
+2375	15	Slogans
+2375	17	Exaggeration-Minimisation
+2375	19	Conversation_Killer,Exaggeration-Minimisation,Loaded_Language
+2375	21	
+2375	24	Slogans
+2375	26	Conversation_Killer,Loaded_Language
+2375	28	Doubt,Loaded_Language,Repetition
+2375	30	
+2375	32	Exaggeration-Minimisation,Loaded_Language
+2375	34	Conversation_Killer,Exaggeration-Minimisation,Loaded_Language
+2375	37	Slogans
+2375	39	Appeal_to_Popularity,Exaggeration-Minimisation
+2375	41	Exaggeration-Minimisation,Whataboutism
+2375	43	Conversation_Killer,Whataboutism
+2375	45	Consequential_Oversimplification,Exaggeration-Minimisation,Loaded_Language,Questioning_the_Reputation
+2375	47	Slogans
+2375	50	Slogans
+2375	52	Loaded_Language,Name_Calling-Labeling
+2375	54	Appeal_to_Popularity
+2375	56	Exaggeration-Minimisation,Loaded_Language
+2375	58	Causal_Oversimplification,Conversation_Killer,Slogans
+2375	61	Doubt
+2375	63	Doubt,Exaggeration-Minimisation,Loaded_Language,Questioning_the_Reputation,Slogans
+2375	65	Doubt,Slogans
+2375	67	Appeal_to_Hypocrisy
+2375	69	Exaggeration-Minimisation,Loaded_Language
+2375	72	
+2375	74	Doubt,Exaggeration-Minimisation,Loaded_Language
+2375	76	Appeal_to_Values
+2375	78	Questioning_the_Reputation
+2375	80	Conversation_Killer

@@ -1,0 +1,6 @@
+26303	Exaggeration-Minimisation	1469	1542
+26303	Doubt	264	312
+26303	Doubt	775	822
+26303	Appeal_to_Fear-Prejudice	1788	1839
+26303	Loaded_Language	826	846
+26303	Loaded_Language	2280	2370

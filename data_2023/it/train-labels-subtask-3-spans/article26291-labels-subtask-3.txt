@@ -1,0 +1,4 @@
+26291	Loaded_Language	4212	4235
+26291	Loaded_Language	665	672
+26291	Loaded_Language	931	962
+26291	Appeal_to_Fear-Prejudice	0	22

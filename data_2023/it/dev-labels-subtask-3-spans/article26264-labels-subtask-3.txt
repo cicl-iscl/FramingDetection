@@ -1,0 +1,7 @@
+26264	Appeal_to_Fear-Prejudice	1365	1420
+26264	Doubt	2346	2408
+26264	Exaggeration-Minimisation	2242	2266
+26264	Appeal_to_Fear-Prejudice	2806	2854
+26264	Appeal_to_Fear-Prejudice	48	80
+26264	Loaded_Language	1407	1420
+26264	Doubt	2806	2854

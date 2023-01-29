@@ -1,0 +1,8 @@
+2633	1	Doubt,Loaded_Language
+2633	3	Conversation_Killer,Doubt,Loaded_Language,Slogans
+2633	5	Appeal_to_Fear-Prejudice,Doubt,Exaggeration-Minimisation,Loaded_Language
+2633	7	Loaded_Language,Name_Calling-Labeling
+2633	9	Conversation_Killer,Exaggeration-Minimisation,Loaded_Language
+2633	11	Appeal_to_Hypocrisy,Doubt,Loaded_Language
+2633	13	Appeal_to_Fear-Prejudice
+2633	15	Conversation_Killer,Doubt,Loaded_Language,Name_Calling-Labeling,Slogans

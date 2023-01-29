@@ -1,0 +1,14 @@
+2479	1	Name_Calling-Labeling
+2479	3	Repetition,Slogans
+2479	5	
+2479	7	
+2479	10	Doubt
+2479	12	Consequential_Oversimplification
+2479	14	
+2479	16	
+2479	18	
+2479	20	
+2479	22	Doubt
+2479	24	Doubt,Loaded_Language
+2479	26	
+2479	28	Exaggeration-Minimisation,Name_Calling-Labeling,Questioning_the_Reputation

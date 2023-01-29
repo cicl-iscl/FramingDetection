@@ -1,0 +1,24 @@
+815412286	1	Appeal_to_Fear-Prejudice,Exaggeration-Minimisation,Flag_Waving
+815412286	3	Appeal_to_Fear-Prejudice,Exaggeration-Minimisation,Flag_Waving
+815412286	4	Doubt
+815412286	5	
+815412286	6	Flag_Waving
+815412286	7	Appeal_to_Fear-Prejudice,Doubt,Flag_Waving
+815412286	8	Name_Calling-Labeling
+815412286	9	
+815412286	10	
+815412286	11	Appeal_to_Authority
+815412286	12	Appeal_to_Authority
+815412286	13	Appeal_to_Authority,Appeal_to_Fear-Prejudice,Flag_Waving
+815412286	14	
+815412286	15	
+815412286	16	
+815412286	17	
+815412286	18	Doubt
+815412286	19	
+815412286	20	
+815412286	21	Loaded_Language
+815412286	22	
+815412286	23	False_Dilemma-No_Choice
+815412286	24	False_Dilemma-No_Choice
+815412286	25	False_Dilemma-No_Choice,Name_Calling-Labeling

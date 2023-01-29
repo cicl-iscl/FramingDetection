@@ -1,0 +1,24 @@
+782017101	1	
+782017101	3	False_Dilemma-No_Choice,Loaded_Language
+782017101	4	Name_Calling-Labeling
+782017101	5	Loaded_Language
+782017101	6	Loaded_Language
+782017101	7	Loaded_Language
+782017101	8	Name_Calling-Labeling
+782017101	9	Causal_Oversimplification
+782017101	10	
+782017101	11	
+782017101	12	
+782017101	13	Name_Calling-Labeling
+782017101	14	
+782017101	15	
+782017101	16	
+782017101	17	
+782017101	18	
+782017101	19	Loaded_Language
+782017101	20	Loaded_Language,Name_Calling-Labeling
+782017101	21	
+782017101	22	
+782017101	23	Loaded_Language
+782017101	24	Loaded_Language
+782017101	25	Repetition,Slogans

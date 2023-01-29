@@ -1,0 +1,8 @@
+26276	1	Loaded_Language
+26276	3	Doubt,Loaded_Language
+26276	5	Appeal_to_Values,Doubt,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+26276	7	Doubt,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+26276	9	Appeal_to_Authority,Doubt,Loaded_Language
+26276	11	Doubt,Loaded_Language,Name_Calling-Labeling,Slogans
+26276	13	Doubt,Loaded_Language,Name_Calling-Labeling
+26276	15	Doubt,Loaded_Language,Whataboutism

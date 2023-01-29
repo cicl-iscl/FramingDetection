@@ -1,0 +1,6 @@
+26292	1	
+26292	3	
+26292	5	Appeal_to_Fear-Prejudice,Name_Calling-Labeling
+26292	7	Doubt,Loaded_Language,Name_Calling-Labeling
+26292	9	Doubt
+26292	11	

@@ -1,0 +1,70 @@
+794141509	1	Appeal_to_Fear-Prejudice,Loaded_Language,Name_Calling-Labeling
+794141509	3	Appeal_to_Fear-Prejudice,Loaded_Language,Repetition
+794141509	4	
+794141509	5	
+794141509	6	
+794141509	7	
+794141509	8	
+794141509	9	
+794141509	10	
+794141509	11	
+794141509	12	
+794141509	13	
+794141509	14	
+794141509	15	
+794141509	16	
+794141509	17	
+794141509	18	
+794141509	19	
+794141509	20	
+794141509	21	
+794141509	22	
+794141509	23	
+794141509	24	
+794141509	25	
+794141509	26	
+794141509	27	
+794141509	28	
+794141509	29	Appeal_to_Fear-Prejudice
+794141509	30	
+794141509	31	
+794141509	32	Name_Calling-Labeling
+794141509	33	
+794141509	34	Loaded_Language,Name_Calling-Labeling
+794141509	35	Doubt,Loaded_Language,Repetition
+794141509	36	Repetition
+794141509	37	
+794141509	38	Loaded_Language
+794141509	39	
+794141509	40	
+794141509	41	
+794141509	42	
+794141509	43	Appeal_to_Authority
+794141509	44	
+794141509	45	Appeal_to_Fear-Prejudice,Loaded_Language
+794141509	46	
+794141509	47	
+794141509	48	Flag_Waving,Loaded_Language
+794141509	49	
+794141509	50	
+794141509	51	
+794141509	52	
+794141509	53	Loaded_Language
+794141509	54	Repetition
+794141509	55	Loaded_Language
+794141509	56	
+794141509	57	Appeal_to_Fear-Prejudice,Exaggeration-Minimisation
+794141509	58	Loaded_Language,Slogans
+794141509	59	Appeal_to_Fear-Prejudice
+794141509	60	
+794141509	61	
+794141509	62	
+794141509	63	False_Dilemma-No_Choice
+794141509	64	False_Dilemma-No_Choice
+794141509	65	False_Dilemma-No_Choice
+794141509	66	False_Dilemma-No_Choice
+794141509	67	False_Dilemma-No_Choice
+794141509	68	Loaded_Language
+794141509	69	Appeal_to_Fear-Prejudice,Exaggeration-Minimisation
+794141509	70	Appeal_to_Fear-Prejudice
+794141509	71	

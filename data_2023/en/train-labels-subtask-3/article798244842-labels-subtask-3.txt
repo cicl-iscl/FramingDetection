@@ -1,0 +1,36 @@
+798244842	1	
+798244842	3	Appeal_to_Fear-Prejudice,Flag_Waving,Loaded_Language,Repetition
+798244842	4	Loaded_Language
+798244842	5	
+798244842	6	Repetition
+798244842	7	
+798244842	8	
+798244842	9	Slogans
+798244842	10	
+798244842	11	
+798244842	12	
+798244842	13	
+798244842	14	Repetition
+798244842	15	
+798244842	16	Repetition
+798244842	17	
+798244842	18	Name_Calling-Labeling,Repetition
+798244842	19	Causal_Oversimplification,Flag_Waving,Loaded_Language,Name_Calling-Labeling,Repetition
+798244842	20	Slogans
+798244842	21	False_Dilemma-No_Choice,Loaded_Language
+798244842	22	
+798244842	23	
+798244842	24	
+798244842	25	Loaded_Language,Repetition
+798244842	26	Flag_Waving,Loaded_Language,Name_Calling-Labeling,Repetition
+798244842	27	
+798244842	28	
+798244842	29	Flag_Waving
+798244842	30	
+798244842	31	
+798244842	32	Loaded_Language
+798244842	33	
+798244842	34	
+798244842	35	Loaded_Language,Repetition
+798244842	36	Causal_Oversimplification
+798244842	37	

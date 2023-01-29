@@ -1,0 +1,12 @@
+2677	1	Flag_Waving
+2677	3	Appeal_to_Fear-Prejudice
+2677	5	
+2677	7	Doubt,Loaded_Language
+2677	8	Guilt_by_Association
+2677	9	Loaded_Language,Name_Calling-Labeling
+2677	10	
+2677	12	Loaded_Language,Name_Calling-Labeling
+2677	14	Exaggeration-Minimisation
+2677	15	
+2677	17	Name_Calling-Labeling
+2677	19	Loaded_Language

@@ -1,0 +1,9 @@
+737457870	1	
+737457870	3	
+737457870	4	
+737457870	5	Loaded_Language
+737457870	6	Doubt
+737457870	7	Causal_Oversimplification,Doubt
+737457870	8	Name_Calling-Labeling
+737457870	9	Red_Herring
+737457870	10	Doubt,Red_Herring

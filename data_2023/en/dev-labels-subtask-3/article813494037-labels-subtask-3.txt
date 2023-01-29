@@ -1,0 +1,32 @@
+813494037	1	Loaded_Language
+813494037	3	Loaded_Language
+813494037	4	Exaggeration-Minimisation,Loaded_Language
+813494037	5	Repetition
+813494037	6	Loaded_Language,Slogans
+813494037	7	Flag_Waving
+813494037	8	Repetition
+813494037	9	
+813494037	10	Doubt,Loaded_Language
+813494037	11	
+813494037	12	Loaded_Language
+813494037	13	Loaded_Language
+813494037	14	
+813494037	15	Exaggeration-Minimisation,Loaded_Language
+813494037	16	
+813494037	17	Loaded_Language
+813494037	18	
+813494037	19	
+813494037	20	Loaded_Language
+813494037	21	Exaggeration-Minimisation,Name_Calling-Labeling
+813494037	22	Loaded_Language,Repetition
+813494037	23	
+813494037	24	
+813494037	25	Red_Herring
+813494037	26	Conversation_Killer,Repetition,Whataboutism
+813494037	27	
+813494037	28	
+813494037	29	
+813494037	30	
+813494037	31	
+813494037	32	Name_Calling-Labeling
+813494037	33	Exaggeration-Minimisation,False_Dilemma-No_Choice,Flag_Waving,Loaded_Language

@@ -1,0 +1,25 @@
+26149	1	
+26149	3	Appeal_to_Fear-Prejudice,Doubt,Loaded_Language,Questioning_the_Reputation
+26149	5	Doubt
+26149	7	Appeal_to_Fear-Prejudice,Consequential_Oversimplification,Doubt,Questioning_the_Reputation
+26149	9	
+26149	11	Doubt
+26149	13	
+26149	15	Loaded_Language,Questioning_the_Reputation
+26149	17	
+26149	19	
+26149	21	
+26149	23	Appeal_to_Fear-Prejudice,Consequential_Oversimplification,Doubt
+26149	25	Doubt
+26149	27	Appeal_to_Fear-Prejudice,Doubt,Loaded_Language
+26149	29	
+26149	31	Appeal_to_Fear-Prejudice,Doubt
+26149	33	
+26149	35	Loaded_Language
+26149	37	
+26149	39	
+26149	41	
+26149	43	Appeal_to_Fear-Prejudice
+26149	45	
+26149	47	Appeal_to_Fear-Prejudice
+26149	49	Appeal_to_Fear-Prejudice,Loaded_Language

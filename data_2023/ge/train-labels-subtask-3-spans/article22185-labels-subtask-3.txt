@@ -1,0 +1,5 @@
+22185	Name_Calling-Labeling	117	130
+22185	Name_Calling-Labeling	943	962
+22185	Appeal_to_Fear-Prejudice	1838	1908
+22185	Repetition	724	891
+22185	Name_Calling-Labeling	0	13

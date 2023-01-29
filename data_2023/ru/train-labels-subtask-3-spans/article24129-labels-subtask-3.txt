@@ -1,0 +1,6 @@
+24129	Doubt	668	853
+24129	Loaded_Language	17	39
+24129	Questioning_the_Reputation	366	645
+24129	Doubt	17	71
+24129	Loaded_Language	102	124
+24129	Doubt	478	532

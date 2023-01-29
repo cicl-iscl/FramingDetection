@@ -1,0 +1,8 @@
+2663	1	Name_Calling-Labeling
+2663	3	
+2663	5	Appeal_to_Popularity,Conversation_Killer,False_Dilemma-No_Choice,Loaded_Language,Name_Calling-Labeling
+2663	7	
+2663	9	
+2663	11	
+2663	13	
+2663	15	

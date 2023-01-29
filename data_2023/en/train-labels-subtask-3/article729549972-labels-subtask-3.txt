@@ -1,0 +1,16 @@
+729549972	1	Exaggeration-Minimisation
+729549972	3	
+729549972	4	Loaded_Language
+729549972	5	
+729549972	6	
+729549972	7	
+729549972	8	
+729549972	9	
+729549972	10	
+729549972	11	Name_Calling-Labeling
+729549972	12	Name_Calling-Labeling
+729549972	13	
+729549972	14	Exaggeration-Minimisation
+729549972	15	Exaggeration-Minimisation
+729549972	16	
+729549972	17	Exaggeration-Minimisation,Loaded_Language,Repetition

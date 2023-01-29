@@ -1,0 +1,8 @@
+22104	1	Loaded_Language
+22104	3	Doubt,Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling,Repetition
+22104	5	Loaded_Language,Name_Calling-Labeling
+22104	7	Appeal_to_Values,Exaggeration-Minimisation
+22104	9	Appeal_to_Hypocrisy
+22104	11	Loaded_Language
+22104	13	Loaded_Language,Questioning_the_Reputation
+22104	15	Loaded_Language,Name_Calling-Labeling,Repetition

@@ -1,0 +1,9 @@
+2556	1	
+2556	3	
+2556	5	
+2556	7	
+2556	9	
+2556	11	Exaggeration-Minimisation
+2556	13	Appeal_to_Fear-Prejudice,Exaggeration-Minimisation
+2556	15	Appeal_to_Fear-Prejudice
+2556	17	Appeal_to_Fear-Prejudice,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation,Slogans

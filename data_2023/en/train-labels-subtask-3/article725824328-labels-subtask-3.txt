@@ -1,0 +1,11 @@
+725824328	1	
+725824328	3	
+725824328	4	Loaded_Language
+725824328	5	
+725824328	6	
+725824328	7	Appeal_to_Fear-Prejudice,Loaded_Language
+725824328	8	Loaded_Language,Repetition
+725824328	9	
+725824328	10	Name_Calling-Labeling
+725824328	11	
+725824328	12	Doubt,Loaded_Language

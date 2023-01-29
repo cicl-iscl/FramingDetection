@@ -1,0 +1,6 @@
+22119	Appeal_to_Authority	1017	1105
+22119	Appeal_to_Authority	1857	1959
+22119	Name_Calling-Labeling	288	306
+22119	Appeal_to_Authority	575	654
+22119	Appeal_to_Authority	1759	1856
+22119	Appeal_to_Authority	2784	2872

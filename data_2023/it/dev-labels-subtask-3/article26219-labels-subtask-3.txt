@@ -1,0 +1,151 @@
+26219	1	
+26219	3	
+26219	5	
+26219	7	
+26219	9	
+26219	11	
+26219	13	Loaded_Language
+26219	15	
+26219	17	
+26219	19	Appeal_to_Fear-Prejudice
+26219	21	
+26219	23	Appeal_to_Values,Flag_Waving
+26219	25	Appeal_to_Values,Flag_Waving
+26219	27	
+26219	29	
+26219	31	Appeal_to_Authority
+26219	33	Appeal_to_Values
+26219	35	
+26219	37	
+26219	39	
+26219	41	
+26219	43	
+26219	45	
+26219	47	
+26219	49	
+26219	51	Flag_Waving,Loaded_Language
+26219	53	Appeal_to_Values
+26219	55	Loaded_Language
+26219	57	
+26219	59	Loaded_Language
+26219	61	
+26219	63	Doubt
+26219	65	
+26219	67	Appeal_to_Values
+26219	69	
+26219	71	Appeal_to_Values
+26219	73	Appeal_to_Values
+26219	75	Appeal_to_Authority
+26219	77	Loaded_Language
+26219	79	Loaded_Language
+26219	81	Appeal_to_Values
+26219	83	Appeal_to_Time
+26219	85	Flag_Waving
+26219	87	Appeal_to_Values,Flag_Waving
+26219	89	Questioning_the_Reputation
+26219	91	Loaded_Language
+26219	93	Doubt
+26219	95	
+26219	97	Doubt
+26219	99	
+26219	101	
+26219	103	Repetition
+26219	105	Repetition
+26219	107	Repetition
+26219	109	Appeal_to_Values,Doubt,False_Dilemma-No_Choice
+26219	111	Appeal_to_Popularity
+26219	113	Exaggeration-Minimisation
+26219	115	
+26219	117	Doubt
+26219	119	
+26219	121	
+26219	123	Loaded_Language
+26219	125	Doubt
+26219	127	Repetition
+26219	129	Repetition
+26219	131	
+26219	133	
+26219	135	
+26219	137	
+26219	139	Appeal_to_Values
+26219	141	Causal_Oversimplification
+26219	143	
+26219	145	
+26219	147	Loaded_Language,Questioning_the_Reputation
+26219	149	
+26219	151	Appeal_to_Time
+26219	153	
+26219	155	
+26219	157	Appeal_to_Values,Loaded_Language
+26219	159	
+26219	161	
+26219	163	
+26219	165	
+26219	167	Appeal_to_Time
+26219	169	Appeal_to_Fear-Prejudice,Appeal_to_Time,Doubt
+26219	171	
+26219	173	Appeal_to_Popularity
+26219	175	Appeal_to_Values
+26219	177	
+26219	179	
+26219	181	
+26219	183	
+26219	185	Questioning_the_Reputation
+26219	187	
+26219	189	Appeal_to_Values
+26219	191	
+26219	193	
+26219	195	Loaded_Language
+26219	197	Appeal_to_Time
+26219	199	
+26219	201	
+26219	203	
+26219	205	
+26219	207	
+26219	209	
+26219	211	
+26219	213	
+26219	215	Appeal_to_Authority
+26219	217	
+26219	219	
+26219	221	
+26219	223	
+26219	225	
+26219	227	
+26219	229	
+26219	231	
+26219	233	
+26219	235	Loaded_Language
+26219	237	
+26219	239	
+26219	241	Appeal_to_Hypocrisy
+26219	243	
+26219	245	
+26219	247	Appeal_to_Values
+26219	249	Appeal_to_Time,Loaded_Language
+26219	251	
+26219	253	Appeal_to_Fear-Prejudice
+26219	255	Loaded_Language
+26219	257	
+26219	259	
+26219	261	Appeal_to_Values
+26219	263	Conversation_Killer,Flag_Waving
+26219	265	
+26219	267	Appeal_to_Authority,False_Dilemma-No_Choice
+26219	269	
+26219	271	Name_Calling-Labeling
+26219	273	Appeal_to_Values,Flag_Waving
+26219	275	Appeal_to_Values,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+26219	277	Flag_Waving
+26219	279	
+26219	281	
+26219	283	
+26219	285	Appeal_to_Values
+26219	287	
+26219	289	Appeal_to_Values
+26219	291	Doubt,Loaded_Language,Name_Calling-Labeling
+26219	293	Appeal_to_Values
+26219	295	
+26219	297	Doubt
+26219	299	Appeal_to_Popularity
+26219	301	Appeal_to_Popularity

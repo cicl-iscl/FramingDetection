@@ -1,0 +1,15 @@
+2560	1	
+2560	3	Name_Calling-Labeling
+2560	5	
+2560	7	Doubt
+2560	9	Appeal_to_Values
+2560	11	Conversation_Killer,Doubt,Loaded_Language
+2560	13	
+2560	15	Appeal_to_Fear-Prejudice,Doubt
+2560	17	
+2560	19	
+2560	21	Appeal_to_Fear-Prejudice,Consequential_Oversimplification,Flag_Waving
+2560	23	Conversation_Killer
+2560	25	Appeal_to_Fear-Prejudice
+2560	27	Doubt
+2560	29	Appeal_to_Fear-Prejudice,Flag_Waving

@@ -1,0 +1,49 @@
+2482	1	
+2482	3	False_Dilemma-No_Choice
+2482	5	Exaggeration-Minimisation
+2482	7	Consequential_Oversimplification,Doubt,Loaded_Language
+2482	9	
+2482	11	
+2482	13	
+2482	15	
+2482	17	
+2482	19	
+2482	21	
+2482	23	
+2482	25	Conversation_Killer,Loaded_Language
+2482	27	Loaded_Language
+2482	29	
+2482	31	
+2482	33	
+2482	35	
+2482	37	
+2482	39	
+2482	41	
+2482	43	
+2482	45	
+2482	47	Flag_Waving,Loaded_Language
+2482	49	Loaded_Language
+2482	51	
+2482	53	
+2482	55	
+2482	57	
+2482	59	
+2482	61	
+2482	63	
+2482	65	Doubt,Loaded_Language,Name_Calling-Labeling
+2482	67	
+2482	69	
+2482	71	Loaded_Language
+2482	73	
+2482	75	Loaded_Language,Name_Calling-Labeling
+2482	77	Exaggeration-Minimisation
+2482	79	
+2482	81	Loaded_Language,Questioning_the_Reputation
+2482	83	Loaded_Language,Questioning_the_Reputation
+2482	85	
+2482	87	
+2482	89	Name_Calling-Labeling
+2482	91	
+2482	93	
+2482	95	Loaded_Language
+2482	97	

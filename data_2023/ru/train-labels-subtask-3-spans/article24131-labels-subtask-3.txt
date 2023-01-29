@@ -1,0 +1,4 @@
+24131	Doubt	0	80
+24131	Doubt	949	1085
+24131	Loaded_Language	553	576
+24131	Doubt	434	576

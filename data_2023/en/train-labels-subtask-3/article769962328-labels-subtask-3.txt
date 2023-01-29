@@ -1,0 +1,32 @@
+769962328	1	
+769962328	3	
+769962328	4	False_Dilemma-No_Choice
+769962328	5	
+769962328	6	
+769962328	7	
+769962328	8	
+769962328	9	
+769962328	10	
+769962328	11	Name_Calling-Labeling
+769962328	12	Doubt
+769962328	13	Appeal_to_Fear-Prejudice,Name_Calling-Labeling,Slogans
+769962328	14	Flag_Waving
+769962328	15	Slogans
+769962328	16	
+769962328	17	
+769962328	18	Name_Calling-Labeling
+769962328	19	
+769962328	20	Causal_Oversimplification,Loaded_Language
+769962328	21	Doubt,Name_Calling-Labeling
+769962328	22	Causal_Oversimplification,Doubt,Name_Calling-Labeling
+769962328	23	Causal_Oversimplification,Loaded_Language
+769962328	24	Doubt,Flag_Waving,Loaded_Language,Name_Calling-Labeling
+769962328	25	Doubt,Loaded_Language
+769962328	26	Doubt,Repetition
+769962328	27	Loaded_Language
+769962328	28	Causal_Oversimplification
+769962328	29	Name_Calling-Labeling
+769962328	30	Causal_Oversimplification,Loaded_Language
+769962328	31	Loaded_Language
+769962328	32	Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling
+769962328	33	

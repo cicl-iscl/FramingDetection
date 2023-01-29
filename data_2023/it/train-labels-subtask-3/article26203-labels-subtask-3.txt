@@ -1,0 +1,53 @@
+26203	1	Doubt
+26203	3	Doubt,Loaded_Language
+26203	5	
+26203	7	
+26203	9	
+26203	11	
+26203	13	
+26203	15	Appeal_to_Fear-Prejudice,Doubt,Questioning_the_Reputation
+26203	17	Appeal_to_Values
+26203	19	Appeal_to_Fear-Prejudice,Appeal_to_Values,Doubt,Loaded_Language
+26203	21	Questioning_the_Reputation
+26203	23	Doubt,Exaggeration-Minimisation,Loaded_Language,Questioning_the_Reputation
+26203	25	
+26203	27	
+26203	29	Appeal_to_Fear-Prejudice
+26203	31	Doubt,Guilt_by_Association
+26203	33	Appeal_to_Fear-Prejudice
+26203	35	Doubt,Name_Calling-Labeling
+26203	37	Doubt,Loaded_Language,Name_Calling-Labeling
+26203	39	
+26203	41	Doubt,Loaded_Language
+26203	43	Doubt,Name_Calling-Labeling
+26203	45	
+26203	47	Appeal_to_Fear-Prejudice,Doubt,Loaded_Language,Name_Calling-Labeling
+26203	49	
+26203	51	Doubt
+26203	53	Doubt
+26203	55	Consequential_Oversimplification
+26203	57	Doubt,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+26203	59	
+26203	61	Doubt
+26203	63	Appeal_to_Fear-Prejudice
+26203	65	
+26203	67	Appeal_to_Fear-Prejudice
+26203	69	Doubt
+26203	71	
+26203	73	
+26203	75	
+26203	77	
+26203	79	
+26203	81	
+26203	83	
+26203	85	
+26203	87	Doubt
+26203	89	
+26203	91	Doubt,Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+26203	93	Doubt,Questioning_the_Reputation
+26203	95	
+26203	97	
+26203	99	
+26203	101	Doubt,Exaggeration-Minimisation
+26203	103	
+26203	105	

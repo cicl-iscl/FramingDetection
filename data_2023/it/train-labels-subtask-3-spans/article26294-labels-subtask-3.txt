@@ -1,0 +1,7 @@
+26294	Name_Calling-Labeling	601	612
+26294	Name_Calling-Labeling	406	412
+26294	Slogans	23	91
+26294	Name_Calling-Labeling	2527	2546
+26294	Questioning_the_Reputation	4470	4502
+26294	Appeal_to_Values	3496	3522
+26294	Slogans	1472	1531

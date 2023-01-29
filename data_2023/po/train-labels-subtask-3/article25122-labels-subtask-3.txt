@@ -1,0 +1,28 @@
+25122	1	Name_Calling-Labeling
+25122	3	Doubt,Loaded_Language
+25122	5	
+25122	7	Appeal_to_Values
+25122	9	Doubt,Name_Calling-Labeling
+25122	11	Doubt
+25122	13	Doubt
+25122	15	Appeal_to_Fear-Prejudice,Appeal_to_Values,Doubt,Name_Calling-Labeling
+25122	17	Appeal_to_Hypocrisy,Loaded_Language
+25122	19	Doubt,Name_Calling-Labeling
+25122	21	Appeal_to_Fear-Prejudice,Name_Calling-Labeling
+25122	23	
+25122	25	
+25122	27	Doubt
+25122	29	Appeal_to_Fear-Prejudice,Name_Calling-Labeling
+25122	31	Doubt
+25122	33	
+25122	35	Loaded_Language,Name_Calling-Labeling
+25122	37	Appeal_to_Fear-Prejudice
+25122	39	Doubt
+25122	41	
+25122	43	Guilt_by_Association,Name_Calling-Labeling
+25122	45	
+25122	47	Doubt
+25122	49	
+25122	51	Name_Calling-Labeling
+25122	53	Doubt,Name_Calling-Labeling
+25122	55	

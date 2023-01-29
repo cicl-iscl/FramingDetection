@@ -1,0 +1,6 @@
+24168	1	
+24168	2	Flag_Waving
+24168	4	Flag_Waving,Loaded_Language
+24168	6	Conversation_Killer,Loaded_Language
+24168	8	Doubt
+24168	10	Appeal_to_Fear-Prejudice,Consequential_Oversimplification,Loaded_Language,Straw_Man

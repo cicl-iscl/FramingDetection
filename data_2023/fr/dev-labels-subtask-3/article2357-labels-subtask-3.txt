@@ -1,0 +1,13 @@
+2357	1	Consequential_Oversimplification
+2357	3	Causal_Oversimplification,Doubt,Exaggeration-Minimisation,Name_Calling-Labeling
+2357	5	Loaded_Language
+2357	7	Guilt_by_Association,Loaded_Language,Name_Calling-Labeling
+2357	9	Appeal_to_Fear-Prejudice,Loaded_Language,Obfuscation-Vagueness-Confusion
+2357	11	False_Dilemma-No_Choice,Loaded_Language
+2357	13	Appeal_to_Popularity,Causal_Oversimplification
+2357	15	Appeal_to_Hypocrisy,Doubt,Name_Calling-Labeling,Obfuscation-Vagueness-Confusion,Questioning_the_Reputation
+2357	17	Doubt,Questioning_the_Reputation
+2357	19	
+2357	21	Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+2357	23	Name_Calling-Labeling
+2357	25	Appeal_to_Fear-Prejudice

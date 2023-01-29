@@ -1,0 +1,11 @@
+25124	1	
+25124	3	
+25124	5	Name_Calling-Labeling,Questioning_the_Reputation
+25124	7	Loaded_Language
+25124	9	Name_Calling-Labeling
+25124	11	Name_Calling-Labeling,Questioning_the_Reputation
+25124	13	
+25124	15	
+25124	17	
+25124	19	Guilt_by_Association
+25124	21	Flag_Waving,Loaded_Language,Obfuscation-Vagueness-Confusion

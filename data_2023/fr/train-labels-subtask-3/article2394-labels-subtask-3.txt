@@ -1,0 +1,11 @@
+2394	1	False_Dilemma-No_Choice
+2394	2	Appeal_to_Hypocrisy,Conversation_Killer,Loaded_Language
+2394	4	Appeal_to_Hypocrisy,Consequential_Oversimplification,Doubt,Loaded_Language,Slogans
+2394	6	Causal_Oversimplification
+2394	8	Appeal_to_Fear-Prejudice,Appeal_to_Hypocrisy,Appeal_to_Popularity,Loaded_Language
+2394	9	Loaded_Language,Questioning_the_Reputation
+2394	11	Appeal_to_Fear-Prejudice,Conversation_Killer,Exaggeration-Minimisation,Name_Calling-Labeling
+2394	13	Appeal_to_Fear-Prejudice,Conversation_Killer,Loaded_Language
+2394	15	Loaded_Language
+2394	17	Appeal_to_Hypocrisy,Loaded_Language,Questioning_the_Reputation
+2394	19	Conversation_Killer,Doubt,Loaded_Language,Slogans

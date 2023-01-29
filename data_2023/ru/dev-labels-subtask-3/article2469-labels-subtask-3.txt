@@ -1,0 +1,11 @@
+2469	1	
+2469	3	
+2469	5	
+2469	7	
+2469	9	Doubt,Loaded_Language,Name_Calling-Labeling
+2469	11	
+2469	13	Appeal_to_Hypocrisy,Loaded_Language
+2469	15	Flag_Waving
+2469	17	
+2469	19	
+2469	21	

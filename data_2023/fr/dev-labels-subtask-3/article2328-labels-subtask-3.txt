@@ -1,0 +1,7 @@
+2328	1	Name_Calling-Labeling
+2328	3	
+2328	5	Name_Calling-Labeling
+2328	7	Guilt_by_Association,Name_Calling-Labeling,Straw_Man
+2328	9	Guilt_by_Association
+2328	11	Conversation_Killer,Doubt,False_Dilemma-No_Choice,Guilt_by_Association,Loaded_Language
+2328	13	Consequential_Oversimplification,Conversation_Killer,Loaded_Language

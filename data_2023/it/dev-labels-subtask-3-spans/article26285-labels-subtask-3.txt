@@ -1,0 +1,6 @@
+26285	Appeal_to_Values	0	88
+26285	Appeal_to_Fear-Prejudice	90	202
+26285	Doubt	121	281
+26285	Slogans	95	104
+26285	Appeal_to_Values	657	787
+26285	Doubt	808	972

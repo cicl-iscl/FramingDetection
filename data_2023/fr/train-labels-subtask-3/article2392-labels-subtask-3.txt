@@ -1,0 +1,28 @@
+2392	1	
+2392	3	Exaggeration-Minimisation,Loaded_Language
+2392	5	
+2392	7	Questioning_the_Reputation
+2392	9	Appeal_to_Authority,Appeal_to_Popularity,Appeal_to_Values
+2392	11	Appeal_to_Values,Exaggeration-Minimisation,Loaded_Language
+2392	13	Appeal_to_Values
+2392	15	
+2392	17	Name_Calling-Labeling
+2392	19	Appeal_to_Popularity,Appeal_to_Values,Loaded_Language
+2392	21	Appeal_to_Authority,Appeal_to_Popularity,Appeal_to_Values
+2392	23	Appeal_to_Popularity
+2392	25	Loaded_Language,Name_Calling-Labeling
+2392	27	Exaggeration-Minimisation,Loaded_Language
+2392	29	Loaded_Language
+2392	31	Obfuscation-Vagueness-Confusion
+2392	34	
+2392	36	Loaded_Language
+2392	38	Appeal_to_Popularity
+2392	41	
+2392	43	
+2392	45	
+2392	47	
+2392	49	Appeal_to_Values,Conversation_Killer
+2392	51	Appeal_to_Values,Causal_Oversimplification,Name_Calling-Labeling
+2392	53	Appeal_to_Popularity,Appeal_to_Values
+2392	55	Appeal_to_Values
+2392	57	Slogans

@@ -1,0 +1,8 @@
+2534	1	Exaggeration-Minimisation
+2534	3	Exaggeration-Minimisation
+2534	5	Appeal_to_Fear-Prejudice,Exaggeration-Minimisation
+2534	7	Exaggeration-Minimisation
+2534	9	Appeal_to_Fear-Prejudice
+2534	11	Appeal_to_Fear-Prejudice,Appeal_to_Hypocrisy,Exaggeration-Minimisation
+2534	14	
+2534	16	

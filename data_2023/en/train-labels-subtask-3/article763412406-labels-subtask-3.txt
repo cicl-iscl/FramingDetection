@@ -1,0 +1,31 @@
+763412406	1	
+763412406	3	Loaded_Language,Slogans
+763412406	4	
+763412406	5	
+763412406	6	
+763412406	7	
+763412406	8	
+763412406	9	
+763412406	10	
+763412406	11	
+763412406	12	
+763412406	13	
+763412406	14	Name_Calling-Labeling
+763412406	15	
+763412406	16	Appeal_to_Fear-Prejudice,Name_Calling-Labeling
+763412406	17	Appeal_to_Fear-Prejudice
+763412406	18	Name_Calling-Labeling,Repetition
+763412406	19	Flag_Waving,Loaded_Language
+763412406	20	False_Dilemma-No_Choice,Slogans
+763412406	21	
+763412406	22	
+763412406	23	Appeal_to_Hypocrisy
+763412406	24	Flag_Waving,Repetition
+763412406	25	Appeal_to_Hypocrisy,Flag_Waving,Loaded_Language,Repetition
+763412406	26	Exaggeration-Minimisation,Loaded_Language,Repetition
+763412406	27	
+763412406	28	Slogans
+763412406	29	
+763412406	30	Flag_Waving,Slogans
+763412406	31	False_Dilemma-No_Choice,Flag_Waving,Loaded_Language
+763412406	32	

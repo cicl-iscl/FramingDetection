@@ -1,0 +1,20 @@
+2358	1	
+2358	3	Loaded_Language
+2358	4	Appeal_to_Values,Exaggeration-Minimisation,Loaded_Language
+2358	5	Appeal_to_Popularity,False_Dilemma-No_Choice,Loaded_Language
+2358	6	Exaggeration-Minimisation
+2358	8	
+2358	9	Consequential_Oversimplification,Conversation_Killer,Loaded_Language,Name_Calling-Labeling
+2358	11	Appeal_to_Values,Whataboutism
+2358	13	False_Dilemma-No_Choice,Questioning_the_Reputation
+2358	15	Appeal_to_Popularity,Loaded_Language
+2358	17	Loaded_Language,Name_Calling-Labeling,Questioning_the_Reputation
+2358	19	Loaded_Language,Questioning_the_Reputation
+2358	20	Appeal_to_Hypocrisy,Exaggeration-Minimisation,Loaded_Language,Name_Calling-Labeling
+2358	22	Loaded_Language,Name_Calling-Labeling
+2358	23	Loaded_Language,Name_Calling-Labeling
+2358	25	Appeal_to_Hypocrisy,Loaded_Language
+2358	26	Conversation_Killer
+2358	28	
+2358	30	
+2358	31	Appeal_to_Fear-Prejudice,Loaded_Language,Straw_Man
